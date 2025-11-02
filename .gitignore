@@ -12,3 +12,6 @@ Thumbs.db
 # Backup files
 *_backup.md
 *.bak
+
+# Private regional guides (location-specific, personal info)
+regional-*/

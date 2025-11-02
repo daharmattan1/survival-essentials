@@ -137,5 +137,14 @@ This is a living document. Update when you:
 
 ---
 
+## About
+
+This repository was created and curated by **Victor Sowers** to provide practical, accessible survival knowledge for realistic emergency scenarios. All content links to public domain sources and is released under CC0 (public domain dedication) for maximum sharing and adaptation.
+
+**Contributing**: Pull requests welcome! This is a living document designed to improve with community input.
+
+---
+
 **Last Updated**: 2025-11-02
-**Status**: Core content complete, image resources documented, placeholders for remaining guides
+**Curated by**: Victor Sowers
+**License**: CC0 (Public Domain)
