@@ -20,6 +20,7 @@
 8. **[Communication](08_communication.md)** - Signals, ham radio basics, mesh networks (placeholder)
 9. **[Urban Survival](09_urban_survival.md)** - Power outages, civil disruption, bugging in ✅
 10. **[Key Resources](10_key_resources.md)** - Minimal external references for deeper learning ✅
+11. **[Essential Gear & Materials](11_essential_gear.md)** - 3-tier system, bug-out bag, home stockpile ✅
 
 ### Visual Resource Guides
 
