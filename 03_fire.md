@@ -1,3 +1,16 @@
+---
+name: Fire - Starting, Maintenance, Safety
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # Fire - Starting, Maintenance, Safety
 
 **Fire provides**: Warmth, water purification, cooking, morale, signaling, predator deterrent.

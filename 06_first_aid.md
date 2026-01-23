@@ -1,3 +1,16 @@
+---
+name: First Aid - Critical Injuries, Common Ailments, Natural Remedies
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # First Aid - Critical Injuries, Common Ailments, Natural Remedies
 
 **Critical**: Medical emergencies are the most likely survival scenario. Master these basics.

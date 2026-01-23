@@ -1,3 +1,16 @@
+---
+name: Shelter - Emergency Shelter, Insulation, Location
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # Shelter - Emergency Shelter, Insulation, Location
 
 **Priority**: Shelter comes before water in harsh conditions. Hypothermia kills in hours.

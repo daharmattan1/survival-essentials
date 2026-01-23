@@ -1,3 +1,16 @@
+---
+name: Water - Procurement, Purification, Storage
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # Water - Procurement, Purification, Storage
 
 **Critical**: You need ~1 gallon (4 liters) per person per day for drinking and basic hygiene.

@@ -1,3 +1,16 @@
+---
+name: Communication - Signals, Ham Radio, Mesh Networks
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # Communication - Signals, Ham Radio, Mesh Networks
 
 **Context**: Cell towers down, internet out, you need help or need to reach family. Alternative communication methods matter.

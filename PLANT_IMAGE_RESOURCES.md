@@ -1,3 +1,16 @@
+---
+name: Plant Image Resources - Public Domain Sources
+description: Documentation for shared-foundation workstream
+domain: foundation
+file_type: documentation
+last_updated: 2025-11-18
+workstream: shared-foundation
+tags:
+  - workflow:content
+  - workflow:work
+  - shared-foundation
+---
+
 # Plant Image Resources - Public Domain Sources
 
 **Purpose**: Curated list of public domain plant identification image sources for survival-essentials knowledge base.
