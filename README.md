@@ -1,16 +1,13 @@
 ---
-name: Survival Essentials - Core Knowledge Repository
 description: Documentation for shared-foundation workstream
 domain: foundation
-file_type: documentation
-last_updated: 2025-11-18
-workstream: shared-foundation
+type: documentation
+updated: 2025-11-18
 tags:
   - workflow:content
   - workflow:work
   - shared-foundation
 ---
-
 # Survival Essentials - Core Knowledge Repository
 
 **Purpose**: Practical "just in case" survival knowledge without massive PDF collections. Essential takeaways for emergency preparedness.

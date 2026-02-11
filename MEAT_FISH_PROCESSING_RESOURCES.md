@@ -1,16 +1,13 @@
 ---
-name: Meat & Fish Processing Image Resources - Public Domain Sources
 description: Documentation for shared-foundation workstream
 domain: foundation
-file_type: documentation
-last_updated: 2025-11-18
-workstream: shared-foundation
+type: documentation
+updated: 2025-11-18
 tags:
   - workflow:content
   - workflow:work
   - shared-foundation
 ---
-
 # Meat & Fish Processing Image Resources - Public Domain Sources
 
 **Purpose**: Curated list of public domain resources with illustrations/images for field dressing, gutting, butchering, and processing game and fish.

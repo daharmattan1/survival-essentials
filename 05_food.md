@@ -1,16 +1,13 @@
 ---
-name: Food - Foraging, Growing, Hunting, Fishing, Preservation
 description: Documentation for shared-foundation workstream
 domain: foundation
-file_type: documentation
-last_updated: 2025-11-18
-workstream: shared-foundation
+type: documentation
+updated: 2025-11-18
 tags:
   - workflow:content
   - workflow:work
   - shared-foundation
 ---
-
 # Food - Foraging, Growing, Hunting, Fishing, Preservation
 
 **Remember**: You can survive 3 weeks without food. Water and shelter come first.

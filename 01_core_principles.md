@@ -1,16 +1,13 @@
 ---
-name: Core Survival Principles
 description: Documentation for shared-foundation workstream
 domain: foundation
-file_type: documentation
-last_updated: 2025-11-18
-workstream: shared-foundation
+type: documentation
+updated: 2025-11-18
 tags:
   - workflow:content
   - workflow:work
   - shared-foundation
 ---
-
 # Core Survival Principles
 
 ## The Rule of 3s

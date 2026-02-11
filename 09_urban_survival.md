@@ -1,16 +1,13 @@
 ---
-name: Urban Survival - Power Outages, Civil Disruption, Bugging In
 description: Documentation for shared-foundation workstream
 domain: foundation
-file_type: documentation
-last_updated: 2025-11-18
-workstream: shared-foundation
+type: documentation
+updated: 2025-11-18
 tags:
   - workflow:content
   - workflow:work
   - shared-foundation
 ---
-
 # Urban Survival - Power Outages, Civil Disruption, Bugging In
 
 **Context**: Most survival scenarios happen at home during infrastructure failures, not in wilderness.
