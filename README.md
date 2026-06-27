@@ -13,6 +13,21 @@ A practical, offline "just in case" survival knowledge base. Two layers:
 The survey is for a human in a hurry. The substrate is for a reasoning assistant you point at this
 repo when the network is gone.
 
+**What's inside (pass 1):** 11 survey guides + **60 structured substrate entries** across 16 domains,
+region-grounded to Mid-Atlantic / Appalachian (USDA zone 7a). Jump straight in:
+[`AGENTS.md`](AGENTS.md) (how an AI traverses it) ·
+[`regional/mid-atlantic-appalachian/food_hub.md`](regional/mid-atlantic-appalachian/food_hub.md)
+("what can I eat here, and what could kill me?") ·
+[`regional/mid-atlantic-appalachian/mushrooms/_index.md`](regional/mid-atlantic-appalachian/mushrooms/_index.md)
+(mushroom doctrine + deadly-look-alike matrix).
+
+> **Verification.** Entries are **agentically verified** — every safety-critical claim fact-checked
+> against authoritative sources (CDC, USDA, WHO, Red Cross, mycological societies, poison control)
+> across multiple adversarial review passes, plus an offline read-test confirming the substrate
+> leads with the safety gate and refuses a field-ID-only "yes, eat it." This is *not* a substitute
+> for an expert's hand-read — corrections and a domain-expert review are welcome (see
+> [`CHANGELOG.md`](CHANGELOG.md) and [`_media/ACCURACY_AUDIT_2026-06-27.md`](_media/ACCURACY_AUDIT_2026-06-27.md)).
+
 ---
 
 ## ⚠ Safety first — read this
@@ -75,7 +90,7 @@ regional/         Region-bound biology — because season, habitat, look-alikes,
     seasonality.md
     edible-plants/  mushrooms/ (doctrine + deadly-lookalike matrix on top)  game-animals/  crops/  hazards/
 
-_media/           SOURCES.md (every external image + license) · photos/ (real PD/CC0 deadly-pair photos) · diagrams/ (technique only)
+_media/           SOURCES.md (every external image + license) · photos/ (real CC0 deadly-pair photos: morel/false-morel, wild-onion/death-camas, destroying-angel) · ACCURACY_AUDIT (the verification trail)
 ```
 
 **Why split universal vs. regional?** Knot-tying and water disinfection don't change with
@@ -94,7 +109,8 @@ in October" hits one coherent page instead of six scattered indexes.
 | [`AGENTS.md`](AGENTS.md) | How an offline AI traverses the substrate (layer model, facets, retrieval recipes, answer policy) |
 | [`SCHEMAS.md`](SCHEMAS.md) | The structural contract — front-matter facets + body skeleton per entry type |
 | [`CONVENTIONS.md`](CONVENTIONS.md) | The rules — controlled vocab, WARNING blocks, mushroom doctrine, source tiers, **answer policy**, safety-read checklists |
-| [`CHANGELOG.md`](CHANGELOG.md) | Review log + survey↔substrate sync checklist |
+| [`CHANGELOG.md`](CHANGELOG.md) | Review log + survey↔substrate sync checklist + the safety-read sign-off |
+| [`_media/ACCURACY_AUDIT_2026-06-27.md`](_media/ACCURACY_AUDIT_2026-06-27.md) | The verification trail — every fact-check finding + its sourced fix |
 | [`LICENSE`](LICENSE) | CC0 1.0 Universal (public domain dedication) |
 
 ---
@@ -118,11 +134,14 @@ deadly-look-alike photos).
 
 ## Scope (this pass)
 
-This is **pass 1**: the full pyramid structure + schemas across every domain, with a few worked
-exemplar entries each, region-grounded for Mid-Atlantic / Appalachian (USDA 7a). It proves the
-pattern. Deepening (more entries per domain), more local photos, and additional region packs are
-deliberately later passes — kept hand-reviewable and in-the-loop rather than auto-generated at
-scale.
+**Pass 1 is built and verified**: the full pyramid + schemas across every domain, 60 worked
+exemplar entries (3–5 per domain), region-grounded for Mid-Atlantic / Appalachian (USDA 7a), every
+safety-critical claim fact-checked against authoritative sources and offline-tested. It proves the
+pattern end to end.
+
+Deliberately **later passes**: deepening (more entries per domain), more local deadly-look-alike
+photos, additional region packs, and a domain-expert hand-read. Kept hand-reviewable and
+in-the-loop rather than auto-generated at scale. Contributions and corrections welcome.
 
 ---
 
