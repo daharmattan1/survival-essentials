@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Navigation - Without GPS, Celestial, Terrain Reading
 
 **Context**: GPS/cell signal fails. Power grids down. You need to find your way using analog methods.

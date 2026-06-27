@@ -31,7 +31,7 @@ common_names:
 scientific_name: "Procyon lotor (raccoon); Didelphis virginiana (opossum)"
 legal_status: emergency-exception
 season_normal: "Fall–winter (regulated furbearer season, typically Nov–Feb; check state for specifics and method restrictions)"
-internal_cook_temp: "160–180°F internal temperature (high-temp cook to ensure trichinella kill)"
+internal_cook_temp: "165–180°F internal temperature (CDC wild-game Trichinella threshold is ≥165°F / 74°C; cook to 170–180°F for maximum safety margin)"
 edibility_status: edible-when-prepared
 hazard_severity: high
 confusability_level: none
@@ -146,29 +146,29 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 > **Trichinella transmission:** Raccoons are frequent carriers of *Trichinella spiralis*. The parasite lives in muscle tissue as microscopic cysts. Transmission to humans occurs via consumption of undercooked infected meat. The parasite encysts in human muscle, causing fever, myalgia (muscle pain), and severe systemic illness (potentially fatal if untreated).
 >
 > **MANDATORY PRECAUTION:**
-> - **Cook to a HIGH internal temperature:** 160–180°F internal (hotter than standard 160°F for other game) at the thickest part of the leg or loin. A meat thermometer is essential; do not rely on visual appearance.
+> - **Cook to a HIGH internal temperature:** ≥165°F (74°C) minimum — the CDC wild-game Trichinella threshold. Recommended safety margin is 170–180°F at the thickest part of the leg or loin. A meat thermometer is essential; do not rely on visual appearance.
 > - **No rare or medium-rare cooking:** All raccoon/opossum meat must be fully cooked throughout; do not leave pink centers.
 > - **Avoid undercooked organ meat:** Liver, heart, and kidneys are potential cyst sites; cook to the same high temperature.
-> - **Trim visible fat:** Fat can harbor cysts; remove excess before cooking if possible.
-> - **Do not freeze trichinella out:** Freezing does not reliably kill trichinella; only heat does.
+> - **Trim visible fat (palatability):** Trimming fat is fine and recommended for taste, but note that Trichinella cysts encyst in **skeletal muscle**, not fat — fat trimming does not eliminate the parasite risk. Full heat treatment of all muscle tissue is the only control.
+> - **Do not freeze trichinella out:** Freezing does not reliably kill wild-game Trichinella (unlike some pork strains); only heat does.
 >
-> **Verdict:** Trichinella is not uncommonly found in raccoons. Strict adherence to high-temperature cooking (160–180°F internal, verified by thermometer) is the only reliable control. Opossum trichinella load is typically lower than raccoon, but the same precaution applies.
+> **Verdict:** Trichinella is not uncommonly found in raccoons. Strict adherence to high-temperature cooking (≥165°F / 74°C minimum, targeting 170–180°F, verified by thermometer) is the only reliable control. Opossum trichinella load is typically lower than raccoon, but the same precaution applies.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
 **Internal cook temperature (CRITICAL for trichinella control):**
-- **Raccoon/opossum meat (all cuts):** 160–180°F internal temperature, measured at the thickest part of the leg or loin. Use a meat thermometer; do NOT rely on visual appearance. Cook to the HOTTER end of the range (170–180°F) for maximum safety margin.
+- **Raccoon/opossum meat (all cuts):** ≥165°F (74°C) minimum internal temperature — the CDC threshold for wild-game Trichinella. Measured at the thickest part of the leg or loin. Cook to 170–180°F for maximum safety margin. Use a meat thermometer; do NOT rely on visual appearance.
 
 **Cooking methods:**
-- **Stewing/braising (preferred method for raccoon/opossum):** Cut meat into 1–2 inch cubes, brown in fat, add water/broth and root vegetables, simmer at low temperature for 2–3 hours until meat is tender. Internal temperature reaches 160–180°F gradually during braising. Skim fat from broth before serving (fat carries parasite cysts).
-- **Roasting (parts or whole):** Roast at 325°F until internal temperature reaches 170°F (measure at thickest part of leg/loin, away from bone).
-- **Frying (pieces):** Fry in fat over medium heat until cooked through to 160–180°F internal (measure with thermometer; visual doneness is unreliable).
+- **Stewing/braising (preferred method for raccoon/opossum):** Cut meat into 1–2 inch cubes, brown in fat, add water/broth and root vegetables, simmer at low temperature for 2–3 hours until meat is tender. Internal temperature reaches ≥165–180°F gradually during braising. Skim fat from broth before serving (improves flavor; note that Trichinella cysts are in the muscle, not the fat, but skimming is still good practice).
+- **Roasting (parts or whole):** Roast at 325°F until internal temperature reaches ≥165°F, targeting 170°F (measure at thickest part of leg/loin, away from bone).
+- **Frying (pieces):** Fry in fat over medium heat until cooked through to ≥165–180°F internal (measure with thermometer; visual doneness is unreliable).
 - **Boiling:** Boil cut meat in water for 60–90 minutes until fully cooked; do not undercook.
 
 **Never eat:**
-- Undercooked or rare raccoon/opossum (must reach 160–180°F internal, no exceptions).
+- Undercooked or rare raccoon/opossum (must reach ≥165°F / 74°C internal minimum; target 170–180°F, no exceptions).
 - Brain, spinal cord, or organs from ANY wild carnivore (parasite/disease risk).
 - Meat from a visibly sick animal.
 - Meat that smells sour or off.

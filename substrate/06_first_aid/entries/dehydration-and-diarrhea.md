@@ -117,7 +117,7 @@ severity_range: "thirst and mild dehydration → moderate dehydration with dizzi
 **WHO Oral Rehydration Solution (ORS) recipe:**
 
 For mild to moderate dehydration, mix:
-- **6 teaspoons (30 grams) sugar** (or honey, or any carbohydrate)
+- **6 teaspoons (~18–20 grams) sugar** (or honey, or any carbohydrate)
 - **1/2 teaspoon (2.5 grams) salt** (sodium chloride)
 - **1 liter of clean water** (boiled and cooled, or safest available water)
 
@@ -126,7 +126,7 @@ For mild to moderate dehydration, mix:
 **Why this ratio works:**
 - Sugar provides calories and aids sodium absorption (glucose-sodium cotransport in the small intestine).
 - Salt replaces electrolyte losses (sodium is lost in diarrhea and sweat).
-- The 3:1 glucose:sodium ratio approximates physiological needs.
+- This ratio approximates the glucose-sodium co-transport ratio (the WHO formulation is molar ~1.5:1 glucose:sodium).
 - WHO studies show ORS is as effective as IV fluids for mild-moderate dehydration if the person can tolerate oral intake.
 
 **Alternative if no scale available:**

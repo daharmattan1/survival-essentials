@@ -6,7 +6,7 @@ domain:                substrate/02_water
 region_scope:          universal
 usda_zone:             n/a
 method_for:            "disinfect water via oxidizing agents"
-materials:             ["unscented liquid household bleach (5–6% sodium hypochlorite) OR iodine tablets/liquid (2% tincture or 5% solution)", "dropper or measuring spoon", "container for treated water", "wait timer or clock"]
+materials:             ["unscented liquid household bleach (5–9% sodium hypochlorite) OR iodine tablets/liquid (2% tincture or 5% solution)", "dropper or measuring spoon", "container for treated water", "wait timer or clock"]
 difficulty:            easy
 confidence:            high
 source_tier:           T1
@@ -41,7 +41,7 @@ Chemical disinfection uses oxidizing agents (chlorine or iodine) to kill bacteri
 - Boiling is impractical (fuel scarcity, large volume).
 - Water is relatively clear (chemical treatment is ineffective on cloudy water).
 
-**Chlorine** (unscented household bleach) is the most practical field option and is CDC-recommended. **Iodine** is a backup for those without bleach but has cautions for long-term use.
+**Chlorine** (unscented household bleach, 5–9% sodium hypochlorite) is the most practical field option and is CDC-recommended. **Iodine** is a backup for those without bleach but has cautions for long-term use.
 
 ---
 
@@ -66,14 +66,19 @@ Chemical disinfection uses oxidizing agents (chlorine or iodine) to kill bacteri
 ## Steps — Chlorine (Unscented Household Bleach)
 
 **Preparation:**
-1. Obtain unscented household bleach with 5–6% sodium hypochlorite (check label). Do NOT use scented bleach, color-safe bleach, or bleach with added soap.
+1. Obtain unscented household bleach (check label). Most bleach is 5–6% or 8.25% sodium hypochlorite. Do NOT use scented bleach, color-safe bleach, or bleach with added soap.
 
 **Dosing:**
-2. **Clear water at normal temperature (>15°C / 59°F):** Add 2 drops of 5–6% bleach per liter of water. Stir well. Wait 30 minutes before drinking.
+2. **Clear water at normal temperature (>15°C / 59°F):**
+   - **5–6% bleach:** Add 2 drops per liter of water (~8 drops/gallon). Stir well. Wait 30 minutes.
+   - **8.25% bleach (now common):** Add 6 drops per gallon (~1.6 drops/L) of clear water. Stir well. Wait 30 minutes. (CDC guidance for 8.25% bleach.)
 
-3. **Cloudy or cold water, OR Giardia suspected:** Add 4 drops per liter. Stir well. Wait 2–4 hours (4 hours in very cold water). After contact time, let water sit uncovered for 30 min to allow chlorine taste to fade.
+3. **Cloudy or cold water, OR Giardia suspected:**
+   - **5–6% bleach:** Add 4 drops per liter. Stir well. Wait 2–4 hours (4 hours in very cold water).
+   - **8.25% bleach:** Add 12 drops per gallon (~3 drops/L). Stir well. Wait 2–4 hours.
+   After contact time, let water sit uncovered for 30 min to allow chlorine taste to fade.
 
-4. **Higher contamination risk (visible organic matter, livestock contact):** Add 4 drops per liter and wait 4 hours.
+4. **Higher contamination risk (visible organic matter, livestock contact):** Double the dose for your bleach concentration and wait 4 hours.
 
 5. **After contact time, store treated water.** Pour into a clean container. Covered storage is best to preserve residual chlorine, which provides some ongoing protection.
 
@@ -96,9 +101,10 @@ Chemical disinfection uses oxidizing agents (chlorine or iodine) to kill bacteri
 
 **Contact time is non-negotiable.** Insufficient wait time leaves bacteria and viruses viable:
 
-**Chlorine (5–6% bleach):**
-- **Clear, warm water (>15°C / 59°F):** minimum 30 minutes
-- **Cold water (≤15°C / 59°F) or cloudy:** minimum 2–4 hours (4 hours safest)
+**Chlorine:**
+- **5–6% bleach, clear warm water (>15°C / 59°F):** 2 drops/L, minimum 30 minutes
+- **8.25% bleach, clear warm water:** 6 drops/gallon (~1.6 drops/L), minimum 30 minutes
+- **Cold water (≤15°C / 59°F) or cloudy:** double the dose for your bleach concentration; minimum 2–4 hours (4 hours safest)
 
 **Iodine:**
 - **Clear water:** minimum 20–30 minutes

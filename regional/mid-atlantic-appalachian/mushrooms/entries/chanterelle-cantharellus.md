@@ -18,7 +18,7 @@ common_names:
   - Chanterelle
   - Golden chanterelle
   - Girolle
-scientific_name: Cantharellus spp.
+scientific_name: Cantharellus spp. (Mid-Atlantic species primarily C. lateritius and C. appalachiensis; C. cibarius sensu stricto is European)
 spore_print_color: white to pale yellow
 fruiting_season: June–September
 fruiting_substrate: mycorrhizal with hardwoods (oak, beech, birch); forest soil and litter
@@ -61,7 +61,7 @@ review_status: draft
 
 ## ☠ Deadly Look-Alikes
 
-### Jack-o'-lantern (*Omphalotus* spp.)
+### Jack-o'-lantern (*Omphalotus illudens* — eastern NA species)
 
 **The discriminators (verbatim from the deadly-look-alike matrix):**
 - Chanterelle: **false gills = blunt forked RIDGES running down the stem**, not true blades; bright yellow-orange; mycorrhizal (on ground near hardwood)
@@ -71,19 +71,22 @@ review_status: draft
 - **Chanterelle ridges:** thick, blunt-edged, fork or branch as they run downward; you **cannot separate one ridge from the mushroom body** with a knife (they are ridges, integral to the cap structure)
 - **Jack-o'-lantern gills:** thin, sharp-edged, blade-like; you **can separate a gill from the cap** as a distinct structure; gills often drip liquid if squeezed
 
-**What it does:** Jack-o'-lantern contains **muscarine-like toxins** (illudins). Symptoms: rapid onset nausea, vomiting, severe cramping, watery diarrhea, salivation. Usually self-limited within 6–24 hours, but severe dehydration and aspiration risk occur in serious cases.
+**Spore print:** *O. illudens* produces a **white-to-cream spore print** (the cap and gills are orange, but the spores are white); true chanterelle is also white-to-pale-yellow. Spore print alone does not distinguish these two — gill structure is the decisive test.
+
+**What it does:** Jack-o'-lantern contains **illudins** (DNA-alkylating cytotoxins) causing severe GI illness. Symptoms: rapid onset nausea, vomiting, severe cramping, watery diarrhea, salivation. Usually self-limited within 6–24 hours, but severe dehydration and aspiration risk occur in serious cases. Illudins are NOT cholinergic agonists — the clinical picture is severe GI, not a cholinergic (muscarine-like) syndrome.
 
 **Why this matters:** The resemblance is close enough that novice foragers often rely on color and smell alone. Both are golden/orange and pleasant-smelling. The error is made even more likely by old field guides or online photos showing poor gill detail. The only safe path is to handle the mushroom in the field, carefully examine and manipulate the undersurface, and confirm the ridge-vs-gill distinction before harvest.
 
-### False Chanterelle (*Hygrophoropsis* spp., formerly *Cantharellus cibarius* misidentifications)
+### False Chanterelle (*Hygrophoropsis aurantiaca*)
 
 **The discriminators:**
-- False chanterelle is thinner-textured, has more gill-like ridges (intermediate between true gills and true chanterelle ridges), and often grows in clusters
-- True chanterelle has stouter texture, fuller-bodied ridges, and more variable cap shape
+- False chanterelle has **true, repeatedly-forked gills** — thin, sharp-edged, blade-like, and separable from the cap — unlike the blunt, non-separable false ridges of a true chanterelle; this is the decisive distinction
+- False chanterelle is thinner-textured, more pliable, and often grows in clusters on or near woody debris
+- True chanterelle has stouter texture, fuller-bodied blunt ridges, and grows mycorrhizally from soil
 
-**What it does:** False chanterelle is likely inedible or mildly GI-upset-causing (poorly documented; generally avoided by cautious foragers).
+**What it does:** *Hygrophoropsis aurantiaca* is now generally classified as **poisonous / weakly toxic** — GI illness from arabitol and related compounds; anecdotal unconfirmed neurological reports exist. It is not merely "inedible"; it should be treated as a toxic species and avoided.
 
-**Why this matters:** Less common than jack-o'-lantern confusion, but still a risk. Spore print helps (white-to-pale-yellow for true chanterelle).
+**Why this matters:** Less common than jack-o'-lantern confusion, but still a risk. Spore print helps (white-to-pale-yellow for true chanterelle); also confirm by handling the ridges — true chanterelle ridges feel blunt and cannot be peeled free.
 
 ---
 
@@ -172,9 +175,9 @@ Chanterelle is **not safely eaten raw** and requires cooking for digestibility a
 
 ## Toxicology of the Confusables
 
-### Jack-o'-lantern (*Omphalotus* spp.) — Muscarine-Like Toxins
+### Jack-o'-lantern (*Omphalotus illudens*) — Illudin Toxins
 
-**The toxins:** Illudins and related sesquiterpene compounds; thermostable (cannot be cooked out).
+**The toxins:** **Illudins** (sesquiterpene-derived DNA-alkylating cytotoxins) and related compounds; thermostable (cannot be cooked out). These are NOT muscarinic/cholinergic agonists — the mechanism is cytotoxic GI damage, not cholinergic stimulation.
 
 **Timeline & symptoms:**
 - **Onset:** 30 minutes to 4 hours post-consumption

@@ -65,7 +65,7 @@ review_status: draft
 - TRUE morel: cap **pitted/honeycombed**, fully **hollow** when sliced top-to-bottom, cap **fused to stem**
 - FALSE: cap **wrinkled/brain-like (lobed, not pitted)**, **chambered/cottony** inside, not uniformly hollow
 
-**What it does:** *Gyromitrin* (gyromitrin toxin) metabolizes to monomethylhydrazine (MMH) in the stomach. Symptoms begin 4–12 hours after consumption: nausea, vomiting, diarrhea, headache, tremor. Severe cases progress to seizures, liver damage, CNS toxicity, and death. The toxin is **not reliably destroyed by cooking** — even repeated boiling may not render false morels safe.
+**What it does:** *Gyromitrin* (gyromitrin toxin) metabolizes to monomethylhydrazine (MMH) in the stomach. Symptoms begin 2–24 hours after consumption (most commonly 5–10 h for GI onset; neuro 6–12 h): nausea, vomiting, diarrhea, headache, tremor. Severe cases progress to seizures, liver damage, CNS toxicity, and death. The toxin is **not reliably destroyed by cooking** — cooking reduces but does not eliminate gyromitrin (~20% of toxin can remain even after recommended boiling, per Finnish Food Authority); *Gyromitra* **cannot be made reliably safe by cooking**.
 
 **Why this matters:** The false morel is common in the same season and habitat as the true morel. A visual scan of "cap shape" is insufficient; the internal structure must be cut open and examined. False morels often grow in clusters and can dominate a fruiting, making accidental collection likely if the checker does not slice each specimen.
 
@@ -138,17 +138,17 @@ Morels are **not safely eaten raw**. They contain chitin and other compounds tha
 
 ### *Gyromitra* spp. (False Morel) — Gyromitrin Toxin
 
-**The toxin:** Gyromitrin is metabolized by stomach acid and heat to **monomethylhydrazine (MMH)**, a volatile compound. MMH is an **irreversible monoamine oxidase (MAO) inhibitor** and a metabolic poison affecting the liver and central nervous system.
+**The toxin:** Gyromitrin is metabolized by stomach acid and heat to **monomethylhydrazine (MMH)**, a volatile compound. MMH acts primarily as a **pyridoxal-5-phosphate (vitamin B6) antagonist**, depleting GABA and causing seizures; treatment requires high-dose pyridoxine (B6). MAO inhibition is an incidental effect, not the primary mechanism of toxicity.
 
 **Timeline & symptoms:**
-- **Onset:** 4–12 hours post-consumption (sometimes 2–24 hours)
+- **Onset:** 2–24 hours post-consumption (most commonly 5–10 h for GI onset; neuro 6–12 h)
 - **Phase 1 (4–8 h):** nausea, vomiting, diarrhea, abdominal cramping, headache, lightheadedness
 - **Phase 2 (if severe or untreated, 8–24 h+):** tremor, ataxia (loss of coordination), seizures, altered mental status, hypoglycemia, jaundice
 - **Phase 3 (severe cases):** liver necrosis, kidney failure, coma, death
 
-**Why cooking doesn't help:** Gyromitrin is a *heat-stable* compound. Boiling, frying, or even prolonged cooking does not reliably destroy it. Some sources suggest repeated boiling in changes of water *may* reduce toxin load, but there is no safe dosing threshold; **even "treated" false morels remain a serious risk.**
+**Why cooking doesn't help:** Gyromitrin is partially but **not reliably** destroyed by heat. Cooking reduces toxin load — repeated boiling in changes of water may lower it further — but ~20% of the toxin can remain even after recommended boiling (Finnish Food Authority). *Gyromitra* **cannot be made reliably safe by cooking.** There is no safe dosing threshold; **even "treated" false morels remain a serious risk.**
 
-**No antidote, only supportive care:** treatment is hospitalization for IV fluids, blood glucose monitoring, and in severe cases, pyridoxine (vitamin B6) as an empirical cofactor; liver function must be monitored. Deaths have occurred despite treatment.
+**No antidote, only supportive care:** treatment is hospitalization for IV fluids, blood glucose monitoring, and high-dose pyridoxine (vitamin B6, the specific cofactor depleted by MMH); liver function must be monitored. Deaths have occurred despite treatment.
 
 **Lesson:** the 6–24 hour latency of false-morel poisoning means the victim may not connect the meal to the illness, delaying medical attention and worsening outcome. Do not risk field ID alone.
 
@@ -162,8 +162,10 @@ NEVER sufficient for ID; the positive-ID gate above governs.**
 
 - True morel (*Morchella americana*): `morel-true_morchella-americana_CC0.jpg` — note the
   **pitted/honeycombed** cap, fully **hollow** when sliced.
-- ☠ False morel (*Gyromitra esculenta*): `false-morel_gyromitra-esculenta_CC0.jpg` — note the
-  **wrinkled/brain-like, lobed** cap, **chambered** (not hollow) inside.
+- ☠ False morel (*Gyromitra* spp.): `false-morel_gyromitra-esculenta_CC0.jpg` — note the
+  **wrinkled/brain-like, lobed** cap, **chambered** (not hollow) inside. In the Mid-Atlantic, the
+  eastern species are *Neogyromitra caroliniana* and *N. brunnea* (formerly placed in *Gyromitra*);
+  *G. esculenta* sensu stricto is less common here but the toxin profile is the same across the group.
 
 ---
 

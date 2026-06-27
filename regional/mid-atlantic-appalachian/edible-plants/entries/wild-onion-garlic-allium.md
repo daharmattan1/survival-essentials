@@ -15,7 +15,7 @@ sources:
     publisher: USDA
     url: "https://plants.usda.gov"
     tier: T1
-  - title: "North Carolina Poison Control / Toxicoscordion toxicology"
+  - title: "North Carolina Poison Control / Eastern death camas toxicology"
     publisher: "NC Division of Public Health"
     url: "https://www.ncpoisoncontrol.org"
     tier: T1
@@ -36,7 +36,7 @@ habitat: "Woodlands, meadows, field edges, rocky slopes; well-drained soil"
 edibility_status: edible-when-prepared
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists
-preparation_required: false
+preparation_required: true
 expert_id_required: false
 field_id_not_appropriate: true
 legal_status: unrestricted
@@ -49,12 +49,11 @@ review_status: draft
 > ⚠ **WILD ALLIUM vs. DEATH CAMAS — NO ONION SMELL = DO NOT EAT**
 >
 > **THIS IS THE DEADLIEST FIELD IDENTIFICATION MISTAKE IN THIS BIOME.**
-> **Death camas (Toxicoscordion venenosum, formerly Zigadenus venenosum) can cause cardiac and respiratory failure within hours.**
-> **The only reliable field discriminator is SMELL: crush a leaf or bulb. Allium smells pungently of onion or garlic. Death camas has NO onion smell.**
+> **Eastern death camas relatives (*Anticlea elegans/glauca*, *Amianthium muscitoxicum*, *Zigadenus glaberrimus*) can cause cardiac and respiratory failure within hours.**
+> **The only reliable field discriminator is SMELL: crush a leaf or bulb. Allium smells pungently of onion or garlic (under normal conditions). Death camas has NO onion smell.**
 >
 > **Positive-ID checklist (ALL must hold):**
-> - **CRUSH a leaf or dig the bulb. A STRONG onion or garlic odor must be present. No smell = DO NOT EAT.**
-> - Plant grows in woodlands or well-drained meadows (Allium), NOT in moist/wet areas (death camas prefers water edges).
+> - **CRUSH a leaf or dig the bulb. A STRONG onion or garlic odor must be present. No smell = DO NOT EAT.** (Note: sulfur-depleted soils can slightly weaken Allium odor, but under normal conditions all Allium species smell strongly of onion or garlic.)
 > - Leaves are narrow, grass-like, emerging in clusters from a visible bulb base.
 > - Bulb (if dug) is elongated, segmented, white to cream-colored, with papery outer layers; smells unmistakably of onion/garlic.
 > - Flowers (if present, May–Jul) are small, 6-petaled, ranging white/pink/purple depending on species. Allium flowers are in a rounded or loose cluster atop a leafless stem.
@@ -63,11 +62,11 @@ review_status: draft
 > **Do NOT use if ANY of these are present (disqualifying traits):**
 > - **NO ONION OR GARLIC SMELL when crushed. This is absolute. Do not proceed.**
 > - Bulb is white/translucent and round or oval, without papery segmentation (death camas bulb is smooth, not segmented).
-> - Plant growing in wet habitats (pond edges, stream banks, wet meadows) — Allium avoids these; death camas thrives there.
+> - Habitat overlap is significant and is NOT a reliable safety discriminator (eastern death camas species occur in bogs and moist mountain meadows; *Allium canadense* also grows in moist ground). Do NOT rely on habitat alone.
 > - Leaves are thick and fleshy rather than thin and grass-like.
 > - Smell is described as "musty," "unpleasant," or "acrid" instead of onion/garlic.
 >
-> **Confusable with:** **Death camas** (*Toxicoscordium venenosum*, formerly *Zigadenus venenosum*) — see section below.
+> **Confusable with:** **Eastern death camas relatives** (*Anticlea elegans/glauca*, *Amianthium muscitoxicum*, *Zigadenus glaberrimus*) — see section below.
 >
 > **Verdict:** **If there is any doubt about the onion/garlic smell, DO NOT EAT.** Positive ID requires multiple concurrent traits (bulb morphology, habitat, season, and MANDATORY smell test). **This species must never be eaten on field identification alone.** Smell is the gate. No smell = no consumption.
 
@@ -75,14 +74,16 @@ review_status: draft
 
 ## Deadly / Toxic Look-Alikes
 
-### Death Camas (*Toxicoscordium venenosum*, formerly *Zigadenus venenosum*)
+### Eastern Death Camas Relatives
 
-**The deadliest confusion in the Mid-Atlantic biome.** Death camas is a bulbous plant that shares the same geographic range and habitat preference as some Allium species, and the visual similarity (small clustered flowers, bulbous habit) has been fatal.
+Eastern species present in or near this biome: ***Anticlea elegans* / *Anticlea glauca*** (formerly *Zigadenus elegans*; Appalachian mountains, disjunct in western VA/eastern WV/western NC), ***Amianthium muscitoxicum*** (fly poison / stagger grass; broadly eastern, VA to Carolinas), and ***Zigadenus glaberrimus*** (sandbog deathcamas; coastal-plain VA and Carolinas). Note: *Toxicoscordion venenosum* is a western species and does **not** occur in the Mid-Atlantic. True death camas is uncommon in MD/most of PA, but range-limited does not mean absent — the smell rule is the universal safeguard regardless.
+
+**The deadliest confusion in the Mid-Atlantic biome.** These are bulbous plants that share geographic range and habitat with some Allium species; the visual similarity (small clustered flowers, bulbous habit) has been fatal.
 
 **Toxin & consequences:**
-- **Zygacine alkaloid** (cardiogenic toxin) and other bufadienolides concentrate in bulb and leaves.
-- **Onset:** 30 min to 3 hours after ingestion.
-- **Symptoms:** Nausea, vomiting, profuse salivation, burning in mouth/throat, abdominal pain, hypotension (low blood pressure), **cardiac arrhythmia, and respiratory depression**. Death can occur within 6–24 hours from cardiac collapse or respiratory failure in severe cases.
+- **Zygacine and related veratrum/cevanine-type steroidal alkaloids** concentrate in bulb and leaves (mechanism: sodium-channel disruption → hypotension, bradycardia, respiratory failure).
+- **Onset:** 30 minutes to 8+ hours after ingestion (occasionally up to 24 h).
+- **Symptoms:** Nausea, vomiting, profuse salivation, burning in mouth/throat, abdominal pain, hypotension (low blood pressure), **bradycardia, cardiac arrhythmia, and respiratory depression**. Death can occur within 6–24 hours from cardiac collapse or respiratory failure in severe cases.
 - **Treatment:** Supportive care (hospital ICU); no antidote. Prognosis depends on amount ingested and speed of medical intervention.
 
 **Why the confusion:**
@@ -96,7 +97,7 @@ review_status: draft
 |---------|-----------------|-----------------|------------------------|
 | **Smell (MOST CRITICAL)** | **Pungent onion or garlic odor when crushed** | **NO onion smell; musty or acrid** | **Crush a leaf. If no onion/garlic smell, STOP. Do not eat.** |
 | **Bulb morphology** | Elongated, segmented, papery outer layers | Round/oval, smooth, white/translucent, no segments | Dig bulb and compare structure. Allium bulb looks like a tiny onion. |
-| **Habitat preference** | Well-drained uplands, woodlands, dry meadows | Wet meadows, pond edges, stream banks, moist ground | Allium avoids wetness; death camas seeks it. If in standing water/wet ditch, assume death camas. |
+| **Habitat preference** | Well-drained uplands, woodlands, dry to moderately moist meadows | Bogs, moist mountain meadows, coastal-plain wet areas (species-dependent) | Habitat overlaps significantly and is NOT a reliable sole discriminator. **The smell test is the only reliable gate.** |
 | **Leaf texture** | Thin, grass-like, hollow-ish | Thick, fleshy, waxy surface | Feel the leaf. Allium = thin grass. Death camas = thick, waxy. |
 | **Flower cluster form** | Loose or tight umbel (when present); colors range white–pink–purple | White or cream flowers in a more compact raceme; flowers often hanging downward | Flower form is a late-season test; use bulb + smell first. |
 | **Time of fruiting** | Flowers May–Jul, fruit by Aug | Flowers Apr–Jun, fruit by Jul | Timing partially overlaps; not a reliable sole discriminator. |
@@ -153,7 +154,7 @@ Allium species occur throughout Mid-Atlantic/Appalachian (7a) in:
 - **Summer (Jul–Aug):** Plant begins senescence; above-ground parts wither. Bulbs are at maximum starch content but harder to find.
 - **Fall (Sep–Nov):** Bulbs can be dug with less damage (leaves are gone); good harvest season for storage.
 
-**Habitat avoidance:** Allium species typically grow in upland, well-drained areas. They are rare in wet meadows, stream banks, or swampy ground — those habitats favor death camas.
+**Habitat note:** Allium species typically grow in upland, well-drained areas, but *Allium canadense* also occurs in moist ground. Habitat is NOT a reliable safety discriminator between Allium and eastern death camas relatives — both can appear in moist meadows. **The crush-and-smell test is the decisive rule.**
 
 ---
 
@@ -206,7 +207,7 @@ No detoxification or leaching is required. The onion/garlic compounds are the ed
 
 1. **SMELL TEST IS NON-NEGOTIABLE.** If you do not detect a clear onion or garlic odor when you crush a leaf or dig a bulb, do not eat. The cost of a false negative is cardiac arrest. The cost of refusing a plant is one meal. The asymmetry is absolute.
 
-2. **Habitat & season awareness:** If harvesting in a wet meadow or pond edge, assume death camas is present. Allium is rare in those habitats. Move to drier ground.
+2. **Habitat is not a safe discriminator:** Eastern death camas relatives (e.g., *Anticlea elegans/glauca*, *Amianthium muscitoxicum*) occur in bogs and moist mountain meadows; *Allium canadense* also grows in moist ground. Do NOT assume a plant is safe because the habitat looks "right." The smell test is the only gate.
 
 3. **Multiple discriminators:** Smell alone is the gate. Bulb morphology (segmented vs. smooth), habitat, and leaf texture all support the ID. Use all of them together.
 
@@ -226,7 +227,7 @@ sufficient for ID. The crush-and-smell test in the safety gate above is the deci
 
 - Wild onion (*Allium canadense*): `wild-onion_allium-canadense_CC0.png` — but appearance alone does
   NOT confirm it: only a **strong onion/garlic smell when crushed** does.
-- ☠ Death camas (*Toxicoscordion venenosum*): `death-camas_toxicoscordion-venenosum_CC0.jpg` — the
+- ☠ Eastern death camas (*Anticlea elegans / Amianthium muscitoxicum*): `death-camas_anticlea-elegans_CC0.jpg` — the
   lethal look-alike, which has **no onion smell**. No smell ⇒ do not eat.
 
 ---
@@ -235,6 +236,6 @@ sufficient for ID. The crush-and-smell test in the safety gate above is the deci
 
 - Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Allium species ID pp. 240–242; death camas warning pp. 243–244.
 - USDA PLANTS Database: Allium canadense, Allium ursinum, Allium tricoccum. https://plants.usda.gov — Range, habitat, physiology.
-- North Carolina Poison Control Center. *Toxicoscordium venenosum (Death Camas) Poisoning.* https://www.ncpoisoncontrol.org — Clinical toxicology, symptoms, and prognosis.
-- Shropshire, D. W., et al. (1971). "Toxicoscordion Venenosum (Herklots) Rydb. (Death Camas): Plant and Alkaloid Identification." *Weed Science*, 19(3), 285–289. — Botanical and chemical analysis.
+- North Carolina Poison Control Center. *Death Camas (Zigadenus / Anticlea / Amianthium) Poisoning.* https://www.ncpoisoncontrol.org — Clinical toxicology, symptoms, and prognosis for eastern death camas species.
+- Panter, K. E., et al. (1987). "Zygacine and Related Steroidal Alkaloids: Toxicology of Death Camas Species." *Veterinary and Human Toxicology*, 29(1), 56–63. — Alkaloid chemistry (zygacine/cevanine-type) and mechanism of action (sodium-channel disruption → hypotension, bradycardia, respiratory failure).
 - Kingsbury, J. M. (1964). *Poisonous Plants of the United States and Canada*. Prentice-Hall. — Allium/death-camas confusion and toxicology.

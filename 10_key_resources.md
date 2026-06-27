@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Key Resources - Minimal External References
 
 **Philosophy**: This repo contains 90% of what you need. These are the 10% of external resources for deeper learning.
@@ -44,7 +34,7 @@ tags:
 **URL**: https://github.com/ligi/SurvivalManual
 **Format**: Markdown files (offline-first design)
 **Content**: Wilderness survival techniques, illustrated
-**Action**: Clone repo, keep in `c:\Users\victor\claude-code-repos\`
+**Action**: Clone repo, keep in `<your local path>`
 
 ```bash
 git clone https://github.com/ligi/SurvivalManual.git

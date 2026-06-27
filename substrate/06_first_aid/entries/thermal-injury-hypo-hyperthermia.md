@@ -125,7 +125,7 @@ severity_range: "mild shivering → severe hypothermia with cardiac arrest; heat
 2. **Remove wet clothing** (if possible without excessive movement).
    - Wet fabric accelerates heat loss.
    - Replace with dry clothing or layers.
-   - Cover the head (30–40% of heat loss is through the scalp).
+   - Cover the head (significant heat is lost from the head; keep it covered).
 
 3. **Warm passively (core 32–35°C).**
    - Wrap in insulating blankets, sleeping bags, or dry clothing.
@@ -172,7 +172,7 @@ severity_range: "mild shivering → severe hypothermia with cardiac arrest; heat
    - Apply water (spray, immerse if possible) to the entire body.
    - Use ice packs on neck, armpits, groin (major blood vessels near skin).
    - Fan vigorously (maximize evaporative cooling).
-   - **If water immersion available (cool pool, stream):** immerse the person in cool (not ice-cold) water to accelerate core cooling.
+   - **If water immersion available (pool, stream, tub):** immerse the person in the coldest water available to accelerate core cooling. For exertional heat stroke, cold or ice-water immersion is the gold standard — do not withhold it. Keep the airway clear and monitor continuously.
 2. **Fluid intake:** if conscious and can swallow, give small sips of water. If unconscious, do NOT force fluids (risk of aspiration).
 3. **Monitor mental status and vital signs** continuously. Seizures or cardiac instability may occur.
 4. **Evacuate for IV fluids and monitoring.** Heat stroke progresses to organ failure and death without aggressive hospital care.
@@ -194,7 +194,7 @@ severity_range: "mild shivering → severe hypothermia with cardiac arrest; heat
 ### Hyperthermia
 
 - **Do NOT give salt tablets without water.** Salt alone worsens dehydration.
-- **Do NOT immerse in ice water if heat stroke is suspected.** Very cold water can trigger shivering and vasoconstriction, slowing core cooling. Cool (not cold) water is faster.
+- **Do NOT delay cooling for heat stroke — speed of core cooling is the priority.** For exertional heat stroke, cold-water or even ice-water immersion is the gold standard and most effective method when available; do not withhold it. The main precautions are: keep the airway clear (unconscious patients should not be left face-down in water), and do not interrupt cooling to wait for gentler options. If immersion is not possible, apply as much ice/cold water to the skin as available.
 - **Do NOT give large fluid boluses** (forcing rapid drinking). Small sips prevent nausea and aspiration risk.
 - **Do NOT continue physical exertion if heat exhaustion or heat stroke is suspected.** Rest in shade is mandatory.
 - **Do NOT attribute confusion or loss of consciousness to exhaustion alone.** Heat stroke must be ruled out; assume the worst if mental status changes in the heat.

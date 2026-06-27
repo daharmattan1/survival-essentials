@@ -53,7 +53,7 @@ review_status: draft
 > - Spore print is orange or yellow
 > - Growing in summer/fall from wood partially buried in soil or roots
 >
-> **Confusable with:** Jack-o'-lantern (*Omphalotus* spp.) → **Jack-o'-lantern: orange, true gills, grows on buried wood/roots in clumps, often glows faintly** → *Omphalotus* (muscarine-like): severe GI illness.
+> **Confusable with:** Jack-o'-lantern (*Omphalotus illudens*, eastern NA species) → **Jack-o'-lantern: orange, true gills, grows on buried wood/roots in clumps, often glows faintly** → *Omphalotus* (illudin toxins): severe GI illness.
 >
 > **Verdict:** Positive ID on cap color + attachment style + spore print, expert confirmation recommended, or do not consume. **This species must never be eaten on field identification alone.** Deadly look-alike present.
 
@@ -61,15 +61,15 @@ review_status: draft
 
 ## ☠ Deadly Look-Alikes
 
-### Jack-o'-lantern (*Omphalotus* spp.)
+### Jack-o'-lantern (*Omphalotus illudens* — eastern NA species)
 
 **The discriminators (verbatim from the deadly-look-alike matrix):**
 - Oyster: **white-to-tan, off-center stub or no stem, decurrent gills, on dead hardwood, grows in shelving clusters**
 - Jack-o'-lantern: **orange**, true gills, grows on **buried wood/roots in clumps**, often glows faintly
 
-**What it does:** Jack-o'-lantern contains **muscarine-like toxins** (illudins and related compounds), which are cholinergic agonists. Symptoms are severe gastrointestinal illness: rapid onset of nausea, vomiting, severe cramping, and watery diarrhea. Some reports include salivation, lacrimation (tearing), and muscular weakness. No fatalities recorded, but hospitalization for severe dehydration is possible.
+**What it does:** Jack-o'-lantern contains **illudins** (DNA-alkylating cytotoxins), which cause severe gastrointestinal illness: rapid onset of nausea, vomiting, severe cramping, and watery diarrhea. Illudins are NOT cholinergic agonists — whether muscarine is also present is unconfirmed, and the clinical picture is severe GI illness, not a cholinergic syndrome. Some reports include salivation and muscular weakness, but these are secondary to GI distress. Rarely fatal in healthy adults. Hospitalization for severe dehydration is possible.
 
-**Why this matters:** Jack-o'-lantern is common, especially on buried stumps and partially decomposed roots in disturbed ground. Its bright orange color attracts foragers, but it is unmistakably a look-alike *when confusion occurs*. The key discriminator is **spore print** (oyster = white/lilac; jack-o'-lantern = orange). Do not skip the spore print for any ambiguous specimen.
+**Why this matters:** Jack-o'-lantern is common, especially on buried stumps and partially decomposed roots in disturbed ground. Its bright orange color attracts foragers, but it is unmistakably a look-alike *when confusion occurs*. The key discriminators are **cap color** (oyster = white/tan; jack-o'-lantern = orange) and **spore print** (oyster = white/pale lilac; jack-o'-lantern = **white-to-cream** — note: the spore print is white, NOT orange, even though the cap and gills are orange). Do not rely on spore print alone to distinguish these two; use cap color and growth habit as primary discriminators.
 
 ### False Oyster (*Pleurocybella* spp., *Mycena* spp., and other gilled imitators)
 
@@ -107,7 +107,7 @@ Some small gilled fungi on wood mimic oyster shape but are inedible or toxic. Di
 **Spore print (REQUIRED FOR CONFIDENT ID):**
 - **White to pale lilac** — absolutely critical; if unsure, spend the time to take a print
 - Place mushroom cap (gills down) on white paper; cover loosely and leave overnight (8–12 hours)
-- Jack-o'-lantern produces an **orange or orange-yellow spore print** — a clear discriminator
+- Jack-o'-lantern (*O. illudens*) produces a **white-to-cream spore print** — the cap and gills are orange, but the spores are white; spore print alone does NOT separate these two species; rely on cap color (white/tan vs. orange) and growth habit as primary discriminators
 
 **Smell:**
 - Faint, pleasant, or slightly fruity; not a primary ID trait
@@ -155,16 +155,16 @@ Oyster is **not safely eaten raw** and requires cooking for digestibility and sa
 4. **Sauté, roast, or simmer** in soups/broths until tender. Do not eat raw or barely-cooked specimens.
 5. **First-portion rule:** after full preparation, consume a small portion (2–3 small pieces) with no other new foods or alcohol. Wait 6–8 hours for GI reaction. Only if no upset occurs, continue eating.
 6. **Avoid alcohol:** some individuals report GI distress if oyster is paired with beer or wine during the first trial; use water.
-7. **Spore print verification:** For any ambiguous specimen, take a spore print before cooking. White/lilac = oyster (proceed); orange/yellow = jack-o'-lantern (discard).
+7. **Spore print verification:** For any ambiguous specimen, take a spore print before cooking. White/pale lilac = consistent with oyster. Note: *O. illudens* also has a white-to-cream spore print, so spore print alone does NOT rule out jack-o'-lantern. Discard any orange-capped specimen regardless of spore print.
 8. **Never mix collections:** only oyster mushrooms in your container; do not combine with other wild mushrooms in a single bag.
 
 ---
 
 ## Toxicology of the Confusables
 
-### Jack-o'-lantern (*Omphalotus* spp.) — Muscarine-Like Toxins
+### Jack-o'-lantern (*Omphalotus illudens*) — Illudin Toxins
 
-**The toxins:** Jack-o'-lantern contains **illudins** and related sesquiterpene-derived compounds that act as cholinergic agonists (similar to but not identical to muscarine). These are thermostable and cannot be cooked out.
+**The toxins:** Jack-o'-lantern contains **illudins** (sesquiterpene-derived DNA-alkylating cytotoxins) and related compounds. These are thermostable and cannot be cooked out. Illudins are NOT cholinergic agonists — they cause GI damage via cytotoxic mechanisms. Whether any muscarine is also present is unconfirmed; the primary clinical syndrome is severe GI illness.
 
 **Timeline & symptoms:**
 - **Onset:** 30 minutes to 4 hours post-consumption (rapid, compared to amatoxins)

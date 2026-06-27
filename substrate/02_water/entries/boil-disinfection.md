@@ -64,7 +64,7 @@ Boiling is the most reliable portable method and requires no equipment beyond a 
 
 4. **Begin timing.** Start your count from the moment the water reaches a true rolling boil. Use a watch, clock, or count (rough timing: ~60 seconds for a full boil at sea level).
 
-5. **Maintain boil for required time.** At sea level (below 6,500 ft), maintain a rolling boil for at least 1 minute. Above 6,500 ft elevation, continue for at least 3 minutes.
+5. **Maintain boil for required time.** At or below 6,500 ft (2,000 m), maintain a rolling boil for at least 1 minute. Above 6,500 ft (2,000 m), continue for at least 3 minutes (CDC/EPA standard).
 
 6. **Cool before drinking.** Remove from heat and allow to cool enough to handle safely. Use a stick or cloth to lower it away from the fire if needed; move it to a shaded spot to speed cooling.
 
@@ -76,9 +76,8 @@ Boiling is the most reliable portable method and requires no equipment beyond a 
 
 **Boil time is non-negotiable and cannot be shortened or summarized away.** Insufficient boil time leaves pathogens viable:
 
-- **Sea level to 6,500 ft (0–2,000 m):** minimum 1 minute of rolling boil
-- **6,500 ft to 10,000 ft (2,000–3,000 m):** minimum 2 minutes of rolling boil
-- **Above 10,000 ft (above 3,000 m):** minimum 3 minutes of rolling boil
+- **At or below 6,500 ft (0–2,000 m):** minimum 1 minute of rolling boil
+- **Above 6,500 ft (above 2,000 m):** minimum 3 minutes of rolling boil
 
 If you do not know your elevation, use 3 minutes as the safe default. A rolling boil means vigorous, continuous bubbles — not a weak simmer.
 

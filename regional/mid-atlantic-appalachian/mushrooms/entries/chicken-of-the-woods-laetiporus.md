@@ -18,8 +18,8 @@ common_names:
   - Chicken-of-the-woods
   - Sulphur shelf
   - Polypore
-scientific_name: Laetiporus spp. (L. sulphureus in eastern NA)
-spore_print_color: yellow to white
+scientific_name: Laetiporus spp. (L. sulphureus on hardwood; L. cincinnatus at trunk base/roots; L. huroniensis on conifers — eastern NA)
+spore_print_color: white
 fruiting_season: June–October
 fruiting_substrate: dead or dying hardwood, especially oak; occasionally conifer or eucalyptus
 cook_required: true
@@ -60,15 +60,16 @@ review_status: draft
 
 ## ☠ Deadly Look-Alikes
 
-### Toxic Shelf Fungi (Various Species) & Conifer-Grown *Laetiporus*
+### Toxic Shelf Fungi (Various Species), Jack-o'-lantern & Conifer-Grown *Laetiporus*
 
 **The discriminators (verbatim from the deadly-look-alike matrix):**
 - Edible target: **shelf, no gills, pore surface underneath, bright orange top / yellow pores, on hardwood (esp. oak)**
 - Avoid look-alikes with gills or on conifer/eucalyptus
 
 **The confusables:**
-1. **Gilled shelf fungi** (e.g., *Cerioporus* species, gilled polypores): Some shelf fungi bear true gills instead of pores. These are typically NOT edible and may cause GI upset. Distinguish by the pore surface structure of true *Laetiporus* — individual, tiny holes, not blades.
-2. **Conifer-grown *Laetiporus*** (same species, wrong substrate): Specimens of *Laetiporus* growing on pine, fir, or eucalyptus cause gastrointestinal distress (nausea, diarrhea, cramping) in many foragers, even though hardwood-grown specimens of the same species are edible. The chemical composition or microbial ecology of conifer-wood substrate changes the toxicity profile.
+1. **Jack-o'-lantern (*Omphalotus illudens*)** — the primary dangerous look-alike: orange, grows at the base of hardwoods or from buried roots, but has **true GILLS** (thin, blade-like, separable), not pores. The pore-vs.-gill check is the decisive test: examine the underside closely — pores are tiny distinct holes; gills are flat parallel blades. *O. illudens* causes severe GI illness.
+2. **Gilled shelf fungi** (e.g., *Cerioporus* species, gilled polypores): Some shelf fungi bear true gills instead of pores. These are typically NOT edible and may cause GI upset. Distinguish by the pore surface structure of true *Laetiporus* — individual, tiny holes, not blades.
+3. **Conifer-grown *Laetiporus* (*L. huroniensis*)** — eastern conifer species: the species responsible for most GI reactions when chicken-of-the-woods is collected from conifers (especially hemlock) in the east is ***L. huroniensis***, not *L. sulphureus* (which is a hardwood species here). *L. sulphureus* on hardwood is the edible target; *L. huroniensis* on conifers causes GI distress in many foragers. Substrate verification is mandatory.
 
 **What they do:**
 - Gilled look-alikes: mild to moderate GI upset (nausea, cramping, loose stools), usually self-limited
@@ -90,7 +91,8 @@ review_status: draft
 - Upper surface may be slightly rough or velvety
 
 **Pore surface (underside):**
-- **Yellow to orange pores** (not true gills; you cannot separate them as blades)
+- ***L. sulphureus*: bright sulfur-yellow pores** (not orange — the orange color is on the cap top, not the pore surface); *L. cincinnatus*: white pore surface
+- Not true gills; you cannot separate them as blades
 - Tiny, angular pores (~1–2 mm diameter)
 - Bruises easily to orange-red when touched (helps confirm *Laetiporus* over other polypores)
 
@@ -102,7 +104,7 @@ review_status: draft
 - Absent (sessile; grows directly from wood)
 
 **Spore print:**
-- Yellow to white/pale; usually not taken (shelf fungi on wood don't allow spore-capture without damaging the specimen, and ID should be done in field)
+- **White** (genus-wide; the cap and pores are yellow-orange, but the spore print is white); usually not taken (shelf fungi on wood don't allow spore-capture without damaging the specimen, and ID should be done in field)
 
 **Smell:**
 - Pleasant, fruity, or slightly acidic (not a primary ID trait)
@@ -114,10 +116,10 @@ review_status: draft
 ## Habitat, Substrate & Fruiting (Mid-Atlantic / Appalachian, Zone 7a)
 
 **What it grows on:**
-- **Hardwood:** dead or dying oak (most common), hickory, ash, locust, beech, or other hardwoods
-- **NOT conifer** (pine, fir, spruce) — these cause GI illness
+- ***L. sulphureus*: Hardwood** — dead or dying oak (most common), hickory, ash, locust, beech, or other hardwoods; typically on logs, stumps, or the lower sections of standing dead trees
+- ***L. cincinnatus*: at the base or roots of hardwoods**, forming a rosette or ground-level cluster; white pore surface (vs. sulfur-yellow of *sulphureus*)
+- ***L. huroniensis*: conifers** (pine, hemlock, fir) — **causes GI illness; avoid**
 - **NOT eucalyptus**
-- Typically on logs, stumps, or the lower sections of standing dead trees
 
 **Where in the region:**
 - Forests, woodlots, parks with dead hardwood

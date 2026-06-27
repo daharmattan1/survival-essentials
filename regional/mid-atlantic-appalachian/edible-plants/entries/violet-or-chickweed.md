@@ -67,6 +67,7 @@ review_status: draft
 > - Taste test of a leaf causes burning or acrid sensation (STOP immediately; spit out).
 >
 > **Do NOT use if ANY of these are present — CHICKWEED:**
+> - **Snap the stem — milky white sap appears (that is spurge / *Euphorbia*, toxic). Chickweed has CLEAR juice. Milky sap = discard immediately.**
 > - Stem is hairy all over (that's mouse-ear chickweed — still edible but tougher; requires cooking).
 > - No hair line on stem and no stretchy core (wrong plant).
 > - Leaves are thick or fleshy (indicates different plant).
@@ -98,15 +99,28 @@ review_status: draft
 - **Violet leaves are heart-shaped and smooth-edged; buttercup leaves are lobed or deeply toothed.**
 - **Taste test: buttercup causes immediate burning. Violet is mild.**
 
+### Spurge (*Euphorbia* spp.) — milky sap confusion
+
+Small spurge species can superficially resemble chickweed in low-growing disturbed ground.
+
+**Toxin & effects:**
+- Milky latex sap (diterpene esters) causes severe skin and mucous membrane irritation; ingestion causes GI distress.
+
+**Discriminator (decisive):**
+- **Snap the stem.** Chickweed has **clear juice**; spurge bleeds **milky white latex sap**. If you see milky sap, discard the plant immediately — it is not chickweed.
+
+This test is fast, reliable, and should be done before taste-testing any suspected chickweed.
+
 ### Other acrid weeds (smartweed, sorrel with high oxalates, etc.)
 
-Various weeds share moist habitats with violet/chickweed. The key discriminator is taste:
+Various weeds share moist habitats with violet/chickweed. The key discriminators are sap color and taste:
 
-- **Violet:** Mild, slightly sweet, no burning.
-- **Chickweed:** Mild, slightly sweet, tender texture.
+- **Violet:** Mild, slightly sweet, no burning; clear sap.
+- **Chickweed:** Mild, slightly sweet, tender texture; clear sap, stretchy stem core.
+- **Spurge:** Milky white sap → **discard immediately, do not taste.**
 - **Acrid weeds:** Burning, peppery, or sharp taste → spit out and do not consume.
 
-The taste test is the gate. If burning or acrid, it's not violet or chickweed.
+The sap check comes first; the taste test is the secondary gate. Milky sap or burning/acrid taste = not violet or chickweed.
 
 ---
 
@@ -225,17 +239,19 @@ Neither violet nor chickweed requires preparation. Both are edible raw and cooke
 
 ## Cautions
 
-1. **Taste test before consuming:** If a leaf or stem causes burning, bitterness, or acrid sensation, immediately spit it out and do not consume. This indicates you've picked the wrong plant (likely buttercup or sorrel).
+1. **Sap test before tasting (chickweed):** Snap a stem before taste-testing. **Chickweed has clear juice; spurge (*Euphorbia*) bleeds milky white latex sap.** Milky sap = toxic spurge — discard immediately, do not taste.
 
-2. **Buttercup confusion:** The only real risk is mistaking a buttercup for a violet flower. Buttercup has glossy yellow petals and deeply lobed leaves. Taste test will immediately reveal the mistake (acrid burning).
+2. **Taste test before consuming:** If a leaf or stem causes burning, bitterness, or acrid sensation, immediately spit it out and do not consume. This indicates you've picked the wrong plant (likely buttercup or sorrel).
 
-3. **Oxalates:** Chickweed has lower oxalates than many wild greens, but high consumption (especially by people with kidney issues) should be moderated. Violet has minimal oxalates.
+3. **Buttercup confusion:** The only real risk is mistaking a buttercup for a violet flower. Buttercup has glossy yellow petals and deeply lobed leaves. Taste test will immediately reveal the mistake (acrid burning).
 
-4. **Allergies:** Violet flowers can trigger reactions in people with pollen allergies or sensitivities to certain flower compounds. If you have a history of flower allergies, proceed cautiously.
+4. **Oxalates:** Chickweed has lower oxalates than many wild greens, but high consumption (especially by people with kidney issues) should be moderated. Violet has minimal oxalates.
 
-5. **Over-harvesting:** Both plants are common, but local patches can be depleted if overharvested. Take only what you need; leave 50%+ of the plant to regenerate.
+5. **Allergies:** Violet flowers can trigger reactions in people with pollen allergies or sensitivities to certain flower compounds. If you have a history of flower allergies, proceed cautiously.
 
-6. **Universal Edibility Test:** Neither requires it due to unmistakable ID. The test is last-resort only (and useless for fungi).
+6. **Over-harvesting:** Both plants are common, but local patches can be depleted if overharvested. Take only what you need; leave 50%+ of the plant to regenerate.
+
+7. **Universal Edibility Test:** Neither requires it due to unmistakable ID. The test is last-resort only (and useless for fungi).
 
 ---
 

@@ -61,7 +61,7 @@ review_status: draft
 > - Fruiting body has a definite stem (vs. a root-like attachment)
 > - Growing on wood (that is a puffball's terrestrial variant; check slice test)
 >
-> **Confusable with:** Amanita "egg" button (*A. bisporigera*, destroying angel) → **CUT EVERY PUFFBALL TOP-TO-BOTTOM: any outline of a cap, gills, or stem inside = an Amanita button → DISCARD.** Wood ear has **no deadly confusable known in this region.**
+> **Confusable with:** (1) Amanita "egg" button (*A. bisporigera* destroying angel; *A. phalloides* death cap also documented Maryland northward) → **CUT EVERY PUFFBALL TOP-TO-BOTTOM: any outline of a cap, gills, or stem inside = an Amanita button → DISCARD.** (2) *Scleroderma* spp. (earthball / pigskin puffball) → **ruled out by the SAME cut test: interior is dark purple-black (not white), with a thick warty rind — DISCARD.** Wood ear has **no deadly confusable known in this region.**
 >
 > **Verdict:** **MANDATORY PROCEDURE — CUT EVERY PUFFBALL TOP-TO-BOTTOM.** Interior must be solid, uniformly white/pale; any hint of cap, gills, or stem structure = *Amanita* → DISCARD IMMEDIATELY. This species must never be eaten on field identification alone; the slice test is non-negotiable.
 
@@ -69,7 +69,7 @@ review_status: draft
 
 ## ☠ Deadly Look-Alikes
 
-### Amanita "Egg" Button (*Amanita bisporigera* and other *Amanita* spp.)
+### Amanita "Egg" Button (*Amanita bisporigera*, *A. phalloides*, and other *Amanita* spp.)
 
 **The discriminators (verbatim from the deadly-look-alike matrix):**
 - A true puffball is **solid, uniformly white inside** when sliced
@@ -77,15 +77,21 @@ review_status: draft
 
 **The fatal error:** Young *Amanita* mushrooms are enclosed in a universal veil, giving them a round, egg-like appearance. To an untrained eye, an Amanita button looks like a small white puffball. The only reliable test is the **vertical slice** — if you see any internal structure (even a faint outline) of a cap, gills (thin lines radiating from the center), or a stem stub, **you have an *Amanita*.**
 
-**What it does:** *Amanita* spp. (especially *A. bisporigera*, the destroying angel in the mid-Atlantic) contain **amatoxins** (α-amanitin, β-amanitin, γ-amanitin). These are **protein synthesis inhibitors** that damage the liver and kidneys irreversibly.
+**What it does:** *Amanita* spp. (especially *A. bisporigera*, the destroying angel, and *A. phalloides*, the death cap — both documented in the mid-Atlantic, *phalloides* Maryland northward) contain **amatoxins** (α-amanitin, β-amanitin, γ-amanitin). These are **protein synthesis inhibitors** that damage the liver and kidneys irreversibly.
+
+### *Scleroderma* spp. (Earthball / Pigskin Puffball) — Common Poisonous Look-Alike
+
+**The discriminator:** Apply the **same vertical cut test** used for Amanita. A true puffball interior is solid white throughout. *Scleroderma* interior is **dark purple-black** (firm, marbled, or entirely dark from young), and the outer rind is **thick and warty** (vs. the thin, fragile skin of *Lycoperdon*). If the interior is anything other than uniformly white, **DISCARD.**
+
+**What it does:** *Scleroderma* species cause **GI poisoning** — nausea, vomiting, cramping, diarrhea — onset typically 30 minutes to 2 hours. Not typically lethal in healthy adults, but can be severe. The same cut test that catches Amanita also catches earthball; one procedure rules out both.
 
 **Timeline & symptoms:**
-- **Latency (6–24 hours, often 12–16 hours):** asymptomatic or mild nausea
+- **Latency (6–24 hours, often 8–12 hours):** asymptomatic or mild nausea
 - **Phase 1 ("shock"):** sudden vomiting, severe diarrhea, cramping, dehydration, often mistaken for food poisoning
 - **Phase 2 ("recovery", 24–72 hours):** symptoms subside; patient feels better (false recovery) — but organ damage is occurring
-- **Phase 3 (72+ hours):** jaundice, liver/kidney failure, oliguria, coma, death (50–90% mortality without aggressive medical intervention)
+- **Phase 3 (72+ hours):** jaundice, liver/kidney failure, oliguria, coma, death (~50% mortality without prompt treatment; ~10% with modern intensive care, per NAMA)
 
-**No antidote; only supportive care:** treatment requires hospitalization, IV fluids, liver/kidney function monitoring, dialysis if renal failure occurs. Some studies suggest high-dose silibinin (milk thistle extract) may reduce mortality, but it is not a reliable antidote. Many victims die even with aggressive ICU care.
+**No antidote; only supportive care:** treatment requires hospitalization, IV fluids, liver/kidney function monitoring, dialysis if renal failure occurs. **IV silibinin** (the European antidote, used in some US centers under compassionate use) may reduce mortality when administered early; oral milk thistle capsules are NOT effective and should not be substituted. Many victims die even with aggressive ICU care.
 
 **Lesson:** the 6–24 hour latency is the killer — the victim does not immediately connect the meal to the poisoning, and by the time liver damage is diagnosed, the toxin has often done irreversible harm. **Every puffball must be cut and inspected.** No shortcuts.
 
@@ -221,11 +227,11 @@ Wood ear (*Auricularia* spp.) has **no known deadly look-alike in the mid-Atlant
 **The toxins:** α-amanitin, β-amanitin, γ-amanitin, and related cyclic peptides. These are **thermostable** and **cannot be cooked out**. They bind to eukaryotic RNA polymerase II, blocking mRNA synthesis and protein production in hepatocytes and renal tubule cells.
 
 **Timeline & symptoms:**
-- **Latency (6–24 hours, often 12–16 hours):** asymptomatic or mild nausea
+- **Latency (6–24 hours, often 8–12 hours):** asymptomatic or mild nausea
 - **Phase 1 (12–24 hours):** sudden onset vomiting, severe diarrhea, abdominal cramping, dehydration; patient may feel like typical food poisoning
 - **Phase 2 ("recovery", 24–72 hours):** symptoms subside; patient feels better and may be discharged from urgent care — **this is the false recovery; organ damage is ongoing**
 - **Phase 3 (72+ hours):** jaundice, hepatic encephalopathy, oliguria, hypoglycemia, renal failure, coagulopathy; death in 50–90% of untreated cases
-- **Minimum lethal dose:** 10–20 mg (a single destroying angel cap can contain 5–15 mg)
+- **Minimum lethal dose:** as low as ~7 mg for a small adult (a single destroying angel cap can contain 5–15 mg)
 
 **Treatment:** supportive care only (IV fluids, liver/kidney monitoring, dialysis, possibly silibinin in some centers). Prognosis is poor if the amatoxin is not rapidly cleared or if liver necrosis is already advanced by hospital admission.
 

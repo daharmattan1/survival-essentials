@@ -50,13 +50,12 @@ Mechanical filtration removes solid particles and most biological pathogens by p
 > - **What is removed by micron rating:**
 >   - ≥1 µm (1000 nm): removes sediment, some bacteria
 >   - ≤0.5 µm (500 nm): removes most bacteria (*E. coli*, *Salmonella*)
->   - ≤0.2 µm (200 nm): removes *Giardia* reliably
->   - ≤1 µm (1000 nm) **absolute (not nominal)**: removes *Cryptosporidium* (4–6 µm oocysts) if filter integrity is certified
+>   - ≤1 µm **absolute** (1000 nm absolute): removes both *Giardia* cysts (8–12 µm) and *Cryptosporidium* oocysts (4–6 µm). *Giardia* is the LARGER organism and is actually easier to filter; a ≤1 µm absolute filter catches both. The ≤0.2 µm threshold is for bacteria, not specifically for *Giardia*.
 >
 > - **What is NOT removed:**
 >   - Viruses (0.02–0.1 µm): pass through nearly all portable filters. Exceptions: some hollow-fiber systems claim viral removal; check spec sheet.
 >   - Heavy metals, chemicals, pesticides, salt: filtration does not address chemical contamination.
->   - *Cryptosporidium*: unless filter is rated ≤1 µm **absolute** (not nominal) — many consumer filters claim ≤1 µm nominal but fail on oocyst strains.
+>   - *Cryptosporidium* and *Giardia*: unless filter is rated ≤1 µm **absolute** (not nominal) — many consumer filters claim ≤1 µm nominal but fail on oocyst/cyst strains.
 >
 > - **The boundary:** Filtration alone is insufficient if virus risk is present. Pair ≤1 µm filter with boiling or chemical treatment. If Crypto risk is a concern (livestock upstream, beaver), require ≤1 µm absolute certification + field test (check manufacturer docs).
 >
@@ -94,10 +93,9 @@ Mechanical filtration removes solid particles and most biological pathogens by p
 **Micron rating cannot be summarized or ignored.** The filter must meet pathogen-removal standards or it is not doing the job:
 
 - **Minimum for bacteria removal:** ≤0.5 µm (nominal acceptable for bacteria only)
-- **Minimum for Giardia removal:** ≤0.2 µm (absolute rating required)
-- **Minimum for Cryptosporidium removal:** ≤1 µm **absolute** (nominal ratings fail; seek certified "oocyst removal")
+- **Minimum for Giardia AND Cryptosporidium removal:** ≤1 µm **absolute** (nominal ratings fail; seek certified "cyst/oocyst removal"). *Giardia* cysts are 8–12 µm and *Cryptosporidium* oocysts are 4–6 µm — both are far larger than bacteria and are removed by a properly rated ≤1 µm absolute filter. The ≤0.2 µm threshold applies to bacteria, not to protozoa.
 
-If you do not know your filter's rating, assume it removes bacteria only. Do not use an unrated filter against Crypto risk.
+If you do not know your filter's rating, assume it removes bacteria only. Do not use an unrated filter against Giardia or Crypto risk.
 
 **Paired treatment:** if virus risk is present (sewage contamination, upstream sick people, wildlife diarrhea), pair any filter with boiling (1 min at sea level) OR chemical treatment (chlorine/iodine with longer contact time). Filtration alone does not address viruses.
 

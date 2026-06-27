@@ -19,7 +19,7 @@ and it stops your heart.
 
 | Edible target | ☠ Deadly / toxic look-alike | Key discriminators (necessary, not sufficient) | What the toxin does |
 |---------------|----------------------------|------------------------------------------------|---------------------|
-| **Wild onion / garlic** (*Allium* spp.) | **Death camas** (*Toxicoscordion / Zigadenus*) | *Allium* **smells strongly of onion/garlic when crushed** — death camas does **NOT**. No onion smell ⇒ **do not eat.** | Zygacine: vomiting, low BP, **cardiac/respiratory failure** — can be **lethal**. |
+| **Wild onion / garlic** (*Allium* spp.) | **Eastern death camas relatives** (*Anticlea elegans/glauca*, *Amianthium muscitoxicum*, *Zigadenus glaberrimus*) — *Toxicoscordion venenosum* is a western species only | *Allium* **smells strongly of onion/garlic when crushed** — death camas does **NOT**. Habitat is NOT a reliable sole discriminator. No onion smell ⇒ **do not eat.** | Zygacine/veratrum-cevanine steroidal alkaloids (sodium-channel disruption): vomiting, low BP, bradycardia, **cardiac/respiratory failure** — can be **lethal**. |
 | **Wild carrot / edible umbels** (e.g. *Daucus*) | **Poison hemlock** (*Conium maculatum*) | Poison hemlock: **purple-blotched, hairless stem; musty/mousy smell.** Wild carrot: hairy stem, carrot smell. **If unsure, do not eat any wild umbel.** | Coniine: ascending paralysis, **respiratory failure** — **lethal**. |
 | **Wild parsnip / water-edge umbels** | **Water hemlock** (*Cicuta* spp.) | Water hemlock: **chambered, often purple-streaked rootstock; wet habitat (stream/ditch banks).** **The most violently poisonous plant in North America.** | Cicutoxin: violent **seizures, death within ~15 min** of a small amount. |
 | **Violet / chickweed** (*Viola* / *Stellaria*) | Buttercup (*Ranunculus*, acrid/toxic) & lookalike weeds | Chickweed: single line of hairs on stem, stretchy stem, white star flower. Violet: heart-shaped leaf, 5-petal flower. Avoid acrid-tasting imitators. | Protoanemonin (buttercup): blistering, GI irritation. |
@@ -51,13 +51,13 @@ Positive ID or do not consume. Universal Edibility Test is a LAST resort only (a
 
 ## Manifest (planned entries)
 
-| entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
-|----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | low | low | false | T2 | 3 | present |
-| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | year-round | edible-when-prepared | low | moderate | false | T2 | 4 | present |
-| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | lethal | deadly-lookalike-exists | false | T2 | 5 | present |
-| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep–Nov | edible-when-prepared | low | low | false | T2 | 4 | present |
-| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Jun | edible-when-prepared | low | moderate | false | T2 | 4 | present |
+| entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | field_id_not_appropriate | source_tier | source_count | review_status |
+|----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|--------------------------|-------------|--------------|---------------|
+| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | low | low | false | false | T2 | 3 | present |
+| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | year-round | edible-when-prepared | low | moderate | false | false | T2 | 4 | present |
+| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | lethal | deadly-lookalike-exists | false | true | T2 | 5 | present |
+| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep–Nov | edible-when-prepared | low | low | false | false | T2 | 4 | present |
+| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Jun | edible-when-prepared | low | moderate | false | false | T2 | 4 | present |
 
 `wild-onion-garlic-allium` is `hazard_severity: lethal` / `confusability_level:
 deadly-lookalike-exists` (death-camas twin) and its entry sets `field_id_not_appropriate` honestly +

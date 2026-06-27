@@ -99,7 +99,7 @@ The genus *Quercus* (oak) is large and variable, but oak trees share diagnostic 
 
 **Quality check (at harvest and processing):**
 
-- **Fresh acorns:** Feel heavy in hand; full of liquid/starch. Float test: acorns that float are usually infested or moldy (skip these).
+- **Fresh acorns:** Feel heavy in hand; full of liquid/starch. Float test: acorns that float are *often* infested or moldy — use it as a rough screen, but note it has a high false-positive rate (~50% of floating acorns may be sound per NCSU/Morina 2017). Crack and inspect floaters before discarding; a cracked interior check is more reliable than floating alone.
 - **Cracked acorns:** White, creamy interior = good. Dark, mushy, or moldy interior = discard.
 - **Insect damage:** Small round holes = acorn weevil larvae. Discard (the nut is hollowed).
 
@@ -150,7 +150,7 @@ The cold-water method is slower but preserves more nutrients than hot leaching.
 
 4. **Water change:** After 24 hours, drain the water (it will be tan/brown from tannins). Rinse the meal under running water or pour fresh cold water over it.
 
-5. **Repeat:** Soak → drain → rinse. Repeat this cycle **once per day for 5–7 days** (white oak may need only 3–4 days; red oak may need 7–10 days).
+5. **Repeat:** Soak → drain → rinse. Repeat this cycle **once per day for 5–7 days** (white oak may need only 3–4 days; red oak may need 7–10 days, and can run up to ~2 weeks for very tannic specimens).
 
 6. **Taste test:** After each 2–3 cycles, taste a small amount of the meal. When bitterness is mostly gone, leaching is complete.
 
@@ -185,17 +185,17 @@ If cold leaching is too slow, hot water accelerates tannin extraction but slight
 - **Thickener:** Acorn flour is starchy; use to thicken soups or stews.
 - **Pancakes:** Mix acorn meal with wheat flour and proceed as normal.
 
-**Real calories:** Acorn is one of the highest-calorie wild plants in the biome. Leached acorn meal is ~50% carbohydrate and 5–8% protein by dry weight — a genuine survival starch, unlike low-calorie greens.
+**Real calories:** Acorn is one of the highest-calorie wild plants in the biome. Full-fat leached acorn flour runs ~500 kcal/100g (USDA #170566) — ~55g carbohydrate, ~30g fat, ~7.5g protein — a genuine survival starch, unlike low-calorie greens.
 
 ---
 
 ## Uses & Nutrition
 
-**Nutritional profile (per 100g dried acorn flour, leached):**
-- ~370 calories
-- 5–8g protein
-- 37g carbohydrates (mostly starch)
-- 21g fat (includes beneficial unsaturated fats)
+**Nutritional profile (per 100g dried acorn flour, leached — USDA #170566, full-fat acorn flour):**
+- ~500 kcal
+- ~7.5g protein
+- ~55g carbohydrates (mostly starch)
+- ~30g fat (includes beneficial unsaturated fats)
 - Minerals: potassium, phosphorus, magnesium
 - Fiber
 
@@ -221,9 +221,11 @@ Acorn is nutrient-dense and storage-stable. A winter supply of leached acorn flo
 
 5. **Allergies:** Oak pollen allergies are common. Some people react to tannins with itching in the mouth or throat. If you have oak pollen allergies, proceed cautiously with acorn consumption.
 
-6. **Leeching time varies:** White oak acorns are lower in tannins and leach faster. Red oak acorns are higher in tannins and require longer leaching. Test for bitterness; don't guess.
+6. **Leaching time varies:** White oak acorns are lower in tannins and leach faster (3–4 days cold-water). Red oak acorns are higher in tannins and may require 7–10 days or up to ~2 weeks. Always use taste as the endpoint — bitterness gone = done. Don't guess by time alone.
 
-7. **Universal Edibility Test:** Acorns do not require it due to unmistakable ID and proven edibility once leached. The test is last-resort only (and useless for fungi).
+7. **Horse chestnut co-occurrence:** Horse chestnut (*Aesculus hippocastanum*) and native buckeyes (*Aesculus* spp.) produce nuts that are NOT acorns — they lack a scaly cap (cupule) and are larger, with a smooth, leathery husk. All *Aesculus* nuts are toxic (saponins — aesculin; GI distress, possible neurological effects). They can co-occur in the same woodlands. Confirm you have an acorn with a scaly cupule from a true oak before processing.
+
+8. **Universal Edibility Test:** Acorns do not require it due to unmistakable ID and proven edibility once leached. The test is last-resort only (and useless for fungi).
 
 ---
 

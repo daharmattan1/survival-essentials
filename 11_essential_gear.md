@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Essential Survival Gear & Materials
 
 **Philosophy**: Buy once, cry once. Quality gear lasts. Cheap gear fails when you need it most.

@@ -75,13 +75,14 @@ The confusion risk is **highest in spring (Apr–May)** when iris shoots are eme
 
 | Feature | **Cattail** | **Iris** | Discriminator |
 |---------|-----------|------|----|
-| **Leaf base shape** | Leaves sheathe stem, no clear rib | Leaves have a prominent raised center rib (veins run parallel) | Feel the leaf texture: iris has a stiff ridge down the center; cattail is flat/smooth |
-| **Leaf cross-section** | Flat (looks like a ribbon) | Flattened, but with a central ridge/keel | Iris feels like a boat keel; cattail is smooth |
+| **Leaf cross-section shape** | D-shaped: flat on one side, rounded on the other (like a ribbon with a slight convex back) | Equitant / flattened, with a prominent central ridge or keel — strongest in *Iris pseudacorus* | Squeeze the leaf edge-on; cattail = smooth D-profile; iris = distinct keel or ridge down center |
+| **Leaf base color** | Green throughout, no purple tinge | Often has a **purple-tinged leaf base** where it sheathes the stem | Check where leaves emerge from the mud; purple base = iris |
+| **Leaf center rib** | No raised rib; leaf is flat/smooth | Prominent raised center rib (strongest in *Iris pseudacorus*) | Feel the leaf texture: iris has a stiff ridge; cattail is uniformly smooth |
 | **Leaf smell** | Starchy/earthy/neutral | Musty/iris perfume scent | Iris leaves have a distinctive musty iris perfume; cattail does not |
-| **Flower/spike** | Brown cigar-shaped seed head (late spring onward) | Blue, yellow, or purple iris flower (May–Jun) | If flowers visible, ID is certain. Iris blooms purple/blue/yellow |
-| **Rhizome / tubers** | Thick, fibrous rhizome in mud | Thick, fleshy rhizome (iris rhizome is the size of a thumb/finger) | Dig and compare: iris rhizome is smooth and fat; cattail has a stringy, fibrous rhizome |
+| **Flower/spike** | Brown cigar-shaped seed head (late spring onward); absent in early spring shoots | Blue, yellow, or purple iris flower (May–Jun); no brown cigar spike | If flowers or the cigar spike are visible, ID is certain |
+| **Rhizome / tubers** | Thick, fibrous, stringy rhizome in mud; white inside | Thick, fleshy, smooth rhizome (thumb-sized); often pale tan | Dig and compare: iris rhizome is smooth and fat; cattail has a stringy, fibrous rhizome |
 
-**Why this matters:** Iris rhizomes are **toxic** (contain irisin, a glycoside that causes violent GI distress and tremors). A mistake is unlikely if you wait until flower spike / true flower appears (positive ID), but early-season harvests of cattail shoots can be confused with iris shoots.
+**Why this matters:** Iris rhizomes are **toxic** (contain pentacyclic terpenoids — zeorin, missourin, missouriensin — concentrated in the rhizome; ingestion causes nausea, vomiting, abdominal pain, and diarrhea; sap also causes skin irritation). A mistake is unlikely if you wait until flower spike / true flower appears (positive ID), but early-season harvests of cattail shoots can be confused with iris shoots.
 
 **Solution:** When harvesting spring shoots, either:
 1. Wait until the male pollen spike appears atop the stem (clearly cattail), or
@@ -93,7 +94,7 @@ The confusion risk is **highest in spring (Apr–May)** when iris shoots are eme
 
 **Vegetative form (year-round in marsh):**
 - **Stems:** Unbranched, stiff, cylindrical, 3–8 feet tall, arising singly or in clusters from rhizomes in mud/shallow water.
-- **Leaves:** Long, narrow (0.5–1 inch wide), blue-green, sheathing the stem at the base. Leaves are flat when viewed edge-on; no central ridge (unlike iris).
+- **Leaves:** Long, narrow (0.5–1 inch wide), blue-green, sheathing the stem at the base. Cross-section is D-shaped (flat on the inner face, slightly rounded on the outer face); no central ridge (unlike iris, which has a distinct central keel). Leaf base is consistently green, with no purple tinge (iris often shows purple at the leaf base).
 - **Rhizome:** White-cream inside, fibrous and stringy, often growing horizontally through mud 1–2 feet deep. No tubers.
 
 **Flower/fruiting form (late spring–fall):**

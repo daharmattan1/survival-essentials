@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2026-06-27
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Meat & Fish Processing Image Resources — MOVED
 
 > **This file is now a redirect stub.** Its content has been consolidated.
