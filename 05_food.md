@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Food - Foraging, Growing, Hunting, Fishing, Preservation
 
 **Remember**: You can survive 3 weeks without food. Water and shelter come first.
@@ -508,3 +498,15 @@ Need food?
 6. **Preservation = force multiplier** - Dry, smoke, or salt excess food
 7. **Never eat white/yellow berries** - Red/black/blue *might* be safe (still verify)
 8. **Cook all wild meat thoroughly** - Parasites are common
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, food splits two ways. Universal **technique** (passive fishing,
+trapping, processing) is [`substrate/05_food/_index.md`](substrate/05_food/_index.md). **Consumption
+/ identification** resolves through the region registry —
+[`regional/_index.md`](regional/_index.md) → the active biome's
+[`food_hub.md`](regional/mid-atlantic-appalachian/food_hub.md) → the biology indexes (read the
+deadly-look-alike matrix + mushroom doctrine FIRST). Start at [`AGENTS.md`](AGENTS.md) (retrieval
+recipe A). Positive ID or do not consume.

@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # First Aid - Critical Injuries, Common Ailments, Natural Remedies
 
 **Critical**: Medical emergencies are the most likely survival scenario. Master these basics.
@@ -584,3 +574,12 @@ tags:
 ---
 
 **Further Training**: See [10_key_resources.md](10_key_resources.md) for Red Cross training, wilderness medicine courses, and detailed medical references.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/06_first_aid/_index.md`](substrate/06_first_aid/_index.md) — PROTOCOL entries, each
+leading with RECOGNIZE → ⚠ RED FLAGS / EVACUATE and a ⚠ DO NOT. Field response, **not** medical
+advice. Start at [`AGENTS.md`](AGENTS.md) (retrieval recipe C).

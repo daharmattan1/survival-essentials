@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Navigation - Without GPS, Celestial, Terrain Reading
 
 **Context**: GPS/cell signal fails. Power grids down. You need to find your way using analog methods.
@@ -529,3 +519,12 @@ tags:
 ---
 
 **Further Reading**: See [10_key_resources.md](10_key_resources.md) for detailed navigation guides, map reading tutorials, and compass use courses.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/07_navigation/_index.md`](substrate/07_navigation/_index.md) — METHOD entries (celestial,
+terrain/map reading, dead reckoning) with a load order and manifest. Start at
+[`AGENTS.md`](AGENTS.md) for retrieval recipes.

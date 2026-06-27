@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Water - Procurement, Purification, Storage
 
 **Critical**: You need ~1 gallon (4 liters) per person per day for drinking and basic hygiene.
@@ -234,3 +224,12 @@ Do you have water source?
 3. **Ration sweat, not water** - drink when you have it
 4. **Water heater = hidden reservoir** in urban scenarios
 5. **Collection takes time** - start early, collect continuously
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/02_water/_index.md`](substrate/02_water/_index.md) — METHOD entries, each carrying the
+⚠ CONTAMINATION block (boil time, micron limit, chemical-vs-biological boundary). Start at
+[`AGENTS.md`](AGENTS.md) (retrieval recipe B).

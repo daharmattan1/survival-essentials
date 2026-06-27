@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Fire - Starting, Maintenance, Safety
 
 **Fire provides**: Warmth, water purification, cooking, morale, signaling, predator deterrent.
@@ -328,3 +318,12 @@ tags:
 3. **Standing dead wood** is driest, even in rain
 4. **Location matters** - clear area, away from hazards
 5. **More people die from cold than hunger** - prioritize fire after shelter
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/03_fire/_index.md`](substrate/03_fire/_index.md) — METHOD entries (fire lays, ignition,
+tinder→fuel progression) with a load order and manifest. Start at [`AGENTS.md`](AGENTS.md) for
+retrieval recipes.

@@ -1,13 +1,3 @@
----
-description: Documentation for shared-foundation workstream
-domain: foundation
-type: documentation
-updated: 2025-11-18
-tags:
-  - workflow:content
-  - workflow:work
-  - shared-foundation
----
 # Urban Survival - Power Outages, Civil Disruption, Bugging In
 
 **Context**: Most survival scenarios happen at home during infrastructure failures, not in wilderness.
@@ -341,3 +331,12 @@ tags:
 5. **First 72 hours are critical** - Have supplies to ride out without help
 6. **Community > lone wolf** - Coordinate with trustworthy neighbors
 7. **Morale matters** - Psychological collapse kills as much as physical needs
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/09_urban_survival/_index.md`](substrate/09_urban_survival/_index.md) — METHOD/PROTOCOL
+entries (power-outage bug-in, civil-disruption safety, and sanitation/human-waste as a disease
+vector). Start at [`AGENTS.md`](AGENTS.md) for retrieval recipes.
