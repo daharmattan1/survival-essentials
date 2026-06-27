@@ -72,15 +72,15 @@ strict:
 For field_id_not_appropriate species: refuse a field-ID-only "eat it." Expert confirmation required.
 ```
 
-## Manifest (planned entries)
+## Manifest (present entries)
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| morel-morchella | entries/morel-morchella.md | MUSHROOM | mid-atlantic-appalachian | Apr–May (lowland) | edible-when-prepared | lethal | deadly-lookalike-exists | true | T2 | 0 | planned |
-| chicken-of-the-woods-laetiporus | entries/chicken-of-the-woods-laetiporus.md | MUSHROOM | mid-atlantic-appalachian | Jun–Oct | edible-when-prepared | moderate | high | true | T2 | 0 | planned |
-| oyster-pleurotus | entries/oyster-pleurotus.md | MUSHROOM | mid-atlantic-appalachian | year-round (flushes) | edible-when-prepared | high | deadly-lookalike-exists | true | T2 | 0 | planned |
-| chanterelle-cantharellus | entries/chanterelle-cantharellus.md | MUSHROOM | mid-atlantic-appalachian | Jun–Sep | edible-when-prepared | high | deadly-lookalike-exists | true | T2 | 0 | planned |
-| wood-ear-or-puffball | entries/wood-ear-or-puffball.md | MUSHROOM | mid-atlantic-appalachian | summer–fall | conditionally-edible | lethal | deadly-lookalike-exists | true | T2 | 0 | planned |
+| morel-morchella | entries/morel-morchella.md | MUSHROOM | mid-atlantic-appalachian | Apr–May (lowland) | edible-when-prepared | lethal | deadly-lookalike-exists | true | T2 | 2 | present |
+| chicken-of-the-woods-laetiporus | entries/chicken-of-the-woods-laetiporus.md | MUSHROOM | mid-atlantic-appalachian | Jun–Oct | edible-when-prepared | moderate | high | true | T2 | 2 | present |
+| oyster-pleurotus | entries/oyster-pleurotus.md | MUSHROOM | mid-atlantic-appalachian | year-round (flushes) | edible-when-prepared | high | deadly-lookalike-exists | true | T2 | 2 | present |
+| chanterelle-cantharellus | entries/chanterelle-cantharellus.md | MUSHROOM | mid-atlantic-appalachian | Jun–Sep | edible-when-prepared | high | deadly-lookalike-exists | true | T2 | 2 | present |
+| wood-ear-or-puffball | entries/wood-ear-or-puffball.md | MUSHROOM | mid-atlantic-appalachian | summer–fall | conditionally-edible | lethal | deadly-lookalike-exists | true | T2 | 2 | present |
 
 **Doctrine compliance:** all rows `expert_id_required: true`. The morel (vs. false morel) and the
 puffball-vs-*Amanita*-button rows are `hazard_severity: lethal` / `field_id_not_appropriate: true`
