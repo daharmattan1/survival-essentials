@@ -62,7 +62,7 @@ White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal
 
 **Method (emergency context):** Trap (passive snare) or firearm (rifle/shotgun slug, where legal). Firearm requires training and legal authorization. Lethal placement: heart-lung area, behind front shoulder, into body cavity. A well-placed shot results in rapid collapse; poor placement risks prolonged suffering and escape.
 
-**Trap construction:** See [`../../../substrate/05_food/`](../../../substrate/05_food/) for full snare/deadfall technique. Deer snares require robust cordage (paracord, wire) and anchor points that will not yield; a deer has extreme force and will thrash violently if trapped alive.
+**Trap construction:** See [`../../../substrate/05_food/`](../../../../substrate/05_food/) for full snare/deadfall technique. Deer snares require robust cordage (paracord, wire) and anchor points that will not yield; a deer has extreme force and will thrash violently if trapped alive.
 
 **Humane context:** In true emergency, death should be as swift as possible. If trapped alive, dispatch humanely (heavy blunt blow to skull base is field method; quickly severable carotid/jugular is alternative).
 

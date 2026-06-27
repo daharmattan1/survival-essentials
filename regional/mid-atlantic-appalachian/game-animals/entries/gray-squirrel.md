@@ -56,7 +56,7 @@ Gray squirrel is a regulated small-game species in all Mid-Atlantic states. Norm
 
 ## Harvest
 
-**Trap method (passive):** Snare or deadfall at tree base, on logs, or along well-used foraging trails. See [`../../../substrate/05_food/`](../../../substrate/05_food/) for snare construction. Loop should be 2–3 inches in diameter, set at head height when squirrel is running along a branch or at ground level along a trail.
+**Trap method (passive):** Snare or deadfall at tree base, on logs, or along well-used foraging trails. See [`../../../substrate/05_food/`](../../../../substrate/05_food/) for snare construction. Loop should be 2–3 inches in diameter, set at head height when squirrel is running along a branch or at ground level along a trail.
 
 **Firearm method:** .22 rifle or small-caliber firearm (lethal shot to the head or spine).
 

@@ -59,7 +59,7 @@ Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal
 
 ## Harvest
 
-**Trap method (passive, energy-efficient):** Snare or deadfall at warren entrance or along well-used trail. Snare construction: see [`../../../substrate/05_food/`](../../../substrate/05_food/) for full details. Snare loop should be 2–3 inches in diameter, positioned 2–3 inches above ground at warren entrance or travel lane.
+**Trap method (passive, energy-efficient):** Snare or deadfall at warren entrance or along well-used trail. Snare construction: see [`../../../substrate/05_food/`](../../../../substrate/05_food/) for full details. Snare loop should be 2–3 inches in diameter, positioned 2–3 inches above ground at warren entrance or travel lane.
 
 **Strike method (active):** Firearm (.22 rifle) or club/cudgel (requires close approach in brush; risky). Lethal strike: back of the skull or spinal cord, severing the central nervous system.
 

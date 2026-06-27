@@ -46,8 +46,8 @@ ID / spore print / multi-source triangulation.
 |---------------|----------------------------|------------------------------------------------|---------------------|
 | **Morel** (*Morchella*) | **False morel** (*Gyromitra* spp.) | TRUE morel: cap **pitted/honeycombed**, fully **hollow** when sliced top-to-bottom, cap fused to stem. FALSE: cap **wrinkled/brain-like (lobed, not pitted)**, **chambered/cottony** inside, not uniformly hollow. | *Gyromitrin → monomethylhydrazine*: vomiting, seizures, liver/CNS damage; can be **lethal**. Not reliably cooked out. |
 | **Chicken-of-the-woods** (*Laetiporus*) | Toxic shelf fungi; conifer-grown *Laetiporus* causes GI illness in many people | Edible target: **shelf, no gills, pore surface underneath, bright orange top / yellow pores, on hardwood (esp. oak)**. Avoid look-alikes with gills or on conifer/eucalyptus. | GI distress; conifer-source reactions. Verify substrate + pore surface. |
-| **Oyster** (*Pleurotus*) | **Jack-o'-lantern** (*Omphalotus*); some *Pleurocybella*/gilled imitators | Oyster: **white-to-tan, off-center stub or no stem, decurrent gills, on dead hardwood, grows in shelving clusters**. Jack-o'-lantern: **orange**, true gills, grows on **buried wood/roots in clumps**, often glows faintly. | *Omphalotus* (muscarine-like): severe GI illness. |
-| **Chanterelle** (*Cantharellus*) | **Jack-o'-lantern** (*Omphalotus*); **false chanterelle** (*Hygrophoropsis*) | Chanterelle: **false gills = blunt forked ridges running down the stem**, not true blades; bright yellow-orange; mycorrhizal (on ground near hardwood). Jack-o'-lantern: **true, knife-edge gills**, clustered on wood. | *Omphalotus*: severe GI illness; mistaking gills for ridges is the classic fatal-class error. |
+| **Oyster** (*Pleurotus*) | **Jack-o'-lantern** (*Omphalotus*); some *Pleurocybella*/gilled imitators | Oyster: **white-to-tan, off-center stub or no stem, decurrent gills, on dead hardwood, grows in shelving clusters**. Jack-o'-lantern: **orange**, true gills, grows on **buried wood/roots in clumps**. (Bioluminescence is sometimes cited but is **not a usable field test** — visible only after long dark-adaptation, and absence proves nothing.) | *Omphalotus* (illudin toxins; muscarine-like presentation): severe GI illness, rarely fatal in healthy adults. |
+| **Chanterelle** (*Cantharellus*) | **Jack-o'-lantern** (*Omphalotus*); **false chanterelle** (*Hygrophoropsis*) | Chanterelle: **false gills = blunt forked ridges running down the stem**, not true blades; bright yellow-orange; mycorrhizal (on ground near hardwood). Jack-o'-lantern: **true, knife-edge gills**, clustered on wood. | *Omphalotus*: severe GI illness (rarely fatal); mistaking true gills for false ridges is the classic, and most common, edible-mushroom poisoning error. |
 | **Wood ear / puffball** (*Auricularia* / *Lycoperdon*) | **Amanita "egg" button** mistaken for a puffball (**destroying angel**, *A. bisporigera*) | A true puffball is **solid, uniformly white inside** when sliced. **CUT EVERY PUFFBALL TOP-TO-BOTTOM**: any **outline of a cap, gills, or stem inside = an Amanita button → DISCARD**. Wood ear: rubbery, ear-shaped, on wood. | *Amanita* **amatoxins**: delayed (6–24 h+) onset, then liver/kidney failure — **frequently lethal**. |
 
 > **The Amanita pattern is the master killer.** White gills + a volva (cup at the base) and/or a
@@ -84,8 +84,9 @@ For field_id_not_appropriate species: refuse a field-ID-only "eat it." Expert co
 
 **Doctrine compliance:** all rows `expert_id_required: true`. The morel (vs. false morel) and the
 puffball-vs-*Amanita*-button rows are `hazard_severity: lethal` / `field_id_not_appropriate: true`
-(set in-entry). ≥3 entries carry a deadly confusable (morel, oyster, chanterelle, wood-ear/puffball —
-four do). `field_id_not_appropriate: true` is set in-entry for every `deadly-lookalike-exists` row.
+(set in-entry). **Four** entries carry a deadly/toxic confusable (morel, oyster, chanterelle,
+wood-ear/puffball) — exceeding the ≥3 floor. `field_id_not_appropriate: true` is set in-entry for
+every `deadly-lookalike-exists` row.
 
 ## `check_manifests`
 

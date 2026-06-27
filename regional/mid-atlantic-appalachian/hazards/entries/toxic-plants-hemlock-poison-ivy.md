@@ -79,7 +79,7 @@ hazard_type: plant
 
 ## Cross-Link: Deadly-Twin Matrix
 
-The **hemlocks (water hemlock and poison hemlock) are the deadly twins of edible wild umbels** (wild carrot, wild parsnip, and other white-flowered members of the carrot family). See the deadly-twin matrix in [`../edible-plants/_index.md`](../edible-plants/_index.md): the critical discriminators are stem appearance (purple blotching + hairlessness + musty smell) and habitat (wet margins for water hemlock, fields for poison hemlock). **No wild umbel should ever be eaten on field ID alone.** Consult an expert or do not touch.
+The **hemlocks (water hemlock and poison hemlock) are the deadly twins of edible wild umbels** (wild carrot, wild parsnip, and other white-flowered members of the carrot family). See the deadly-twin matrix in [`../edible-plants/_index.md`](../../edible-plants/_index.md): the critical discriminators are stem appearance (purple blotching + hairlessness + musty smell) and habitat (wet margins for water hemlock, fields for poison hemlock). **No wild umbel should ever be eaten on field ID alone.** Consult an expert or do not touch.
 
 ---
 

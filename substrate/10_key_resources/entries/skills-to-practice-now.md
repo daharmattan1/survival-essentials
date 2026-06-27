@@ -210,5 +210,5 @@ review_status: draft
 - **American Red Cross CPR/AED course** — Hands-on class, recommended over self-study (T1)
 - **National Weather Service** — Sun/star navigation basics (free online, T1)
 - **USGS Topographic Maps** — Free map source for navigation practice (T1)
-- **10_key_resources survey** — [`../../10_key_resources.md`](../../10_key_resources.md) — practice recommendations for skills
+- **10_key_resources survey** — [`../../10_key_resources.md`](../../../10_key_resources.md) — practice recommendations for skills
 - **physical-book-backup-layer entry** — [`physical-book-backup-layer.md`](physical-book-backup-layer.md) — reading materials to pair with practice

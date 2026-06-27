@@ -138,5 +138,5 @@ A book alone is **insufficient under panic**. Reading "how to build a fire" and 
 - Peterson Field Guide to Edible Wild Plants, Eastern/Central North America (Archive.org out-of-copyright PDF, or buy used ~$10)
 - American Red Cross First Aid/CPR Manual (current edition, ~$15)
 - Where There Is No Doctor — David Werner (Hesperian Health Guides, free PDF + printable)
-- Survivial-essentials repo survey: [`../../10_key_resources.md`](../../10_key_resources.md)
-- Media catalog: [`../../_media/SOURCES.md`](../../_media/SOURCES.md)
+- Survivial-essentials repo survey: [`../../10_key_resources.md`](../../../10_key_resources.md)
+- Media catalog: [`../../_media/SOURCES.md`](../../../_media/SOURCES.md)

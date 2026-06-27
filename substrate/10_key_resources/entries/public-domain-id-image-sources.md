@@ -190,7 +190,7 @@ Example card:
 
 ### 5. Log Every Image in This Repo
 
-After downloading, add a row to [`../../_media/SOURCES.md`](../../_media/SOURCES.md):
+After downloading, add a row to [`../../_media/SOURCES.md`](../../../_media/SOURCES.md):
 
 Example row:
 ```
@@ -220,6 +220,6 @@ Example row:
 - **Wikimedia Commons (CC0 filter)** — https://commons.wikimedia.org/ (modern PD/CC0 photos, multi-angle)
 - **iNaturalist (CC0 subset)** — https://www.inaturalist.org/ (contemporary photos, community ID verification, region filter)
 - **Mushroom Observer** — https://mushroomobserver.org/ (regional society IDs, spore print photos, CC0 filter)
-- **CONVENTIONS.md §8 (Imagery rules)** — [`../CONVENTIONS.md`](../CONVENTIONS.md) — the hard rule that images are supporting evidence never sufficient for ID
-- **Media catalog** — [`../../_media/SOURCES.md`](../../_media/SOURCES.md) (canonical log of all local images and their sources)
-- **Survey** — [`../../10_key_resources.md`](../../10_key_resources.md)
+- **CONVENTIONS.md §8 (Imagery rules)** — [`../CONVENTIONS.md`](../../../CONVENTIONS.md) — the hard rule that images are supporting evidence never sufficient for ID
+- **Media catalog** — [`../../_media/SOURCES.md`](../../../_media/SOURCES.md) (canonical log of all local images and their sources)
+- **Survey** — [`../../10_key_resources.md`](../../../10_key_resources.md)
