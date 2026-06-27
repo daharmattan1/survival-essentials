@@ -37,11 +37,11 @@ Always state: this is field response, not medical advice; get professional care 
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| wound-infection-management | entries/wound-infection-management.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 0 | planned |
-| thermal-injury-hypo-hyperthermia | entries/thermal-injury-hypo-hyperthermia.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 0 | planned |
-| dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 0 | planned |
-| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 0 | planned |
-| bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 0 | planned |
+| wound-infection-management | entries/wound-infection-management.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 3 | present |
+| thermal-injury-hypo-hyperthermia | entries/thermal-injury-hypo-hyperthermia.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 4 | present |
+| dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | present |
+| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | present |
+| bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 4 | present |
 
 `region`, `edibility_status`, `confusability_level`, `expert_id_required` are `n/a` for protocols
 (non-biology). All five carry `hazard_severity: high|lethal` and cite **T1** (CDC / Red Cross /

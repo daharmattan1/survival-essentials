@@ -39,11 +39,11 @@ Decision:
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
-| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
-| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
-| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
-| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 0 | planned |
+| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | present |
+| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | present |
+| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | present |
+| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | present |
+| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 4 | present |
 
 Every row carries `hazard_severity: moderate|high` because untreated water is a fast killer — each
 entry will cite a **T1** source (CDC / EPA / state extension) and reproduce the CONTAMINATION block.
