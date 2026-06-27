@@ -40,7 +40,29 @@ corrections. Status column updated as fixes land.
 ## MINOR (deferred — logged for a later pass, not blocking)
 - deer "aerosol prion" framing imprecise; squirrel "prion" parenthetical (no squirrel prion); raccoon "fat harbors cysts" (cysts are in muscle); heat-stroke ice-water caution vs current "cold-water-immersion is gold standard"; "30–40% heat loss through scalp" overstated; stored-treated-water shelf-life generous; DKA 24–48h (can be 6–12h); manifest "present"-label consistency; FM 21-76 inline-cite not in frontmatter sources; check_manifests boxes unchecked.
 
+## Round 2 — Independent re-verification of the CORRECTED entries (web-sourced, 3 fresh agents)
+
+After the round-1 fixes, a second independent verification pass (mushrooms / plants / water-firstaid-game,
+each web-triangulated) confirmed the round-1 corrections were applied correctly AND caught issues the
+correction pass itself introduced or left:
+
+| # | File | Finding | Fix | Status |
+|---|------|---------|-----|--------|
+| R2-C1 | mushrooms/chanterelle-cantharellus | **CRITICAL (introduced):** safety gate + ID + prep step 8 all said "orange spore print = jack-o'-lantern (discard)" — but *O. illudens* spore print is **white-to-cream, same as chanterelle**; a forager could take a print, see cream, and wrongly proceed | Removed the false spore-print discriminator in all 3 spots; decisive test restated as blunt-forked-ridges (chanterelle) vs true-gills (jack-o'-lantern); spore print explicitly stated NOT to discriminate | FIXED + re-verified |
+| R2-M1 | mushrooms/wood-ear-or-puffball | amatoxin "50–90% untreated mortality" overstated | → ~20–50% untreated / ~10–20% treated (NAMA) | FIXED |
+| R2-M2 | edible-plants/acorn-oak | **2 fabricated citations** (an obsidian-dating paper; a carob-flavonoid paper — Haiku hallucinations) | → Bainbridge 1986 (USDA), USDA FDC 170566, Morina 2017 | FIXED |
+| R2-M3 | edible-plants/wild-onion-garlic-allium | missing the documented ramp look-alikes (false hellebore *Veratrum viride* = #1 ramp-foraging poisoning cause; lily-of-the-valley *Convallaria*) | Added both with discriminators; both caught by the onion-smell gate | FIXED |
+
+Water / first-aid / game (10 entries): round-2 verdict **SHIP** — 0 critical, 0 major; all round-1
+corrections (boil binary, filter micron, bleach 8.25%, ORS 18–20g, heat-stroke immersion, raccoon 165°F)
+verified correct vs CDC/EPA/WHO/USDA/Stop-the-Bleed. Only trivial annotation nits (ORS salt "2.5g" vs ~3g).
+
+**Round-3 targeted re-check of the 4 edited files: FINAL = SHIP** (0 critical, 0 major remaining; the
+chanterelle critical confirmed resolved in every "spore print" mention). One non-safety wording tension
+left for the human read (chanterelle line ~59 "...AND spore print" phrasing).
+
 ## Sign-off
-- Corrections applied by targeted agents fed the sourced fixes above; re-verified structurally after.
-- **The Phase-11 human safety-read by Victor still governs** — this remediation makes the entries
-  accurate enough to be worth his read; it does not replace it.
+- Two web-sourced verification rounds + a targeted re-check. All CRITICAL and MAJOR findings resolved
+  and re-verified. Remaining items are MINOR (logged above), non-safety.
+- **The Phase-11 human safety-read by Victor still governs** — this brings the entries to verified-accurate;
+  it does not replace his read.
