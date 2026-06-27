@@ -49,9 +49,10 @@ review_status: draft
 > **Do NOT use if ANY of these are present (disqualifying traits):**
 > - Undersurface has **true gills** (thin, sharp-edged blades), not forked blunt ridges
 > - Growing in dense clumps on buried wood or emerging from soil over buried tree roots
-> - Orange spore print
 > - Summer/fall fruiting from partially buried wood or root clusters (jack-o'-lantern)
-> - Ridges are actually serrated knives-edge gills
+> - Ridges are actually serrated knife-edge gills
+>
+> ⚠ **Spore print does NOT distinguish chanterelle from jack-o'-lantern** — both are white-to-cream/pale-yellow. The decisive test is **gill structure (true blades) vs. ridge structure (blunt, forked, integral to the cap)**, NOT spore-print color.
 >
 > **Confusable with:** Jack-o'-lantern (*Omphalotus* spp.) and false chanterelle (*Hygrophoropsis*) → **Chanterelle: false gills = blunt forked ridges running down the stem, bright yellow-orange, mycorrhizal (on ground near hardwood). Jack-o'-lantern: true, knife-edge gills, clustered on wood.** → *Omphalotus*: severe GI illness; **mistaking gills for ridges is the classic fatal-class error.**
 >
@@ -115,8 +116,8 @@ review_status: draft
 - Does not stain or bruise noticeably
 
 **Spore print:**
-- **White to pale yellow** — taken on white or tan paper overnight; a clear discriminator
-- Jack-o'-lantern produces orange-yellow spore prints
+- **White to pale yellow** — taken on white or tan paper overnight
+- ⚠ **Jack-o'-lantern's spore print is ALSO white-to-cream** — so spore print does NOT separate the two. The decisive test is ridge (chanterelle) vs. true gill (jack-o'-lantern) structure.
 
 **Smell:**
 - Pleasant, fruity, or slightly apricot-like (not a primary ID trait but supportive)
@@ -168,7 +169,7 @@ Chanterelle is **not safely eaten raw** and requires cooking for digestibility a
 5. **Cook thoroughly:** chanterelles are best sautéed, but also suit soups and stews. Do not eat raw or barely-cooked.
 6. **First-portion rule:** after preparation, consume a small portion (2–3 small pieces) with no other new foods or alcohol. Wait 6–8 hours for GI reaction. Only if no upset occurs, continue eating.
 7. **Avoid alcohol:** some individuals report GI distress if chanterelles are paired with beer or wine during the first trial; water only.
-8. **Spore print verification:** For any ambiguous specimen, take a spore print before cooking. White/pale yellow = chanterelle (proceed); orange/yellow = jack-o'-lantern (discard).
+8. **The decisive test is gill-vs-ridge, NOT spore print:** for any ambiguous specimen, examine the undersurface — true chanterelle has **blunt, forked ridges integral to the cap (cannot be peeled free)**; jack-o'-lantern has **thin, sharp-edged true gills (separable blades)**. ⚠ Spore print does NOT discriminate them — both are white-to-cream — so never use spore-print color to "clear" a suspect chanterelle. If the undersurface has true gills, or it grows clustered on wood/buried roots → discard.
 9. **Never mix collections:** only chanterelles in your container; do not combine with other wild mushrooms in a single bag.
 
 ---

@@ -230,7 +230,7 @@ Wood ear (*Auricularia* spp.) has **no known deadly look-alike in the mid-Atlant
 - **Latency (6–24 hours, often 8–12 hours):** asymptomatic or mild nausea
 - **Phase 1 (12–24 hours):** sudden onset vomiting, severe diarrhea, abdominal cramping, dehydration; patient may feel like typical food poisoning
 - **Phase 2 ("recovery", 24–72 hours):** symptoms subside; patient feels better and may be discharged from urgent care — **this is the false recovery; organ damage is ongoing**
-- **Phase 3 (72+ hours):** jaundice, hepatic encephalopathy, oliguria, hypoglycemia, renal failure, coagulopathy; death in 50–90% of untreated cases
+- **Phase 3 (72+ hours):** jaundice, hepatic encephalopathy, oliguria, hypoglycemia, renal failure, coagulopathy; mortality historically estimated at ~20–50% of severely-poisoned untreated cases, falling to ~10–20% with modern intensive care (per NAMA / current toxicology literature)
 - **Minimum lethal dose:** as low as ~7 mg for a small adult (a single destroying angel cap can contain 5–15 mg)
 
 **Treatment:** supportive care only (IV fluids, liver/kidney monitoring, dialysis, possibly silibinin in some centers). Prognosis is poor if the amatoxin is not rapidly cleared or if liver necrosis is already advanced by hospital admission.

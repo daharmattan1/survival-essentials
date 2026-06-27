@@ -118,6 +118,15 @@ Death camas poisonings in North America have occurred when:
 2. The smell test was skipped or the result misinterpreted ("faint smell" or "different smell").
 3. Multiple people ate the same plant from one collection, resulting in simultaneous poisoning.
 
+### Ramp-specific look-alikes (Allium tricoccum)
+
+Ramps are the spring Allium most heavily foraged in the Appalachian range, and two of their look-alikes have caused **documented hospitalizations** (the #1 ramp-foraging poisoning cause is false hellebore). Both are caught by the **same onion-smell gate** — neither smells of onion/garlic — but know them by sight:
+
+- ☠ **False hellebore (*Veratrum viride*)** — emerges in the same wet woods/floodplains at the same time as ramps. Leaves are **heavily pleated/ribbed (accordion-like), clasping a stout central stalk**; ramps have **smooth, flat leaves rising from a slender bulb**. *Veratrum* alkaloids cause severe vomiting, bradycardia, and hypotension — potentially lethal. **No onion smell.**
+- ☠ **Lily-of-the-valley (*Convallaria majalis*)** — smooth oval paired leaves, **no bulb, no onion smell**; cardiac glycosides (vomiting, arrhythmia). Often in gardens/edges.
+
+**Verdict for all of them:** crush a leaf — **no strong onion/garlic odor = do not eat**, regardless of how much it looks like a ramp.
+
 ---
 
 ## Identification

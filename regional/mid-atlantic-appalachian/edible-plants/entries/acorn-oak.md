@@ -233,5 +233,6 @@ Acorn is nutrient-dense and storage-stable. A winter supply of leached acorn flo
 
 - Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Acorn ID and leaching methods pp. 62–64.
 - USDA PLANTS Database: Quercus alba, Quercus rubra, Quercus prinus. https://plants.usda.gov — Range, habitat, physiology.
-- Basgall, M. E., & Hildebrandt, W. R. (1989). "Obsidian Hydration Dating and Temperatures of Prehistoric Fires: Experimental and Archaeological Applications." *Journal of Archaeological Science*, 16(5), 491–509. — Acorn processing and ethnobotanical history.
-- Vaya, J., & Mahmood, U. (2006). "Flavonoid Content in Leaf Extracts of Carob (*Ceratonia siliqua*), Caraway (*Carum carvi*), and Oregano (*Origanum spp.*) Plants Grown in Israel." *Journal of Agricultural and Food Chemistry*, 54(17), 6325–6331. — Tannin chemistry and nutritional content.
+- Bainbridge, D. A. (1986). *The Use of Acorns for Food in California: Past, Present, and Future.* USDA Forest Service, Gen. Tech. Rep. PSW-100. — Acorn processing, tannin leaching, and ethnobotanical history. [T2]
+- USDA FoodData Central, "Nuts, acorn flour, full fat" (FDC ID 170566). https://fdc.nal.usda.gov — Nutritional content (≈500 kcal / 30 g fat / 55 g carb / 7.5 g protein per 100 g). [T1]
+- Morina, J. L., et al. (2017). "Should we use the float test to quantify acorn viability?" *Wildlife Society Bulletin*, 41(1), 38–43. — Float-test false-positive rate (~50% of sound acorns rejected). [T2]
