@@ -42,9 +42,9 @@ covered skin; never eat an unconfirmed umbel), then a known response and a clear
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| venomous-snakes-copperhead-rattlesnake | entries/venomous-snakes-copperhead-rattlesnake.md | HAZARD | mid-atlantic-appalachian | warm months | n/a | high | moderate | false | T1 | 3 | present |
-| ticks-and-lyme | entries/ticks-and-lyme.md | HAZARD | mid-atlantic-appalachian | spring–summer peak | n/a | moderate | low | false | T1 | 4 | present |
-| toxic-plants-hemlock-poison-ivy | entries/toxic-plants-hemlock-poison-ivy.md | HAZARD | mid-atlantic-appalachian | growing season | deadly-toxic | lethal | deadly-lookalike-exists | false | T1 | 4 | present |
+| venomous-snakes-copperhead-rattlesnake | entries/venomous-snakes-copperhead-rattlesnake.md | HAZARD | mid-atlantic-appalachian | warm months | n/a | high | moderate | false | T1 | 3 | reviewed |
+| ticks-and-lyme | entries/ticks-and-lyme.md | HAZARD | mid-atlantic-appalachian | spring–summer peak | n/a | moderate | low | false | T1 | 4 | reviewed |
+| toxic-plants-hemlock-poison-ivy | entries/toxic-plants-hemlock-poison-ivy.md | HAZARD | mid-atlantic-appalachian | growing season | deadly-toxic | lethal | deadly-lookalike-exists | false | T1 | 4 | reviewed |
 
 `toxic-plants-hemlock-poison-ivy` carries `edibility_status: deadly-toxic` / `hazard_severity:
 lethal` / `confusability_level: deadly-lookalike-exists` (the hemlocks are the umbel twins) and

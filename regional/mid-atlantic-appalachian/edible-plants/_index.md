@@ -53,11 +53,11 @@ Positive ID or do not consume. Universal Edibility Test is a LAST resort only (a
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | field_id_not_appropriate | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|--------------------------|-------------|--------------|---------------|
-| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | low | low | false | false | T2 | 3 | present |
-| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | year-round | edible-when-prepared | low | moderate | false | false | T2 | 4 | present |
-| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | lethal | deadly-lookalike-exists | false | true | T2 | 5 | present |
-| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep–Nov | edible-when-prepared | low | low | false | false | T2 | 4 | present |
-| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Jun | edible-when-prepared | low | moderate | false | false | T2 | 4 | present |
+| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | low | low | false | false | T2 | 3 | reviewed |
+| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | year-round | edible-when-prepared | low | moderate | false | false | T2 | 4 | reviewed |
+| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Nov | edible-when-prepared | lethal | deadly-lookalike-exists | false | true | T2 | 5 | reviewed |
+| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep–Nov | edible-when-prepared | low | low | false | false | T2 | 4 | reviewed |
+| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Mar–Jun | edible-when-prepared | low | moderate | false | false | T2 | 4 | reviewed |
 
 `wild-onion-garlic-allium` is `hazard_severity: lethal` / `confusability_level:
 deadly-lookalike-exists` (death-camas twin) and its entry sets `field_id_not_appropriate` honestly +

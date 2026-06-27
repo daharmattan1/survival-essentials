@@ -24,8 +24,8 @@ sources:
     publisher: US Army
     url: "https://www.army.mil"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: "severe external bleeding and hemorrhagic shock"
 severity_range: "minor bleeding → controlled arterial/venous bleeding → uncontrolled hemorrhage and shock (life-threatening)"
 ---

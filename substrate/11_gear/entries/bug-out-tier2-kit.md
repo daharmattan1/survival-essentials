@@ -20,8 +20,8 @@ sources:
     publisher: FEMA
     url: https://www.fema.gov/disaster
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 item_class: [water, shelter, fire, food, medical, navigation, signaling]
 weight_oz: 320-400
 multi_use: [water storage/filter, shelter tarp/insulation, fire starting/signaling, light/navigation, tool repair, food/cooking, first-aid, map navigation]

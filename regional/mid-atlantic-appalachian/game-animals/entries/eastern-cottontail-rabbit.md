@@ -37,8 +37,8 @@ confusability_level: none
 preparation_required: true
 expert_id_required: false
 field_id_not_appropriate: false
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Legal & Ethical Note

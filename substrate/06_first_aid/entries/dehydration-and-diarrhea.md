@@ -24,8 +24,8 @@ sources:
     publisher: US Army
     url: "https://www.army.mil"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: "dehydration and diarrhea, from mild fluid loss to hypovolemic shock"
 severity_range: "thirst and mild dehydration → moderate dehydration with dizziness → severe dehydration / hypovolemic shock"
 ---

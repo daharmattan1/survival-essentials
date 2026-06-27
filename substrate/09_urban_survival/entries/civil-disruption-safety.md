@@ -24,8 +24,8 @@ sources:
     publisher: Occupational Safety and Health Administration (OSHA)
     url: "https://www.osha.gov/"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: Navigating civil disruption (protests, rioting, civil unrest) safely through awareness, conflict avoidance, and sound shelter-in-place vs. evacuation decisions
 severity_range: moderate disruption with crowd risk → active civil unrest and violence
 ---

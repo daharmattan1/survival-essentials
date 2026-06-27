@@ -24,8 +24,8 @@ sources:
     publisher: US Army Medical Department
     url: "https://www.dcoe.mil"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: "hypothermia (core temp <35°C / 95°F) and hyperthermia (heat illness)"
 severity_range: "mild shivering → severe hypothermia with cardiac arrest; heat cramps → heat stroke (life-threatening)"
 ---

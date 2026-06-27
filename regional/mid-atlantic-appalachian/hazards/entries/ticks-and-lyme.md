@@ -24,8 +24,8 @@ sources:
     publisher: American Academy of Pediatrics
     url: https://www.aap.org/
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 edibility_status: n/a
 hazard_severity: moderate
 confusability_level: low

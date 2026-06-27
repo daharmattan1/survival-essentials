@@ -37,8 +37,8 @@ sources:
     publisher: "Hesperian Health Guides / WHO"
     url: "https://www.hesperian.org/"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

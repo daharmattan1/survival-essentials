@@ -40,8 +40,8 @@ preparation_required: true
 expert_id_required: false
 field_id_not_appropriate: true
 legal_status: unrestricted
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE

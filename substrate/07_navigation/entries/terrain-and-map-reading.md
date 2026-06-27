@@ -20,8 +20,8 @@ method_for: Orient yourself on a map using contours, landforms, and terrain feat
 materials: [topographic map, compass optional, landmarks visible]
 difficulty: moderate
 hazard_severity: low
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

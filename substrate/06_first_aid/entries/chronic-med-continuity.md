@@ -24,8 +24,8 @@ sources:
     publisher: American Epilepsy Society
     url: "https://www.aesnet.org"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: "interrupted chronic medications: insulin, anticoagulants, seizure meds, cardiac meds, steroids"
 severity_range: "skipped dose → withdrawal → life-threatening hypoglycemia/hyperglycemia, bleeding, seizure, cardiac event"
 ---

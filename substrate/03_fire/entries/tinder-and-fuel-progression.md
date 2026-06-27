@@ -16,8 +16,8 @@ sources:
     publisher: Collins
     url: https://www.collins.co.uk/
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: Stage fire fuel progression so ignition transfers reliably from tinder to kindling to fuel wood
 materials:
   - Tinder (char cloth, bark, leaves, fatwood)

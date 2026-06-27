@@ -20,8 +20,8 @@ sources:
     publisher: FAO / International Commission
     url: "https://www.fao.org"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: "Capture small game (rabbits, squirrels, hares, ground fowl) passively using snares and deadfall traps"
 materials:
   - "Wire (salvaged, fencing wire) or cordage (plant fiber, rawhide strips, paracord)"

@@ -49,9 +49,9 @@ Always: "Positive ID or do not consume." Cook all wild meat thoroughly (parasite
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| passive-fishing-trotline-and-traps | entries/passive-fishing-trotline-and-traps.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | present |
-| small-game-trapping-snares | entries/small-game-trapping-snares.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | present |
-| fish-and-game-processing-basics | entries/fish-and-game-processing-basics.md | METHOD | universal | n/a | conditionally-edible | moderate | n/a | n/a | T2 | 3 | present |
+| passive-fishing-trotline-and-traps | entries/passive-fishing-trotline-and-traps.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | reviewed |
+| small-game-trapping-snares | entries/small-game-trapping-snares.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | reviewed |
+| fish-and-game-processing-basics | entries/fish-and-game-processing-basics.md | METHOD | universal | n/a | conditionally-edible | moderate | n/a | n/a | T2 | 3 | reviewed |
 
 `region: universal` for all — technique is biome-independent. `fish-and-game-processing-basics`
 carries `edibility_status: conditionally-edible` and `hazard_severity: moderate` because the

@@ -34,9 +34,9 @@ Preparing in calm (best ROI)?    → skills-to-practice-now (drill the 5 core sk
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| physical-book-backup-layer | entries/physical-book-backup-layer.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T2 | 5 | present |
-| public-domain-id-image-sources | entries/public-domain-id-image-sources.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T1 | 6 | present |
-| skills-to-practice-now | entries/skills-to-practice-now.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T3 | 4 | present |
+| physical-book-backup-layer | entries/physical-book-backup-layer.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T2 | 5 | reviewed |
+| public-domain-id-image-sources | entries/public-domain-id-image-sources.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T1 | 6 | reviewed |
+| skills-to-practice-now | entries/skills-to-practice-now.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T3 | 4 | reviewed |
 
 These are reference/pointer entries (type METHOD as the closest fit for "how to use the backup
 layer"); danger facets are `none`/`n/a`. `public-domain-id-image-sources` mirrors

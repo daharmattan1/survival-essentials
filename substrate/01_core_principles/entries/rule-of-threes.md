@@ -16,8 +16,8 @@ sources:
     publisher: Crown Publishers
     url: null
     tier: T3
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 principle_for: priority-order-under-scarcity
 ---
 

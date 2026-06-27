@@ -16,8 +16,8 @@ sources:
     publisher: Backpacking Light
     url: https://backpackinglight.com/
     tier: T3
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 item_class: [cutting, fire, light, water, medical]
 weight_oz: 18-24
 multi_use: [cut/baton, start fire/signal, light/read, purify water, emergency medical]

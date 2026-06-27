@@ -20,8 +20,8 @@ sources:
     publisher: American Red Cross & USDA Extension
     url: https://www.redcross.org/
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 edibility_status: n/a
 hazard_severity: high
 confusability_level: moderate

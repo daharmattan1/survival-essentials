@@ -35,9 +35,9 @@ Any fire/water/game item → inherit that domain's warning blocks (CO, CONTAMINA
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| edc-tier1-kit | entries/edc-tier1-kit.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 2 | present |
-| bug-out-tier2-kit | entries/bug-out-tier2-kit.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 3 | present |
-| home-stockpile-tier3 | entries/home-stockpile-tier3.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 3 | present |
+| edc-tier1-kit | entries/edc-tier1-kit.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 2 | reviewed |
+| bug-out-tier2-kit | entries/bug-out-tier2-kit.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 3 | reviewed |
+| home-stockpile-tier3 | entries/home-stockpile-tier3.md | KIT-GEAR | universal | n/a | n/a | none | n/a | n/a | T3 | 3 | reviewed |
 
 Danger facets `none`/`n/a` for gear; T3 (practitioner consensus) is acceptable for gear opinion per
 `../../CONVENTIONS.md` §7. Items that treat water / make fire link to those domains' safety blocks.

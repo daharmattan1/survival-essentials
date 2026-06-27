@@ -16,8 +16,8 @@ sources:
     publisher: Wilderness Survival Institute
     url: null
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 principle_for: panic-management-decision-making
 ---
 

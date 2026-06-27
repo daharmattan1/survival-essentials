@@ -24,8 +24,8 @@ sources:
     publisher: American Red Cross
     url: "https://www.redcross.org/"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: Surviving a multi-day power outage by maintaining heat or cold, managing food safety, securing lighting, and avoiding carbon monoxide poisoning
 materials:
   - Blankets, sleeping bags, or layered clothing (for warmth without power)

@@ -20,8 +20,8 @@ method_for: Find absolute direction (north) using celestial objects (sun, Polari
 materials: [shadow-stick or straight object 3-4 ft long, clear view of sky, flat ground for shadow-stick method]
 difficulty: easy
 hazard_severity: low
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

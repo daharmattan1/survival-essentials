@@ -20,8 +20,8 @@ sources:
     publisher: US Fish & Wildlife Service
     url: "https://www.fws.gov"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: "Catch fish passively while attending to other survival priorities"
 materials:
   - "Natural cordage (plant fiber, stripped willow, rawhide) or improvised line"

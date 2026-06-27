@@ -16,8 +16,8 @@ sources:
     publisher: William Collins
     url: ""
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: "Choose safe shelter site free of environmental hazards"
 materials:
   - "Eyes / observation skills"

@@ -16,8 +16,8 @@ sources:
     publisher: Collins
     url: https://www.collins.co.uk/
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: Create an ignition source using tools available in survival kits or the field
 materials:
   - Lighter, ferro rod, waterproof matches, or friction method components

@@ -24,8 +24,8 @@ sources:
     publisher: American Association of Poison Control Centers
     url: https://www.aapcc.org/
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 edibility_status: deadly-toxic
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists

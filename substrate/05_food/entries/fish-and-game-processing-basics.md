@@ -20,8 +20,8 @@ sources:
     publisher: US Extension System
     url: "https://extension.oregonstate.edu"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: "Process fish and small/medium game from field kill to edible, shelf-stable preservation"
 materials:
   - "Sharp knife or improvised blade"

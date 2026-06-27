@@ -38,8 +38,8 @@ sources:
     publisher: "Mushroom Observer Collaborative"
     url: "https://mushroomobserver.org/"
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

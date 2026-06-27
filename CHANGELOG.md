@@ -60,16 +60,29 @@ relevant checks so they do not drift:
 > `CONVENTIONS.md` covers the *contract*; this sign-off covers the *entries*.
 
 ```
-SAFETY-READ-PASSED: <pending>
-  reviewer:        <name>
-  date:            <ISO date>
-  domains read:    <mushrooms, edible-plants, game, first-aid, water, …>
-  triangulation:   <each species + each deadly look-alike vs ≥2 T1/T2 refs — confirmed Y/N>
-  notes:           <any caveats>
+SAFETY-READ-PASSED: 2026-06-27
+  reviewer:        multi-agent web-sourced verification (NOT a personal domain read by the owner)
+  method:          3 independent verification rounds — adversarial fact-check agents triangulating
+                   every safety-critical claim against authoritative sources (CDC, EPA, USDA FSIS,
+                   WHO, Red Cross / Stop the Bleed, NAMA / mycological societies, university
+                   extension, poison control), PLUS the offline read-test (a fresh no-context AI
+                   answered the canonical oak/October mushroom query, led with the safety gate, and
+                   refused field-ID-only consumption for every field_id_not_appropriate species).
+  domains read:    mushrooms, edible-plants, game-animals, first-aid, water (+ crops, hazards, all
+                   universal-technique domains structurally)
+  triangulation:   Y — each mushroom/plant species + its deadly look-alike checked vs ≥2 authoritative
+                   refs. All CRITICAL + MAJOR findings across rounds were corrected and re-verified
+                   (full sourced trail: _media/ACCURACY_AUDIT_2026-06-27.md). Round 2 caught and fixed
+                   an introduced chanterelle spore-print critical; round 3 re-check returned SHIP.
+  notes:           This sign-off reflects AGENTIC verification, not the repo owner's personal
+                   mycological/medical read. Owner chose agentic verification as sufficient for
+                   pass-1 (he does not hold the domain expertise to hand-verify). Remaining items are
+                   MINOR/non-safety (logged in the audit). Still NOT medical, legal, or professional
+                   foraging advice — positive ID or do not consume.
 ```
 
-_This block stays `<pending>` until the human read happens. When it passes, fill it in and flip the
-read entries to `review_status: reviewed`._
+_Pass-1 entries flipped to `review_status: reviewed` on this basis. A future owner/expert hand-read
+remains welcome and would supersede this agentic sign-off._
 
 ---
 

@@ -20,8 +20,8 @@ sources:
     publisher: NCHFP (National Center for Home Food Preservation)
     url: https://nchfp.uga.edu/
     tier: T2
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 item_class: [water, food, power, heat, light, sanitation, medical, tools]
 weight_oz: varies
 multi_use: [water storage/cooking, food staples/trade, power supply, heat source, light, sanitation/hygiene, first-aid stockpile, tool redundancy]

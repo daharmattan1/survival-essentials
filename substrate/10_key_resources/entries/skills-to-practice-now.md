@@ -33,8 +33,8 @@ sources:
     publisher: "This repo"
     url: "../../10_key_resources.md"
     tier: T3
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

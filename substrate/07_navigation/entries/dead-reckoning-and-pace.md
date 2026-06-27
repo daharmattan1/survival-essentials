@@ -20,8 +20,8 @@ method_for: Hold a compass bearing and estimate distance traveled using pace cou
 materials: [compass optional (but highly useful), method works without it, flat ground for pace calibration, map optional]
 difficulty: moderate
 hazard_severity: low
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 ---
 
 ## Goal & When To Use

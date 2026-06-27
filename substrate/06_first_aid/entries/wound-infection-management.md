@@ -20,8 +20,8 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/hai/"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: "wound infection, from minor contamination to sepsis"
 severity_range: "minor surface infection → tissue infection → sepsis (life-threatening)"
 ---

@@ -28,8 +28,8 @@ sources:
     publisher: FEMA
     url: "https://www.fema.gov/"
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 protocol_for: Containing human waste safely and preventing fecal-oral disease (cholera, dysentery, hepatitis A, typhoid) when plumbing fails or sewage systems are compromised
 severity_range: minor sanitation disruption (48-hour outage, backup to toilet) → prolonged sewage system failure (multi-week outage, unsafe drinking water)
 ---

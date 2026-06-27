@@ -16,8 +16,8 @@ sources:
     publisher: American Red Cross
     url: ""
     tier: T1
-last_reviewed: draft
-review_status: draft
+last_reviewed: 2026-06-27
+review_status: reviewed
 method_for: "Insulate shelter from ground conduction and trap dead air"
 materials:
   - "Debris (leaves, pine needles, bark, grass)"
