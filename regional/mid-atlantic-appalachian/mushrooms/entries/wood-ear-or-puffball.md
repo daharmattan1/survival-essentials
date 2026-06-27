@@ -233,6 +233,18 @@ Wood ear (*Auricularia* spp.) has **no known deadly look-alike in the mid-Atlant
 
 ---
 
+## Reference Photos
+
+Local CC0 reference image (in [`_media/photos/`](../../../../_media/photos/), full attribution in
+[`_media/SOURCES.md`](../../../../_media/SOURCES.md)). **Supporting evidence only — a photo is NEVER
+sufficient for ID; the slice test and positive-ID gate above govern.**
+
+- ☠ Destroying angel (*Amanita bisporigera*): `destroying-angel_amanita-bisporigera_CC0.jpg` — the
+  lethal Amanita whose "egg"/button stage is mistaken for a puffball. A true puffball is **solid and
+  uniformly white** inside; any outline of a cap/gills/stem when sliced = an Amanita button → discard.
+
+---
+
 ## Sources
 
 - Peterson, R. T., & McKenny, M. (1987). *A Field Guide to Mushrooms of North America*. Houghton Mifflin Harcourt. [T2]

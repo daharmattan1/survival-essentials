@@ -55,14 +55,25 @@ row it came from.
 
 ### Photos (`photos/`) — Phase 8, real PD/CC0 deadly-pair photos
 
-_None yet._ When added, each row: `local file | depicts | source (from table above) | license | attribution | angles/structures shown`.
+Pulled 2026-06-27. **Every file below is CC0 (public-domain dedication)** verified against the
+Wikimedia Commons file metadata (`LicenseShortName`) at download time. Images are **supporting
+evidence, never sufficient for ID** (`CONVENTIONS.md` §8) — the entries that link them say so.
 
-> Priority pairs to pull (deadly first), per the deadly-look-alike matrices:
-> - **Morel vs. false morel** (*Morchella* vs. *Gyromitra*) — `mushrooms/`
-> - **Wild onion/garlic vs. death camas** (*Allium* vs. *Toxicoscordion*) — `edible-plants/`
-> - **Edible umbel vs. poison/water hemlock** — `edible-plants/` + `hazards/`
-> - **Puffball vs. Amanita "egg" button** — `mushrooms/`
-> - **Chanterelle/oyster vs. jack-o'-lantern** — `mushrooms/`
+| Local file | Depicts | Role in pair | License | Author (via Wikimedia Commons) | Source page |
+|------------|---------|--------------|---------|--------------------------------|-------------|
+| `photos/morel-true_morchella-americana_CC0.jpg` | True morel (*Morchella americana*) — pitted/honeycombed cap, hollow | **Edible** half of morel pair | CC0 | Erik Erbes (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Morchella_americana_69515346.jpg) |
+| `photos/false-morel_gyromitra-esculenta_CC0.jpg` | False morel (*Gyromitra esculenta*) — wrinkled/brain-like, chambered | **☠ Deadly** half of morel pair | CC0 | Kruczy89 | [Commons](https://commons.wikimedia.org/wiki/File:Gyromitra_esculenta01.jpg) |
+| `photos/wild-onion_allium-canadense_CC0.png` | Wild onion (*Allium canadense*) | **Edible** half of allium pair (smell test) | CC0 | Cleome Serrulata | [Commons](https://commons.wikimedia.org/wiki/File:Allium_canadense_var._hyacinthoides.png) |
+| `photos/death-camas_toxicoscordion-venenosum_CC0.jpg` | Death camas (*Toxicoscordion venenosum*) | **☠ Deadly** half of allium pair | CC0 | Craig Martin (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Toxicoscordion_venenosum_-_Craig_Martin_01.jpg) |
+| `photos/destroying-angel_amanita-bisporigera_CC0.jpg` | Destroying angel (*Amanita bisporigera*) | **☠ Deadly** — the Amanita "egg"/button puffball mistake | CC0 | "Louis" (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_97861769.jpg) |
+
+> **Coverage:** 3 of the highest-stakes pairs from the matrices — morel/false-morel,
+> wild-onion/death-camas, and the destroying-angel (puffball-button mistake). Remaining priority
+> pairs (edible umbel vs. hemlock; chanterelle/oyster vs. jack-o'-lantern) are link-only for now and
+> are candidates for a later photo pass.
+> **Reminder:** a photo confirms nothing on its own. Positive ID requires the entry's
+> `## ⚠ POSITIVE-ID SAFETY GATE` (multiple concurrent traits + spore print where relevant) and, for
+> `field_id_not_appropriate` species, expert confirmation.
 
 ### Diagrams (`diagrams/`) — Phase 9, technique only (never biology ID)
 

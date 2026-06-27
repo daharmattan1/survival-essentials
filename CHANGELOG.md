@@ -75,6 +75,36 @@ read entries to `review_status: reviewed`._
 
 ## Change log
 
+### 2026-06-27 — Phases 3–8: entries + deadly-pair photos
+
+- **Phases 3–7:** Wrote **60 structured entries** (Haiku agents, ≤5 per wave, schema-strict), all
+  `review_status: draft` pending the Phase-11 human safety read:
+  - **Phase 3 — what-kills-you-fast core:** `02_water` ×5 (each with the `⚠ CONTAMINATION` block),
+    `06_first_aid` ×5 (each with RED FLAGS / EVAC + DO NOT + a not-medical-advice disclaimer).
+  - **Phase 4 — safety-critical biology:** `edible-plants` ×5 + `mushrooms` ×5; every entry leads
+    with the `⚠ POSITIVE-ID SAFETY GATE`; deadly-look-alike species flagged
+    `field_id_not_appropriate: true`; discriminators pulled verbatim from the index matrices.
+  - **Phase 5 — region biology II:** `game-animals` ×5 (white-tailed **deer** full
+    field-dress→skin→butcher→preserve flow + CWD/prion; rabbit/tularemia; raccoon/trichinella),
+    `crops` ×5 (7a windows + seed saving), `hazards` ×3 (hemlock cross-linked to the edible-plants
+    deadly-twin matrix).
+  - **Phase 6 — universal technique I:** `01_core_principles` ×3, `03_fire` ×3, `04_shelter` ×3.
+  - **Phase 7 — universal technique II:** `05_food`-technique ×3, `07_navigation` ×3,
+    `08_communication` ×3, `09_urban_survival` ×3 (incl. sanitation/human-waste disease-vector +
+    power-outage CO danger), `11_gear` ×3, `10_key_resources` ×3.
+  - All manifests updated `planned → present`. Repo-wide invariants verified after each phase: 0
+    `danger_class`, 0 banned `safe` token on biology facets.
+  - **Note (open for safety-read):** the per-domain counts sum to **60**; the success-criterion
+    headline says "≥63." Every domain meets its individual target — the 60-vs-63 reconciliation is
+    deferred to Victor at the Phase-11 gate.
+- **Phase 8 — deadly-pair reference photos:** pulled **5 verified CC0** images into `_media/photos/`
+  covering 3 highest-stakes pairs (morel/false-morel, wild-onion/death-camas, destroying-angel),
+  logged with full attribution in `_media/SOURCES.md`, and linked from the morel, puffball, and
+  wild-onion entries as **supporting evidence, never sufficient for ID**.
+- **Phase 9 — technique diagrams: SKIPPED** (optional/non-blocking per the plan). The substrate is
+  text-complete; generated technique line-art adds marginal value for pass-1 and can be a later
+  pass. No AI-generated biology ID imagery was produced (hard rule).
+
 ### 2026-06-27 — Phase 0 / Phase 2: contract + scaffolding (no entries)
 
 - **Phase 0 (prior):** Authored the structural contract — `SCHEMAS.md` (entry facets + body

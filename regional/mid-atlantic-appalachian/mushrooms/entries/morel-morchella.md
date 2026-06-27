@@ -154,6 +154,19 @@ Morels are **not safely eaten raw**. They contain chitin and other compounds tha
 
 ---
 
+## Reference Photos
+
+Local CC0 reference images (in [`_media/photos/`](../../../../_media/photos/), full attribution in
+[`_media/SOURCES.md`](../../../../_media/SOURCES.md)). **Supporting evidence only — a photo is
+NEVER sufficient for ID; the positive-ID gate above governs.**
+
+- True morel (*Morchella americana*): `morel-true_morchella-americana_CC0.jpg` — note the
+  **pitted/honeycombed** cap, fully **hollow** when sliced.
+- ☠ False morel (*Gyromitra esculenta*): `false-morel_gyromitra-esculenta_CC0.jpg` — note the
+  **wrinkled/brain-like, lobed** cap, **chambered** (not hollow) inside.
+
+---
+
 ## Sources
 
 - Peterson, R. T., & McKenny, M. (1987). *A Field Guide to Mushrooms of North America*. Houghton Mifflin Harcourt. [T2]

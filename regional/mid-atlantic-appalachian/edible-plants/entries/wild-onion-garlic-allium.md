@@ -218,6 +218,19 @@ No detoxification or leaching is required. The onion/garlic compounds are the ed
 
 ---
 
+## Reference Photos
+
+Local CC0 reference images (in [`_media/photos/`](../../../../_media/photos/), full attribution in
+[`_media/SOURCES.md`](../../../../_media/SOURCES.md)). **Supporting evidence only — a photo is NEVER
+sufficient for ID. The crush-and-smell test in the safety gate above is the decisive field check.**
+
+- Wild onion (*Allium canadense*): `wild-onion_allium-canadense_CC0.png` — but appearance alone does
+  NOT confirm it: only a **strong onion/garlic smell when crushed** does.
+- ☠ Death camas (*Toxicoscordion venenosum*): `death-camas_toxicoscordion-venenosum_CC0.jpg` — the
+  lethal look-alike, which has **no onion smell**. No smell ⇒ do not eat.
+
+---
+
 ## Sources
 
 - Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Allium species ID pp. 240–242; death camas warning pp. 243–244.
