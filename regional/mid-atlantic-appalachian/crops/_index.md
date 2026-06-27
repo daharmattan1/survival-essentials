@@ -35,11 +35,11 @@ Calendar context: ../seasonality.md (plant after mid-Apr; harvest/cure before la
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| potato | entries/potato.md | CROP | mid-atlantic-appalachian | plant Apr, harvest Jul–Sep | edible-when-prepared | low | none | false | T1 | 0 | planned |
-| beans-dry | entries/beans-dry.md | CROP | mid-atlantic-appalachian | plant May, harvest Aug–Sep | edible-when-prepared | moderate | none | false | T1 | 0 | planned |
-| winter-squash | entries/winter-squash.md | CROP | mid-atlantic-appalachian | plant May–Jun, harvest Sep–Oct | edible-when-prepared | low | none | false | T1 | 0 | planned |
-| kale-collards | entries/kale-collards.md | CROP | mid-atlantic-appalachian | plant Apr & Aug, harvest into winter | edible-raw | none | none | false | T1 | 0 | planned |
-| corn-flint | entries/corn-flint.md | CROP | mid-atlantic-appalachian | plant May, harvest Sep–Oct | edible-when-prepared | low | none | false | T1 | 0 | planned |
+| potato | entries/potato.md | CROP | mid-atlantic-appalachian | plant Apr, harvest Jul–Sep | edible-when-prepared | low | none | false | T1 | 3 | present |
+| beans-dry | entries/beans-dry.md | CROP | mid-atlantic-appalachian | plant May, harvest Aug–Sep | edible-when-prepared | moderate | none | false | T1 | 4 | present |
+| winter-squash | entries/winter-squash.md | CROP | mid-atlantic-appalachian | plant May–Jun, harvest Sep–Oct | edible-when-prepared | low | none | false | T1 | 3 | present |
+| kale-collards | entries/kale-collards.md | CROP | mid-atlantic-appalachian | plant Apr & Aug, harvest into winter | edible-raw | none | none | false | T1 | 3 | present |
+| corn-flint | entries/corn-flint.md | CROP | mid-atlantic-appalachian | plant May, harvest Sep–Oct | edible-when-prepared | low | none | false | T1 | 4 | present |
 
 `beans-dry` is `hazard_severity: moderate` + `preparation_required: true` (raw/undercooked dry beans
 contain lectins → must be cooked; the entry carries `## ⚠ MANDATORY PREPARATION`). Potato note: green
