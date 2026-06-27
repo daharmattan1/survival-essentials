@@ -386,3 +386,12 @@ You can't control the situation, but you can control your response. Stay calm, p
 **The best survival strategy**: Prepare before the emergency. Train your skills. Plan with your family. Test your gear. Build mental resilience.
 
 **When emergency hits**: Use what you practiced. Trust your training. Take it one decision at a time. Never give up.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/01_core_principles/_index.md`](substrate/01_core_principles/_index.md) — PRINCIPLE
+entries (rule of threes, STOP priorities, will to live) with a load order and manifest. Start at
+[`AGENTS.md`](AGENTS.md) for retrieval recipes.

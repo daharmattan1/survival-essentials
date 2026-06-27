@@ -234,3 +234,12 @@ Do you have water source?
 3. **Ration sweat, not water** - drink when you have it
 4. **Water heater = hidden reservoir** in urban scenarios
 5. **Collection takes time** - start early, collect continuously
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/02_water/_index.md`](substrate/02_water/_index.md) — METHOD entries, each carrying the
+⚠ CONTAMINATION block (boil time, micron limit, chemical-vs-biological boundary). Start at
+[`AGENTS.md`](AGENTS.md) (retrieval recipe B).

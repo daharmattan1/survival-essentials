@@ -541,3 +541,12 @@ tags:
 ---
 
 **Further Resources**: See [10_key_resources.md](10_key_resources.md) for ham radio licensing, equipment reviews, and communication planning guides.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/08_communication/_index.md`](substrate/08_communication/_index.md) — METHOD entries
+(visual/audible signaling, radio bands, mesh/emergency comms) with a load order and manifest. Start
+at [`AGENTS.md`](AGENTS.md) for retrieval recipes.

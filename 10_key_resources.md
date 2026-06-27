@@ -324,3 +324,13 @@ This repo gives you 90% of what you need. External resources are for:
 
 **Last Updated**: 2025-11-02
 **Maintenance**: Review and update this list annually
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/10_key_resources/_index.md`](substrate/10_key_resources/_index.md) — the backup layers
+(physical books, public-domain ID image sources, skills to drill). Every external image/source is
+logged in [`_media/SOURCES.md`](_media/SOURCES.md). Start at [`AGENTS.md`](AGENTS.md) for retrieval
+recipes.

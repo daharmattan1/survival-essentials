@@ -529,3 +529,12 @@ tags:
 ---
 
 **Further Reading**: See [10_key_resources.md](10_key_resources.md) for detailed navigation guides, map reading tutorials, and compass use courses.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/07_navigation/_index.md`](substrate/07_navigation/_index.md) — METHOD entries (celestial,
+terrain/map reading, dead reckoning) with a load order and manifest. Start at
+[`AGENTS.md`](AGENTS.md) for retrieval recipes.

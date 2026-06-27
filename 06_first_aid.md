@@ -584,3 +584,12 @@ tags:
 ---
 
 **Further Training**: See [10_key_resources.md](10_key_resources.md) for Red Cross training, wilderness medicine courses, and detailed medical references.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/06_first_aid/_index.md`](substrate/06_first_aid/_index.md) — PROTOCOL entries, each
+leading with RECOGNIZE → ⚠ RED FLAGS / EVACUATE and a ⚠ DO NOT. Field response, **not** medical
+advice. Start at [`AGENTS.md`](AGENTS.md) (retrieval recipe C).

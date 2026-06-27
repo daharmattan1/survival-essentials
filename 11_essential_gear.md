@@ -422,3 +422,12 @@ tags:
 
 **Last Updated**: 2025-11-02
 **Status**: Complete guide ready for use
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/11_gear/_index.md`](substrate/11_gear/_index.md) — KIT-GEAR entries (EDC tier 1, bug-out
+tier 2, home stockpile tier 3) with multi-use discipline and a manifest. Start at
+[`AGENTS.md`](AGENTS.md) for retrieval recipes.

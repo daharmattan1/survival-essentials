@@ -455,3 +455,12 @@ Before sleeping, verify:
 ---
 
 **Further Reading**: See [10_key_resources.md](10_key_resources.md) for detailed external guides and video tutorials.
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/04_shelter/_index.md`](substrate/04_shelter/_index.md) — METHOD entries (site selection
+& hazards, ground/insulation barrier, shelter types) with a load order and manifest. Start at
+[`AGENTS.md`](AGENTS.md) for retrieval recipes.

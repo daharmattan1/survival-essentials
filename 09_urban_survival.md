@@ -341,3 +341,12 @@ tags:
 5. **First 72 hours are critical** - Have supplies to ride out without help
 6. **Community > lone wolf** - Coordinate with trustworthy neighbors
 7. **Morale matters** - Psychological collapse kills as much as physical needs
+
+---
+
+## Deep substrate ↓
+
+For an AI reasoning offline, the structured layer for this domain is
+[`substrate/09_urban_survival/_index.md`](substrate/09_urban_survival/_index.md) — METHOD/PROTOCOL
+entries (power-outage bug-in, civil-disruption safety, and sanitation/human-waste as a disease
+vector). Start at [`AGENTS.md`](AGENTS.md) for retrieval recipes.
