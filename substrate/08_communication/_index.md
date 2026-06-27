@@ -34,9 +34,9 @@ Pre-arrange before the emergency: signal kit staged, radio charged, contact plan
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 0 | planned |
-| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 0 | planned |
-| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T3 | 0 | planned |
+| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | present |
+| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | present |
+| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T3 | 4 | present |
 
 `radio-basics-and-bands` cites FCC/NOAA (T1) for band/licensing facts. Signaling from FM 21-76 (T2).
 

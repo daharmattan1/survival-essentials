@@ -35,9 +35,9 @@ Set up sanitation EARLY — it's a disease problem, not a comfort problem.
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 0 | planned |
-| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T2 | 0 | planned |
-| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 0 | planned |
+| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | present |
+| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T2 | 4 | present |
+| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | present |
 
 `power-outage-bug-in` (`high`) carries the carbon-monoxide warning; `sanitation-and-human-waste`
 (`high`) is a disease-vector protocol citing CDC (T1).
