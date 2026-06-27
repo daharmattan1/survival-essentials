@@ -32,9 +32,9 @@ Principle: a small space you can heat > a large space you can't. Don't sweat bui
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| site-selection-and-hazards | entries/site-selection-and-hazards.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 0 | planned |
-| insulation-and-ground-barrier | entries/insulation-and-ground-barrier.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 0 | planned |
-| emergency-shelter-types | entries/emergency-shelter-types.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 0 | planned |
+| site-selection-and-hazards | entries/site-selection-and-hazards.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 2 | present |
+| insulation-and-ground-barrier | entries/insulation-and-ground-barrier.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | present |
+| emergency-shelter-types | entries/emergency-shelter-types.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | present |
 
 `site-selection-and-hazards` carries `hazard_severity: moderate` (the site itself can kill).
 Sources FM 21-76 (T2).

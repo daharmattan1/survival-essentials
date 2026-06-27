@@ -33,9 +33,9 @@ Apply BEFORE diving into any technique domain — it tells you which domain to u
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| rule-of-threes | entries/rule-of-threes.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 0 | planned |
-| survival-priorities-stop | entries/survival-priorities-stop.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 0 | planned |
-| psychology-and-will-to-live | entries/psychology-and-will-to-live.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T3 | 0 | planned |
+| rule-of-threes | entries/rule-of-threes.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 2 | present |
+| survival-priorities-stop | entries/survival-priorities-stop.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 2 | present |
+| psychology-and-will-to-live | entries/psychology-and-will-to-live.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T3 | 2 | present |
 
 Biology danger facets are `n/a` (PRINCIPLE entries are doctrine, not consumables). Sources optional
 but FM 21-76 / *Deep Survival* (T2/T3) where cited.
