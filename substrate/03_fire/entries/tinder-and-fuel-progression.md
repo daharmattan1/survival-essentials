@@ -8,21 +8,21 @@ usda_zone: n/a
 confidence: high
 source_tier: T2
 sources:
-  - title: FM 21-76 Survival (U.S. Army)
-    publisher: Department of Defense
-    url: https://archive.org/details/FM21-76/
+  - title: ATP 3-50.21 Survival (Sept 2018), Chapter 5 Fire, paras 5-8 to 5-22 and 5-44
+    publisher: U.S. Army (Headquarters, Department of the Army)
+    url: https://archive.org/details/survival-atp-3-50-21
     tier: T2
-  - title: SAS Survival Handbook
-    publisher: Collins
-    url: https://www.collins.co.uk/
+  - title: FM 21-76 US Army Survival Manual, Chapter 7 Firecraft, "Fire Material Selection" (reprint)
+    publisher: U.S. Army (reprint hosted by San Jose State University)
+    url: https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
     tier: T2
 last_reviewed: 2026-06-27
 review_status: reviewed
 method_for: Stage fire fuel progression so ignition transfers reliably from tinder to kindling to fuel wood
 materials:
-  - Tinder (char cloth, bark, leaves, fatwood)
-  - Kindling (pencil to wrist-thick twigs)
-  - Fuel wood (arm to leg-thick logs)
+  - Tinder (charred cloth, bark, dry grass, seed down, feather sticks)
+  - Kindling (pencil lead, pencil, then thumb thickness)
+  - Fuel wood (at least forearm thick)
   - Platforms or containers to keep fuel staged and accessible
 difficulty: low
 hazard_severity: low
@@ -30,7 +30,9 @@ hazard_severity: low
 
 ## Goal & When To Use
 
-A fire dies when the fuel gradient is broken: a spark lights tinder, but tinder goes out before kindling catches; kindling burns but isn't touching fuel logs; fuel logs are too wet or large to ignite from small flames. **Stage the progression before lighting** — lay out tinder, kindling, and fuel in advance, so each tier is sized to ignite the next and positioned to transfer heat efficiently. This is the single most common mistake beginners make: lighting a match, holding it to twigs, watching it die, and concluding "the fire is out of kindling." The fire never had a progression.
+A fire dies when the fuel gradient is broken: a spark lights tinder, but the tinder goes out before kindling catches; kindling burns but isn't touching fuel logs; fuel logs are too wet or large to ignite from small flames. **Stage the progression before lighting.** Lay out tinder, kindling and fuel in advance, so each tier is sized to ignite the next. Fire building runs in three phases, tinder, kindling and fuel, each an increase in fuel size matched to the heat and oxygen available. If one phase is skipped, the fire is likely to fail [ATP 5-9]. The usual beginner mistake is to light a match, hold it to twigs, watch it die, and conclude the fire is out of kindling. The fire never had a progression.
+
+This entry is about materials and staging. Where to put the fire (outside, away from tents, on cleared ground) is in `fire-lays-and-structure`.
 
 ---
 
@@ -38,152 +40,115 @@ A fire dies when the fuel gradient is broken: a spark lights tinder, but tinder 
 
 ### 1. Understand the Fuel Gradient
 
-Fuel must graduate in **diameter (size)** because a flame that ignites a pencil-thin twig cannot ignite an arm-thick log immediately.
+Fuel must graduate in **size**, because a small flame cannot ignite a large log directly.
 
-| Fuel Tier | Diameter | Role | Ignites From |
-|-----------|----------|------|--------------|
-| **Tinder** | Hair-thin to pencil-thick | Catches the spark/flame; burns 10–30 seconds | Lighter, matches, ferro rod spark, friction coal |
-| **Kindling (fine)** | Pencil to finger-thick | Bridging fuel; burns hot enough to ignite larger kindling; buys time for heat to build | Tinder flame |
-| **Kindling (heavy)** | Finger to wrist-thick | Thicker bridging fuel; burns 2–5 minutes; sustains heat into fuel logs | Fine kindling |
-| **Fuel wood** | Wrist to arm to leg-thick | Main burn; sustains fire for hours; core of the lay | Heavy kindling and other fuel logs |
+| Fuel tier | Size | Role |
+|-----------|------|------|
+| **Tinder** | Fine, dry, fibrous material; enough to fill a cupped hand | Catches the spark or small flame [ATP 5-10] |
+| **Kindling** | Pencil lead, then pencil, then thumb thickness; pieces about 12 to 18 inches long | Bridges to larger fuel and builds an initial bed of coals [ATP 5-15, 5-19] |
+| **Fuel wood** | At least as thick as your forearm | Main burn [ATP 5-20] |
 
-**The rule:** each tier should ignite the next tier **within the time that tier burns**. If tinder burns in 20 seconds but needs 30 seconds to heat kindling, kindling never catches.
+Prepare at least a bundle about the diameter of a soda can of each kindling size before you start [ATP 5-19].
 
 ---
 
 ### 2. Select and Prepare Tinder
 
-Tinder is the **first materials to ignite** — it burns quickly and must catch a spark or small flame easily.
+Tinder is a dry material that can be ignited by a small spark, coal or flame, usually fine fibers or a petroleum-based material [ATP 5-10]. For a single fire, collect enough fibrous tinder to fill your cupped hand at a minimum, and enough to make a flame hot enough to ignite the kindling [ATP 5-10, 5-12].
 
-#### Best Tinders (Ranked by Reliability)
+#### Charred cloth (char cloth)
 
-1. **Char Cloth** (prepared, highest reliability)
-   - Fabric soaked in wood ash and melted grease, then dried. Burns at lower temp than raw cloth.
-   - Prepare before the trip: soak 100% cotton fabric in melted beeswax/lard, dry fully. Store in waterproof pouch.
-   - In field: 1–2 square inches ignite from a ferro-rod spark in seconds; burns 10–15 seconds.
-   - If you have char cloth, use it first; all other tinders are backups.
+Charred cloth is cotton cloth **heated without air until it turns black but does not burn.** It holds a spark for a long time and lets you put tinder on the hot spot to make a small flame. If you only have a spark-making device, charred cloth is almost essential. Make it well before you need it, and keep it dry in an airtight container [FM 21-76 ch. 7; ATP 5-44].
 
-2. **Fatwood / Pitch Wood** (semi-prepared, high reliability)
-   - Dead wood from pine, fir, or other resinous trees; the resin resists rot and burns easily.
-   - Collect: dead branches from standing-dead trees (not rotted, not on wet ground). Strip bark and split pieces; the heartwood inside is usually drier.
-   - Ignites from lighter/matches reliably; also catches ferro-rod sparks.
-   - Burns 20–30 seconds, producing visible flame.
+To make it [ATP 5-44]:
+1. Put a nail-sized hole in the lid of a small sealable metal container (a tin).
+2. Put small pieces of cotton cloth loosely in layers in the tin and put the lid on.
+3. Set the tin near the edge of a fire, on top of hot embers.
+4. Smoke will come out through the hole. That means the process is working.
+5. When the smoke stops, take the tin off the fire and **let it cool**.
+6. Only after it has cooled, open it **away from any exposed flame**, and store the cloth in a water-resistant container.
 
-3. **Birch Bark** (natural, found easily in temperate forest)
-   - Outer papery bark peels off dead birch; the curled sheets are naturally oily and shed water.
-   - Field collection: peel from dead birch trees (never strip bark from live trees — it kills them). Look for weathered, gray-white bark.
-   - Shred into loose, fluffy ball; ignites well from lighter/matches and can catch ferro-rod sparks if very dry.
-   - Burns 10–20 seconds if loosely packed.
+This is **not** cloth soaked in wood ash, wax, grease, lard or beeswax. A waxed or greased cloth is a different product: it is flammable fuel, not a spark-catching char, and following a wax or grease recipe will not give you char cloth.
 
-4. **Cattail Fluff** (seasonal, found in marshes)
-   - Dead cattail seed heads (brown, fuzzy cylinders) contain silky, dry fibers.
-   - Harvest in late summer/fall when seed pods are dry. Pull apart and fluff.
-   - Burns very fast (8–12 seconds) but ignites easily from spark or flame.
-   - Use in pairs: two fluff balls staggered so one is flaming as the other ignites kindling.
+#### Other tinder
 
-5. **Thistle/Milkweed Fluff** (seasonal, plant-dependent by region)
-   - Dried seed-head fibers from thistle or milkweed pods. Similar properties to cattail.
-   - Hard to find in winter; collect in late summer and store dry.
-   - Burns fast; best paired with slightly longer-burning tinder (char cloth or bark).
+Natural tinders listed by the Army [ATP 5-10]:
+- Birch bark, and shredded inner bark (heartwood) of some trees such as cedar, chestnut and red elm.
+- Fine wood scrapings or shavings (heartwood preferred); feather sticks (shavings cut into a stick and left attached to it).
+- Dead dry grass, ferns, moss, lichen and fungi.
+- Pitch (dry powdered pine sap), fine pitch-wood scrapings or shavings, and pine pitch globules mixed with fibrous material.
+- Crushed fibers from a dead plant; seed down (milkweed, cattail, thistle).
 
-6. **Dry Leaves** (available year-round, moderate reliability)
-   - Collect dead, crispy leaves from the ground in dry conditions (after rain, leaves absorb moisture and won't catch spark easily).
-   - Shred into tiny, loosely packed ball; ignites from lighter/matches but is slower to catch from ferro rod.
-   - Burns 8–15 seconds.
-   - Avoid in wet/humid climates where leaves stay moist; test by snapping one — should break instantly.
+Man-made tinders listed by the Army [ATP 5-11]: cotton balls (most effective coated with a petroleum-based paste), lint, paper, foam rubber, steel wool, candle, solid-state fuel tabs, and commercial petroleum-based pastes. Use smaller quantities of petroleum-based products, which burn longer from a central point; some, such as tree sap, may need fibrous tinder to catch the flame [ATP 5-12].
 
-7. **Small Dry Twigs & Pine Needles** (ubiquitous, lower reliability)
-   - Last resort if no other tinder is available.
-   - Search under dense conifers (shelter from rain) or in very dry locations.
-   - Requires longer flame (not reliable with ferro rod alone); best used with lighter or matches.
+- Pitch wood (fatwood) comes from resinous dead wood; it is a good kindling too [ATP 5-16].
+- Collect bark only from dead trees. Stripping live trees can kill them.
 
-#### Tinder Preparation in the Field
+#### Tinder preparation in the field
 
-- **Before lighting:** fluff tinder into a loose, airy ball so flames can penetrate and oxygen flows through. Tightly packed tinder smolders instead of burning.
-- **Wind protection:** position tinder so ignition happens in a sheltered pocket of your hand or body; transfer to the fire lay only after tinder is flaming (not just glowing).
-- **Wet tinder is the #1 killer:** pre-dry in your shirt, inside your pack, or near (not too close to) a fire if one is already going.
+- **Dry it.** Damp natural tinder can be stored between layers of clothing so body heat dries it before use [ATP 5-10, 5-12].
+- **Fluff it** into a loose, airy mound or bird's-nest shape so flame and oxygen can get through. Tightly packed tinder smolders instead of burning.
+- **Lay it on a dry base** so the fine fibers do not soak up moisture from the ground [ATP 5-13].
+- **Protect it from the wind** and light it from the upwind side [ATP 5-32].
 
 ---
 
 ### 3. Gather Kindling
 
-Kindling bridges tinder flame to fuel logs. Dry it thoroughly before use.
+Kindling is the second phase. It is added once the tinder is burning strongly and mostly engulfed in flame [ATP 5-14].
 
-#### Fine Kindling (Pencil to Finger-Thick)
+Examples of kindling [ATP 5-16]:
+- Dead, dry, small twigs and plant stalks. In winter, dormant live deciduous twigs can look dead; check the cambium layer just under the bark.
+- Dead, dry, thinly shaved pieces of wood, bamboo or cane (always split bamboo first, as closed sections can explode).
+- Dead coniferous needles, and small dead branches low on the underside of conifers.
+- Pitch-wood sticks, and larger pieces of wood split into kindling size.
 
-- Dead, thin twigs from branches or standing-dead trees.
-- **Collect from dead branches**, not green wood; dead branches snap cleanly and are pre-dried by weather.
-- Test: snap a twig — it should break sharply. If it bends and splinters, it's either green or not fully dead; set it aside.
-- Gather an armload (~5 pounds) of pencil-thin to finger-thick material.
-- **Arrange in an airy pile** — don't pack it. Fine kindling needs oxygen to sustain flame.
+The inner wood of dead branches and small trees is the driest, because the weather does not reach it. Wood split to expose its inner grain burns faster and hotter than wood covered by bark [ATP 5-17].
 
-#### Heavy Kindling (Finger to Wrist-Thick)
+**Gather the three sizes** (pencil lead, pencil, thumb) in separate piles, each at least a soda-can-sized bundle, 12 to 18 inches long [ATP 5-19]. If you think you have enough, collect more: running out mid-ignition kills the fire.
 
-- Dead branches or split wood, 1–2 inches diameter.
-- Ensure fully dried (bark falls off easily; no green color visible on the wood surface).
-- Collect 10–15 pieces (~15–20 pounds).
-- In very wet conditions, split pieces down the center (the interior dries faster and ignites better than the surface).
-
-#### How Much Kindling?
-
-A complete fire preparation needs:
-- **Fine kindling:** 3–4 large armloads (15–20 pounds).
-- **Heavy kindling:** 10–15 pieces (15–20 pounds).
-
-Beginners underestimate; if you think you have enough, collect 50% more. Excess is never a liability; running out mid-ignition is fatal to the fire.
+**Add kindling by the handful**, perpendicular to the previous handful, with spaces left for the tinder fire to burn through. If kindling is laid on like a blanket, the fire gets too little oxygen, does not ignite the kindling, and dies out [ATP 5-14].
 
 ---
 
-### 4. Fuel Wood & Seasoning
+### 4. Fuel Wood and Seasoning
 
-Fuel wood sustains the fire for hours. Wet wood produces smoke and coals but won't flame; dead-dry wood burns hot and clean.
+Fuel wood sustains the fire. Wood is the most abundant fuel in most environments [ATP 5-20].
 
-#### Selecting Fuel
+#### Selecting fuel
 
-- **Source:** dead fallen logs, dead standing trees, or (if urgent) green wood split and dried by proximity to existing fire.
-- **Test for dryness:** 
-  - Split a piece down the center. The interior should be light tan/white and easy to split.
-  - Bark should peel off easily or be absent.
-  - Snap a piece — dry wood breaks cleanly; green wood bends.
-- **Size:** arm-thick to leg-thick (2–4 inches). Wrist-thick is too small (burns too fast); leg-thick is too big (hard to ignite without a hot, established fire).
+- **Size:** at least as thick as your forearm [ATP 5-20].
+- **Best sources:** dry, standing dead wood and dry, dead branches, which snap when broken [ATP 5-21]. Rotten wood on the ground smolders and is poor fuel.
+- **Split it:** dead wood splits easily, and splitting exposes the driest inner wood [ATP 5-17, 5-22]. To split a small piece, set it upright on a sturdy base, rest a fixed-blade knife across the top, and drive the knife down the grain by striking its tip end with a stout stick; wood with the fewest knots splits best [ATP 5-17, 5-18].
 
-#### Seasoning in the Field
+#### Damp fuel
 
-- **Seasoning time:** dead wood is pre-seasoned by nature (rain and sun over months/years). Standing-dead wood is ideal.
-- **Green wood emergency:** if only green (live) wood is available, split large pieces and **stand them near the fire** (not in the flames) for 15–30 minutes, rotating every 5 minutes. The exterior will dry enough to catch from a hot kindling flame.
-- **Never place green wood directly on tinder/kindling** — it will smother the fire. Add it only after a robust kindling flame is established.
+Unlike tinder and kindling, fuel does not have to be completely dry **if the fire is established well enough to dry it before it burns.** The wetter the fuel, the more white smoke the fire makes as it burns the moisture off [ATP 5-20].
 
-#### How Much Fuel?
-
-- **For a 4-hour fire:** 6–8 arm-thick logs (~50 pounds).
-- **For a full night (8 hours):** 12–16 arm-thick logs (~100 pounds).
-- **Rule of thumb:** you should be gathering fuel throughout the day, not just before ignition.
+- **Never place wet or green fuel on young tinder or kindling.** It will smother the fire. Add it only after a strong kindling flame and a base of coals are established.
 
 ---
 
 ### 5. Stage the Lay (Before Ignition)
 
-Arrange all materials so they're positioned to ignite the next tier without rebuild:
+Arrange all materials so they are in position to ignite the next tier without a rebuild [ATP 5-8, 5-9]:
 
-1. **Tinder position:** at the center of the lay, in a loosely compressed ball, ready to be ignited.
-2. **Fine kindling:** arranged in concentric circles or lean-to around tinder, touching but not crushing it.
-3. **Heavy kindling:** outer layer, supported on the fine kindling but not touching tinder directly (so tinder can breathe).
-4. **Fuel wood:** stacked outside or on top, positioned so it falls onto heavy kindling as fine kindling burns down.
+1. **Base and brace.** Prepare a dry base and a brace (a stick or log) to hold the tinder mound against, so wind and ground moisture do not ruin it [ATP 5-8, 5-13].
+2. **Tinder:** in a loose mound resting against the brace, ready to light at its bottom edge away from the brace. The initial flame is small and spreads most easily in an upward-sloping direction [ATP 5-13].
+3. **Kindling:** in order from pencil lead to pencil to thumb size, ready to lay over the tinder by the handful [ATP 5-14, 5-19].
+4. **Fuel wood:** nearby, ready to add once the kindling is burning well.
 
-**Do not light until all materials are staged** — a lit match dies if you're still arranging kindling while tinder burns.
+**Do not light until all materials are staged.** A match or spark wasted while you arrange kindling is a lost chance.
 
 ---
 
 ### 6. The Ignition Transfer
 
-Once you ignite the tinder:
-
-1. **Watch tinder flame:** it should burn and expand, climbing into fine kindling. (Takes ~10–15 seconds.)
-2. **Blow gently:** direct your breath at the base of the flame, not the tip. Gentle breath adds oxygen; hard blowing can cool the coals and stall ignition.
-3. **Fine kindling catches:** you'll see flames spreading across the fine twigs. (Takes another 10–20 seconds.)
-4. **Let it burn:** don't touch it. The flame will climb and start heating heavy kindling.
-5. **Heavy kindling ignites:** you'll see sustained flames 12+ inches high. Once heavy kindling is burning, fuel wood will catch on its own.
-6. **Fuel wood rests on coals:** once heavy kindling is fully flaming, the fire is self-sustaining. Fuel logs will catch and burn for hours.
+1. **Light the tinder from the upwind side** and let it burn until it is strong and mostly engulfed in flame [ATP 5-14, 5-32].
+2. **Lay the first handful of kindling** across and over the burning tinder, leaving spaces. Add each next handful at a right angle or diagonal to the last, to keep air pockets [ATP 5-14].
+3. **Let the kindling build a bed of coals** and increase the size of the fire [ATP 5-15]. Gentle breath can help the tinder, but do not pack or smother it.
+4. **Add the larger kindling, then fuel** as the flame becomes steady.
+5. **Do not leave the fire.** Once going, keep it small, attended and outside (see `fire-lays-and-structure`).
 
 ---
 
@@ -191,27 +156,30 @@ Once you ignite the tinder:
 
 | Problem | Likely Cause | Fix |
 |---------|-----------|-----|
-| Tinder ignites but dies in 5 seconds | Tinder is too tightly packed or too wet | Fluff tinder more; pre-dry it in your shirt for 20+ minutes. |
-| Tinder burns but fine kindling doesn't catch | Fine kindling is too tightly packed; gap between tinder and kindling | Loosen kindling arrangement; ensure tinder and fine kindling are touching. |
-| Fine kindling burns but heavy kindling won't catch | Gap is too large; heavy kindling is damp | Reduce gap to ½ inch. Test heavy kindling: snap a piece — should break cleanly. Dry by laying near (not in) a secondary flame source. |
-| Fire builds quickly but dies when you step back | Oxygen starved (materials too tightly packed after ignition) | Add thin sticks or create gaps between kindling pieces. Don't touch the fire after ignition; just let it breathe. |
-| Fuel logs are smoking but not flaming | Logs are too wet or too large for current heat | Split logs down the center or lay them beside the fire to pre-dry for 10 minutes. Use smaller-diameter logs (wrist-thick instead of arm-thick). |
-| Coals form but flames never reach fuel logs | Heat isn't building; kindling is insufficient quantity | Add more fine and heavy kindling from your staged pile. The fire needs 30–40 seconds of robust kindling flame before fuel wood will catch. |
-| Fire burns out after 30 minutes | Fuel wood ran out or was undersized | This is successful fire-building, not a failure; you prepared too little fuel. Gather more wood while fire is still burning. |
+| Tinder ignites but dies quickly | Tinder is damp, too tightly packed, or too little of it | Dry tinder between layers of clothing and fluff it; use at least a cupped handful [ATP 5-10, 5-12]. |
+| Tinder burns but kindling does not catch | Kindling laid on like a blanket, or too coarse, or damp | Lay kindling by the handful with spaces; start with pencil-lead-size pieces; use dry inner wood from split dead branches [ATP 5-14, 5-17, 5-19]. |
+| Smoke but no flame in the kindling | Kindling smothered | Open gaps, pull some pieces apart to let air in [ATP 5-14]. |
+| Kindling burns but fuel will not catch | Fuel too large or too wet for the coals so far; too big a step in size | Add thumb-size kindling and small split fuel first; split fuel to the dry inside; add fuel only after a strong kindling flame and coals [ATP 5-15, 5-17, 5-20]. |
+| Fire builds quickly but dies when you step back | Too little kindling to build coals; air blocked | Add more kindling from your staged pile; keep spaces between pieces [ATP 5-14, 5-15]. |
+| Fuel logs smoke and make white smoke without flaming | Fuel is damp or green | Give the fire time and heat to dry it, split the wood, or use drier dead wood [ATP 5-20, 5-21]. |
+| Fire burns out and you have no more fuel | Too little fuel gathered | Gather more before dark and while the fire is going. A successful progression that runs out of fuel is a fuel-gathering problem, not an ignition problem. |
 
 ---
 
 ## ⚠ MANDATORY PREPARATION: Gathering & Storage
 
-- **Dry your staging area:** if ground is damp, lay tinder/kindling on a clean cloth or platform. Wet ground can wick moisture into materials during staging.
-- **Protect from rain:** if weather is threatening, gather materials under a shelter or inside your pack, staging just before ignition.
-- **Pre-position fuel:** gather 24+ hours of fuel before nightfall, when light is good and you have energy. Scrambling for fuel after dark or in cold is exhausting.
-- **Keep backup tinder dry:** store char cloth, fatwood, or birch bark in a waterproof pouch inside your pack. If main tinder gets wet, you have a dry backup.
+- **Dry your staging area:** lay tinder and kindling on a dry base (a clean cloth, bark or flat wood) so ground moisture does not wick into them [ATP 5-13].
+- **Protect from rain:** if weather is threatening, gather materials under shelter or inside your pack and stage just before ignition.
+- **Gather fuel before dark,** when light is good and you have energy.
+- **Keep backup tinder dry:** store charred cloth in an airtight container [FM 21-76 ch. 7] and other tinder in a waterproof pouch.
+- **Open charred-cloth tins only when cool and away from flame** [ATP 5-44].
+- **Safety:** fire goes outside, never in a tent, vehicle, garage or house, and a vent hole or open flap does not make it safe. See `fire-lays-and-structure`.
 
 ---
 
 ## Sources
 
-- **FM 21-76 Survival** (U.S. Army) — §1.2–1.3, fuel selection and staging; wood seasoning in field.
-- **SAS Survival Handbook** (John Wiseman, Collins, rev. ed.) — "Fire" chapter; tinder types and fuel progression.
+All pages opened 2026-10-20.
 
+- **ATP 3-50.21 Survival** (U.S. Army, Sept 2018), Chapter 5 "Fire": paras 5-8 and 5-9 (base, brace, three phases), 5-10 to 5-13 (tinder), 5-14 to 5-19 (kindling), 5-20 to 5-22 (fuel), 5-32 (start fires from the upwind side), 5-44 (how to make charred cloth in a sealed container with a small hole). Full text read at https://archive.org/details/survival-atp-3-50-21
+- **FM 21-76 US Army Survival Manual**, Chapter 7 "Firecraft", "Fire Material Selection" (tinder must be absolutely dry; charred cloth is cotton heated until black but not burned, kept in an airtight container). Reprint opened at https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf

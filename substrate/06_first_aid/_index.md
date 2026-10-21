@@ -40,7 +40,7 @@ Always state: this is field response, not medical advice; get professional care 
 | wound-infection-management | entries/wound-infection-management.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 3 | reviewed |
 | thermal-injury-hypo-hyperthermia | entries/thermal-injury-hypo-hyperthermia.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 4 | reviewed |
 | dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | reviewed |
-| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | reviewed |
+| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 13 | reviewed |
 | bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 4 | reviewed |
 
 `region`, `edibility_status`, `confusability_level`, `expert_id_required` are `n/a` for protocols

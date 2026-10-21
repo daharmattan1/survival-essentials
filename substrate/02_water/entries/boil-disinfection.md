@@ -6,26 +6,34 @@ domain:                substrate/02_water
 region_scope:          universal
 usda_zone:             n/a
 method_for:            "disinfect water via thermal inactivation"
-materials:             ["heat source (fire, stove, coil)", "pot or container", "water", "thermometer (optional)"]
+materials:             ["heat source (fire, stove, coil)", "pot or container", "water", "clean cloth, paper towel or coffee filter (for cloudy water)", "clean covered container for storage"]
 difficulty:            easy
 confidence:            high
 source_tier:           T1
 sources:
-  - title:             "Making Water Safe in an Emergency"
+  - title:             "How to Make Water Safe in an Emergency"
     publisher:         "CDC"
-    url:               "https://www.cdc.gov/healthywater/emergency/making-water-safe.html"
+    url:               "https://www.cdc.gov/water-emergency/about/index.html"
     tier:              T1
   - title:             "Emergency Disinfection of Drinking Water"
     publisher:         "EPA"
     url:               "https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water"
     tier:              T1
-  - title:             "Water Disinfection — Field Guide"
-    publisher:         "Red Cross"
-    url:               "https://www.redcross.org/get-help/how-to-prepare-for-disasters/types-of-emergencies/water-safety.html"
+  - title:             "About Water Treatment Options When Hiking, Camping, or Traveling"
+    publisher:         "CDC"
+    url:               "https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html"
     tier:              T1
-  - title:             "FM 21-76: Survival Manual"
-    publisher:         "U.S. Army"
-    url:               "https://www.survivalmanual.army.mil/"
+  - title:             "Drinking Water Resource Guide (nitrate Q&A)"
+    publisher:         "California State Water Resources Control Board"
+    url:               "https://www.waterboards.ca.gov/water_issues/programs/hr2w/docs/general/dw_resource_guide.pdf"
+    tier:              T1
+  - title:             "Preventing Illness while Camping, Hiking, and Traveling (harmful algal blooms)"
+    publisher:         "Minnesota Department of Health"
+    url:               "https://www.health.mn.gov/diseases/waterborne/prevention/backcountry.html"
+    tier:              T1
+  - title:             "Wilderness Medical Society Clinical Practice Guidelines on Water Treatment for Wilderness, International Travel, and Austere Situations (2024)"
+    publisher:         "Wilderness Medical Society / Wilderness & Environmental Medicine (CDC Stacks copy)"
+    url:               "https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf"
     tier:              T2
 last_reviewed:         draft
 review_status:         draft
@@ -34,52 +42,60 @@ preparation_required:  true
 
 ## Goal & When To Use
 
-Rolling boil kills all waterborne biological pathogens (bacteria, viruses, parasites including *Cryptosporidium* and *Giardia*) in a single step. Use this method when:
+A rolling boil kills bacteria, viruses and protozoa, including *Cryptosporidium* and *Giardia*, in one step. Use it when:
 
 - You have a reliable heat source (fire, camp stove, kitchen burner).
-- Water source is available but contamination status is unknown.
-- No filtration or chemical supplies available.
-- You need the broadest single-method disinfection.
+- The risk is germs only: the source is questionable, but it does not smell of fuel or chemicals and has no oily sheen, bloom or scum.
+- You want the broadest single method. Boiling is the one method that also covers *Cryptosporidium* without special gear.
 
-Boiling is the most reliable portable method and requires no equipment beyond a container that can handle heat.
+**Boiling is not a fix for chemicals.** If the water smells of fuel or chemicals, has an oily sheen, a pea-soup or paint-like scum, or floodwater got into it, do not drink it. Find another source.
 
 ## ⚠ CONTAMINATION — what this method does and does NOT handle
 
-> ⚠ **Boil: Rolling boil ≥1 min (≥3 min above 6,500 ft / 2,000 m). Kills bacteria, viruses, protozoa (incl. *Cryptosporidium*, *Giardia*). Does NOT remove chemical/heavy-metal contamination.**
+> ⚠ **Boil: rolling boil 1 minute (CDC: 3 minutes above 6,500 ft / 2,000 m; EPA: 3 minutes above 5,000 ft / about 1,500 m; if unsure of your elevation, boil 3 minutes). Kills bacteria, viruses, protozoa (incl. *Cryptosporidium*, *Giardia*). Does NOT remove chemicals, and can make some of them worse.**
 >
-> - **Threats eliminated:** All biological pathogens — bacteria (*E. coli*, *Salmonella*), viruses (norovirus, hepatitis A, rotavirus), protozoa (*Giardia lamblia*, *Cryptosporidium parvum*).
-> - **Threats that remain:** Heavy metals (lead, arsenic, mercury); pesticides; fuel spills; industrial pollutants; salt (brackish/seawater). Boiling concentrates chemicals via evaporation.
-> - **Residue:** None — boiling leaves no byproduct.
-> - **Elevation adjustment:** At altitudes above ~6,500 ft / 2,000 m, extend boil time to ≥3 minutes because water boils at lower temperature and requires longer to inactivate pathogens.
+> - **Threats handled:** bacteria, viruses and protozoa (CDC; EPA).
+> - **Threats that REMAIN, some of which boiling concentrates:**
+>   - Heavy metals, salts, fuel, toxic chemicals, radioactive material: not removed (EPA; CDC).
+>   - **Nitrate:** boiling does not remove it. Some water evaporates and the nitrate does not, so the level goes up (California State Water Board).
+>   - **Algal bloom toxins:** "Boiling will not remove toxins and can increase toxin levels" (Minnesota Department of Health). Avoid water with a suspected or posted bloom.
+> - **Which elevation rule:** CDC says 3 minutes above 6,500 ft (2,000 m). EPA sets the line lower, at 5,000 ft (about 1,500 m). Between 5,000 and 6,500 ft, use 3 minutes. If you do not know your elevation, use 3 minutes.
+> - **Residue:** none. Boiled water has no protective chlorine residual, so a dirty container or dirty hands can recontaminate it (WMS 2024).
+> - **The boundary:** boiling covers every germ class but no chemical class. Water that may carry fuel, solvents, pesticides, nitrate or bloom toxins needs a different source.
 
 ---
 
 ## Steps
 
-1. **Assess water clarity.** If water is visibly turbid (cloudy, brown, silty), pre-filter or let it settle for 30 min before heating. Visible sediment may harbor pathogens in the particles.
+1. **Clear cloudy water first.** Let it sit still about an hour, then pour off or siphon the clear top. Strain it through a clean cloth, paper towel or coffee filter (CDC; EPA; WMS 2024). This removes particles only. It does not treat the water.
 
-2. **Fill your container.** Use a pot, can, or any heat-safe vessel. Fill to allow room for a vigorous rolling boil without boiling over.
+2. **Fill a heat-proof container** with room for a vigorous boil.
 
-3. **Bring to a rolling boil.** Place heat source directly under the vessel. Heat until water reaches a rolling boil — large, continuous bubbles breaking the surface, not a gentle simmer. Maintain this vigorous state.
+3. **Bring to a rolling boil.** Large bubbles that keep coming when you stir, not a gentle simmer.
 
-4. **Begin timing.** Start your count from the moment the water reaches a true rolling boil. Use a watch, clock, or count (rough timing: ~60 seconds for a full boil at sea level).
+4. **Start timing at the rolling boil.**
+   - **1 minute** at lower elevations.
+   - **3 minutes** above 6,500 ft (2,000 m) (CDC), above 5,000 ft (about 1,500 m) (EPA), or whenever you are unsure of your elevation.
 
-5. **Maintain boil for required time.** At or below 6,500 ft (2,000 m), maintain a rolling boil for at least 1 minute. Above 6,500 ft (2,000 m), continue for at least 3 minutes (CDC/EPA standard).
+5. **Let it cool on its own,** with the lid on (EPA).
 
-6. **Cool before drinking.** Remove from heat and allow to cool enough to handle safely. Use a stick or cloth to lower it away from the fire if needed; move it to a shaded spot to speed cooling.
+6. **Store it in a clean, covered container** (CDC; EPA).
 
-7. **Store treated water.** Pour cooled water into a clean container (pot, bottle, bag). If possible, keep container covered to prevent recontamination.
+7. **Taste.** Boiled water tastes flat. Pour it back and forth between two clean containers, or add a pinch of salt per quart or liter (EPA; CDC).
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Boil time is non-negotiable and cannot be shortened or summarized away.** Insufficient boil time leaves pathogens viable:
+**Boil time cannot be shortened or summarized away.**
 
-- **At or below 6,500 ft (0–2,000 m):** minimum 1 minute of rolling boil
-- **Above 6,500 ft (above 2,000 m):** minimum 3 minutes of rolling boil
+- **Lower elevations:** rolling boil for at least 1 minute.
+- **Above 6,500 ft (2,000 m) (CDC) or above 5,000 ft (about 1,500 m) (EPA):** rolling boil for 3 minutes.
+- **Elevation unknown, or between 5,000 and 6,500 ft:** boil 3 minutes.
+- A rolling boil means big bubbles that keep coming, not a simmer.
+- Boiling does not remove chemicals. It can raise the level of nitrate and algal toxins. If chemicals are possible, do not drink the water.
 
-If you do not know your elevation, use 3 minutes as the safe default. A rolling boil means vigorous, continuous bubbles — not a weak simmer.
+**Low-fuel shortcut (less certain than a rolling boil; use it only when you must):** heat to the first simmer (small bubbles rising from the bottom), take it off the heat, and keep it covered for 30 minutes (WMS 2024).
 
 ---
 
@@ -87,17 +103,21 @@ If you do not know your elevation, use 3 minutes as the safe default. A rolling 
 
 | Failure | Cause | Recovery |
 |---------|-------|----------|
-| Water does not boil | Heat too low or container too large relative to heat source | Move pot closer to flame; expose more surface area to heat; increase fire intensity; be patient (especially with large volumes or wet wood fires) |
-| Boil stops before time is up | Heat source fails (fire dies, stove turned off) | Reignite or restart heat source; resume timing from zero |
-| Water boils over | Too much water in container or boil too vigorous | Remove some water; place lid slightly askew to reduce bubble rise; move pot slightly away from heat to reduce intensity |
-| Water still looks cloudy after boiling | Sediment settled as water cooled | This is not a failure — boiling kills pathogens even in cloudy water. If clarity is a concern, pre-filter before heating next time. Do not reboil clear water to "make sure." |
-| No heat source available | Fire or stove unavailable or fuel exhausted | Switch to chemical treatment (chlorine/iodine, but check CONTAMINATION block) or filtration if available. SODIS only as last resort if water is clear and sun is strong. Seek a new water source. |
+| Water does not boil | Heat too low, container too large for the heat | Move the pot closer to the flame, use a lid, or use a smaller batch. |
+| Boil stops before time is up | Fire dies or stove is turned off | Restart the heat and restart the clock from zero. |
+| Water boils over | Container too full | Pour some out, lower the heat, or crack the lid. |
+| Water was cloudy to begin with | Particles in the source | Clear it before boiling (Step 1). Boiling does not clarify water. |
+| Boiled water stored in a dirty container | Recontamination | Move it to a clean, covered container. If the container was dirty, treat the water again. |
+| Water smells of fuel or chemicals, or has an oily sheen or bloom | Chemical or toxin contamination | Stop. Boiling does not help and can concentrate some chemicals. Use bottled water or another source (CDC; EPA). |
+| No heat source available | Fire or stove unavailable, fuel gone | Use a filter plus a disinfectant, or a disinfectant alone. Sun (SODIS) is last. See the other water entries and their limits. |
 
 ---
 
 ## Sources
 
-- **CDC Making Water Safe:** https://www.cdc.gov/healthywater/emergency/making-water-safe.html — specific guidance on boil times at altitude; authoritative for emergency disinfection.
-- **EPA Emergency Disinfection:** https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water — federal standard; confirms ≥1 min at sea level, ≥3 min above 6,500 ft.
-- **Red Cross Water Safety:** https://www.redcross.org/get-help/how-to-prepare-for-disasters/types-of-emergencies/water-safety.html — emergency response protocols for boiling; field conditions.
-- **FM 21-76 Survival Manual:** — Army field guidance on thermal disinfection; practical field-fire methods.
+- **CDC, How to Make Water Safe in an Emergency:** https://www.cdc.gov/water-emergency/about/index.html (boil 1 minute, 3 minutes above 6,500 ft; clear cloudy water with a cloth, paper towel or coffee filter; pour between containers or add a pinch of salt; boiling and disinfection do not fix fuel or toxic chemicals).
+- **EPA, Emergency Disinfection of Drinking Water:** https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water (boil at least 1 minute, 3 minutes above 5,000 ft / about 1,500 m; boiling kills bacteria, viruses and protozoa; does not remove heavy metals, salts and most other chemicals; cool naturally, store in covered containers).
+- **CDC, About Water Treatment Options When Hiking, Camping, or Traveling:** https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html (boil 1 minute, 3 minutes above 6,500 ft; boiling kills viruses, bacteria and parasites; boiling does not make water with harmful chemicals, toxins or radioactive material drinkable).
+- **California State Water Resources Control Board, Drinking Water Resource Guide:** https://www.waterboards.ca.gov/water_issues/programs/hr2w/docs/general/dw_resource_guide.pdf (boiling does not remove nitrate and raises its concentration).
+- **Minnesota Department of Health, Preventing Illness while Camping, Hiking, and Traveling:** https://www.health.mn.gov/diseases/waterborne/prevention/backcountry.html (boiling will not remove algal bloom toxins and can increase toxin levels).
+- **Wilderness Medical Society water treatment guideline (2024):** https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf (settle about 1 hour and strain through a coffee filter or finely woven cloth; first-simmer-then-cover-30-minutes fuel shortcut; boiling leaves no protective residual during storage).

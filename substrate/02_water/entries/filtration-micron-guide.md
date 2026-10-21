@@ -5,28 +5,32 @@ type:                  METHOD
 domain:                substrate/02_water
 region_scope:          universal
 usda_zone:             n/a
-method_for:            "remove biological pathogens via physical straining"
-materials:             ["filter (hollow-fiber, ceramic, or straw type)", "container to hold water", "spare filter or cloth for backup", "thermometer optional"]
+method_for:            "remove protozoa and bacteria via physical straining"
+materials:             ["portable water filter (hollow-fiber, ceramic, or similar) with a label stating absolute pore size", "container to hold water", "backup filter or backup treatment method", "chemical disinfectant (to add after filtering)", "cloth, paper towel or coffee filter (pre-strain)"]
 difficulty:            easy
 confidence:            high
 source_tier:           T1
 sources:
-  - title:             "Point-of-Use Water Treatment"
+  - title:             "About Water Treatment Options When Hiking, Camping, or Traveling"
     publisher:         "CDC"
-    url:               "https://www.cdc.gov/healthywater/drinking/home-water-treatment/household-water-treatment.html"
+    url:               "https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html"
     tier:              T1
-  - title:             "EPA Guide to Household Water Filters"
-    publisher:         "EPA"
-    url:               "https://www.epa.gov/ground-water-and-drinking-water/drinking-water-standards-regulatory-information"
+  - title:             "How to Make Water Safe in an Emergency"
+    publisher:         "CDC"
+    url:               "https://www.cdc.gov/water-emergency/about/index.html"
     tier:              T1
-  - title:             "Pathogen Removal by Particle Size"
-    publisher:         "WHO"
-    url:               "https://www.who.int/publications/i/item/9789241506564"
+  - title:             "Preventing Illness while Camping, Hiking, and Traveling"
+    publisher:         "Minnesota Department of Health"
+    url:               "https://www.health.mn.gov/diseases/waterborne/prevention/backcountry.html"
     tier:              T1
-  - title:             "FM 21-76: Survival Manual"
-    publisher:         "U.S. Army"
-    url:               "https://www.survivalmanual.army.mil/"
+  - title:             "Wilderness Medical Society Clinical Practice Guidelines on Water Treatment for Wilderness, International Travel, and Austere Situations (2024)"
+    publisher:         "Wilderness Medical Society / Wilderness & Environmental Medicine (CDC Stacks copy)"
+    url:               "https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf"
     tier:              T2
+  - title:             "Household Water Treatment and Safe Storage Following Emergencies and Disasters"
+    publisher:         "World Health Organization"
+    url:               "https://www.who.int/docs/default-source/wash-documents/wash-in-emergencies/household-water-treatment-and-safe-storage-after-emergencies.pdf"
+    tier:              T1
 last_reviewed:         draft
 review_status:         draft
 preparation_required:  true
@@ -34,70 +38,56 @@ preparation_required:  true
 
 ## Goal & When To Use
 
-Mechanical filtration removes solid particles and most biological pathogens by physical straining through a porous barrier. The effectiveness depends on filter pore size (micron rating). Use filtration when:
+A filter strains germs out of water through pores of a fixed size. The pore size decides what it catches. Use filtration when:
 
-- You have a portable filter (hollow-fiber, ceramic, straw type).
-- Water is visibly turbid and needs pre-treatment.
-- You need to remove *Giardia* and *Cryptosporidium* (requires ≤1 µm absolute rating).
-- Boiling is impractical (fuel-limited, large volume).
+- You have a portable filter whose label gives an **absolute** pore size.
+- The water is cloudy and you want to extend the life of your filter (pre-strain first).
+- You need to remove *Giardia* and *Cryptosporidium* and boiling is impractical.
 
-**Critical limitation:** most filters do NOT remove viruses (too small). Pair filtration with chemical treatment or boiling if viral contamination is a risk.
+**Critical limitation:** most portable filters do **not** remove viruses. Pair a filter with a chemical disinfectant (or boil) when viruses are a live question: near people, sewage, or livestock. CDC: filter first, then add a disinfectant to kill any remaining viruses and bacteria.
 
 ## ⚠ CONTAMINATION — what this method does and does NOT handle
 
-> ⚠ **Filter: state the micron rating. ≤1 µm absolute removes Crypto/Giardia. Most filters do NOT remove viruses (too small) — pair with chemical/UV in virus-risk water.**
+> ⚠ **Filter: read the ABSOLUTE pore size. Absolute 1 µm or smaller removes protozoa (*Giardia*, *Cryptosporidium*). Absolute 0.3 µm or smaller removes bacteria and protozoa. Most portable filters do NOT remove viruses and do NOT remove chemicals — pair with a disinfectant.**
 >
-> - **What is removed by micron rating:**
->   - ≥1 µm (1000 nm): removes sediment, some bacteria
->   - ≤0.5 µm (500 nm): removes most bacteria (*E. coli*, *Salmonella*)
->   - ≤1 µm **absolute** (1000 nm absolute): removes both *Giardia* cysts (8–12 µm) and *Cryptosporidium* oocysts (4–6 µm). *Giardia* is the LARGER organism and is actually easier to filter; a ≤1 µm absolute filter catches both. The ≤0.2 µm threshold is for bacteria, not specifically for *Giardia*.
->
-> - **What is NOT removed:**
->   - Viruses (0.02–0.1 µm): pass through nearly all portable filters. Exceptions: some hollow-fiber systems claim viral removal; check spec sheet.
->   - Heavy metals, chemicals, pesticides, salt: filtration does not address chemical contamination.
->   - *Cryptosporidium* and *Giardia*: unless filter is rated ≤1 µm **absolute** (not nominal) — many consumer filters claim ≤1 µm nominal but fail on oocyst/cyst strains.
->
-> - **The boundary:** Filtration alone is insufficient if virus risk is present. Pair ≤1 µm filter with boiling or chemical treatment. If Crypto risk is a concern (livestock upstream, beaver), require ≤1 µm absolute certification + field test (check manufacturer docs).
->
-> - **Residue:** None — filter removes particulates; water passes through.
+> - **What each rating handles (CDC):**
+>   - **Absolute 1 µm or smaller** (or NSF 53 / NSF 58 cyst-reduction certified): removes parasites such as *Cryptosporidium* and *Giardia*. It does not reliably remove bacteria and does not remove viruses.
+>   - **Absolute 0.3 µm or smaller:** removes bacteria and parasites. It does not remove viruses.
+>   - **Viruses:** only an ultrafilter (pores finer than about 0.01 µm) or reverse osmosis removes them (WMS 2024). Some hollow-fiber filters are built to do it; check the maker's claim and the label.
+>   - **Reverse osmosis** removes parasites, bacteria, viruses and salt (CDC).
+> - **What is NOT removed by a typical portable filter:**
+>   - Viruses.
+>   - Chemicals, fuel, toxins, heavy metals, pesticides, nitrate. Activated carbon helps with some chemicals but does not kill germs (WMS 2024). Filtering does not make fuel- or chemical-contaminated water drinkable (CDC).
+> - **Nominal vs. absolute:** CDC and the Minnesota Department of Health name the **absolute** pore size. If the label says only "nominal," or states no pore size, treat the filter as unrated.
+> - **The boundary:** a filter covers protozoa (and bacteria at 0.3 µm absolute) but not viruses or chemicals. In water that may carry viruses, add a disinfectant after filtering. In water that may carry chemicals, find another source.
+> - **Residue:** none. Filtered water has no protective residual, so keep it in a clean, covered container.
 
 ---
 
 ## Steps
 
-1. **Check your filter's micron rating.** Locate the specification sheet (usually printed on packaging or the cartridge itself). Note:
-   - **Nominal** vs. **absolute:** absolute rating is what you need for Crypto/Giardia. Nominal is less reliable.
-   - **Flow rate:** how many liters/gallons per minute the filter passes at acceptable pressure.
+1. **Read the label.** Find the **absolute** pore size (or NSF 53 / 58 cyst certification) and what the maker claims about bacteria and viruses. If you cannot find it, treat the filter as unrated.
 
-2. **Pre-filter if water is very cloudy.** If water has visible sediment, sand, or debris:
-   - Strain through cloth or a coarse pre-filter (25–100 µm) first to extend the life of your main filter.
-   - Let sediment settle in a bucket for 30 minutes, then pour off the clearer water on top.
+2. **Clear cloudy water first.** Let it settle about an hour, pour off the clear top, then strain through a clean cloth, paper towel or coffee filter (CDC; WMS 2024). Cloudy water clogs filters (WMS 2024).
 
-3. **Prepare the filter.** Depending on filter type:
-   - **Hollow-fiber:** prime the filter by running water through it for the first 10–20 liters to remove air and manufacturing residue.
-   - **Ceramic:** rinse with clean water if possible; ceramic can be cleaned if flow slows (see maintenance below).
-   - **Straw filters:** insert into water source or container and drink/squeeze according to manufacturer instructions.
+3. **Set up the filter as its maker directs.** Prime, flush or discard the first volume only as the instructions say.
 
-4. **Filter the water.** Pour contaminated water into the inlet (top) of the filter device. Allow it to drip or flow into a collection container below. Do not force pressure — gravity and gentle squeezing are safer.
+4. **Filter the water** into a clean container. Do not force it. As a filter clogs it needs more pressure, and extra pressure can push germs through or damage it (WMS 2024).
 
-5. **Collect filtered water.** The water exiting the filter outlet is the treated water. Place it in a clean container.
+5. **Add a disinfectant after filtering** when viruses are possible (CDC). See the chemical-treatment entry for doses and wait times.
 
-6. **Discard the first batch if filter is new.** If using a brand-new filter for the first time, discard the first 1–2 liters of filtered water (contains manufacturing residue).
-
-7. **Store filtered water.** Keep in a covered container. Filtered water is not as shelf-stable as boiled water; consume or treat chemically within 24 hours if possible.
+6. **Store** the filtered (and disinfected) water in a clean, covered container.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Micron rating cannot be summarized or ignored.** The filter must meet pathogen-removal standards or it is not doing the job:
+**The pore rating cannot be summarized or ignored.** The filter must meet the standard for the threat:
 
-- **Minimum for bacteria removal:** ≤0.5 µm (nominal acceptable for bacteria only)
-- **Minimum for Giardia AND Cryptosporidium removal:** ≤1 µm **absolute** (nominal ratings fail; seek certified "cyst/oocyst removal"). *Giardia* cysts are 8–12 µm and *Cryptosporidium* oocysts are 4–6 µm — both are far larger than bacteria and are removed by a properly rated ≤1 µm absolute filter. The ≤0.2 µm threshold applies to bacteria, not to protozoa.
-
-If you do not know your filter's rating, assume it removes bacteria only. Do not use an unrated filter against Giardia or Crypto risk.
-
-**Paired treatment:** if virus risk is present (sewage contamination, upstream sick people, wildlife diarrhea), pair any filter with boiling (1 min at sea level) OR chemical treatment (chlorine/iodine with longer contact time). Filtration alone does not address viruses.
+- **Protozoa (*Giardia* and *Cryptosporidium*):** absolute 1 µm or smaller (or NSF 53 / 58 cyst-rated) (CDC).
+- **Bacteria:** absolute 0.3 µm or smaller (CDC). A 1 µm absolute filter does not reliably remove bacteria.
+- **Viruses:** a typical portable filter does not remove them. Add a disinfectant after filtering, or boil (CDC). Only an ultrafilter or reverse osmosis removes viruses on its own.
+- **Unknown rating:** treat the filter as unrated. Do not rely on it against *Cryptosporidium*, *Giardia* or bacteria.
 
 ---
 
@@ -105,24 +95,26 @@ If you do not know your filter's rating, assume it removes bacteria only. Do not
 
 | Failure | Cause | Recovery |
 |---------|-------|----------|
-| Water flows very slowly | Filter clogged with sediment or manufacturing residue | If new: prime longer or flush. If in use: clean filter per type (see below). If still slow: replace cartridge or switch to backup filter. |
-| Filtered water is still cloudy | Pre-filter not used; sediment too fine for filter rating | Run through pre-filter first (cloth, sand-settling). Cloudy water may still be microbiologically safe if filter rating is adequate. Do not refilter the same batch. |
-| No water comes out | Air lock in filter or complete blockage | Disconnect, submerge inlet in clean water, re-prime by gravity or gentle squeeze. If blockage persists: clean per type or replace. |
-| Filter leaks around seals | Seals cracked or misaligned | Reseat seals; if still leaking, discard filter (water bypassing the cartridge defeats purpose). Switch to boiling or backup filter. |
-| Filter is damaged or cracked | Dropped, frozen, or worn | Do not use (pathogens bypass). Switch to backup or use boiling/chemical treatment. |
-| Virus risk present but filter is >1 µm | Filter insufficient for viral removal | Pair with boiling (≥1 min, ≥3 min above 6,500 ft) or chemical treatment (chlorine/iodine, 30 min contact time). Filtration + chemical is the standard for virus risk. |
+| Water flows very slowly | Filter clogged with particles | Clean or replace it as the maker directs. Pre-strain cloudy water next time. Use a backup filter or another method. |
+| No water comes out | Air lock or full blockage | Re-prime as the maker directs. If blocked, clean or replace it. |
+| Filter leaks around seals or housing | Cracked or misaligned part | Stop. Unfiltered water can bypass the filter. Fix it or switch to boiling or a backup filter. |
+| Filter is cracked or damaged | Dropped, worn, or damaged | Do not use it. A crack lets unfiltered water through (WMS 2024). Boil or use a backup. |
+| Virus risk present but the filter is a typical portable filter | Pores too large for viruses | Add a disinfectant after filtering, or boil (CDC). |
+| Water may carry chemicals or toxins | Filter does not remove them | Use bottled water or another source (CDC). |
+| Label shows no absolute pore size | Unrated filter | Do not count on it for *Cryptosporidium*, *Giardia* or bacteria. Boil or use a rated filter. |
 
-### Maintenance & Cleaning
+### Maintenance & cleaning
 
-- **Ceramic filters:** backflush by submerging in clean water and gently squeezing/syringe-flushing water back out through the inlet. Repeat until flow improves. Can be cleaned and reused many times if not cracked.
-- **Hollow-fiber filters:** do not backflush (can damage fibers). If flow slows, soak in clean water for 1 hour or replace. Some models are freezer-cleanable — check spec.
-- **Straw/tube filters:** cannot be cleaned effectively. Once flow slows significantly, retire and use backup or switch methods.
+- Clean every filter the way **its maker** says. Designs differ: many hollow-fiber filters are built to be backflushed, and ceramic elements are scrubbed or brushed.
+- WHO describes household ceramic filters as needing regular cleaning: scrubbing the ceramic element to unclog pores and washing the receptacle and spigot to prevent bacterial growth.
+- Carry a backup. All filters eventually clog (WMS 2024).
 
 ---
 
 ## Sources
 
-- **CDC Point-of-Use Water Treatment:** https://www.cdc.gov/healthywater/drinking/home-water-treatment/household-water-treatment.html — effectiveness thresholds by pathogen type; micron ratings for bacteria/protozoa.
-- **EPA Household Water Filters:** https://www.epa.gov/ground-water-and-drinking-water/drinking-water-standards-regulatory-information — federal standards for filter certification; nominal vs. absolute definitions.
-- **WHO Pathogen Removal:** https://www.who.int/publications/i/item/9789241506564 — global guidance on filtration effectiveness; virus and protozoan sizing.
-- **FM 21-76 Survival Manual:** — field-expedient filtration (sand, cloth layers, sand-and-charcoal multilayer filters for pre-treatment).
+- **CDC, About Water Treatment Options When Hiking, Camping, or Traveling:** https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html (absolute 1 micron or smaller removes parasites such as *Cryptosporidium* and *Giardia*, not viruses or all bacteria; NSF 53 / 58 cyst certification; 0.3 micron or smaller removes bacteria and parasites but not viruses; reverse osmosis; filter first, then disinfect).
+- **CDC, How to Make Water Safe in an Emergency:** https://www.cdc.gov/water-emergency/about/index.html (absolute pore size 0.3 micron or smaller for bacteria, 1 micron or smaller for parasites; portable filters do not remove viruses; add a chemical disinfectant after filtering; clear cloudy water through cloth, paper towel or coffee filter).
+- **Minnesota Department of Health, Preventing Illness while Camping, Hiking, and Traveling:** https://www.health.mn.gov/diseases/waterborne/prevention/backcountry.html (absolute pore size 1 micron or smaller for *Giardia* and *Cryptosporidium*; 0.3 micron or smaller for bacteria; pore size alone is not enough for viruses).
+- **Wilderness Medical Society water treatment guideline (2024):** https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf (0.2 micron microfilters remove protozoa and bacteria; ultrafiltration finer than 0.01 micron needed for complete virus removal; cloudy water clogs filters; a cracked filter passes unfiltered water; settle about 1 hour and strain).
+- **WHO, Household Water Treatment and Safe Storage Following Emergencies and Disasters:** https://www.who.int/docs/default-source/wash-documents/wash-in-emergencies/household-water-treatment-and-safe-storage-after-emergencies.pdf (ceramic filters need regular cleaning and maintenance).

@@ -107,15 +107,11 @@ severity_range: "minor surface infection → tissue infection → sepsis (life-t
 ### Step 4: Systemic signs (fever, spreading redness)
 - **Monitor core temperature** every 6–8 hours if possible.
 - **Rest and hydration:** infection accelerates fluid loss and energy demand.
-- **Anti-inflammatory:** if available, ibuprofen (400–600 mg every 4–6 hours) may help manage fever and swelling; does not treat infection.
+- **Pain and fever relief:** an over-the-counter pain reliever may help with fever and swelling; use the label dose only. It does not treat infection.
 - **Elevate the limb** (if wound is on arm/leg) to reduce swelling.
-- **Antibiotic use (field):**
-  - If you have antibiotics (amoxicillin, doxycycline, cephalexin, clindamycin — from a previous prescription or emergency kit):
-    - **Oral antibiotics for mild localized infection:** start immediately if fever is ≥38°C or spreading redness is present, even if no formal diagnosis.
-    - **Dosing (amoxicillin example):** 500 mg three times daily; (doxycycline) 100 mg twice daily. If unsure, use lowest reasonable dose.
-    - **Duration:** continue for ≥7 days, even if symptoms improve (stopping early risks relapse).
-    - **Do NOT rely on antibiotics alone.** Continue irrigation and dressing changes.
-  - If no antibiotics and fever/spreading signs appear: **this exceeds field care — evacuate**.
+- **Antibiotics are a clinician's decision.** Do not self-start leftover or kit antibiotics, and do not guess a dose. Fever, spreading redness, red streaks, or pus with feeling unwell means this exceeds field care: seek care or evacuate (see ⚠ RED FLAGS / EVACUATE).
+  - If a clinician has already prescribed an antibiotic for this wound, take it exactly as prescribed and finish the course unless they tell you otherwise.
+  - Keep cleaning and dressing the wound either way. Antibiotics never replace wound care.
 
 ### Step 5: Watch for progression to sepsis
 - **If fever climbs or new systemic signs appear** (chills, rapid heartbeat, confusion, mottled skin), treat as sepsis emergency: **STOP field care and evacuate immediately.**
@@ -126,11 +122,11 @@ severity_range: "minor surface infection → tissue infection → sepsis (life-t
 ## ⚠ DO NOT
 
 - **Do NOT seal a contaminated wound with tape or bandage.** Anaerobic bacteria (which cause necrotizing fasciitis) thrive without oxygen. Always leave a contaminated/infected wound open to air or loosely packed.
-- **Do NOT ignore red streaking.** Lymphangitis (red lines) is a sign the infection is invading lymph vessels. This is NOT a minor infection and requires systemic antibiotics or evacuation.
+- **Do NOT ignore red streaking.** Lymphangitis (red lines) is a sign the infection is invading lymph vessels. This is NOT a minor infection: get medical care now or evacuate.
 - **Do NOT squeeze or aggressively drain an abscess.** Pus pockets can rupture deeper into tissue, spreading infection. Gentle warm compress + minimal expression only; large abscesses need professional drainage.
 - **Do NOT skip irrigation.** Topical antiseptic without irrigation leaves bacteria and debris behind.
 - **Do NOT delay evacuation for fever ≥38.5°C.** A rising fever suggests systemic infection; field care cannot manage it.
-- **Do NOT continue oral antibiotics if vomiting or diarrhea is severe.** This suggests gastrointestinal involvement or systemic illness — escalate to evacuation.
+- **Do NOT wait out severe vomiting or diarrhea while on a prescribed antibiotic.** It can mean the person is getting sicker or cannot keep the medicine down: contact a clinician or evacuate.
 - **Do NOT apply tourniquets or compress a limb with cellulitis.** This can trap bacteria and worsen tissue damage.
 - **Do NOT re-use old dressings.** Clean cloth/gauze only.
 

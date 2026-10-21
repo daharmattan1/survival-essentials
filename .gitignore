@@ -15,3 +15,6 @@ Thumbs.db
 
 # Private regional guides (location-specific, personal info)
 regional-*/
+
+# Pass working files (briefs, checks) — never published
+_workspace/

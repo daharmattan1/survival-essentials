@@ -6,26 +6,30 @@ domain:                substrate/02_water
 region_scope:          universal
 usda_zone:             n/a
 method_for:            "disinfect water via oxidizing agents"
-materials:             ["unscented liquid household bleach (5–9% sodium hypochlorite) OR iodine tablets/liquid (2% tincture or 5% solution)", "dropper or measuring spoon", "container for treated water", "wait timer or clock"]
+materials:             ["plain unscented household liquid bleach (label 6% or 8.25% sodium hypochlorite; CDC table covers 5–9%), less than 1 year old", "clean dropper", "OR iodine tablets or 2% tincture of iodine", "container for treated water", "clock or timer", "cloth, paper towel or coffee filter (to clear cloudy water first)"]
 difficulty:            easy
 confidence:            high
 source_tier:           T1
 sources:
-  - title:             "Making Water Safe in an Emergency"
+  - title:             "How to Make Water Safe in an Emergency"
     publisher:         "CDC"
-    url:               "https://www.cdc.gov/healthywater/emergency/making-water-safe.html"
+    url:               "https://www.cdc.gov/water-emergency/about/index.html"
     tier:              T1
   - title:             "Emergency Disinfection of Drinking Water"
     publisher:         "EPA"
     url:               "https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water"
     tier:              T1
-  - title:             "Household Water Treatment Fact Sheet: Chlorination"
-    publisher:         "Red Cross"
-    url:               "https://www.redcross.org/get-help/how-to-prepare-for-disasters/types-of-emergencies/water-safety.html"
+  - title:             "About Water Treatment Options When Hiking, Camping, or Traveling"
+    publisher:         "CDC"
+    url:               "https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html"
     tier:              T1
-  - title:             "FM 21-76: Survival Manual"
-    publisher:         "U.S. Army"
-    url:               "https://www.survivalmanual.army.mil/"
+  - title:             "Preventing and Controlling Crypto at Camps"
+    publisher:         "CDC"
+    url:               "https://www.cdc.gov/cryptosporidium/prevention/preventing-and-controlling-crypto-at-camps.html"
+    tier:              T1
+  - title:             "Wilderness Medical Society Clinical Practice Guidelines on Water Treatment for Wilderness, International Travel, and Austere Situations (2024)"
+    publisher:         "Wilderness Medical Society / Wilderness & Environmental Medicine (CDC Stacks copy)"
+    url:               "https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf"
     tier:              T2
 last_reviewed:         draft
 review_status:         draft
@@ -34,88 +38,89 @@ preparation_required:  true
 
 ## Goal & When To Use
 
-Chemical disinfection uses oxidizing agents (chlorine or iodine) to kill bacteria and viruses. Use this method when:
+Chlorine bleach and iodine kill bacteria and viruses in clear water. Use chemical disinfection when:
 
-- You have no heat source or filter available.
-- You need a lightweight, shelf-stable, portable disinfection option.
-- Boiling is impractical (fuel scarcity, large volume).
-- Water is relatively clear (chemical treatment is ineffective on cloudy water).
+- You cannot boil (no fuel, no heat source) and have no filter, or you are adding a disinfectant after a filter.
+- You need a light, shelf-stable, portable option.
+- The water is clear. **Clear cloudy water first** (settle, then strain through a cloth, paper towel or coffee filter). Chemicals work less well in cloudy or colored water.
 
-**Chlorine** (unscented household bleach, 5–9% sodium hypochlorite) is the most practical field option and is CDC-recommended. **Iodine** is a backup for those without bleach but has cautions for long-term use.
+**Chlorine bleach** is the usual field choice. **Iodine** is a backup, with cautions below. Neither is a fix for fuel, toxic chemicals or *Cryptosporidium*.
 
 ---
 
 ## ⚠ CONTAMINATION — what this method does and does NOT handle
 
-> ⚠ **Chemical (chlorine/iodine): kills bacteria + viruses; does NOT reliably kill *Cryptosporidium*. Longer contact time in cold/cloudy water. Iodine: not for pregnancy/thyroid conditions/long-term.**
+> ⚠ **Chemical (chlorine/iodine): kills bacteria + viruses in clear water; does NOT reliably kill *Cryptosporidium*. Needs much longer contact time in cold water (and for *Giardia*). Iodine: not for pregnancy, thyroid problems, or long-term use.**
 >
-> - **Threats eliminated:** Bacteria (*E. coli*, *Salmonella*, *Campylobacter*), viruses (norovirus, hepatitis A, rotavirus, COVID-19 presumed susceptible).
+> - **Threats handled:** bacteria and viruses in clear water.
 > - **Threats that REMAIN:**
->   - *Cryptosporidium parvum* (oocysts): chlorine/iodine do NOT reliably inactivate Crypto. If Crypto risk is high (livestock upstream, sick travelers), pair chemical with boiling or ≤1 µm filtration.
->   - *Giardia*: chemically sensitive but requires longer contact time in cold water (see Steps).
->   - Heavy metals, chemicals, pesticides: not addressed by chemical disinfection.
-> - **Contact time depends on water temperature & clarity:**
->   - Clear, warm (20°C/68°F) water: 30 min contact time
->   - Clear, cold (4°C/39°F) water: 2–4 hours contact time
->   - Cloudy water: add more chemical and extend time; cloudy water requires coagulation/settling first
->
-> - **Residue:** Faint chlorine/iodine taste/odor is normal (indicates disinfectant present). This is not harmful but can be masked by letting water sit uncovered for 30 min to allow gas to escape, or by adding a pinch of vitamin C (ascorbic acid) or lemon juice to neutralize remaining chlorine.
+>   - ***Cryptosporidium*:** bleach, chlorine tablets and iodine do not kill it (CDC). It tolerates chlorine and can live more than 7 days in chlorinated water (CDC). If livestock graze upstream, sewage is possible, or people are camped nearby, boil, or use a filter rated absolute 1 micron or smaller, instead of or before the chemical.
+>   - ***Giardia*:** chemicals can work but need a long wait in cold water (see MANDATORY PREPARATION). If the water is cold and *Giardia* is possible, boil or filter instead.
+>   - Fuel, toxic chemicals, radioactive material, heavy metals, nitrate, algal toxins: not removed. CDC: you "cannot make water containing fuel, toxic chemicals, or radioactive materials" drinkable by disinfecting it.
+> - **Chlorine dioxide tablets** are a different product. Used exactly as directed with a long wait they can act on *Cryptosporidium*, but agencies rate this as "somewhat effective," so boiling or an absolute 1-micron filter remains the dependable choice (CDC).
+> - **Residue:** a faint chlorine smell after the wait is the check that enough chlorine is present (EPA). Taste fixes: see Steps.
+> - **The boundary:** no chemical class and no *Cryptosporidium* coverage. State which threats remain after you use this method.
 
 ---
 
-## Steps — Chlorine (Unscented Household Bleach)
+## Steps — Chlorine (Plain Unscented Household Bleach)
 
-**Preparation:**
-1. Obtain unscented household bleach (check label). Most bleach is 5–6% or 8.25% sodium hypochlorite. Do NOT use scented bleach, color-safe bleach, or bleach with added soap.
+**Choose the bleach.**
+1. Use regular, **unscented** liquid chlorine bleach suited to disinfection, with 6% or 8.25% sodium hypochlorite on the label (CDC's table covers 5–9%). Do not use scented, color-safe, or bleach with added cleaners. Use bleach less than 1 year old that was stored at room temperature (EPA). Use a clean dropper.
 
-**Dosing:**
-2. **Clear water at normal temperature (>15°C / 59°F):**
-   - **5–6% bleach:** Add 2 drops per liter of water (~8 drops/gallon). Stir well. Wait 30 minutes.
-   - **8.25% bleach (now common):** Add 6 drops per gallon (~1.6 drops/L) of clear water. Stir well. Wait 30 minutes. (CDC guidance for 8.25% bleach.)
+**Clear, then dose.**
+2. Clear cloudy water first: let it settle, then strain through a clean cloth, paper towel or coffee filter (EPA; CDC).
+3. Add the drops for clear water from this table, then stir or shake (EPA):
 
-3. **Cloudy or cold water, OR Giardia suspected:**
-   - **5–6% bleach:** Add 4 drops per liter. Stir well. Wait 2–4 hours (4 hours in very cold water).
-   - **8.25% bleach:** Add 12 drops per gallon (~3 drops/L). Stir well. Wait 2–4 hours.
-   After contact time, let water sit uncovered for 30 min to allow chlorine taste to fade.
+| Water volume | 6% bleach | 8.25% bleach |
+|---|---|---|
+| 1 quart or 1 liter | 2 drops | 2 drops |
+| 1 gallon | 8 drops | 6 drops |
+| 2 gallons | 16 drops (about 1/6 tsp) | 12 drops (1/8 tsp) |
+| 4 gallons | 1/3 teaspoon | 1/4 teaspoon |
+| 8 gallons | 2/3 teaspoon | 1/2 teaspoon |
 
-4. **Higher contamination risk (visible organic matter, livestock contact):** Double the dose for your bleach concentration and wait 4 hours.
+   If you cannot tell the strength but the label says 5–9%, CDC uses 2 drops per quart or liter, 8 drops per gallon, 40 drops per 5 gallons.
 
-5. **After contact time, store treated water.** Pour into a clean container. Covered storage is best to preserve residual chlorine, which provides some ongoing protection.
+4. **If the water is cloudy, colored or very cold, double the dose** (EPA; CDC).
 
-### Steps — Iodine (Tablets or Liquid)
+**Wait and check.**
+5. Stir and let it stand **30 minutes** (EPA; CDC).
+6. **Smell it.** It should have a faint chlorine smell. If it does not, repeat the same dose and wait another 15 minutes (EPA). If it still has no smell, use a fresh bleach or another method.
+7. If the chlorine taste is too strong, pour the water back and forth between clean containers and let it stand a few hours (EPA). Or see "Taste" below.
 
-**Iodine tablets:**
-1. Drop one tablet into 1 liter of clear water (follow package dosing for concentrated iodine).
-2. Wait 20–30 minutes.
-3. The water will turn amber/brown — this is normal.
+**Store** in a clean, covered container.
 
-**Iodine liquid (2% tincture or 5% solution):**
-1. Add 5 drops per liter of clear water; 10 drops if cloudy or cold.
-2. Wait 20–30 minutes for clear water; 2–4 hours if cloudy or cold.
+## Steps — Iodine (Tincture or Tablets)
 
-**Note:** After iodine treatment, taste may be bitter. A pinch of vitamin C or lemon juice will neutralize the iodine flavor (optional).
+- **2% tincture of iodine:** 5 drops per quart or liter of clear water; **10 drops if cloudy or colored.** Stir and let stand **at least 30 minutes** (EPA).
+- **Tablets:** follow the product label, since strength varies by product (EPA; CDC).
+- Iodine and chlorine tablets do not kill *Cryptosporidium* (CDC).
+
+## Taste
+
+- After the **full contact time**, a small pinch of vitamin C (ascorbic acid) per liter removes the chlorine or iodine taste (WMS 2024). Add it **at the time of drinking only. Never add it to water you plan to store,** because it removes the disinfectant that protects the stored water (WMS 2024).
+- This entry does not use lemon juice or other additives, because the sources opened for it support only ascorbic acid, pouring between containers, and a pinch of salt (EPA).
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Contact time is non-negotiable.** Insufficient wait time leaves bacteria and viruses viable:
+**Dose and contact time cannot be shortened or summarized away.**
 
-**Chlorine:**
-- **5–6% bleach, clear warm water (>15°C / 59°F):** 2 drops/L, minimum 30 minutes
-- **8.25% bleach, clear warm water:** 6 drops/gallon (~1.6 drops/L), minimum 30 minutes
-- **Cold water (≤15°C / 59°F) or cloudy:** double the dose for your bleach concentration; minimum 2–4 hours (4 hours safest)
+**Chlorine bleach (EPA; CDC):**
+- Clear water: 2 drops per quart or liter, 8 drops (6%) or 6 drops (8.25%) per gallon.
+- **Cloudy, colored or very cold water: double the dose.**
+- Wait **30 minutes**. Check for a faint chlorine smell. No smell: repeat the dose and wait 15 more minutes.
 
-**Iodine:**
-- **Clear water:** minimum 20–30 minutes
-- **Cold or cloudy water:** minimum 2–4 hours
+**Cold water and *Giardia* (WMS 2024):** cold slows the reaction. The Wilderness Medical Society guideline gives a *Giardia*-based contact time of about 3 hours (180 minutes) at 5 °C (41 °F) for a chlorine level of 4 ppm, with shorter times in warmer water. You cannot measure ppm in the field, so treat this as a warning that 30 minutes is not enough in near-freezing water. If the water is cold and *Giardia* is possible, boil it or use a filter rated absolute 1 micron or smaller.
 
-**Cryptosporidium note:** If Crypto risk is present (livestock upstream, untreated surface water, immunocompromised person), do NOT rely on chemical alone. Pair with boiling (≥1 min) or filtration (≤1 µm absolute).
+**Iodine (EPA; CDC; WMS 2024):**
+- Tincture: 5 drops per quart or liter (10 if cloudy or colored), at least 30 minutes.
+- **Do not use iodine** if you are pregnant, have thyroid problems, or have an iodine allergy or hypersensitivity (CDC; WMS 2024 also lists a history of thyroid disease even if controlled, and a strong family history of thyroid disease).
+- **No one should drink iodine-treated water for more than a few weeks at a time** (CDC; EPA).
 
-**Iodine cautions:**
-- Avoid for pregnant people, those with thyroid disorders, or those taking thyroid medication.
-- Limit to 2 weeks of continuous use in non-emergency settings.
-- Not suitable for dialysis or renal-impaired patients.
+**Cryptosporidium note:** if *Cryptosporidium* is possible (livestock upstream, untreated surface water, sewage, a camp nearby, or a person with a weak immune system), do not rely on bleach or iodine. Boil, or use a filter rated absolute 1 micron or smaller (CDC).
 
 ---
 
@@ -123,18 +128,20 @@ Chemical disinfection uses oxidizing agents (chlorine or iodine) to kill bacteri
 
 | Failure | Cause | Recovery |
 |---------|-------|----------|
-| Water still looks cloudy after treatment | Chemical cannot work through suspended sediment | Pre-filter or pre-settle (30 min) before chemical treatment. Re-dose the clear water that settles on top. Cloudy treated water is safer than untreated, but clarity improves efficacy. |
-| Strong chlorine smell persists after wait time | Too much bleach added or hot water accelerates gas release | Let water sit uncovered for 30 min; gas naturally off-gases. Add a pinch of vitamin C or lemon juice to neutralize. A slight chlorine smell after 30 min wait is acceptable. |
-| Iodine taste is very bitter | Iodine concentration too high | Reduce iodine in next batch; or mask taste with lemon juice / vitamin C. Bitter taste does not mean water is unsafe. |
-| No chemical available | Bleach/iodine exhausted or unavailable | Switch to boiling if fuel available, or filtration if filter available. SODIS is a last resort if sun is strong and water is clear. Seek a new source with safer water. |
-| Water is very cold and cloudy | Chemical needs very long contact time | Combine methods: pre-filter or pre-settle, then chemical with 4 hours wait, then brief boil if fuel available. Or use boiling alone (1 min at sea level). |
-| Person is immunocompromised | Chemical may not be sufficient; Crypto risk high | Do not rely on chemical alone. Use boiling (safest) or ≤1 µm filtration + chemical. Seek medical advice if immunocompromised. |
+| Water still looks cloudy or tea-colored after clearing | Fine particles | Clear again (settle, strain). If it is still colored, count it as cloudy and double the dose (EPA). |
+| No chlorine smell after 30 minutes | Dose too weak, old bleach, or water has a high demand | Repeat the same dose and wait another 15 minutes (EPA). Still no smell: use fresh bleach or another method. |
+| Chlorine taste is too strong | Normal after dosing | Pour back and forth between clean containers and let it stand a few hours (EPA). Or add a pinch of vitamin C at the time of drinking (WMS 2024). |
+| Iodine taste is strong | Normal | Same as above. A taste fix does not change whether the water is treated. |
+| Water is very cold | Chemical works slowly | Wait much longer (see MANDATORY PREPARATION) or boil or filter instead (WMS 2024). |
+| No chemical available, or *Cryptosporidium* risk | Out of bleach, or chemical cannot cover the threat | Boil, or use a filter rated absolute 1 micron or smaller (plus a disinfectant for viruses). Sun (SODIS) is a last fallback and is not reliable for *Cryptosporidium*. |
+| Someone is pregnant, has thyroid problems, or must drink treated water for weeks | Iodine cautions | Use chlorine bleach, boiling or a filter plus chlorine instead of iodine (CDC). |
 
 ---
 
 ## Sources
 
-- **CDC Making Water Safe:** https://www.cdc.gov/healthywater/emergency/making-water-safe.html — specific bleach dosing (2 drops clear, 4 drops cloudy); 30-min contact time at normal temperatures.
-- **EPA Emergency Disinfection:** https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water — chlorine and iodine protocols; *Cryptosporidium* limitation explicitly noted.
-- **Red Cross Household Water Treatment:** https://www.redcross.org/get-help/how-to-prepare-for-disasters/types-of-emergencies/water-safety.html — emergency chemically treatment guidance; iodine cautions for pregnancy/thyroid.
-- **FM 21-76 Survival Manual:** — field disinfection methods; chemical agent dosing and contact-time adjustments by temperature.
+- **CDC, How to Make Water Safe in an Emergency:** https://www.cdc.gov/water-emergency/about/index.html (bleach 5–9%: 2 drops per quart or liter, 8 drops per gallon, 40 per 5 gallons; double for cloudy, murky, colored or very cold water; stand at least 30 minutes; iodine and chlorine tablets do not kill *Cryptosporidium*; iodine cautions).
+- **EPA, Emergency Disinfection of Drinking Water:** https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water (6% and 8.25% dose table; unscented bleach, less than 1 year old; stand 30 minutes, faint chlorine odor, else repeat dose and wait 15 more minutes; iodine tincture 5 or 10 drops, 30 minutes; pour between containers for taste).
+- **CDC, About Water Treatment Options When Hiking, Camping, or Traveling:** https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html (chlorine, iodine and chlorine dioxide kill viruses and bacteria but not reliably parasites; chlorine dioxide only "somewhat effective" against *Cryptosporidium*; iodine cautions).
+- **CDC, Preventing and Controlling Crypto at Camps:** https://www.cdc.gov/cryptosporidium/prevention/preventing-and-controlling-crypto-at-camps.html (*Cryptosporidium* tolerates chlorine and can live more than 7 days; bleach will not kill it).
+- **Wilderness Medical Society water treatment guideline (2024):** https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf (Table 6: contact time of 180 minutes at 5 °C and 4 ppm, based on *Giardia*; halogens not effective against *Cryptosporidium*; ascorbic acid for taste only at the time of consumption, not for stored water; iodine contraindications).

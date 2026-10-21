@@ -8,14 +8,18 @@ usda_zone: n/a
 confidence: high
 source_tier: T2
 sources:
-  - title: FM 21-76 Survival (U.S. Army)
-    publisher: Department of Defense
-    url: https://archive.org/details/FM21-76/
+  - title: ATP 3-50.21 Survival (Sept 2018), Chapter 5 Fire, paras 5-32 to 5-55 (fire starting techniques)
+    publisher: U.S. Army (Headquarters, Department of the Army)
+    url: https://archive.org/details/survival-atp-3-50-21
     tier: T2
-  - title: SAS Survival Handbook
-    publisher: Collins
-    url: https://www.collins.co.uk/
+  - title: FM 21-76 US Army Survival Manual, Chapter 7 Firecraft (reprint)
+    publisher: U.S. Army (reprint hosted by San Jose State University)
+    url: https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
     tier: T2
+  - title: 9 Volt Battery Fire Safety
+    publisher: City of Colorado Springs Fire Department
+    url: https://coloradosprings.gov/fire-department/page/9-volt-battery-fire-safety
+    tier: T1
 last_reviewed: 2026-06-27
 review_status: reviewed
 method_for: Create an ignition source using tools available in survival kits or the field
@@ -29,170 +33,151 @@ hazard_severity: moderate
 
 ## Goal & When To Use
 
-Ignition is the moment a spark or flame **transfers to tinder**, not the source itself. A lighter with no tinder to catch it is useless. This entry ranks ignition methods by reliability (likelihood of success in field conditions) and describes the technique for each. **Prioritize the most reliable method available**, and always have a **backup method** in case the primary fails or the tool is lost/wet.
+Ignition is the moment a spark or flame **transfers to tinder**, not the source itself. A lighter with no tinder to catch it is useless, so stage tinder, kindling and fuel before you strike anything. **Light the fire from the upwind side** to protect the fragile first spark or flame [ATP 5-32; FM 21-76 ch. 7]. Carry at least two methods: every lighter and match is a limited supply, and each match that fizzles or blows out is one fewer fire you can start [ATP 5-32, 5-34].
 
-**Reliability hierarchy (best to worst):**
-1. Lighter (disposable or refillable)
-2. Waterproof matches
-3. Ferro rod (ferrocerium)
-4. Friction methods (bow drill, hand drill, fire plow)
-5. Lens ignition (magnifying glass or polished ice)
-6. Battery + steel wool (experimental)
+**Order of preference.** This is a practical order drawn from Army guidance, not a measured success rate. No reliability percentages are published for these methods in the sources used here, so none are given.
+
+1. **Lighter**, butane type preferred. Easiest to use [ATP 5-36].
+2. **Ferro rod (metal match).** The most useful and versatile survival fire-starter *when you are trained in it* [ATP 5-37]. Practice before you need it.
+3. **Waterproof matches** with a striker pad, in a waterproof container [ATP 5-34].
+4. **Lens** (bright direct sun only) [ATP 5-41].
+5. **Battery and steel wool** (last resort, real fire hazard) [ATP 5-40].
+6. **Friction methods** (bow drill, hand drill, fire plow). These take more skill, time and energy than modern methods, and are for people who are unprepared or have lost their gear [ATP 5-32, 5-43].
 
 ---
 
 ## Steps
 
-### Tier 1: Disposable Lighter
+### 1. Lighter
 
-**Reliability:** highest (95%+ in normal field conditions). **Wind weakness:** moderate (wind can deflect the flame).
+**Strengths:** the Army says butane lighters give better wind resistance and a hotter, more concentrated flame than liquid-fuel lighters, and are the better tool for starting a fire. Liquid-fuel types can last longer and start more fires if tinder is prepared properly [ATP 5-36].
 
-**Preparation:**
-- Carry in a pocket, pouch, or pack. Protect from prolonged water submersion (seals can fail if soaked for >2 hours).
-- In cold (below 40°F), lighter fluid becomes sluggish; keep the lighter warm in your clothing.
+**Cold weather:** in extreme cold, lighter fuel can freeze up and not function. Warm the lighter with your body heat [ATP 5-36]. Keep it in an inner pocket, and keep it dry.
 
 **Technique:**
-1. Prepare the fire lay and tinder *before* igniting.
-2. Hold the lighter low, inside the tinder bundle, with the flame pointing upward into the loose fibers.
-3. Cup your hand around the tinder to shield from wind.
-4. Move the flame slowly through the tinder, watching for the first wisps of smoke — smoke before flame is normal.
-5. Once tinder flames, gently blow on the base of the flame (not the tip) to deepen the burn.
-6. When tinder is fully flaming (usually 3–5 seconds), carefully move the flame to kindling.
-7. **Do not** jam the lighter into the tinder; let the tinder catch from the proximity of the flame.
+1. Prepare the fire lay and tinder *before* you light the lighter.
+2. Shield the flame from the wind with your body and hands, and work from the upwind side.
+3. Use the lighter as you would a match: bring the flame to the **bottom edge** of the tinder, taking care not to smother the flame by pushing it into or tightly against the tinder [ATP 5-35].
+4. Once the tinder is burning strongly and mostly engulfed, add kindling by the handful with spaces left for air [ATP 5-14].
 
 **Failure modes:**
-- Lighter is empty → carry a backup lighter or ferro rod.
-- Flame is too high and exits the tinder → lower the lighter or use a longer lighter with an extended tube.
-- Tinder is damp → the lighter will char the outside of wet tinder without igniting it. Pre-dry in your clothing; use char cloth if available.
+- Lighter is empty, wet or frozen → use your backup method. If a liquid-fuel lighter runs out of fuel, its sparking mechanism can be used like a metal match [ATP 5-36].
+- Flame pushed into the tinder and smothered → hold it at the bottom edge of the tinder.
+- Tinder is damp → dry it first against your body (between layers of clothing) [ATP 5-10].
 
 ---
 
-### Tier 2: Waterproof/Wind-Resistant Matches
+### 2. Ferro Rod (Metal Match)
 
-**Reliability:** high (85%+ if stayed dry). **Wind weakness:** high (open flame is vulnerable).
+**Strengths:** metal matches are not affected by wet or dry conditions, cold or hot weather, evaporation or age. Depending on rod size, quality and your skill, a single rod can start thousands of fires [ATP 5-37, 5-38]. Quality varies, so test every rod you buy or are issued [ATP 5-37].
+
+**Needs:** a piece of metal with a good edge, 90 degrees preferred, as a striker. Most rods include a striker. The back of a fixed-blade knife or the tang end of a folding knife blade also works [ATP 5-37].
 
 **Preparation:**
-- Carry in a waterproof match case (metal or hard plastic container with a seal).
-- Do NOT rely on "waterproof" claims for long-term submersion; waterproofing is protective *coatings*, not seals. Reseal the case immediately after each use.
-- Strike surface must stay dry; some match cases include a striking pad on the inside of the lid.
+- Protect the rod from corrosion like any metal tool [ATP 5-37].
+- Practice before you rely on it. Technique differs from a lighter.
+- Some rods have a magnesium strip that can be scraped into the tinder to help it ignite [ATP 5-38].
 
-**Technique:**
+**Technique** (ATP 3-50.21 para 5-39):
+1. Hold the rod in your non-primary hand and the striker in your primary hand.
+2. Grip the rod at the top and set its **bottom end firmly on, or next to the edge of, the tinder**, which sits on a secure base.
+3. Hold the edge of the striker at a **90-degree angle** to the rod.
+4. **Drive the striker downward along the rod** toward the tinder with evenly applied pressure, to near the bottom of the rod. This throws a lot of sparks into the tinder.
+5. **Stop the downward stroke before the striker disturbs the tinder or the sparks you just threw**, so you do not snuff them out. Angling the far end (the tip) of the striker slightly downward lets the tip stop the stroke by driving into the base, instead of the flat of the blade stamping on the tinder.
+6. Do **not** draw the striker toward your body, and do not hold it at a shallow angle.
+7. When the tinder catches, blow on it gently to spread the glow into flame [ATP 5-44], then add kindling.
+
+Good sparks burn hot and fast and can make up for some moisture in tinder [ATP 5-39].
+
+**Failure modes:**
+- Few or weak sparks → the striker edge is dull or rounded. Use a sharper 90-degree edge, such as the back of a knife blade.
+- Sparks scatter or the tinder is knocked over → the rod tip is not set on or beside the tinder base, or the stroke continued into the tinder. Re-seat the rod and end the stroke early.
+- Sparks land but tinder only smolders → the tinder is too damp or packed too tight. Dry and fluff it, or use a finer tinder such as charred cloth, which holds a spark for a long time [FM 21-76 ch. 7].
+
+---
+
+### 3. Waterproof Matches
+
+**Preparation:**
+- Use waterproof matches in a waterproof container with a striker pad. Strike-anywhere matches are the most adaptable. Matches can quickly become damp from their exposed wood grain, and damp matches burn weak or not at all [ATP 5-34].
+- Dipping match heads in melted wax protects them from moisture [ATP 5-34].
+
+**Technique** [ATP 5-35]:
 1. Prepare the lay and tinder.
-2. Strike the match decisively against the provided striking surface (or a rough rock face if the case striking pad is worn).
-3. Light the match *below* the tinder bundle (tinder is placed above the match flame).
-4. Transfer the flame to the tinder base; hold the match steady for 2–3 seconds to ensure full ignition.
-5. Once tinder flares, discard the match and continue with blown-on ignition.
+2. Rake the match head over a rough surface compatible with the match type, with evenly applied pressure.
+3. Once lit, hold the match head pointing down at an angle so the flame climbs the matchstick and gains strength. Protect it from the wind during this step.
+4. When the flame is strong, hold it near the **bottom edge** of the tinder. Avoid snuffing it out by pushing it into or tightly against the tinder.
 
 **Failure modes:**
-- Match strike fails (wet case or dull striking surface) → switch to ferro rod or lighter immediately.
-- Flame snuffs in wind before reaching tinder → shelter the match with your body or hand; use wind-resistant match type (designed with a thicker rod and wax coating).
-- Match burns too quickly before transferring to tinder → pre-stage tinder very close to the match; ensure tinder is loosely packed so flame can penetrate.
+- Match fizzles or is blown out → that is one fewer fire. Shield the next match with your body, light it from the upwind side, and use another method if matches are running low [ATP 5-34].
+- Matches are damp → dry them and test one before relying on the rest. Use a different method meanwhile.
 
 ---
 
-### Tier 3: Ferro Rod (Ferrocerium Rod)
+### 4. Lens
 
-**Reliability:** high (80%+ in wet/cold). **Wind weakness:** very low (sparks carry through wind). **Learning curve:** moderate.
+**Prerequisites:** bright, direct sun. Use this method only on bright, sunny days [ATP 5-41].
 
-**Selection:**
-- **Rod size matters:** 1/8" diameter (thin) is lighter but produces fewer sparks; 3/16" diameter is the field standard, balancing spark output with portability.
-- **Spark temperature:** ~5,500°F (hot enough to ignite char cloth instantly).
+**Sources of a lens:** binoculars, a camera, telescopic sights or a magnifying glass [ATP 5-41].
 
-**Preparation:**
-- Keep dry. Ferrocerium is non-flammable but corrodes in salt water. Rinse and dry after sea-spray exposure.
-- Practice on char cloth before relying on it in the field (technique is different from a lighter).
+**Technique** [ATP 5-41]:
+1. Angle the lens to concentrate the sun's rays into a small bright spot on the tinder.
+2. Hold the lens over the same spot until the tinder begins to smolder.
+3. Gently blow or fan the tinder into flame.
 
-**Technique:**
-1. **Prepare tinder** (char cloth preferred, but dry leaves or fatwood work).
-2. Place the ferro rod horizontally ~1/2 inch **above** the tinder bundle.
-3. Hold a striker (steel spine, back of a knife, or dedicated striker) at a ~45° angle on the rod's surface, facing the tinder.
-4. Draw the striker **toward your body** in one swift, firm motion — this scrapes rod material onto the tinder and creates sparks simultaneously.
-5. Repeat 3–5 strokes (or until tinder glows).
-6. Blow gently on the spark-ignited tinder to deepen the glow, then watch for flame.
-7. Once flame appears, proceed with kindling as normal.
+**Failure mode:** cloud cover, rain, dusk or night stop this method. Have another method ready.
 
-**Why toward-the-body matters:** sparks travel away from the striker, so pulling the striker toward you directs sparks *into* the tinder bundle, not away.
+---
+
+### 5. Battery and Steel Wool (Last Resort)
+
+**Hazard:** a short circuit across a battery's posts can heat metal enough to start a fire by itself. A 9-volt battery contacting steel wool, aluminum foil or keys can start a fire; the Colorado Springs Fire Department advises not storing steel wool, foil or keys near 9-volt batteries [Colorado Springs FD]. Certain batteries (such as vehicle batteries) give off explosive hydrogen gas, so keep any open flame away from the battery [ATP 5-40].
+
+**Technique** [ATP 5-40]: stretch fine-grade steel wool between the two posts of the battery so the steel wool heats up and produces a coal. Transfer the coal to tinder and blow gently.
+
+**Safety:** do this outdoors, away from your face, from fuel and from the shelter. Treat the battery and the glowing wool as hot.
+
+---
+
+### 6. Friction Methods (Last Resort)
+
+**Honest scope:** friction fire takes significant preparation, energy, patience and skill, and is much more likely to work if you practiced before you needed it [ATP 5-43]. No success rate is given here because the sources give none.
+
+**Wood selection** [ATP 5-48, 5-49; FM 21-76 ch. 7]:
+- **Drill (spindle):** a straight, **seasoned hardwood** stick, about 3/4 inch in diameter and 10 to 12 inches long. The top end is rounded to fit the socket and the lower end is blunt for more friction.
+- **Fireboard:** a **seasoned softwood** board, about 1 inch thick and 4 inches wide. Woods that work well include yucca, tamarack, aspen, balsam fir, basswood, poplar, cypress, cottonwood, alder, red cedar and willow.
+- **Avoid resinous woods** for both the drill and the fireboard; they glaze over and hinder the process.
+- Use dry, seasoned wood, not damp wood and not wood lying wet on the ground.
+
+#### Bow and Drill
+
+**Parts** [ATP 5-46 to 5-51]:
+- **Socket:** a stone or piece of hardwood with a slight depression to hold the top of the drill. Rock is the best material; soap or grease in the socket cuts friction.
+- **Drill and fireboard:** as above. Cut a depression about 1/2 to 3/4 inch from the board's edge, and a V-shaped cut from the edge to the depression on the underside.
+- **Fire pan:** thin bark, leather or a flat plank under the fireboard, to catch the dust and coal and to keep the board off ground moisture.
+- **Bow:** a strong green stick about 3/4 inch in diameter, about 3 feet long (fingertips to shoulder), flexible enough to bend, strung without slack with cordage or leather.
+- **Tinder:** very dry, fine fibrous material made into a bird's-nest shape (grass, lichen, cotton, cattail duff, or cedar bark torn into small fibers), prepared on a dry base next to the fireboard before you start [ATP 5-52].
+
+**Technique** [ATP 5-53]:
+1. Prepare the base, brace, tinder and kindling first. Put the tinder near the fireboard on a base.
+2. Secure the fireboard with your foot and kneel on the other knee. Make one turn of the bowstring around the center of the drill.
+3. Place the bottom of the drill in the fireboard notch and the tip in the socket held in your other hand.
+4. Press down on the drill through the socket and make **long, smooth strokes** of the bow at a steady moderate speed, using the full length of the string.
+5. When a coal forms in the mound of black dust on the fire pan and begins to lightly smoke, remove the fireboard and place the tinder bird's nest over the coal.
+6. Flip the pan and nest together so the nest is on the bottom, remove the pan, lightly close the nest around the coal and blow on it with long steady breaths until it bursts into flame, then place it on the base and add kindling.
+
+#### Hand Drill
+
+Simpler to prepare than the bow drill but harder for some people to operate. The fireboard is the same as for the bow drill, and the drill can be made of dried yucca, elderberry or similar wood. Apply pressure to the top of the drill while rotating your hands to spin it in short bursts the length of your hands; your hands gradually slip down the spindle and are repositioned at the bottom. Its lower rotation rate suits hot, dry climates where the wood is very dry [ATP 5-54].
+
+#### Fire Plow
+
+Cut a straight groove in a softwood base and plow the blunt tip of a hardwood shaft up and down the groove; the friction ignites the wood particles pushed out [ATP 5-45].
 
 **Failure modes:**
-- Tinder ignites to a glow but won't flame → the tinder is too dense or too wet. Use char cloth (ignites at lower temp). Alternatively, blow harder and longer on the glow; a steady breath can coax a glow into flame in 5–10 seconds.
-- Rod produces few sparks → the striker surface is worn smooth. Replace it or use the back of a blade with a rougher edge. Test the rod on char cloth first to ensure it still works.
-- Sparks ignite tinder, but it smolders without flaming → transition from "blowing gently" to "mouth close to the glow, strong steady breath" to force oxygen through the tinder mass.
-
----
-
-### Tier 4: Friction Methods (Bow Drill / Hand Drill / Fire Plow)
-
-**Reliability:** low-to-moderate (50–70% in field, highly dependent on wood selection and user skill). **Learning curve:** very steep. **Effort:** high.
-
-**When to use:** all other methods have failed or been lost, fuel is abundant, and you have 30+ minutes to dedicate to the technique.
-
-#### Bow Drill (Most Reliable Friction Method)
-
-**Components:**
-- **Bow:** a flexible branch (~3–4 feet long, 1 inch diameter) strung with cordage (paracord, shoe lace, or inner bark twine).
-- **Drill (spindle):** straight, dead-dry, finger-thick stick (~9–12 inches), no bark.
-- **Fireboard:** flat, dry, softwood slab (~1/2 inch thick, 3 inches wide, 12 inches long).
-- **Socket/bearing block:** hardwood or antler cup that holds the top of the drill steady; prevents binding.
-- **Tinder bundle:** positioned to catch the hot dust (coal) that the drill friction produces.
-
-**Technique (simplified):**
-1. Cut a small depression in the fireboard (1/4 inch deep, pencil-width) where the drill will spin. Extend a notch to the board's edge for coal to drop into the tinder.
-2. Wrap the bow string around the spindle once (clockwise if you're spinning the drill clockwise).
-3. Kneel behind the board, holding it down firmly with one knee. Place the drill's bottom in the depression, top in the socket.
-4. Draw the bow horizontally with steady, even strokes — **long, smooth pulls**, not short frantic ones. Maintain downward pressure on the socket.
-5. After 20–30 seconds of sustained motion, pressure, and speed, fine dust accumulates in the fireboard notch and begins to glow (you'll smell burning wood).
-6. Once glowing coal forms, tip it carefully into the tinder bundle and blow the glow into flame.
-
-**Why it's hard:** you must maintain **simultaneous pressure, speed, and control** while keeping the drill vertical and the fireboard flat. Off-axis motion (drill tilting) halts friction and kills the coal.
-
-**Failure modes:**
-- Coal forms but won't transfer to flame (too-wet or too-dense tinder) → use char cloth; blow harder.
-- No coal after 2 minutes of work → drill is damp or wrong wood type (must be softwood, dead and dry). Stop, dry the wood longer, try different species.
-- Drill splinters or breaks mid-motion → pressure was too high or drill has a knot. Switch to a straighter stick.
-
-**Wood selection (critical):** use softwoods (cedar, cypress, pine, willow, poplar) for both fireboard and drill if possible. Hardwoods create dust that's harder to ignite. Test wood by scratching it with a fingernail — if it's easy to gouge, it's soft enough.
-
-#### Hand Drill (Faster to Prepare, Harder to Execute)
-
-No bow needed — just a spindle and fireboard. You roll the spindle between your hands while pressing down, moving your hands down the spindle as you work. Produces coal faster than bow drill but exhausts the user quickly. Use only if bow materials aren't available.
-
----
-
-### Tier 5: Lens Ignition
-
-**Reliability:** low (clouds, rain, winter). **Prerequisites:** strong sun and patience. **Learning curve:** easy.
-
-**Methods:**
-- **Magnifying glass or eyeglasses (convex lens):** focus sunlight into a point on char cloth or fine tinder. Takes 20–60 seconds of holding the focus steady.
-- **Polished ice lens (emergency):** in Arctic survival, you can pack ice into a parabolic dome, polish it, and focus sunlight. Difficult but documented.
-- **Thin water drops:** in extreme emergency, a drop of water on leaves can focus sunlight, but reliability is very low.
-
-**Technique:**
-1. Hold the lens 2–3 inches above tinder/char cloth (distance varies by lens focal length).
-2. Move the lens until sunlight converges into a tiny, bright dot on the tinder.
-3. Hold steady. The heat will darken the tinder, then produce smoke, then a spark/ember.
-4. Blow gently to deepen the glow into flame.
-
-**Failure mode:** any cloud cover kills this method instantly. Rain also eliminates it. Only viable in clear, bright, low-latitude sun (weak in winter).
-
----
-
-### Tier 6: Battery + Steel Wool (Experimental)
-
-**Reliability:** low-moderate (works but inconsistent). **Hazard:** the steel wool can ignite violently if the battery is fully charged. **Use:** very last resort or as a trained backup technique.
-
-**Components:**
-- 9V battery (or two AA batteries in series)
-- Ultra-fine (0000 grade) steel wool
-
-**Technique:**
-1. Separate a small piece of steel wool and pull it into a loose, wispy ball.
-2. Touch both battery terminals simultaneously to the steel wool. The current passes through the wool, heating it to red-hot in seconds.
-3. The wool ignites; transfer it to tinder immediately.
-
-**Hazard:** the wool can burst into flame suddenly. Do this outdoors, away from face and fuel pile. The battery will also discharge rapidly and become warm; do not hold it directly.
-
-**Failure mode:** the battery is dead or too weak to heat the wool. Test on a small piece of wool first.
+- No coal forms → the wood is damp or resinous, the drill is wandering off the notch, or the strokes are short and frantic. Dry the wood, change to non-resinous seasoned wood, and use long, smooth strokes.
+- Coal forms but will not take in the tinder → the tinder is damp or too coarse. Use finer, completely dry fibers, and blow gently and steadily.
+- Drill splits → the stick is knotty or not straight. Use a straighter seasoned stick.
 
 ---
 
@@ -200,34 +185,38 @@ No bow needed — just a spindle and fireboard. You roll the spindle between you
 
 | Problem | Likely Cause | Fix |
 |---------|-----------|-----|
-| All ignition methods fail | Tinder is wet or unsuitable | Pre-dry tinder in your clothing for 30+ minutes. Switch to char cloth or fatwood (lower ignition temp). |
-| Lighter is empty | No backup system | Carry a ferro rod + striker always. If both lighter and ferro are lost, friction method is the last resort. |
-| Ferro rod produces sparks but no ignition | Tinder won't catch; striker is worn | Use char cloth instead of leaves. Replace striker or use back of knife blade with rougher edge. |
-| Matches are wet | Sealed case failed or was opened in rain | Allow matches to air-dry (lay on cloth in sun), then test one to ensure dryness. Reseal case immediately. |
-| Wind keeps blowing out the lighter flame | Lighter has a short flame; wind is strong | Shield with hands or body. Use a longer-nosed lighter. Move to a wind-protected area or build a lean-to lay. |
+| All ignition methods fail | Tinder is damp or unsuitable | Dry tinder against your body between layers of clothing [ATP 5-10]. Switch to finer, drier tinder, such as petroleum-coated cotton balls or charred cloth. |
+| Lighter does not light | Out of fuel, wet, or fuel frozen in extreme cold | Warm it against your body and dry it. Use a backup method. A liquid-fuel lighter's sparking mechanism can be used like a metal match [ATP 5-36]. |
+| Ferro rod throws sparks but no ignition | Tinder will not catch; striker edge dull; stroke disturbs the tinder | Use drier, finer tinder or charred cloth. Use a sharper 90-degree striker edge. Stop the stroke before the striker reaches the tinder [ATP 5-39]. |
+| Matches will not strike or light | Matches or striker damp | Dry them and test one. Keep the case closed between uses [ATP 5-34]. |
+| Wind keeps blowing out the flame | Open flame exposed; lighting from the downwind side | Light from the upwind side, shield with your body, or build a lean-to lay with the stick pointing the way the wind blows [ATP 5-25, 5-32]. A butane lighter holds up in wind better than a liquid-fuel one [ATP 5-36]. |
 
 ---
 
 ## ⚠ MANDATORY PREPARATION: Fire Safety Boundary
 
+**Fire goes outside.** Do not light a fire, stove, lantern, charcoal or heater inside a tent, vehicle, garage or house; opening a flap or window does not prevent carbon monoxide poisoning (see `fire-lays-and-structure`).
+
 **Spark and ember management:**
-- When using ferro rod, direct sparks *away* from unattended fuel piles or shelter.
-- Char cloth ignites instantly and burns very hot; keep away from face and loose clothing.
-- Battery + steel wool can ignite violently; use outdoors in an open, unconfined space.
+- Direct ferro-rod sparks *away* from unattended fuel piles, tents and other shelter.
+- Charred cloth holds a spark and glows hot; keep it away from your face and loose clothing, and open the tin you made it in only after it has cooled and away from any exposed flame [ATP 5-44].
+- Battery and steel wool can start a fire by themselves; use outdoors, in an open space, away from fuel [ATP 5-40; Colorado Springs FD].
 
 **Wind and wildfire:**
-- In high-wind conditions or during fire-danger season, double-check that your fire lay is clear of all debris and embers are fully contained before leaving the site.
-- Never leave an ignition attempt unattended; sparks or embers can start a second fire.
+- Clear the site down to bare soil, keep water and a shovel beside the fire, and check for burn bans before lighting (see `fire-lays-and-structure`).
+- Never leave an ignition attempt or a fire unattended; sparks and embers can start a second fire.
 
 **Cold-weather ignition:**
-- Lighter fluid thickens below 40°F; keep the lighter in an inner pocket against your body before use.
-- Ferro rod works in extreme cold; ferrocerium doesn't freeze.
-- Matches work in cold if kept dry.
+- In extreme cold, lighter fuel can freeze up; warm the lighter with your body heat [ATP 5-36].
+- A ferro rod is not affected by cold, heat, wet or dry conditions [ATP 5-37].
+- Keep matches dry; damp matches burn weakly or not at all [ATP 5-34].
 
 ---
 
 ## Sources
 
-- **FM 21-76 Survival** (U.S. Army) — §1.5–1.7, ignition methods and friction fire.
-- **SAS Survival Handbook** (John Wiseman, Collins, rev. ed.) — "Fire" chapter; all methods described with emphasis on bow drill.
+All pages opened 2026-10-20.
 
+- **ATP 3-50.21 Survival** (U.S. Army, Sept 2018), Chapter 5 "Fire": para 5-32 (start fires from the upwind side; modern vs primitive methods), 5-34 and 5-35 (matches), 5-36 (lighters), 5-37 to 5-39 (metal match, including the 90-degree striker technique), 5-40 (battery and steel wool), 5-41 (convex lens), 5-43 to 5-45 (primitive methods, charred cloth, fire plow), 5-46 to 5-54 (bow and drill, hand drill; drill is seasoned hardwood, fireboard seasoned softwood, avoid resinous woods). Full text read at https://archive.org/details/survival-atp-3-50-21
+- **FM 21-76 US Army Survival Manual**, Chapter 7 "Firecraft" (light the fire from the upwind side; charred cloth; bow and drill with a seasoned hardwood drill and seasoned softwood board). Reprint opened at https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
+- **9 Volt Battery Fire Safety**, City of Colorado Springs Fire Department. https://coloradosprings.gov/fire-department/page/9-volt-battery-fire-safety

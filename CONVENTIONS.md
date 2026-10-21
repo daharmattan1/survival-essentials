@@ -108,7 +108,8 @@ Waterborne pathogens kill faster than starvation. Every water method/entry carri
 ```
 > ⚠ **CONTAMINATION — what this method does and does NOT handle**
 >
-> - **Boil:** rolling boil ≥1 min (≥3 min above 6,500 ft / 2,000 m). Kills bacteria, viruses,
+> - **Boil:** rolling boil ≥1 min (CDC: ≥3 min above 6,500 ft / 2,000 m; EPA: ≥3 min above
+>   5,000 ft; if elevation is unknown, 3 min). Kills bacteria, viruses,
 >   protozoa (incl. *Cryptosporidium*, *Giardia*). Does NOT remove chemical/heavy-metal contamination.
 > - **Filter:** state the micron rating. ≤1 µm absolute removes *Crypto*/*Giardia*. Most filters
 >   do NOT remove viruses (too small) — pair with chemical/UV in virus-risk water.

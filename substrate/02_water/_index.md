@@ -28,7 +28,7 @@ made water fully drinkable.
 Always read the ⚠ CONTAMINATION block of the chosen method FIRST, then the steps.
 Decision:
   Cloudy/turbid water?      → pre-settle / pre-filter before ANY method (chemicals & UV fail on turbidity)
-  Fuel available?           → BOIL (broadest single method; rolling boil ≥1 min, ≥3 min >2,000 m)
+  Fuel available?           → BOIL (broadest single method; rolling boil ≥1 min, ≥3 min >2,000 m, or 3 min if elevation unknown)
   No fuel, have a filter?   → FILTER (state micron rating) + pair with chemical/UV if virus risk
   No fuel, no filter?       → CHEMICAL (chlorine/iodine) — but NOT reliable vs Cryptosporidium
   None of the above, sunny? → SODIS (clear PET bottle, clear water, 6 h full sun / 2 days cloudy)
@@ -39,11 +39,11 @@ Decision:
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | reviewed |
-| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | reviewed |
-| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | reviewed |
-| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 4 | reviewed |
-| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 4 | reviewed |
+| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 6 | draft |
+| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
+| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
+| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
+| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 9 | draft |
 
 Every row carries `hazard_severity: moderate|high` because untreated water is a fast killer — each
 entry will cite a **T1** source (CDC / EPA / state extension) and reproduce the CONTAMINATION block.
