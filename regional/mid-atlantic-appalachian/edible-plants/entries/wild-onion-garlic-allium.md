@@ -44,6 +44,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## ⚠ POSITIVE-ID SAFETY GATE
 
 > ⚠ **WILD ALLIUM vs. DEATH CAMAS — NO ONION SMELL = DO NOT EAT**
@@ -91,25 +98,13 @@ Eastern species present in or near this biome: ***Anticlea elegans* / *Anticlea 
 - Both grow in open, sunny habitats in the biome.
 - Visually, at a distance, they look similar (small clustered flowers on a short stem).
 
-### Discriminators (necessary, not sufficient)
+### Discriminators (removed)
 
-| Feature | **Wild Allium** | **Death Camas** | **Test / Observation** |
-|---------|-----------------|-----------------|------------------------|
-| **Smell (MOST CRITICAL)** | **Pungent onion or garlic odor when crushed** | **NO onion smell; musty or acrid** | **Crush a leaf. If no onion/garlic smell, STOP. Do not eat.** |
-| **Bulb morphology** | Elongated, segmented, papery outer layers | Round/oval, smooth, white/translucent, no segments | Dig bulb and compare structure. Allium bulb looks like a tiny onion. |
-| **Habitat preference** | Well-drained uplands, woodlands, dry to moderately moist meadows | Bogs, moist mountain meadows, coastal-plain wet areas (species-dependent) | Habitat overlaps significantly and is NOT a reliable sole discriminator. **The smell test is the only reliable gate.** |
-| **Leaf texture** | Thin, grass-like, hollow-ish | Thick, fleshy, waxy surface | Feel the leaf. Allium = thin grass. Death camas = thick, waxy. |
-| **Flower cluster form** | Loose or tight umbel (when present); colors range white–pink–purple | White or cream flowers in a more compact raceme; flowers often hanging downward | Flower form is a late-season test; use bulb + smell first. |
-| **Time of fruiting** | Flowers May–Jul, fruit by Aug | Flowers Apr–Jun, fruit by Jul | Timing partially overlaps; not a reliable sole discriminator. |
-
-### Why the Onion-Smell Test Is Absolute
-
-- **Allium spp. produce sulfur-containing compounds (dimethyl disulfide, etc.) responsible for the pungent onion/garlic odor.** This is a metabolic hallmark of the genus and is always present in living tissue.
-- **Death camas does not produce these compounds.** Its smell (when crushed) is musty, earthy, or unpleasant—never onion-like.
-- **There is no known Allium species in the Mid-Atlantic without a strong onion or garlic smell.**
-- **Therefore: no onion smell = not an Allium = do not eat.**
-
-This is not a probabilistic test. It is a gate. Pass the gate, or refuse the plant.
+> ⚠ **The comparison table and the "smell test is absolute" section that were here have been removed
+> because they were wrong.** They described death camas incorrectly. Death camas has an onion-like
+> bulb, grass-like leaves and an upright cluster of cream-white flowers, so it can look like wild onion.
+> An onion smell is necessary but never enough: people have been poisoned picking death camas that grew
+> among onion-smelling plants. Do not eat wild onion or garlic on the strength of this entry.
 
 ### Historical deaths
 

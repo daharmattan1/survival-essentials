@@ -42,6 +42,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Legal & Ethical Note
 
 White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal harvest occurs during controlled seasons (typically late fall / early winter) under state DNR permit and licensing. This entry describes emergency-exception processing only—if you are harvesting outside normal season/permit, you are exercising true-emergency survival necessity, not recreational hunting. **Know your local regulations; this is not legal advice.** Humane harvest (quick, minimal suffering) and full-carcass utilization (no waste) are ethical minimums.

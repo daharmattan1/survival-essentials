@@ -41,6 +41,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Zone Fit & Why It Earns Space
 
 Dry beans are **protein + carbs in storable form** — 1 lb dried beans yields ~2 cups cooked beans (≈600 calories, 15g protein). They store for 5-10 years in cool/dry conditions with zero processing. For survival gardens, beans close the protein gap that grains and tubers leave open. Single planting feeds multiple households. Legumes also fix nitrogen, improving soil for next year's crop.

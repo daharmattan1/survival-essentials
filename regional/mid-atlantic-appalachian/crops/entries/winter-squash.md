@@ -37,6 +37,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Zone Fit & Why It Earns Space
 
 Winter squash stores for 3-6 months with minimal intervention (cool/dry room, no special processing). One plant yields 3-10+ squashes, each providing 100-300 calories of dense carbs. Unlike summer squash (zucchini), winter squash is harvested after full maturity — skin hardens, seeds mature, and sugars concentrate. A small plot (100 sq ft) stores a household through winter. Butternut is the most reliable and widely adaptable; Delicata and Hubbard are also excellent for zone 7a.

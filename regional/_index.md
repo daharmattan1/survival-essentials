@@ -1,5 +1,13 @@
 # regional/_index.md — Region Registry
 
+> ⚠ **Safety warning (October 2026): do not use the Mid-Atlantic biology entries yet.** A line-by-line
+> re-check found serious identification and safety errors in the plant, mushroom, hazard, crop and game
+> entries under `regional/mid-atlantic-appalachian/`, which were labelled reviewed after AI-only checks.
+> Corrected entries are being prepared. Until they are published here, do not use this repository to
+> decide whether any wild plant, mushroom or animal can be eaten, or how to treat a bite or poisoning.
+> Possible poisoning: call Poison Control at 1-800-222-1222, or 911 for collapse, seizures or trouble
+> breathing.
+
 > The biology layer. **Region-bound knowledge** lives here — edible plants, mushrooms, game, crops,
 > and local hazards — because **season, habitat, deadly look-alikes, and legality are biome
 > variables.** Universal technique (water, fire, shelter, nav, comms, gear) lives in

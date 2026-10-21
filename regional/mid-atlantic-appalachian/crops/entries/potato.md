@@ -37,6 +37,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Zone Fit & Why It Earns Space
 
 Potatoes are the **starch backbone** of survival gardening in 7a: a single 100 sq ft bed yields 50+ lbs of storable carbs. They thrive in cool seasons (spring + fall) and deliver calories and vitamin C with minimal pest pressure compared to warm-season crops. In Baltimore's climate, both spring and fall plantings are viable — spring harvest before summer heat, fall harvest before October frost. Potatoes store for 4-6 months in cool/humid conditions.

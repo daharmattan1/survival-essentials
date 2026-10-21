@@ -38,6 +38,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Legal & Ethical Note
 
 Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest occurs during controlled spring/fall seasons under state licensing and often with method restrictions (shotgun, archery). This entry describes emergency-exception processing only. **Know your local game-bird regulations; this is not legal advice.** A wild turkey can yield significant meat (8–12 lbs on a good bird), making it valuable in survival context.

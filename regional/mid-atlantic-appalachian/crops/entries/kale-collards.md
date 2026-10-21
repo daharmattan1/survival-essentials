@@ -37,6 +37,13 @@ last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
+> ⚠ **Safety warning (October 2026). Do not use this entry to identify, eat or treat anything.**
+> A line-by-line re-check found serious identification and safety errors in this repository's
+> Mid-Atlantic biology entries, this one included. Corrected entries are being prepared and will
+> replace this file. Until then, treat every fact here as unverified. Ask an expert or your state
+> extension office before eating any wild plant or mushroom. Possible poisoning: call Poison Control
+> at 1-800-222-1222, or 911 for collapse, seizures or trouble breathing.
+
 ## Zone Fit & Why It Earns Space
 
 Kale and collards are **the season-stretchers** in a survival garden — frost-hardy greens that produce leaves in spring, take a summer break, revive in cool fall weather, and continue into winter (under mulch or cold frame). They are edible raw or cooked, dense in calcium/iron/vitamins, and extremely reliable. A single plant produces leaves continuously for 6+ months. They tolerate cold snaps that kill tender greens; sugars concentrate after frost, making them sweeter and more nutritious.
