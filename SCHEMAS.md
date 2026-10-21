@@ -164,7 +164,7 @@ seed_saving:       # brief: open-pollinated? hybrid? how to save
 ```yaml
 common_names:
 scientific_name:
-legal_status:        # normal-season vs emergency-exception; jurisdictional note
+legal_status:        # usually regulated | seasonal-permit; emergency-exception only with a cited statutory exception; jurisdictional note
 season_normal:       # typical regulated season (informational, not legal advice)
 internal_cook_temp:  # USDA-recommended internal temperature
 ```

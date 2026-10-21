@@ -5,20 +5,32 @@ type: METHOD
 domain: substrate/05_food
 region_scope: universal
 usda_zone: n/a
-confidence: high
-source_tier: T2
+confidence: medium
+source_tier: T1
 sources:
-  - title: "Field Manual 21-76: Survival"
-    publisher: US Department of Army
-    url: "https://www.globalsecurity.org/military/library/policy/army/fm/21-76/"
-    tier: T2
-  - title: "Basic Fishing Manual"
-    publisher: FAO (Food and Agriculture Organization)
-    url: "https://www.fao.org/3/ad970e/ad970e.pdf"
-    tier: T2
-  - title: "Survival Fishing Handbook"
-    publisher: US Fish & Wildlife Service
-    url: "https://www.fws.gov"
+  - title: "4VAC15-350 (Fish: Gear and methods; 4VAC15-350-60 Trotlines, juglines, limblines, or set poles)"
+    publisher: Virginia Administrative Code (Virginia Department of Wildlife Resources regulations)
+    url: "https://law.lis.virginia.gov/admincodefull/title4/agency15/chapter350"
+    tier: T1
+  - title: "4VAC15-340-30 Gill nets (Chapter 340: Fish: Seines and Nets)"
+    publisher: Virginia Administrative Code (Virginia Department of Wildlife Resources regulations)
+    url: "https://law.lis.virginia.gov/admincode/title4/agency15/chapter340/section30/"
+    tier: T1
+  - title: "General Freshwater Fishing Regulations"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/?p=1406"
+    tier: T1
+  - title: "Four Steps to Food Safety (145 F fish; 40-140 F danger zone; 2-hour rule)"
+    publisher: CDC
+    url: "https://www.cdc.gov/food-safety/prevention/index.html"
+    tier: T1
+  - title: "Proper Field Dressing and Handling of Wild Game and Fish (cool fish to 35-40 F)"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish"
+    tier: T1
+  - title: "FM 21-76 US Army Survival Manual (1992 text, 2006 reprint; Chapter 8, fishing devices)"
+    publisher: US Department of the Army
+    url: "https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf"
     tier: T2
 last_reviewed: 2026-06-27
 review_status: reviewed
@@ -26,8 +38,8 @@ method_for: "Catch fish passively while attending to other survival priorities"
 materials:
   - "Natural cordage (plant fiber, stripped willow, rawhide) or improvised line"
   - "Hooks (bone, improvised from wood/stone, or salvaged metal)"
-  - "Bait (grubs, small fish, earthworms, insects)"
-  - "Weights (rocks, sticks for gill nets)"
+  - "Bait (check your state's live-bait rules first)"
+  - "Weights (rocks)"
   - "Stakes or branches for anchoring"
   - "Willow/sapling branches for trap frames"
 difficulty: moderate
@@ -35,51 +47,72 @@ difficulty: moderate
 
 ## Goal & When To Use
 
-Passive fishing methods work *while you are doing other things* — shelter building, water collection, fire maintenance — making them the highest-return-on-effort food acquisition in a survival emergency. Trotlines hold multiple baited hooks along a line; set lines are single-hook versions anchored overnight; fish traps and weirs channel fish into enclosures. These methods exploit fish behavior (feeding, migration patterns) rather than requiring active casting skill.
+Passive fishing methods work *while you are doing other things*, such as building shelter or collecting water. Trotlines hold multiple baited hooks along a line; set lines are single-hook versions anchored in place; fish traps and weirs channel fish into enclosures. FM 21-76 describes improvised hooks, a "stakeout" (a cord between two saplings with short baited hook lines), gill nets and fish baskets for a survival situation [6].
 
-Passive methods are particularly valuable when:
-- You have cordage or the materials to make it
-- A water source contains fish (streams, ponds, slow rivers)
-- You cannot afford the energy cost of active hunting/foraging
-- You need to gather firewood or water simultaneously
+Passive methods suit a genuine emergency when you have cordage or the means to make it and the water holds fish. **Most of them are regulated or unlawful for an ordinary angler. Read the legal note before you set anything.**
+
+---
+
+## ⚠ Legal Note — Know Your State (Not Legal Advice)
+
+Rules differ by state, water body and species. Virginia is used here only as one worked example.
+
+- **Default method.** Virginia: fishing in inland waters must be by angling with a hook and line or rod and reel, and nearly all inland fishing needs a freshwater license unless exempt [3].
+- **Trotlines, juglines, limblines and set poles (4VAC15-350-60)** [1]:
+  - allowed only to take nongame fish (and snapping turtles), and not on waters stocked with trout or within 600 feet of any dam;
+  - **no live bait.** The one exception is live bait other than game fish on trotlines for catfish in the Clinch River in Russell, Scott and Wise Counties;
+  - the owner's name, address and telephone number must be on the device by permanent means;
+  - the owner must check all lines at least once each day and remove all fish caught;
+  - lines must be completely removed from the water, shoreline and tree limbs when not in use;
+  - **juglines must be attended: the angler must stay within sight of them at all times**, up to 20 per angler, with a reflective marker.
+- **Snagging, grabbing, snaring and gigging** fish is unlawful unless a section allows it [1].
+- **Gill nets** are a permit privilege in Virginia: nongame fish only, no more than 300 feet long, tagged, checked every day, and the permit holder must be present when the net is set or checked [2]. An ordinary angler cannot simply set one. FM 21-76 includes gill nets as an improvised survival tool [6]; this guide gives no net-setting steps because they are unlawful without a permit in the state used as the example.
+- **Fish traps and weirs.** Virginia prohibits seines, nets or traps in listed waters [3]. This guide opened no source that makes homemade traps or weirs lawful for an ordinary angler. Check before you build one.
+- **Is there a survival exception?** No page opened for this entry gives anglers an emergency exception to these rules (this guide's judgment). Do not assume one.
+
+In practice: if the law does not allow the device, fish by hand line (one attended rod or pole with hook and line), which is lawful in far more places, and use the passive methods below only where your state allows them.
 
 ---
 
 ## Steps
 
+The construction details below are general practice unless a bracket number is shown. Where the law requires it, use cut bait and not live bait, and meet the marking and check rules above.
+
 ### Trotline (Multiple hooks, continuous line)
 
 1. **Prepare the main line:** Twist or braid natural cordage (stripped willow bark, plant fibers, or rawhide) into a line 10–30 ft long, depending on water width. Test it by hanging weight equal to your largest expected fish.
-2. **Attach drop lines:** At 2–3 ft intervals along the main line, tie short drop lines (1–2 ft) using figure-8 knots. Attach one hook per drop line.
-3. **Bait each hook:** Impale grubs, small fish, earthworms, or insect larvae on bone or improvised hooks. Vary bait types to test what fish prefer.
-4. **Set the line:** Anchor the line across a stream or pond using two stout stakes driven into the bank or bottom, one at each end. The line should be taut enough that movement is visible from shore but slack enough to flex in current.
-5. **Position for visibility:** Set in shallow to moderate depth (2–4 ft for most species) where you can see or feel line movement.
-6. **Check regularly:** Visit every 2–3 hours (more often in warm weather to avoid spoilage). Remove any catch immediately.
+2. **Attach drop lines:** At 2–3 ft intervals along the main line, tie short drop lines (1–2 ft). Attach one hook per drop line.
+3. **Bait each hook** with bait your state allows. Many states bar live bait on trotlines [1]. Cut bait is not live bait.
+4. **Mark it** with your name, address and phone where required [1].
+5. **Set the line:** Anchor the line across a stream or pond using two stout stakes. The line should be taut enough that movement is visible from shore but slack enough to flex in current.
+6. **Check it at least once a day where the law requires it, and more often in warm weather** [1][4]. Remove any catch immediately and put it on ice or in cold water (see Food Handling).
 
-### Set Line (Single hook, overnight)
+### Set Line (Single hook)
 
 1. **Prepare one drop line:** Tie a single 2–3 ft drop line with one baited hook.
-2. **Anchor:** Tie the line to a stake or branch at the water's edge, positioned so the hook hangs just above or in the water column.
-3. **Bait:** Use fresh bait (grubs, fish, earthworms) that changes slightly with water conditions.
-4. **Leave overnight:** Set lines work best during low-activity daylight → twilight → dawn feeding windows. Leave in place overnight.
-5. **Check at dawn and dusk:** Fish are most active feeding early and late.
+2. **Anchor:** Tie the line to a stake or branch at the water's edge, positioned so the hook hangs in the water.
+3. **Bait:** Use bait your state allows (see the legal note).
+4. **Check it** at dawn and dusk, when fish feed most (general practice), and at least once a day [1]. Take the line out of the water when you are not using it [1][3].
+5. **If it is a jugline (a float with a line and hook), you must stay within sight of it** under the Virginia rule [1].
 
-### Fish Trap / Weir (Funnel trap)
+### Fish Trap / Weir (Funnel trap): only where the law allows it
 
-1. **Site selection:** Choose a narrow, slow section of a stream or the inlet to a pond where fish naturally congregate. Avoid high-current zones.
-2. **Build the funnel frame:** Weave thin branches or saplings into a cone or funnel shape (apex pointing upstream or into the trap). Saplings 3–5 ft long, lashed at intervals with cordage.
-3. **Create the entrance:** The funnel's wide end faces the water flow; the narrow end tapers to a 3–4 in opening.
-4. **Stake the trap in place:** Drive stakes through the frame into the stream bed to anchor it firmly. Water should flow naturally through the entrance.
-5. **Bait (optional):** Place a container with food scraps or mashed plants inside the trap to attract fish.
-6. **Check regularly:** Visit twice daily. Fish that enter the funnel can swim around but rarely find the narrow exit back out.
+FM 21-76 describes fish baskets: sticks lashed with vines into a funnel shape, with the top closed and a hole left large enough for the fish to swim through [6]. The details below are general practice.
 
-### Gill Net (Passive net set overnight)
+1. **Site selection:** Choose a narrow, slow section of a stream or the inlet to a pond where fish gather. Avoid high-current zones.
+2. **Build the funnel frame:** Weave thin branches or saplings into a cone or funnel shape.
+3. **Create the entrance:** The wide end faces the flow; the narrow end tapers to a 3–4 in opening.
+4. **Stake the trap in place** so it holds in the current.
+5. **Check it at least daily** and clear debris from the entrance.
 
-1. **Prepare the net:** Construct or find a net with mesh ≤1 in (fish gills become tangled in the mesh).
-2. **Set the net:** Anchor it across a stream or along a pond margin in 2–4 ft of water. Secure top edge to floating branches or stakes above water; weight the bottom edge with rocks.
-3. **Position for current:** Gill nets work best perpendicular to water flow or along migration routes (channel narrowings, shallow bars).
-4. **Leave overnight:** Fish swim into the net and become tangled trying to back out.
-5. **Check at dawn:** High water temperature increases decomposition risk; remove catch immediately.
+---
+
+## Food Handling (fish from any passive set)
+
+- **Cook fish to 145 F, or until the flesh is opaque and separates easily with a fork** [4].
+- **Keep fish cold.** Cool them quickly to 35–40 F and keep the flesh out of direct sunlight [5]. Food between 40 F and 140 F spoils fast, and perishable food left out more than 2 hours (1 hour above 90 F) should be thrown out [4].
+- A fish that has sat on a line in warm water for hours is a spoilage risk. Do not taste it to find out. If it smells off or the flesh stays dented when pressed, discard it (general practice).
+- Gut and clean fish as in `fish-and-game-processing-basics`. Do not try to dry, smoke or salt fish in the field; that entry explains why.
 
 ---
 
@@ -87,18 +120,24 @@ Passive methods are particularly valuable when:
 
 | Problem | Cause | Fix |
 |---------|-------|-----|
-| No bites overnight | Wrong bait, wrong location, fish not active at that hour | Switch bait types; move trap to shallower/deeper water; reset near vegetation or channel bends; check at different times (dusk/dawn often better) |
-| Line/trap washed away | Current too strong, anchor stakes too shallow | Move trap to slower water; drive stakes deeper; use heavier weights; lash frame more securely |
-| Bait depleted but no fish | Bait consumed by non-target species (crayfish, small fish) or deteriorated | Use encased bait (wrap grubs in cloth); check more frequently; replace bait every 2–3 hours in warm weather |
-| Trotline sags and snags | Insufficient tension, line tangled on debris | Retension the line; keep main line clear of underwater branches; adjust anchor point |
-| Fish escapes after hooking | Hook too small, line too weak, knot slips | Use larger hooks; test cordage before setting; use reliable knots (improved clinch, surgeon's knot) |
-| Trap fills with silt / becomes clogged | Slow water, debris accumulation | Reposition to higher-flow area; clear entrance daily |
+| No bites | Wrong bait, wrong location, fish not active at that hour | Switch bait types (within your state's rules); move to shallower or deeper water; check at dawn and dusk (general practice) |
+| Line/trap washed away | Current too strong, anchor stakes too shallow | Move to slower water; drive stakes deeper; lash the frame more securely |
+| Bait gone but no fish | Taken by non-target species (crayfish, small fish) | Check more often; replace bait (general practice) |
+| Trotline sags and snags | Insufficient tension, line tangled on debris | Retension the line; keep it clear of underwater branches |
+| Fish escapes after hooking | Hook too small, line too weak, knot slips | Use larger hooks; test cordage before setting |
+| Trap fills with silt or clogs | Slow water, debris | Reposition to higher-flow water; clear the entrance daily |
+| Fish is dead and warm when you reach it | Line left too long | Check more often, cool the fish at once, and discard any that smell off [4][5] |
+| A warden or landowner questions the set | Device or bait not allowed | Take it out of the water and comply; rules vary by state and water body [1][3] |
 
 ---
 
 ## Sources
 
-- **FM 21-76: Survival** — US Department of Army. Sections on improvised fishing, passive methods, trap construction.
-- **FAO Basic Fishing Manual** — Food and Agriculture Organization. Traditional and emergency fishing techniques.
-- **US Fish & Wildlife Service** — Fisheries guidance on passive methods and seasonal fish behavior.
+1. **4VAC15-350 (including 4VAC15-350-10 and 4VAC15-350-60)** — Virginia Administrative Code. https://law.lis.virginia.gov/admincodefull/title4/agency15/chapter350
+2. **4VAC15-340-30 Gill nets** — Virginia Administrative Code. https://law.lis.virginia.gov/admincode/title4/agency15/chapter340/section30/
+3. **General Freshwater Fishing Regulations** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=1406
+4. **Four Steps to Food Safety** — CDC. https://www.cdc.gov/food-safety/prevention/index.html
+5. **Proper Field Dressing and Handling of Wild Game and Fish** — Penn State Extension. https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish
+6. **FM 21-76 US Army Survival Manual** (1992 text, 2006 reprint) — US Department of the Army. https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
 
+Virginia is one example. This entry is not legal advice. Your state's rules govern.

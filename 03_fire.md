@@ -32,8 +32,10 @@ If you do not need a fire, or cannot make it safe, do not light it.
 
 ### Warming a cold person
 
+- Get them out of wind and rain first. Take wet clothes off only once you are somewhere warm and sheltered; until then, add dry layers and a waterproof layer over them (see [`04_shelter.md`](04_shelter.md#stop-heat-loss-ground-wet-and-wind)).
+- Sleepiness or confusion in a cold person: call 911 (see [`06_first_aid.md`](06_first_aid.md)).
 - Warm the middle of the body (chest, neck, head, groin), skin to skin under dry blankets. Wrap the head and neck [15].
-- Give warm drinks without alcohol if the person is awake [15].
+- Give a warm, high-calorie drink without alcohol only if the person is alert, shivering and can swallow normally. If they are confused, drowsy or not shivering, give nothing by mouth (see [`04_shelter.md`](04_shelter.md#stop-heat-loss-ground-wet-and-wind)). CDC: no alcohol, and no drinks for an unconscious person [15].
 - Below 95 F body temperature means medical care [15].
 - Do not warm numb hands or feet against a fire or stove. Numb skin burns without hurting [15].
 
@@ -327,7 +329,7 @@ Lighting a fire to survive is your call. Do not assume the law will protect you.
 
 **Home, power out.** Nothing burns inside except a vented fireplace or stove in working order, no gas oven, generator outdoors at least 20 ft from windows, doors, and vents, battery CO alarm. See the CO section and [`09_urban_survival.md`](09_urban_survival.md).
 
-**Cold.** Out of wet clothes. Warm the middle of the body. Warm drinks, no alcohol. Under 95 F body temperature means medical help.
+**Cold.** Out of wind and rain; wet clothes off only once somewhere warm. Sleepy or confused: call 911. Warm the middle of the body. Warm drink, no alcohol, only if alert, shivering and able to swallow; otherwise nothing by mouth. Under 95 F body temperature means medical help.
 
 **Signal.** Night: three fires (alone: one). Day: three smoke columns, white smoke.
 

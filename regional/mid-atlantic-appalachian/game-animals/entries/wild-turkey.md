@@ -8,24 +8,32 @@ usda_zone: 7a
 confidence: high
 source_tier: T1
 sources:
-  - title: "USDA Poultry Safe Handling & Temperature"
-    publisher: USDA FSIS
-    url: "https://www.fsis.usda.gov/"
+  - title: "Proper Field Dressing and Handling of Wild Game and Fish"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish"
     tier: T1
-  - title: "CDC Poultry-Associated Salmonella"
+  - title: "Drying Jerky"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/drying-jerky"
+    tier: T1
+  - title: "Trapping regulations"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/?p=8638"
+    tier: T1
+  - title: "A Pocket Guide to Care and Handling of Game Birds from Field to Table (FN537)"
+    publisher: North Dakota State University Extension
+    url: "https://www.ndsu.edu/agriculture/node/2050"
+    tier: T1
+  - title: "Four Steps to Food Safety"
     publisher: CDC
-    url: "https://www.cdc.gov/"
-    tier: T1
-  - title: "Maryland DNR Game Bird Processing"
-    publisher: Maryland Department of Natural Resources
-    url: "https://dnr.maryland.gov/"
+    url: "https://www.cdc.gov/food-safety/prevention/index.html"
     tier: T1
 common_names:
   - Wild turkey
   - Eastern wild turkey
   - Tom (male), hen (female)
 scientific_name: Meleagris gallopavo
-legal_status: emergency-exception
+legal_status: regulated
 season_normal: "Spring (March–April, males/toms typically) and fall (October–November, mixed sexes); regulated season varies by state"
 internal_cook_temp: "165°F internal temperature (thigh/thickest part of leg)"
 edibility_status: edible-when-prepared
@@ -40,7 +48,7 @@ review_status: reviewed
 
 ## Legal & Ethical Note
 
-Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest occurs during controlled spring/fall seasons under state licensing and often with method restrictions (shotgun, archery). This entry describes emergency-exception processing only. **Know your local game-bird regulations; this is not legal advice.** A wild turkey can yield significant meat (8–12 lbs on a good bird), making it valuable in survival context.
+Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest occurs during controlled spring/fall seasons under state licensing and often with method restrictions (shotgun, archery). **No source opened for this entry supports a survival or emergency exemption from season, license or method rules** (this guide's judgment); do not assume one. Virginia's trapping page, for example, lists no general emergency exception [3]. **Know your local game-bird regulations; this is not legal advice.** A wild turkey can yield significant meat (8–12 lbs on a good bird), making it valuable in survival context.
 
 ---
 
@@ -58,7 +66,7 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 **Firearm method (most practical):** Shotgun (12 or 20 gauge) with turkey load (00 or #2 shot), rifle (.243 or larger), or small-caliber airgun. Lethal shot placement: head-neck area (brainstem) or high in the breast. Shot at 20–40 yards; farther distances lose lethality. In emergencies, any rifle or .22 is workable but requires precision shot.
 
-**Trap method (passive, less reliable):** Deadfall or large snare at roosting site or along well-used trail; requires robust construction (turkeys are large and powerful).
+**Trap method:** Check your state's rules before trapping any wild turkey. Deadfalls are prohibited in Virginia (DWR). No opened source gives a survival exemption.
 
 **Dispatch:** If wounded, rapid cervical dislocation or heavy blow to skull base ensures humane death.
 
@@ -68,11 +76,11 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 **Immediate post-harvest (within 30 minutes):**
 
-1. **Pluck the bird (vs. skinning).** Turkeys are traditionally plucked (skin left on to protect meat during cooking). Grab clusters of feathers and pull sharply against the grain of growth. Work from the legs upward, working around the body methodically. Wet plucking (dunking in hot water 140–160°F for 30–60 seconds before plucking) speeds the process but requires water. Dry plucking is slower but works without water.
+1. **Wear disposable gloves** while handling the bird; Penn State recommends them for birds [1]. **Pluck the bird (vs. skinning).** Turkeys are traditionally plucked (skin left on to protect meat during cooking). Grab clusters of feathers and pull sharply against the grain of growth. Work from the legs upward, working around the body methodically. Wet plucking (dunking in hot water 140–160°F for 30–60 seconds before plucking; general practice, no opened source gives a water temperature) speeds the process but requires water. Dry plucking is slower but works without water.
 
-2. **Open the body cavity.** Make a small incision from the anus toward the breastbone. Do not cut too deeply into the viscera. Remove the paunch (crop if present), liver, gizzard, intestines, and heart by hand. Discard paunch, intestines, and crop. Inspect the liver (should be dark brown-red; pale spots or discoloration suggest disease).
+2. **Open the body cavity.** Make a small incision from the anus toward the breastbone. Do not cut too deeply into the viscera. Remove the paunch (crop if present), liver, gizzard, intestines, and heart by hand. Remove the crop promptly (NDSU: grain in the crop may ferment if left in) [4]. Inspect the organs as a disease screen only. Penn State says not to eat the carcass if any internal organ smells offensive or shows greenish discharge, black blood, or blood clots in the muscle [1]. Pale spots or discoloration on the liver are a reason to discard the bird (this guide's rule). Discard all organs after the check, including the liver, heart and gizzard. NDSU says the heart and liver may be saved for giblets [4]; this guide's rule is to discard them and not to recommend eating wild-game organ meats.
 
-3. **Cool immediately.** In warm weather (above 50°F), refrigerate within 1 hour. In cold weather, can hang for 1–2 weeks (skin left on) to age and tenderize.
+3. **Cool immediately.** Separate and cool the carcass quickly to 35–40°F [1]; hold it at 40°F or below [4]. Do not hang it outdoors to age. NDSU says birds generally do not require aging; if you age one, hold it at 40°F or less for two to three days at most [1][4].
 
 **Alternative: Skinning (faster, skin-off cooking).** If plucking is impractical, skin the bird like a game bird—make circular cuts around the legs and wings, pull the skin down toward the feet, and separate the carcass from the hide. Skinning takes 5–10 minutes; plucking takes 20–45 minutes depending on experience.
 
@@ -92,7 +100,7 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 5. **Discard the backbone and other bones** after meat is removed. Carcass yields significant broth (boil 2–3 hours for stock).
 
-**Organ meat:** The gizzard (muscular stomach), heart, and liver are edible. Clean the gizzard (remove internal lining and gravel), rinse the heart and liver. These are high-value organ meat.
+**Organs:** Discard the gizzard, heart and liver along with the other organs (this guide's rule; this guide does not recommend eating wild-game organ meats).
 
 ---
 
@@ -100,15 +108,15 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 **Turkey meat is poultry (higher moisture, spoils faster than game birds).**
 
-1. **Refrigeration:** Wrapped in butcher paper or cloth, whole or cut, lasts 3–5 days at 32–40°F.
+1. **Refrigeration:** Wrapped in butcher paper or cloth, whole or cut, keep it at 40°F or below and use it within three days [4].
 
-2. **Freezing:** Vacuum-seal or wrap in multiple freezer-paper layers; lasts 8–12 months at 0°F or below. Organ meat (heart, liver, gizzard) lasts 3–4 months frozen.
+2. **Freezing:** Vacuum-seal or wrap in multiple freezer-paper layers; lasts 8–12 months at 0°F or below.
 
-3. **Drying (jerky):** Slice lean meat thin (leg/breast), salt, dry over low heat (160–170°F) or sun-dry (4–7 days). Jerky lasts weeks to months if kept dry.
+3. **Drying (jerky):** Slice lean meat thin (leg/breast) and heat the strips to 165°F first (the poultry and game-bird rule [4][5]; Penn State's jerky page says 160°F for meat strips), then dry at 140°F until a cooled strip cracks but does not break when bent [2]. Do not sun-dry or air-dry raw poultry. Penn State says to eat jerky within one to three weeks, or freeze it [2].
 
-4. **Broth/boiling:** Boil the carcass (with any remaining meat, skin, organs) in water for 2–3 hours. Strain off meat, refrigerate broth (lasts 3–5 days) or freeze (lasts 6 months). Broth is highly nutritious.
+4. **Broth/boiling:** Boil the carcass (with any remaining meat and skin; no organs) in water for 2–3 hours. Strain off the meat. Refrigerate the broth at 40°F or below and use it within one to two days, or freeze it (NDSU gives one to two days for leftovers) [4]. Reheat broth to 165°F (leftover rule [5]).
 
-5. **Canning (pressure canning only).** Raw-pack or hot-pack turkey meat or broth into sterilized jars, process at 11 PSI (dial gauge) or 10 PSI (weighted gauge) for 75–90 minutes (pints) or 90 minutes (quarts). Requires a pressure canner; water-bath canning does not reach safe temperature for low-acid meat/broth.
+5. **Canning (pressure canning only).** Use a tested recipe and the processing time and pressure for your altitude from the National Center for Home Food Preservation or your extension office. Never water-bath or open-kettle can meat (botulism risk; CDC).
 
 ---
 
@@ -136,13 +144,13 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 ## ⚠ MANDATORY PREPARATION
 
-**Internal cook temperature (USDA standard for all poultry):**
-- **Whole turkey or parts (thigh, leg, breast):** 165°F internal temperature. Measure at the thickest part of the thigh (not touching bone); no pink flesh allowed.
+**Internal cook temperature (165°F for poultry and game birds [4][5]):**
+- **Whole turkey or parts (thigh, leg, breast):** 165°F internal temperature. Measure at the thickest part of the thigh (not touching bone) with a thermometer; the thermometer is the only reliable test [5].
 
 **Cooking methods:**
-- **Roasting (whole bird):** Preheat oven to 325°F. Stuff cavity loosely (if desired) with herbs/vegetables. Roast 12–15 minutes per pound (a 12-lb bird takes ~3 hours). Check thigh temperature at the thickest part near the body (should reach 165°F). Thighs reach target temperature before breasts; if breasts are not yet done, tent with foil and continue roasting.
+- **Roasting (whole bird):** Preheat oven to 325°F. Leave the cavity unstuffed (general practice; stuffing would also have to reach 165°F). Roast 12–15 minutes per pound (a 12-lb bird takes ~3 hours). Check thigh temperature at the thickest part near the body (should reach 165°F). Thighs reach target temperature before breasts; if breasts are not yet done, tent with foil and continue roasting.
 - **Boiling/stewing:** Cut the bird into quarters, boil in water for 60–90 minutes until meat is tender and cooked through (165°F internal). Broth from boiling is valuable nutrition.
-- **Frying (parts):** Cut into quarters or individual pieces, fry in fat over medium heat for 25–40 minutes, turning frequently, until cooked through (165°F internal, no pink).
+- **Frying (parts):** Cut into quarters or individual pieces, fry in fat over medium heat for 25–40 minutes, turning frequently, until cooked through (165°F internal).
 
 **Cross-contamination prevention:**
 - Use separate cutting boards for poultry and other food (if available).
@@ -152,15 +160,17 @@ Wild turkey is a regulated game bird in all Mid-Atlantic states. Normal harvest 
 
 **Never eat:**
 - Undercooked turkey (must reach 165°F internal, thigh is slowest to cook).
-- Organs from a visibly sick bird.
+- Any organs, including the liver, heart and gizzard (this guide's rule).
 - Meat that smells sour or off.
 
-**Giblet broth:** The gizzard, heart, and liver can be boiled separately (30–45 minutes) and added to broth; they are safe and highly nutritious. Remove the gizzard's internal lining before cooking.
+**No giblet broth:** Do not add the gizzard, heart or liver to broth (this guide's rule).
 
 ---
 
 ## Sources
 
-- USDA FSIS Poultry Safety & Temperature: https://www.fsis.usda.gov/
-- CDC Salmonella in Poultry: https://www.cdc.gov/
-- Maryland DNR Game Bird Processing: https://dnr.maryland.gov/
+1. Proper Field Dressing and Handling of Wild Game and Fish (organ smell, greenish discharge, black blood, clots; cool birds to 35-40°F; age at 40°F or less for 2-3 days; gloves for birds), Penn State Extension: https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish
+2. Drying Jerky (heat strips before drying, dry at 140°F, eat within one to three weeks), Penn State Extension: https://extension.psu.edu/drying-jerky
+3. Trapping regulations (no general emergency or survival exception listed), Virginia Department of Wildlife Resources: https://dwr.virginia.gov/?p=8638
+4. A Pocket Guide to Care and Handling of Game Birds from Field to Table (FN537; cook wild game to at least 165°F; birds generally need no aging; refrigerator at 40°F or lower, use within three days), NDSU Extension: https://www.ndsu.edu/agriculture/node/2050
+5. Four Steps to Food Safety (poultry 165°F; 2-hour rule, 1 hour above 90°F; refrigerator at 40°F or below), CDC: https://www.cdc.gov/food-safety/prevention/index.html

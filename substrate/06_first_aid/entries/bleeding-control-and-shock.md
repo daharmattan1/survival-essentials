@@ -8,238 +8,159 @@ usda_zone: n/a
 confidence: high
 source_tier: T1
 sources:
-  - title: "Stop the Bleed — Tourniquet and Hemorrhage Control Guidelines"
+  - title: "Three Ways to Control Bleeding (Stop the Bleed handout)"
     publisher: American College of Surgeons
-    url: "https://www.bleedingcontrol.org"
+    url: "https://www.stopthebleed.org/media/plpjtq5p/25_tr_stb_handout_4x6_acslogo.pdf"
     tier: T1
-  - title: "Tactical Combat Casualty Care (TCCC)"
-    publisher: U.S. Military / Committee on Tactical Casualty Care
-    url: "https://www.tccc.us"
+  - title: "Stop the Bleed: Applying a Tourniquet (2018)"
+    publisher: US Department of Homeland Security
+    url: "https://www.dhs.gov/sites/default/files/publications/STB_Applying_Tourniquet_08-06-2018_0.pdf"
     tier: T1
-  - title: "Emergency Management of Severe Bleeding and Shock"
-    publisher: Red Cross First Aid
-    url: "https://www.redcross.org"
+  - title: "Bleeding (Life-Threatening External)"
+    publisher: American Red Cross
+    url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external"
     tier: T1
-  - title: "FM 21-76 — U.S. Army Survival Manual"
-    publisher: US Army
-    url: "https://www.army.mil"
-    tier: T2
+  - title: "How to Apply a Tourniquet"
+    publisher: American Red Cross
+    url: "https://shop.redcross.org/take-a-class/resources/articles/how-to-apply-a-tourniquet"
+    tier: T1
+  - title: "Bleeding"
+    publisher: NIH MedlinePlus
+    url: "https://medlineplus.gov/ency/article/000045.htm"
+    tier: T1
+  - title: "Shock"
+    publisher: NIH MedlinePlus
+    url: "https://medlineplus.gov/ency/article/000039.htm"
+    tier: T1
+  - title: "Shock"
+    publisher: American Red Cross
+    url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/shock"
+    tier: T1
+  - title: "Until Help Arrives (Version 1.0)"
+    publisher: Ready.gov / FEMA
+    url: "https://www.ready.gov/sites/default/files/2020-07/until-help-arrives-web-tutorial.pdf"
+    tier: T1
 last_reviewed: 2026-06-27
 review_status: reviewed
 protocol_for: "severe external bleeding and hemorrhagic shock"
-severity_range: "minor bleeding → controlled arterial/venous bleeding → uncontrolled hemorrhage and shock (life-threatening)"
+severity_range: "minor bleeding → bleeding that will not stop with pressure → life-threatening hemorrhage and shock"
 ---
 
 # Bleeding Control and Hemorrhagic Shock
 
-**This entry describes commonly-taught field response for severe bleeding and shock when professional care is unavailable. It is NOT medical advice. Call EMS or evacuate for any serious hemorrhage. Seek professional care immediately.**
+**This entry describes commonly-taught field response for severe bleeding and shock when professional care is unavailable. It is NOT medical advice. Call 911 (or the local emergency number) for any serious bleeding or any sign of shock. Reading is not training: take a hands-on course such as Stop the Bleed or a Red Cross class.**
 
 ---
 
 ## Recognize
 
-### External bleeding severity
+### Bleeding that is life-threatening
 
-**Minor bleeding (venous or capillary):**
-- Slow, steady ooze (red blood)
-- Stops with pressure in <5–10 minutes
-- Wound is shallow and well-defined
+- Blood spurting or pulsing, pooling on the ground, or a bandage soaked through [3][5][8].
+- Bleeding that does not slow with firm, continuous pressure [3][5].
+- A limb wound where pressure alone is failing and the dressing becomes soaked with blood [2].
+- Bleeding from the scalp, neck, shoulder, groin or back, where a tourniquet will not go [3].
 
-**Moderate bleeding:**
-- Brisk flow (venous or small arterial)
-- Does not stop with simple pressure within 10 minutes
-- Soaks through one dressing
-- Wound may be deeper
+Heavy blood loss can happen within minutes [8].
 
-**Severe bleeding (arterial or large laceration):**
-- Pulsatile, bright red flow (arterial) or dark, rapid flow (venous)
-- Rapid blood loss, soaking through dressing in seconds to minutes
-- Wound gaping open or deep laceration
-- Risk of exsanguination (life-threatening blood loss) within minutes
+### Signs of shock
 
----
+Shock means the body is not getting enough blood flow. Heavy bleeding is one cause [6].
 
-### Signs of hemorrhagic shock (blood loss >15% of circulating volume, ~750 mL for an adult)
+- Pale, gray, cool, clammy or moist skin [6][7]
+- Rapid, weak pulse; rapid or shallow breathing [6][7]
+- Confusion, anxiety, restlessness, irritability, or being unresponsive [6][7]
+- Dizziness or faintness; nausea or vomiting; bluish lips or fingernails; low or no urine [6][7]
 
-**Early shock (compensatory):**
-- Rapid heart rate (tachycardia >100 bpm, rising with blood loss)
-- Rapid, shallow breathing (tachypnea >20 breaths/min)
-- Anxiety, restlessness, altered mental status (mild)
-- Pale skin, cool extremities (peripheral vasoconstriction)
-- Normal or slightly elevated blood pressure (still compensating)
-
-**Moderate shock (decompensated, >20% blood loss):**
-- Severe tachycardia (>120 bpm, weak pulse)
-- Rapid, labored breathing
-- Confusion, disorientation
-- Cold, clammy skin, blue lips/fingertips (cyanosis)
-- Falling blood pressure (systolic <90 mmHg if measurable)
-- Weak voice, difficulty speaking
-
-**Severe shock (>30% blood loss, ~1.5+ liters):**
-- Extreme tachycardia or bradycardia (very slow, weak pulse) — late sign
-- Barely perceptible breathing (may be gasping)
-- Loss of consciousness or barely responsive
-- Mottled, grey skin (severe vasoconstriction)
-- No urine output; possibly bowel/bladder evacuation
-- Agonal breathing or cardiopulmonary arrest
+The Red Cross marks signs of shock as needing immediate emergency care [7].
 
 ---
 
 ## ⚠ RED FLAGS / EVACUATE
 
-- **Severe external bleeding that does not stop with direct pressure within 10–15 minutes**
-- **Arterial bleeding (pulsatile, bright red)** that cannot be controlled
-- **Any sign of hemorrhagic shock** (rapid pulse, rapid breathing, confusion, pale/cold skin, falling BP)
-- **Large laceration or deep wound** with ongoing blood loss
-- **Bleeding from neck, groin, or axilla** (major vessels; even moderate bleeding here can be lethal)
-- **Impaled object** with significant bleeding (see DO NOT section before removal)
-- **Internal bleeding signs:** abdominal distension/rigidity + shock signs, chest pain/hemoptysis, vomiting blood
-- **Crush injury** with ongoing ooze (rhabdomyolysis + shock risk)
-
-**Any hemorrhagic shock or uncontrolled external bleeding requires immediate evacuation for IV fluids and professional hemorrhage control (pressure, sutures, OR if needed).**
+- **Bleeding that is spurting, soaking through cloth, or will not stop with firm pressure.** Call 911 and keep pressing [3][5].
+- **Any sign of shock** (above). Call 911 right away and stay with the person [6].
+- **Life-threatening bleeding from the scalp, neck, shoulder, groin or back.** A tourniquet will not go there; see Step 4 [3].
+- **An object stuck in the wound.** Do not remove it (see ⚠ DO NOT) [3][5].
+- **Suspected internal bleeding, a serious injury, or any wound that needs a tourniquet:** get emergency medical help [5].
+- If phones are down, send someone to reach help and start care without waiting (general practice).
 
 ---
 
 ## Respond
 
-### Step 1: Scene safety and initial assessment
-- Ensure you are not in danger (if it is not safe to approach, call EMS/call for help).
-- Rapid assessment: is the person conscious? Are they breathing? Where is the bleeding?
+### Step 1: Scene safety and call for help
+1. Check that you are not in danger (traffic, fire, live power) (general practice).
+2. Call 911, or have someone call. Get a first aid kit if one is near [3].
 
-### Step 2: Direct pressure (all external bleeding)
+### Step 2: Expose the wound and press
+1. Expose the wound. Cut or tear clothing away [2].
+2. Press firmly and steadily straight on the wound with sterile gauze, a clean cloth, clothing, or your bare hand, even if it hurts the person [5][8]. Use gloves or a barrier if you have one [8].
+3. Keep pressing until the bleeding stops, a tourniquet is on, someone takes over, or it becomes unsafe [3]. Switch with another person when you tire [8].
+4. **Do not lift the cloth to look.** Lifting can restart bleeding [5].
+5. If blood soaks through, leave the first layer in place. MedlinePlus says add another cloth on top. The Red Cross says do not remove the original pad and do not stack multiple pads [3][5]. The sources differ. The safer choice (this guide's judgment): keep the first layer, keep pressing, and add one layer on top only if you must.
+6. When the bleeding stops, secure the dressing with tape or a clean cloth wrap [5].
 
-1. **Apply firm, direct pressure** with a clean cloth or gauze to the bleeding site.
-   - Use bare hand if no cloth is available (your hand stops bleeding as effectively as a cloth).
-   - **Apply pressure DIRECTLY over the wound**, not around it.
-   - **Press hard** (this stops blood flow to the injured vessel).
+### Step 3: Tourniquet, for life-threatening bleeding on an arm or leg
+Do not wait a fixed time for pressure to work. Use a tourniquet when limb bleeding is life-threatening, or when pressure is not stopping it and the dressing is soaked [2][3]. The Red Cross lists direct pressure plus a tourniquet "if trained" [3]. **Keep pressing on the wound while you get the tourniquet in place** [8].
 
-2. **Maintain pressure continuously** for ≥10–15 minutes (do NOT peek or release to check if bleeding has stopped; this restarts the clot).
+1. **Placement:** 2 to 3 inches above the wound, between the wound and the heart. Not on the wound and not on a joint (elbow, knee, wrist, ankle) [2][4]. If the wound is at or near a joint, place it above the joint, toward the torso [5]. It may go over clothing [2].
+2. **Tighten:** pull the strap as tight as you can, then twist the windlass rod until the bleeding stops or you cannot twist it any more [2][4].
+3. **Secure** the rod with its clip so it cannot unwind [2][4].
+4. **Note the time** it went on and tell responders. Leaving it on too long can damage tissue [2][5].
+5. **Do not loosen or remove it.** The Red Cross says only a medical professional does that [4].
+6. **If bleeding continues** after the first is as tight as you can make it, put a second tourniquet above the first, closer to the heart [4].
+7. **No commercial tourniquet:** MedlinePlus describes a band 2 to 4 inches wide, wrapped several times and tied with a half or square knot, a stick placed between two knots and twisted until bleeding stops, then secured [5]. Treat this as a last resort (general practice).
 
-3. **Add layers as blood soaks through** (do NOT remove the first layer; place new gauze/cloth on top). Removing layers disrupts clot formation.
+### Step 4: Where a tourniquet will not go
+For life-threatening bleeding from the scalp, neck, shoulder, groin or back, or from a limb when no tourniquet is available, the Red Cross teaches wound packing **if you are trained** [3]. Stop the Bleed teaches "pack the wound and press" [1]. If you are not trained, keep pressing hard with cloth and keep help coming [3][8].
 
-4. **Elevate the limb** (if wound is on arm/leg) above heart level to reduce venous pressure and bleeding.
+### Step 5: Treat shock
+1. Control the bleeding first [6].
+2. Have the person lie on their back [6][7]. If there is no head, neck, back or leg injury, raise the legs about 12 inches (the Red Cross says 6 to 12) [5][6][7]. If raising the legs hurts, leave them flat [6]. If the person is less alert or may vomit, the Red Cross says use the recovery position instead [7].
+3. Keep the person warm, with something between them and cold ground. Loosen tight clothing [6][7][8].
+4. If they vomit, turn them to one side, unless a spine injury is suspected [6].
+5. Check breathing at least every 5 minutes until help arrives [6].
+6. **Give nothing to eat or drink** [6][7].
 
-5. **Assess after 15 minutes:** if bleeding is controlled (no active ooze), secure the dressing with tape or gauze.
+### Step 6: Object stuck in the wound
+Do not remove it. Pad around the object and tape it so it cannot move [3][5].
 
-### Step 3: Reassess for continued bleeding
-
-- **If bleeding stops:** keep the dressing in place, elevate limb, rest.
-- **If bleeding does NOT stop after 15 minutes of direct pressure:** escalate to tourniquet or other measures (Step 4).
-
-### Step 4: Tourniquet (arterial/severe bleeding not controlled by pressure)
-
-**When to use a tourniquet:**
-- Severe bleeding (arterial or large laceration) that does not stop with 15 minutes of direct pressure.
-- Amputation or crush injury with major vessel involvement.
-- Wound in a location where pressure cannot be maintained (e.g., deep axilla, groin).
-
-**Tourniquet application (limb wounds only: arm, leg above elbow/knee):**
-
-1. **Choose a location:** place the tourniquet **high on the limb, proximal to the wound** (between the wound and the heart). On an arm: upper arm (above elbow preferred). On a leg: upper thigh (above knee preferred).
-   - **Do NOT apply a tourniquet to the lower leg or forearm** (cannot occlude both bones with tourniquet pressure alone; may fail).
-
-2. **Tighten firmly:** apply the tourniquet, tighten completely. The goal is to **stop ALL arterial and venous flow** to the limb distal to the tourniquet.
-   - **How firm?** Tight enough that:
-     - The bleeding stops (check distal wound).
-     - Distal pulses are absent (if you can feel a pulse distal to the tourniquet, it is not tight enough; tighten more).
-     - The limb distal to the tourniquet becomes pale or bluish (venous return is stopped).
-
-3. **Secure the tourniquet** so it does not slip. Write the time applied on the tourniquet (or on tape near it) if possible.
-
-4. **Mark the limb** with a visible marker or write "TOURNIQUET" on the person's forehead with an indelible marker (if field conditions allow). This alerts hospital staff.
-
-5. **Reassess:** if bleeding below the tourniquet continues, the tourniquet is not tight enough → **tighten more**.
-
-**Tourniquet duration:**
-- Tourniquet time under 2 hours: low risk of limb loss, safe in field.
-- Tourniquet time 2–6 hours: tissue damage begins but is often reversible.
-- Tourniquet time >6–8 hours: permanent tissue damage and limb loss risk increases.
-- **Evacuate for any tourniquet application; professional assessment is needed.**
-
-**Do NOT remove a tourniquet in the field** (once removed, bleeding usually restarts and clot formation is disrupted). Hospital staff will remove it when surgical control is possible.
-
-### Step 5: Wound packing (for deep wounds or areas where tourniquet cannot be applied)
-
-If tourniquet is not applicable (e.g., groin, lower abdomen, chest), try wound packing:
-
-1. **Remove debris and clots gently** (once) to visualize the wound.
-2. **Pack sterile gauze or clean cloth directly into the wound** (not around it), going as deep as you can reach.
-3. **Fill the entire cavity** (leaving air pockets allows bleeding to continue).
-4. **Apply direct pressure** over the packed wound for 3–5 minutes.
-5. **Do NOT remove packing** once in place (very difficult and bleeding restarts).
-6. **Leave the end of packing visible** so a surgeon can find and remove it later.
-
-### Step 6: Manage shock
-
-1. **Lay the person flat** (supine) with feet slightly elevated (not 90 degrees; just a 6–12 inch elevation helps).
-   - **Exception:** if chest/facial wounds or difficulty breathing, semi-recumbent (45°) is safer.
-
-2. **Keep warm:** use blankets, insulation from ground. Hypothermia worsens shock outcomes.
-
-3. **Fluid intake (if conscious and able to swallow):** offer water or electrolyte solution in small sips. **Do NOT force or give large volumes** (risk of vomiting/aspiration if surgery is needed).
-
-4. **Minimize movement and exertion:** shock accelerates with activity.
-
-5. **Monitor vital signs:** heart rate, breathing, consciousness, skin color/temperature.
-   - **If heart rate is rising, breathing is rapid, consciousness is declining:** shock is progressing → **evacuate urgently.**
-
-### Step 7: Impaled objects
-
-**If an object (knife, glass, metal, wood) is impaled in a wound:**
-
-1. **Do NOT remove it** (see DO NOT section).
-
-2. **Stabilize the object** with bulky dressing or tape so it does NOT move (movement causes further bleeding and tissue damage).
-
-3. **Apply pressure around (not on) the object** to control external bleeding.
-
-4. **Elevate the limb** if applicable.
-
-5. **Evacuate urgently.** Only a surgeon should remove deeply impaled objects (may be tamponading a major vessel).
-
-### Step 8: Evacuation
-
-- **Call EMS / signal for evacuation** as soon as severe bleeding or shock is recognized.
-- **Continue monitoring** during evacuation: watch for worsening shock, further bleeding, or changes in consciousness.
-- **Update medical personnel** on tourniquet time, fluid loss estimate, and any medications or medical history.
+### Step 7: Hand-off
+Tell responders the tourniquet time and location, and what happened (general practice).
 
 ---
 
 ## ⚠ DO NOT
 
-- **Do NOT remove an impaled object.** It may be plugging a blood vessel. Removal can cause massive hemorrhage. Stabilize it in place and evacuate.
-
-- **Do NOT remove dressings once applied.** Removing gauze disrupts clot formation. Add layers on top if bleeding persists.
-
-- **Do NOT apply a tourniquet to the forearm or lower leg.** These have two bones; a tourniquet may fail to occlude both vessels. Use upper arm or upper thigh.
-
-- **Do NOT apply a tourniquet and then forget about it.** Tourniquet time matters (tissue damage after 2–6+ hours). Mark the time, alert medical staff, and evacuate.
-
-- **Do NOT release a tourniquet in the field.** Once removed, bleeding usually restarts. Only hospital staff should remove it (in OR when bleeding control is surgical).
-
-- **Do NOT panic or lose composure.** Shock spreads to the victim if they sense fear. Stay calm, reassure, and act decisively.
-
-- **Do NOT leave the person alone** (shock can progress to unconsciousness; continued monitoring is critical).
-
-- **Do NOT apply ice directly to the wound.** Ice can damage tissue. Cold packs are acceptable if wrapped in cloth; avoid direct contact.
-
-- **Do NOT assume an unconscious person is dead.** Severe shock causes unconsciousness; continue resuscitation and evacuation efforts.
+- **Do NOT remove an object stuck in a wound.** Removal can make bleeding much worse [3][5].
+- **Do NOT lift the dressing to look at the wound,** and do not take off the first layer [3][5].
+- **Do NOT put a tourniquet on a joint or on the wound itself** [2][4].
+- **Do NOT loosen or remove a tourniquet.** Leave that to a medical professional [4].
+- **Do NOT forget the time.** Note when the tourniquet went on and tell responders [2].
+- **Do NOT give food or drink to a person in shock** [6][7].
+- **Do NOT raise the legs** if there is a head, neck, back or leg injury, or if raising them hurts [5][6].
+- **Do NOT pack a wound unless you are trained** [3].
+- **Do NOT wait to call 911** for severe bleeding or signs of shock [3][6].
+- **Do NOT leave the person alone** (general practice).
 
 ---
 
 ## Med Continuity
 
-**Medications + bleeding risk:**
-- **Anticoagulants (warfarin, apixaban, dabigatran):** bleeding is faster and more severe. Tourniquets may be necessary even for moderate wounds. Inform medical staff of anticoagulant use.
-- **Aspirin, NSAIDs (ibuprofen, naproxen):** slightly increase bleeding time. Tourniquet application may be needed earlier.
-- **Anesthetics (if available in field):** avoid giving IV/injectable pain meds before hemorrhage is controlled (can mask worsening shock).
+The sources opened for this entry do not cover medicines and bleeding, so this entry gives no medicine-specific guidance and no dosing. Tell responders about any blood thinner or other medicine the person takes. Medicine questions go to a clinician, a pharmacist or 911. See `chronic-med-continuity.md` for storage and refill basics.
 
 ---
 
 ## Sources
 
-- American College of Surgeons. (n.d.). *Stop the Bleed — Tourniquet and Hemorrhage Control Guidelines.* Retrieved from https://www.bleedingcontrol.org
-- Committee on Tactical Casualty Care. (n.d.). *Tactical Combat Casualty Care (TCCC).* Retrieved from https://www.tccc.us
-- American Red Cross. (n.d.). *Emergency Management of Severe Bleeding and Shock.* Retrieved from https://www.redcross.org
-- U.S. Army. (n.d.). *FM 21-76 — U.S. Army Survival Manual.* Retrieved from https://www.army.mil
+All pages opened 2026-10-21.
+
+1. American College of Surgeons. *Three Ways to Control Bleeding* (Stop the Bleed handout). https://www.stopthebleed.org/media/plpjtq5p/25_tr_stb_handout_4x6_acslogo.pdf (pressure, tourniquet, "pack the wound and press")
+2. US Department of Homeland Security. *Stop the Bleed: Applying a Tourniquet* (2018). https://www.dhs.gov/sites/default/files/publications/STB_Applying_Tourniquet_08-06-2018_0.pdf (apply when pressure fails and the dressing soaks through; at least 2-3 inches from the wound, between wound and heart, not over a joint; tighten as much as you can; secure the windlass; note the time; over clothing is fine)
+3. American Red Cross. *Bleeding (Life-Threatening External).* https://shop.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external (direct pressure plus tourniquet "if trained"; wound packing "if trained" for scalp, neck, shoulder, groin, back; do not remove the original pad or stack pads; do not remove embedded objects)
+4. American Red Cross. *How to Apply a Tourniquet.* https://shop.redcross.org/take-a-class/resources/articles/how-to-apply-a-tourniquet (2-3 inches above the wound, between wound and heart, not on a joint; as tight as you can; twist until bleeding stops; clip; do not loosen or remove; second tourniquet above the first)
+5. NIH MedlinePlus. *Bleeding.* https://medlineplus.gov/ency/article/000045.htm (direct pressure; do not lift the cloth; tourniquet only if pressure fails; above the joint; improvised band; note the time; pad and tape impaled objects; legs up about 12 inches unless head, neck, back or leg injury)
+6. NIH MedlinePlus. *Shock.* https://medlineplus.gov/ency/article/000039.htm (symptoms; lie on back, raise legs about 12 inches if no head, leg, neck or spine injury; keep warm; loosen clothing; turn to side if vomiting; check breathing every 5 minutes; nothing by mouth)
+7. American Red Cross. *Shock.* https://shop.redcross.org/take-a-class/resources/learn-first-aid/shock (signs; lie flat; raise feet 6 to 12 inches if no sign of trauma; keep warm; nothing to eat or drink; recovery position if less alert or may vomit)
+8. Ready.gov / FEMA. *Until Help Arrives (Version 1.0).* https://www.ready.gov/sites/default/files/2020-07/until-help-arrives-web-tutorial.pdf (keep pressure on while placing a tourniquet; use other people when tired; gloves or barrier; keeping an injured person warm)

@@ -20,6 +20,10 @@ sources:
     publisher: NIH MedlinePlus Drug Information
     url: "https://medlineplus.gov/druginfo/meds/a682280.html"
     tier: T1
+  - title: "Diarrhea"
+    publisher: American Red Cross
+    url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/diarrhea"
+    tier: T1
   - title: "How to Make Water Safe in an Emergency"
     publisher: CDC
     url: "https://www.cdc.gov/water-emergency/about/index.html"
@@ -95,9 +99,9 @@ Seek help immediately, and keep giving ORS while you arrange it, if any of these
 - **Fainting, no urine, rapid heartbeat, rapid breathing, or signs of shock** (MedlinePlus).
 - **Severe or profuse watery diarrhea** (WHO). This includes cholera-like illness.
 - **Babies and small children:** no tears, no wet diaper for 3 hours or more, sunken eyes, unusual sleepiness (MedlinePlus).
-- **Blood in the stool** with fever and belly pain.
+- **Black or bloody stool,** by itself (Red Cross; MedlinePlus loperamide page says call a doctor immediately or get emergency care for bloody stools).
 - **Persistent high fever** with diarrhea.
-- **Severe belly pain.**
+- **Sharp or lasting belly pain** (Red Cross).
 
 **Severe dehydration and shock need intravenous (IV) fluids from EMS or a hospital** (MedlinePlus). WHO: people with more severe cholera may need IV rehydration and antibiotics in addition to ORS. **ORS is not withheld from the sickest person. Start it right away, and also get urgent care.**
 
@@ -139,6 +143,7 @@ Stir until dissolved. Give it in **small, frequent sips.** WHO: the most importa
 
 **Diarrheal medicines (if available).** *Not medical advice. Follow the product label exactly, and ask a pharmacist or clinician where you can reach one.*
 - **Loperamide (Imodium)** and **bismuth subsalicylate (Pepto-Bismol)** are over-the-counter options for simple, watery diarrhea with no red flags. Use the label dose only.
+- **Stop after 48 hours.** MedlinePlus: if diarrhea lasts longer than 48 hours, stop taking loperamide and call a doctor. Adults whose symptoms last past 2 days should contact a clinician (Red Cross).
 - **Do not use loperamide** with fever, blood or mucus in the stool, or severe belly pain. Never give it to a child younger than 2. Never take more than the label dose: too much can cause serious, even life-threatening heart rhythm problems (MedlinePlus).
 - **Bismuth subsalicylate** is related to aspirin. Read the label warnings, and ask a pharmacist before giving it to children or teens or using it with blood thinners (general caution; label-based).
 - **Do not self-start a prescription antibiotic.** Blood in the stool or a high fever is a red flag: seek care (see ⚠ RED FLAGS / EVACUATE). Antibiotic choice and dose are a clinician's decision.
@@ -180,7 +185,7 @@ then **this exceeds field care. Get urgent medical care for IV fluids** (WHO; Me
 - **Do NOT change the ORS recipe** (more or less sugar or salt, a guessed "handful" or "pinch").
 - **Do NOT mix ORS with untreated water.** Use water treated or boiled by a method in the water entries.
 - **Do NOT use loperamide (Imodium) with fever, bloody stools, or severe belly pain.** Slowing the gut in a bacterial infection can worsen it.
-- **Do NOT delay getting care** for blood in the stool, high fever, severe belly pain, confusion, or inability to keep fluids down.
+- **Do NOT delay getting care** for black or bloody stool, high fever, severe belly pain, confusion, or inability to keep fluids down.
 - **Do NOT assume diarrhea alone is mild.** Dehydration can progress to shock; keep watching the signs.
 
 ---
@@ -189,8 +194,7 @@ then **this exceeds field care. Get urgent medical care for IV fluids** (WHO; Me
 
 **Chronic medications + diarrhea:**
 - **Diabetes medicines (insulin, metformin, sulfonylureas):** vomiting, diarrhea and not eating raise the risk of both low and high blood sugar. Check blood sugar more often if you can. Do not change a dose on your own: call a clinician, pharmacist or 911 for dosing questions or for signs of very low or very high blood sugar.
-- **Antacids/bismuth subsalicylate:** do NOT combine with prescription antibiotics without checking (drug interactions).
-- **Anticoagulants (warfarin, apixaban):** diarrhea affecting vitamin K absorption can alter warfarin effect; close monitoring (INR) is ideal but unavailable in field. Maintain consistent diet/fluid intake.
+- **Other regular medicines:** the sources opened for this entry do not cover interactions, so none are listed here. Tell a pharmacist or clinician about every medicine you take before starting an over-the-counter diarrhea medicine (MedlinePlus loperamide page says to tell your doctor about all medicines).
 
 **Weakened immune system (HIV, chemotherapy, long-term steroids, transplant):** diarrhea is a bigger threat and can signal a serious infection. Seek care early, especially with fever or blood in the stool.
 
@@ -201,6 +205,7 @@ then **this exceeds field care. Get urgent medical care for IV fluids** (WHO; Me
 ## Sources
 
 - WHO. *Cholera outbreaks: Questions and answers.* https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks (ORS home recipe: 1 liter of water, 6 teaspoons of sugar, half a teaspoon of salt; ORS is the treatment and early ORS prevents death; more severe cases may need IV rehydration and antibiotics; seek help immediately if the person cannot take enough fluids because of vomiting, or has confusion or drowsiness, muscle cramps, weakness or dizziness).
-- NIH MedlinePlus. *Loperamide.* https://medlineplus.gov/druginfo/meds/a682280.html (not for children under 2; overdose can cause life-threatening heart rhythm changes; avoid with fever or blood or mucus in stool).
+- NIH MedlinePlus. *Loperamide.* https://medlineplus.gov/druginfo/meds/a682280.html (not for children under 2; overdose can cause life-threatening heart rhythm changes; tell your doctor about fever, blood or mucus in stool, black stools; stop and call a doctor if diarrhea lasts longer than 48 hours; call a doctor immediately or get emergency care for bloody stools while taking it; tell your doctor about all medicines).
+- American Red Cross. *Diarrhea.* https://shop.redcross.org/take-a-class/resources/learn-first-aid/diarrhea (black or bloody stool, sharp or persistent abdominal pain and signs of dehydration or shock need immediate emergency care; adults with symptoms beyond 2 days see a provider; no over-the-counter antidiarrheals for young children or infants; opened 2026-10-21).
 - NIH MedlinePlus. *Dehydration.* https://medlineplus.gov/dehydration.html (signs in adults and in infants and young children; older adults may lose their sense of thirst; get medical help right away for confusion, fainting, lack of urination, rapid heartbeat, rapid breathing, or shock; severe cases may be treated with IV fluids in a hospital).
 - CDC. *How to Make Water Safe in an Emergency.* https://www.cdc.gov/water-emergency/about/index.html (ways to treat water for the ORS: boiling, disinfection).

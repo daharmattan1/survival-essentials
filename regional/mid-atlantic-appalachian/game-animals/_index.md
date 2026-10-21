@@ -15,7 +15,7 @@
 
 | Animal | ☠ Disease / parasite watch | Never eat / handling rule | Legal frame |
 |--------|----------------------------|---------------------------|-------------|
-| **White-tailed deer** | **CWD (chronic wasting disease — prion)**; cannot be cooked out | **Never eat brain, spinal cord, lymph nodes, spleen.** Bone out; avoid cutting through spine. Don't take animals that look sick/emaciated. | Regulated season; emergency-exception framing only — know your state DNR regs. |
+| **White-tailed deer** | **CWD (chronic wasting disease — prion)**; cannot be cooked out | **Never eat brain, spinal cord, lymph nodes, spleen.** Bone out; avoid cutting through spine. Don't take animals that look sick/emaciated. | Regulated season; no opened source gives a survival exemption — know your state DNR regs. |
 | **Eastern cottontail (rabbit)** | **Tularemia** (esp. warm months) | **Wear gloves** dressing; cook thoroughly; avoid sluggish/sick rabbits. | Regulated season; small game. |
 | **Gray squirrel** | General parasites/bacteria | Cook thoroughly; inspect for lesions. | Regulated season; small game. |
 | **Wild turkey** | General poultry-type bacteria | Cook to USDA poultry temp; standard handling. | Regulated season (spring/fall where applicable). |
@@ -27,8 +27,8 @@
 > full processing chain live in each entry's `## ⚠ MANDATORY PREPARATION`.
 >
 > **Legal/ethical:** seasons, methods, and licensing are jurisdictional. Entries describe normal
-> regulated seasons informationally and frame survival use as `legal_status: emergency-exception` —
-> **this is not legal advice; know your local regulations** (`../../../CONVENTIONS.md` §9 rule 6).
+> regulated seasons informationally and set `legal_status: regulated` and say plainly that no opened source gives
+> a survival exemption — **this is not legal advice; know your local regulations** (`../../../CONVENTIONS.md` §9 rule 6).
 
 ---
 
@@ -52,13 +52,13 @@ demands the full processing chain and the strictest disease discipline. Load ord
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| white-tailed-deer | entries/white-tailed-deer.md | GAME-ANIMAL | mid-atlantic-appalachian | fall (regulated) | edible-when-prepared | high | low | false | T1 | 4 | reviewed |
-| eastern-cottontail-rabbit | entries/eastern-cottontail-rabbit.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | high | low | false | T1 | 4 | reviewed |
-| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | moderate | low | false | T1 | 3 | reviewed |
-| wild-turkey | entries/wild-turkey.md | GAME-ANIMAL | mid-atlantic-appalachian | spring/fall (regulated) | edible-when-prepared | moderate | low | false | T1 | 3 | reviewed |
-| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | varies (furbearer) | edible-when-prepared | high | low | false | T1 | 4 | reviewed |
+| white-tailed-deer | entries/white-tailed-deer.md | GAME-ANIMAL | mid-atlantic-appalachian | fall (regulated) | edible-when-prepared | high | none | false | T1 | 13 | reviewed |
+| eastern-cottontail-rabbit | entries/eastern-cottontail-rabbit.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | high | none | false | T1 | 6 | reviewed |
+| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | moderate | none | false | T1 | 7 | reviewed |
+| wild-turkey | entries/wild-turkey.md | GAME-ANIMAL | mid-atlantic-appalachian | spring/fall (regulated) | edible-when-prepared | moderate | none | false | T1 | 5 | reviewed |
+| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | varies (furbearer) | edible-when-prepared | high | none | false | T1 | 12 | reviewed |
 
-`legal_status: emergency-exception` is set in-entry for all. Deer + rabbit + raccoon are
+`legal_status: regulated` is set in-entry for all (no opened source supports a survival exemption; entries say so). Deer + rabbit + raccoon are
 `hazard_severity: high` (CWD prion / tularemia / trichinella). Deer is the mandatory full-flow
 species. Sources: USDA + state DNR (T1).
 
@@ -70,5 +70,5 @@ species. Sources: USDA + state DNR (T1).
 - [ ] CWD-prion (deer) / trichinella (raccoon) / tularemia (rabbit) blocks present where applicable.
 - [ ] Deer entry has the full field-dress → skin → butcher → preserve flow; internal cook temps
       match USDA.
-- [ ] `legal_status` distinguishes normal season vs. emergency-exception; framed as "know your regs,"
-      not legal advice.
+- [ ] `legal_status` is `regulated`; entries distinguish normal season from emergency in prose and say no
+      opened source gives a survival exemption; framed as "know your regs," not legal advice.

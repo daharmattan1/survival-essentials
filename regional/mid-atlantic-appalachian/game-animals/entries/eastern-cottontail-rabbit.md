@@ -8,29 +8,38 @@ usda_zone: 7a
 confidence: high
 source_tier: T1
 sources:
-  - title: "CDC Tularemia (Rabbit Fever)"
+  - title: "Preventing Tularemia"
     publisher: CDC
-    url: "https://www.cdc.gov/tularemia/"
+    url: "https://www.cdc.gov/tularemia/prevention/index.html"
     tier: T1
-  - title: "USDA Safe Handling of Wild Rabbits"
-    publisher: USDA FSIS
-    url: "https://www.fsis.usda.gov/"
+  - title: "Rabbit: Safety and Health"
+    publisher: Missouri Department of Conservation
+    url: "https://mdc.mo.gov/hunting-trapping/species/rabbit/rabbit-safety-health"
     tier: T1
-  - title: "Maryland DNR Small Game Processing"
-    publisher: Maryland Department of Natural Resources
-    url: "https://dnr.maryland.gov/"
+  - title: "Safe Minimum Internal Temperature Chart for Cooking (USDA/FoodSafety.gov chart, last reviewed December 16, 2022)"
+    publisher: Virginia Department of Health
+    url: "https://www.vdh.virginia.gov/content/uploads/sites/6/2023/07/Cook_to_a_Safe_Minimum_Internal_Temperature.pdf"
     tier: T1
-  - title: "Rabbit Starvation: Protein/Fat Balance"
-    publisher: "Wilderness Medicine Institute"
-    tier: T2
+  - title: "Trapping regulations"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/?p=8638"
+    tier: T1
+  - title: "Drying Jerky"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/drying-jerky"
+    tier: T1
+  - title: "Preventing Trichinellosis"
+    publisher: CDC
+    url: "https://www.cdc.gov/trichinellosis/prevention/index.html"
+    tier: T1
 common_names:
   - Eastern cottontail
   - Cottontail rabbit
   - Briar rabbit
 scientific_name: Sylvilagus floridanus
-legal_status: emergency-exception
+legal_status: regulated
 season_normal: "Fall–winter (regulated small-game season, typically Nov–Feb, varies by state)"
-internal_cook_temp: "160°F internal temperature (whole animal or chunks)"
+internal_cook_temp: "165°F internal temperature, whole animal or chunks (USDA chart lists 160°F; Missouri Department of Conservation sets 165°F; this guide uses 165°F so both are met)"
 edibility_status: edible-when-prepared
 hazard_severity: high
 confusability_level: none
@@ -43,7 +52,7 @@ review_status: reviewed
 
 ## Legal & Ethical Note
 
-Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal harvest occurs during controlled seasons (typically late fall / winter) under state license. This entry describes emergency-exception processing only—in true survival necessity, rabbits are the most realistic protein source due to their abundance and passive trap efficiency. **Know your local small-game regulations; this is not legal advice.** Humane dispatch and full utilization are ethical minimums.
+Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal harvest occurs during controlled seasons (typically late fall / winter) under state license, with method limits. Virginia, for example, allows rabbit trapping from October 15 to January 31 with box traps only, and bans deadfall traps [4]. **No source opened for this entry supports a survival or emergency exemption from season, license or method rules** (this guide's judgment); do not assume one. The Virginia page lists only a landowner-damage exception, not a survival one [4]. **Know your local small-game regulations; this is not legal advice.** Humane dispatch and full utilization are ethical minimums.
 
 ---
 
@@ -59,7 +68,7 @@ Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal
 
 ## Harvest
 
-**Trap method (passive, energy-efficient):** Snare or deadfall at warren entrance or along well-used trail. Snare construction: see [`../../../substrate/05_food/`](../../../../substrate/05_food/) for full details. Snare loop should be 2–3 inches in diameter, positioned 2–3 inches above ground at warren entrance or travel lane.
+**Trap method (passive):** Check your state's rules first; they decide which traps you may use. In Virginia, rabbits may be trapped only with box traps, deadfall traps are prohibited, and land snares need the landowner's written permission and loops 12 inches or less in diameter [4]. See [`../../../substrate/05_food/`](../../../../substrate/05_food/) for trapping technique and the legal note.
 
 **Strike method (active):** Firearm (.22 rifle) or club/cudgel (requires close approach in brush; risky). Lethal strike: back of the skull or spinal cord, severing the central nervous system.
 
@@ -73,11 +82,11 @@ Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal
 
 1. **Separate the skin from meat.** Hold the rabbit by the hind legs (head down). Make a circular cut around the anus and genitals. Make an incision up the inside of each hind leg. Grasp the hide and pull downward toward the head—the skin separates cleanly in seconds. Sever the head (which comes with the hide) and front legs with the skin.
 
-2. **Open the body cavity.** Make a small cut on the underside from sternum to anus; do not cut deeply into the viscera. Remove the paunch (stomach), liver, kidneys, and intestines by hand. Discard the paunch and intestines; inspect the liver (should be dark red, no pale spots or lesions).
+2. **Open the body cavity.** Make a small cut on the underside from sternum to anus; do not cut deeply into the viscera. Remove the paunch (stomach), liver, kidneys, and intestines by hand. **Inspect the liver as a tularemia screen:** if it has numerous white lesions about the size of a pinhead, discard the rabbit and do not eat it [2]. Discard the paunch, intestines and all other organs after the check (this guide's rule; this guide does not recommend eating wild-game organ meats).
 
 3. **Cool immediately.** Rabbit meat spoils faster than larger game. If temperature is above 50°F, refrigerate within 1 hour. If cold, can hang (skinned, open) for 2–3 days.
 
-**Tularemia handling precaution:** Wear gloves when field-dressing and skinning, especially in warm months (May–Sept, when tularemia risk peaks). Wash hands and any cuts thoroughly with soap and water after handling.
+**Tularemia handling precaution:** Wear latex or nitrile gloves when field-dressing and skinning [1][2]; take extra care if you have cuts or open wounds on your hands [2]. Wash hands thoroughly with soap and water after handling (general practice). If you get flu-like symptoms after handling rabbits, see a clinician and say you handled rabbits [2].
 
 ---
 
@@ -88,13 +97,13 @@ Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal
 1. **Remove the four legs** (hind and front) by cutting around the hip and shoulder joints, separating the ball-and-socket connections.
 2. **Remove the saddle (loin)** by cutting along both sides of the spine and separating the tender backstrap meat.
 3. **Remove the rib meat** by stripping muscle away from the ribcage.
-4. **Discard the spine and organs** (except liver, if healthy-looking, which can be eaten).
+4. **Discard the spine and all organs.** A healthy-looking liver is not a clearance; the liver check is only a test for discarding the rabbit [2].
 
 **Preserving (rabbit meat is lean and spoils quickly):**
 
 1. **Refrigeration:** Wrapped in clean cloth or paper, rabbit lasts 2–3 days at 32–40°F.
 2. **Freezing:** Vacuum-seal or wrap in multiple freezer-paper layers; lasts 6–9 months at 0°F or below.
-3. **Drying (jerky):** Slice lean meat thin, salt, dry over low heat (160–170°F) or sun-dry (3–5 days in arid climate). Dried rabbit is shelf-stable for months.
+3. **Drying (jerky):** Slice lean meat thin and heat the strips to 165°F first (the rabbit rule; Penn State's jerky page says 160°F before drying), then dry at 140°F until a cooled strip cracks but does not break when bent [5]. Drying alone does not reliably kill disease organisms [6]. Do not sun-dry raw meat. Penn State says to eat jerky within one to three weeks, or freeze it [5].
 4. **Stewing:** Rabbit is ideally suited to long-cooked stews and broths (boil for 45–60 minutes); tough connective tissue tenderizes with heat.
 
 ---
@@ -119,40 +128,41 @@ Eastern cottontail is a regulated small-game species in the Mid-Atlantic. Normal
 > **Tularemia transmission:** Bacteria live in blood, organs, and tissues of infected rabbits. Transmission occurs via skin/mucous membrane contact with infected blood, inhalation of aerosols during field dressing (in warm months especially), or consumption of undercooked infected meat.
 >
 > **MANDATORY PRECAUTION:**
-> - **Wear gloves when field-dressing and skinning** (especially May–September, peak tularemia season).
+> - **Wear gloves when field-dressing and skinning** [1][2] (general practice: take extra care in warm months).
 > - **Avoid aerosol exposure:** do not blow on the carcass or use high-pressure water to clean it.
 > - **Avoid sluggish rabbits:** if a rabbit allows close approach or is slow to flee, do not harvest it (sign of illness).
 > - **Cook thoroughly** (see MANDATORY PREPARATION section).
 >
-> **Verdict:** Tularemia is not destroyed by freezing. Thorough cooking (160°F internal) kills the bacteria. Avoid contact with sick animals and wear gloves during dressing; healthy-appearing rabbits present moderate risk if handled with care and cooked properly.
+> **Verdict:** Tularemia is not destroyed by freezing. CDC says to cook game meat thoroughly [1]; this guide's rule is 165°F internal [2][3]. Avoid contact with sick animals and wear gloves during dressing; healthy-appearing rabbits still carry some risk, so handle with care and cook fully.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Internal cook temperature (USDA for wild rabbit):**
-- **Whole rabbit or chunks:** 160°F internal temperature (measure at thickest part of thigh/loin, no pink).
+**Internal cook temperature:**
+- **Whole rabbit or chunks:** 165°F internal temperature, measured at the thickest part of the thigh or loin, no pink. The USDA chart lists 160°F for rabbit [3]; the Missouri Department of Conservation says a minimum of 165°F [2]. The sources differ; this guide uses 165°F so both are met (this guide's rule).
 
 **Cooking methods:**
-- **Boiling/stewing:** Place whole or quartered rabbit in water, bring to boil, simmer 45–60 minutes until meat is tender and reaches 160°F internally. Broth from boiling is nutritious and safe.
-- **Roasting:** Clean whole rabbit, roast at 375°F for 45–60 minutes; check temperature at thigh (160°F).
+- **Boiling/stewing:** Place whole or quartered rabbit in water, bring to boil, simmer 45–60 minutes until meat is tender and reaches 165°F internally. Broth from boiling counts as part of the cooked dish; bring it to a full boil before serving (general practice).
+- **Roasting:** Clean whole rabbit, roast at 375°F for 45–60 minutes; check temperature at thigh (165°F).
 - **Frying:** Quarter the rabbit, coat with flour/salt if available, fry in fat over medium heat until golden and cooked through (25–35 minutes).
 
-**Rabbit starvation (protein without fat):**
-- Rabbit meat is extremely lean (< 1% fat), which can cause a metabolic crisis if it becomes the sole food source for extended periods. The condition—"rabbit starvation"—occurs when protein exceeds ~20% of total calories without sufficient fat or carbohydrate to balance it.
-- **In emergency context:** eat rabbit with any available fat (animal fat, nuts, seeds, starches) to prevent this imbalance. Rabbit alone for weeks risks malnutrition.
-- **Never eat liver raw** (risk of tularemia and parasites); always cook it.
+**Rabbit as a sole food:**
+- Rabbit meat is very lean, so it should not be your only food for long (general practice; no source opened for this entry gives a threshold). Eat it with any fat, starch or other food you have.
+- **Do not eat the liver or other organs** (see Butchering; this guide's rule).
 
 **Never eat:**
-- Brain, spinal cord, or organs from a visibly sick animal.
-- Undercooked rabbit (must reach 160°F internal).
+- Brain, spinal cord, or organs from any rabbit.
+- Undercooked rabbit (must reach 165°F internal).
 - Meat that smells off or sour.
 
 ---
 
 ## Sources
 
-- CDC Tularemia: https://www.cdc.gov/tularemia/
-- USDA FSIS Safe Handling Wild Rabbits: https://www.fsis.usda.gov/
-- Maryland DNR Small Game Processing: https://dnr.maryland.gov/
-- "Rabbit Starvation" Reconsidered (historical and modern nutritional data)
+1. **Preventing Tularemia** — CDC. https://www.cdc.gov/tularemia/prevention/index.html
+2. **Rabbit: Safety and Health** — Missouri Department of Conservation. https://mdc.mo.gov/hunting-trapping/species/rabbit/rabbit-safety-health
+3. **Safe Minimum Internal Temperature Chart for Cooking** (reproduces the USDA/FoodSafety.gov chart: rabbit and venison, wild or farm-raised, 160°F; last reviewed December 16, 2022) — Virginia Department of Health. https://www.vdh.virginia.gov/content/uploads/sites/6/2023/07/Cook_to_a_Safe_Minimum_Internal_Temperature.pdf
+4. **Trapping regulations** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=8638
+5. **Drying Jerky** — Penn State Extension. https://extension.psu.edu/drying-jerky
+6. **Preventing Trichinellosis** (curing, drying, smoking or microwaving alone does not consistently kill worms) — CDC. https://www.cdc.gov/trichinellosis/prevention/index.html

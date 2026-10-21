@@ -44,7 +44,7 @@ token `safe` reads as a green light. Instead, every consumable + hazard entry ca
 | `preparation_required` | `true` · `false` | `true` ⇒ a `## ⚠ MANDATORY PREPARATION` section exists and is **never** summarized away. |
 | `expert_id_required` | `true` · `false` | `true` ⇒ field ID alone is never sufficient. |
 | `field_id_not_appropriate` | `true` · `false` | `true` ⇒ must **never** be consumed on field ID alone, even by an experienced forager. |
-| `legal_status` | `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` · `emergency-exception` · `n/a` | For game/harvest. Distinguish normal regs from genuine emergency; never present as legal advice. |
+| `legal_status` | `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` · `emergency-exception` · `n/a` | For game/harvest. `emergency-exception` only where a specific statutory exception is cited; no general survival exemption has been found. Distinguish normal regs from genuine emergency; never present as legal advice. |
 
 These facets are **sortable and filterable.** Indexes float the highest `hazard_severity` /
 `confusability_level` items to the top. **The absence of a warning is never evidence of safety**

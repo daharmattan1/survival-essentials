@@ -8,30 +8,66 @@ usda_zone: 7a
 confidence: high
 source_tier: T1
 sources:
-  - title: "USDA Deer Processing & Food Safety"
-    publisher: USDA FSIS
-    url: "https://www.fsis.usda.gov/wps/wcm/connect/government/site/topics/recalls-public-health-alerts/outbreaks-foodborne-illness/cwd-chronic-wasting-disease"
+  - title: "Proper Care and Handling of Venison from Field to Table"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/proper-care-and-handling-of-venison-from-field-to-table"
     tier: T1
-  - title: "CDC Chronic Wasting Disease (CWD)"
+  - title: "Proper Field Dressing and Handling of Wild Game and Fish"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish"
+    tier: T1
+  - title: "In the Kitchen: Safe Minimum Internal Temperatures (reproduces the USDA/FoodSafety.gov chart: rabbit and venison 160 F)"
+    publisher: University of Maine Cooperative Extension
+    url: "https://extension.umaine.edu/food-health/2024/03/01/internal-temperatures/"
+    tier: T1
+  - title: "Cook to a Safe Minimum Internal Temperature (FoodSafety.gov chart, last reviewed December 16, 2022)"
+    publisher: Virginia Department of Health
+    url: "https://www.vdh.virginia.gov/content/uploads/sites/6/2023/07/Cook_to_a_Safe_Minimum_Internal_Temperature.pdf"
+    tier: T1
+  - title: "About Chronic Wasting Disease"
     publisher: CDC
-    url: "https://www.cdc.gov/prions/cwd/"
+    url: "https://www.cdc.gov/chronic-wasting/about/index.html"
     tier: T1
-  - title: "Maryland DNR Game Processing"
-    publisher: Maryland Department of Natural Resources
-    url: "https://dnr.maryland.gov/"
+  - title: "Chronic Wasting Disease"
+    publisher: Alberta Health Services (MyHealth.Alberta.ca)
+    url: "https://myhealth.alberta.ca/Alberta/Pages/Chronic-Wasting-Disease-Overview.aspx"
+    tier: T2
+  - title: "Precautions for Hunters (chronic wasting disease)"
+    publisher: Indiana Department of Natural Resources
+    url: "https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/wildlife-diseases-in-indiana/precautions-for-hunters"
     tier: T1
-  - title: "USDA Venison Safe Handling & Temperature"
-    publisher: USDA FSIS
-    url: "https://www.fsis.usda.gov/"
+  - title: "Chronic Wasting Disease"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/wildlife/disease/cwd"
+    tier: T1
+  - title: "Making Jerky from Venison"
+    publisher: University of Missouri Extension
+    url: "https://extension.missouri.edu/news/making-jerky-from-venison"
+    tier: T1
+  - title: "Preventing Botulism"
+    publisher: CDC
+    url: "https://www.cdc.gov/botulism/prevention/index.html"
+    tier: T1
+  - title: "Preventing Trichinellosis"
+    publisher: CDC
+    url: "https://www.cdc.gov/trichinellosis/prevention/index.html"
+    tier: T1
+  - title: "Trapping regulations"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/?p=8638"
+    tier: T1
+  - title: "A Pocket Guide to Care and Handling of Game Birds from Field to Table (FN537)"
+    publisher: North Dakota State University Extension
+    url: "https://www.ndsu.edu/agriculture/node/2050"
     tier: T1
 common_names:
   - White-tailed deer
   - Virginia deer
   - Eastern whitetail
 scientific_name: Odocoileus virginianus
-legal_status: emergency-exception
+legal_status: regulated
 season_normal: "Fall (regulated season typically Nov–early Jan, varies by state); spring archery season where permitted"
-internal_cook_temp: "160°F (ground venison); 145°F (whole-muscle roasts/steaks, rest 3 min)"
+internal_cook_temp: "160°F, all venison cuts (USDA/FoodSafety.gov chart: rabbit and venison, wild or farm-raised, 160°F). Penn State Extension lists 145°F for whole cuts; use 160°F. Stews and casseroles 165°F."
 edibility_status: edible-when-prepared
 hazard_severity: high
 confusability_level: none
@@ -44,7 +80,7 @@ review_status: reviewed
 
 ## Legal & Ethical Note
 
-White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal harvest occurs during controlled seasons (typically late fall / early winter) under state DNR permit and licensing. This entry describes emergency-exception processing only—if you are harvesting outside normal season/permit, you are exercising true-emergency survival necessity, not recreational hunting. **Know your local regulations; this is not legal advice.** Humane harvest (quick, minimal suffering) and full-carcass utilization (no waste) are ethical minimums.
+White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal harvest occurs during controlled seasons (typically late fall / early winter) under state wildlife-agency permit and licensing. **No source opened for this entry supports a survival or emergency exemption from season, license or method rules** (this guide's judgment); do not assume one. Virginia's trapping page, for example, lists no general emergency exception [12]. **Know your local regulations; this is not legal advice.** Humane harvest (quick, minimal suffering) and full-carcass utilization (no waste) are ethical minimums.
 
 ---
 
@@ -62,7 +98,7 @@ White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal
 
 **Method (emergency context):** Trap (passive snare) or firearm (rifle/shotgun slug, where legal). Firearm requires training and legal authorization. Lethal placement: heart-lung area, behind front shoulder, into body cavity. A well-placed shot results in rapid collapse; poor placement risks prolonged suffering and escape.
 
-**Trap construction:** See [`../../../substrate/05_food/`](../../../../substrate/05_food/) for full snare/deadfall technique. Deer snares require robust cordage (paracord, wire) and anchor points that will not yield; a deer has extreme force and will thrash violently if trapped alive.
+**Traps and snares:** See [`../../../substrate/05_food/`](../../../../substrate/05_food/) for snare mechanics and the legal limits. Deadfall traps are prohibited in Virginia, and land snares there must have loops 12 inches or less in diameter [12]; a snare that size is not built for a deer. A deer has extreme force and will thrash violently if trapped alive, and this guide gives no deer-snare instructions.
 
 **Humane context:** In true emergency, death should be as swift as possible. If trapped alive, dispatch humanely (heavy blunt blow to skull base is field method; quickly severable carotid/jugular is alternative).
 
@@ -73,10 +109,11 @@ White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal
 **Immediate post-harvest (within minutes of death):**
 
 1. **Position the carcass** on its back, head downslope if possible (gravity aids drainage).
-2. **Incision:** Using a sharp knife, open the belly from sternum to pelvis. Cut shallow into skin and muscle only—do NOT penetrate the paunch (stomach), intestines, or bladder. If you cut the paunch, taint spreads immediately; the meat becomes unsafe.
-3. **Removal of viscera:** Reach into the body cavity and free the paunch, liver, kidneys, and intestines from the surrounding tissue. Pull toward the head to sever the esophagus. Pull toward the rear to sever the colon and bladder connection. Lift out the entire package onto the ground.
-4. **Inspect the organs:** Liver should be dark red/brown with no spots or lesions. A mottled, pale, or diseased-looking liver suggests the animal was sick—discard that liver and exercise caution with the rest of the meat.
-5. **Cool the cavity:** Wipe the interior with clean cloth if available. Prop the body open (use sticks) to allow air circulation. If weather is warm, transfer to shade immediately. If cold (below 50°F), the meat can hang for 1–2 weeks during aging; if warm (above 60°F), process immediately.
+2. **Incision:** Using a sharp knife, open the belly from sternum to pelvis. Cut shallow into skin and muscle only—do NOT penetrate the paunch (stomach), intestines, or bladder. If you cut the paunch, gut contents spread bacteria onto the meat.
+3. **Wear rubber or latex gloves** during field dressing and butchering, and do not use household knives or utensils [7]. **Removal of viscera:** Reach into the body cavity and free the paunch, liver, kidneys, and intestines from the surrounding tissue. Pull toward the head to sever the esophagus. Pull toward the rear to sever the colon and bladder connection. Lift out the entire package onto the ground.
+4. **Minimize contact with the brain, spinal cord, spleen and lymph nodes** as you work [7]. Where CWD is present, CDC advises avoiding handling internal organs, especially the brain or spine [5].
+5. **Inspect the liver:** it should be dark red/brown with no spots or lesions. A mottled, pale or diseased-looking liver suggests the animal was sick; do not eat that animal (this guide's rule).
+6. **Clean and cool the cavity:** Wipe the interior with paper towels or clean cloths [1][2]; do not use grass or snow, which NDSU says contaminates the carcass (stated in NDSU's game-bird guidance; applied to deer as general practice) [13]. Do not rinse the deer in a pond or stream; if you rinse with clean water, dry the cavity thoroughly [2]. Cool the carcass quickly to 35–40°F [1]. If air temperature is above 40°F, put resealable bags of ice or snow in the body cavity [2]. Prop the body open with sticks for air circulation and move it to shade.
 
 ---
 
@@ -102,34 +139,32 @@ White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal
 4. **Remove the neck meat** by cutting away the muscle from the cervical vertebrae. Neck meat is tougher, suitable for grinding or stewing.
 5. **Trim all meat from bone**, removing silver skin (connective tissue) and any discolored or shot-damaged tissue. Grade trim into three categories: premium (steaks/roasts), secondary (stewing/grinding), trimmings (fat/sinew for rendering).
 
-**Critical: Never cut through the spine or vertebrae with a saw or blade if you suspect CWD.** Keep the backbone separate; discard it separately. Use a cutting board and knife only; avoid bone dust (aerosol risk).
+**Where CWD is present, bone out the meat and remove fat and the weblike membranes, which removes lymph nodes** [7]. Boning out helps you avoid the high-risk tissues; it does not tell you whether the animal is infected, and testing is the only way to know [5]. Keep the brain, spinal cord, spleen and lymph nodes out of the food. Use gloves and a knife and cutting board you can clean afterward, not household knives [7].
 
 ---
 
 ## Preserving
 
-**Venison has very low fat content; it spoils faster than domesticated beef.**
-
-1. **Immediate cooling:** If ambient temperature is above 50°F, refrigerate or ice immediately (within 2 hours of harvest). In cold weather (below 40°F), the meat can age hanging for up to 2 weeks before processing; this tenderizes the meat.
-2. **Butchering:** Cut the cooled/aged meat into portions (steaks, roasts, stewing chunks, grinding scraps).
-3. **Refrigeration:** Wrapped in butcher paper, venison lasts 3–5 days in a standard refrigerator (32–40°F).
-4. **Freezing:** Vacuum-seal or wrap in multiple layers of freezer paper/plastic wrap to prevent freezer burn. Store at 0°F or below; properly wrapped venison lasts 8–12 months. Mark date and cut type on the package.
-5. **Drying (jerky):** Slice lean meat thin (1/4 inch), apply salt, dry over low heat (160–170°F) or sun-dry in an arid climate (3–7 days). Dried venison is shelf-stable for months if kept dry and cool.
-6. **Canning (pressure canning only):** Raw pack or hot pack ground venison or chunks into sterilized jars, process at 11 PSI (dial gauge) or 10 PSI (weighted gauge) for 75–90 minutes (pints) or 90 minutes (quarts). Requires a pressure canner (not a water bath); boiling-water canning does not reach safe temperature for low-acid meat.
+1. **Immediate cooling:** Cool the carcass quickly to 35–40°F to slow bacterial growth [1]. If you process the carcass yourself, hold it at 40°F or below for two to three days at most [1]. Outdoor temperatures swing, so this guide gives no longer hanging time. (Many hunters age venison for a week or more, but only in a controlled cooler at 40°F or below. No source opened for this entry gives a longer limit than Penn State's.)
+2. **Butchering:** Cut the cooled meat into portions (steaks, roasts, stewing chunks, grinding scraps).
+3. **Refrigeration:** Unfrozen venison goes in the refrigerator and is used within two to three days [1].
+4. **Freezing:** Wrap in multiple layers of freezer paper or plastic wrap. Properly wrapped game meat keeps 9 to 12 months in the freezer; do not refreeze thawed product [1]. Mark date and cut type on the package. Freezing is storage, not cooking, and it does not reliably kill wild-game *Trichinella* [11].
+5. **Drying (jerky):** Slice lean meat thin. Heat the strips to an internal 160°F first (in marinade, in an oven, or simmered), then dry at 140°F until a test strip cracks but does not break when bent [9][1]. Dried jerky keeps one to two months refrigerated below 40°F [1]. Unheated hanging or sun-drying of raw strips is not a method this guide gives; CDC says drying, smoking and curing alone do not consistently kill *Trichinella* worms [11].
+6. **Canning (pressure canning only):** Pressure canning is the only recommended method for low-acid foods such as meat [10]. Use a tested pressure-canning recipe from an extension service for your altitude; this guide gives no pressures or times. If you are unsure how a jar was canned, throw it out [10].
 
 ---
 
 ## ⚠ DISEASE & PARASITE
 
-> ⚠ **CHRONIC WASTING DISEASE (CWD) — Prion disease; fatal if consumed; cannot be cooked out or frozen out.**
+> ⚠ **CHRONIC WASTING DISEASE (CWD) — Prion disease of deer and elk; cooking does not destroy prions. No human case has been reported, and it is not known whether people can be infected.**
 >
-> **Positive-ID checklist (ALL must hold to assume the animal is CWD-free):**
+> **Screening checklist (appearance does NOT rule out CWD; this is only a first screen):**
 > - Animal appears healthy (normal weight, alert, no staggering/confusion)
 > - No visible lesions, discharge, or emaciation
 > - Liver appears normal color (dark red, no pale/mottled spots)
 > - No signs of neurological distress (ataxia, excessive drooling, aggression)
 >
-> **Do NOT harvest if ANY of these are present (disqualifying traits):**
+> **Do NOT harvest or eat the animal if ANY of these are present (disqualifying traits):**
 > - Animal appears emaciated, staggering, or confused
 > - Excessive salivation or nasal discharge
 > - Pale, discolored, or lesioned liver
@@ -137,46 +172,60 @@ White-tailed deer is a regulated game species in all Mid-Atlantic states. Normal
 > - Any lymph nodes visibly enlarged or discolored
 > - Spleen appears enlarged or abnormal
 >
-> **CWD is a prion disease—irreversible protein misfolding in the brain and spinal cord. The prion cannot be destroyed by heat, freezing, or normal field sanitation. The ONLY control is anatomical avoidance.**
+> **CWD is a prion disease. Cooking temperatures do not destroy prions [6]. The CDC says CWD infections in people have never been reported and it is not known whether people could be infected [5]. Where CWD is present, the CDC says to strongly consider having the animal tested before you eat the meat, and not to eat meat from an animal that tests positive [5]. A negative test does not guarantee the animal is uninfected [6]. A deer that looks healthy can still be infected (general practice). Avoiding the high-risk tissues below is the other control.**
 >
 > **MANDATORY AVOIDANCE (regardless of apparent health):**
-> - **Never eat brain tissue, spinal cord, cerebrospinal fluid, or vertebral column.**
-> - **Never eat lymph nodes, spleen, or tonsils.**
-> - Bone out all meat cleanly; avoid cutting through vertebrae or bone (bone dust = aerosol prion risk).
-> - Never handle a visibly sick animal; discard the entire carcass if you harvest one that shows signs of illness after death.
+> - **Do not eat the brain, spinal cord, eyes, spleen, tonsils or lymph nodes** [6][7]. The CDC names the brain and spine [5]; Alberta Health names brain, spinal cord, spleen and lymph nodes [6]; Indiana DNR adds eyes and tonsils [7].
+> - Avoid handling internal organs, especially the brain or spine; wear gloves; do not use household knives [5][7].
+> - Bone out the meat and remove fat and the weblike membranes (this removes lymph nodes) [7].
+> - Do not eat an animal that looks sick; discard the whole carcass if illness shows after death.
 >
-> **CWD geographic risk:** Present in parts of the Midwest, Rocky Mountains, and increasing in Eastern states (including Maryland/Virginia by 2024). Not all deer carry CWD, but infected deer show no early signs; strict avoidance of high-risk tissues is the only safe practice.
+> **CWD in this region:** Virginia first detected CWD in 2009, and by 2026 it had been confirmed in 18 Virginia counties [8]. West Virginia's first detection was in 2005 [8]. Check your state wildlife agency for current testing rules where you are.
 >
-> **Verdict:** If the animal appears healthy and you strictly avoid brain, spinal cord, lymph nodes, and spleen, the risk is minimized but not eliminated. If the animal appeared sick at time of harvest, discard the entire carcass.
+> **Verdict:** Where CWD is present, test the animal and avoid the tissues above. Avoiding them lowers the risk; it does not remove it, because infection can only be confirmed by testing [5]. If the animal appeared sick at harvest, discard the entire carcass.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Internal cook temperatures (USDA standard for venison):**
-- **Ground venison:** 160°F internal temperature (no color requirement; measure at thickest point).
-- **Whole-muscle cuts (steaks, roasts):** 145°F internal temperature, rest 3 minutes. Pink center acceptable if temperature is met.
+**Internal cook temperatures (venison, all cuts):**
+- **All venison (steaks, roasts, ground):** 160°F internal temperature, measured at the thickest point with a food thermometer [3][4]. The USDA/FoodSafety.gov chart lists rabbit and venison, wild or farm-raised, at 160°F [3][4].
+- Penn State Extension lists 145°F (medium rare) for whole cuts and 160°F for ground meat [1]. The sources differ; this guide's rule is **160°F for every cut**, the higher USDA figure.
+- **Stews, soups, casseroles and leftovers:** 165°F [1].
+- **Jerky:** heat strips to 160°F before drying, then dry at 140°F [1][9].
+- Color is not a reliable guide to doneness; use a thermometer.
 
-**Aging & cooling (important for flavor and safety):**
-- If harvested in cold weather (below 50°F), allow 7–10 days hanging for enzymatic tenderizing and flavor development. Keep the carcass clean (hang in shade, cover with cheesecloth if flies are present).
-- If harvested in warm weather (above 60°F), process immediately; do not age.
+**Cooling & aging:**
+- Cool the carcass quickly to 35–40°F. Above 40°F air temperature, put resealable bags of ice or snow in the cavity [1][2].
+- Hold the carcass at 40°F or below for two to three days at most if you process it yourself [1]. This guide gives no longer aging time. Do not age in warm weather.
+- Keep the carcass clean; do not rinse it in a pond or stream [2].
 
 **Never eat:**
-- Brain, spinal cord, lymph nodes, spleen, tonsils, cerebrospinal fluid (prion risk).
+- Brain, spinal cord, eyes, spleen, tonsils, lymph nodes [5][6][7] (CWD prion risk; cooking does not destroy prions [6]).
 - Any meat from a visibly sick animal.
-- Meat that smells sour, sour, or off after field dressing.
-- Bruised or shot-damaged tissue (unless trimmed away and cooked immediately).
+- Meat that smells sour or off after field dressing (do not taste it to check).
+- Bruised or shot-damaged tissue (trim it away).
+- Any canned venison you cannot account for; botulism toxin cannot be seen, smelled or tasted [10].
 
-**Field-dressed meat safety in transit:**
-- Keep meat cool and clean during transport (separate from organs, wrapped or in a game bag).
-- If transport time exceeds 4 hours in temperatures above 50°F, move to refrigeration immediately.
-- Avoid contact with fur, soil, or insects.
+**Field-dressed meat in transit:**
+- Keep meat cool and clean, separate from organs, wrapped or in a game bag.
+- Do not leave a warm carcass in a closed vehicle; keep it near 35–40°F (general practice; see [2] for ice in the cavity).
+- Avoid contact with fur, soil or insects.
 
 ---
 
 ## Sources
 
-- CDC Chronic Wasting Disease: https://www.cdc.gov/prions/cwd/
-- USDA FSIS Venison Handling & Temperature: https://www.fsis.usda.gov/
-- Maryland DNR Game Processing Guidelines: https://dnr.maryland.gov/
-- FM 21-76 (Army Survival Manual) — Field processing technique precedent
+1. **Proper Care and Handling of Venison from Field to Table** — Penn State Extension. https://extension.psu.edu/proper-care-and-handling-of-venison-from-field-to-table
+2. **Proper Field Dressing and Handling of Wild Game and Fish** — Penn State Extension. https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish
+3. **In the Kitchen: Safe Minimum Internal Temperatures** (reproduces the USDA/FoodSafety.gov chart) — University of Maine Cooperative Extension. https://extension.umaine.edu/food-health/2024/03/01/internal-temperatures/
+4. **Cook to a Safe Minimum Internal Temperature** (FoodSafety.gov chart, reviewed December 16, 2022) — Virginia Department of Health. https://www.vdh.virginia.gov/content/uploads/sites/6/2023/07/Cook_to_a_Safe_Minimum_Internal_Temperature.pdf
+5. **About Chronic Wasting Disease** — CDC. https://www.cdc.gov/chronic-wasting/about/index.html
+6. **Chronic Wasting Disease** — Alberta Health Services. https://myhealth.alberta.ca/Alberta/Pages/Chronic-Wasting-Disease-Overview.aspx
+7. **Precautions for Hunters** (chronic wasting disease) — Indiana Department of Natural Resources. https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/wildlife-diseases-in-indiana/precautions-for-hunters
+8. **Chronic Wasting Disease** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/wildlife/disease/cwd
+9. **Making Jerky from Venison** — University of Missouri Extension. https://extension.missouri.edu/news/making-jerky-from-venison
+10. **Preventing Botulism** — CDC. https://www.cdc.gov/botulism/prevention/index.html
+11. **Preventing Trichinellosis** — CDC. https://www.cdc.gov/trichinellosis/prevention/index.html
+12. **Trapping regulations** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=8638
+13. **A Pocket Guide to Care and Handling of Game Birds from Field to Table (FN537; "Do not use grass or snow as this will contaminate the carcass")** — North Dakota State University Extension. https://www.ndsu.edu/agriculture/node/2050

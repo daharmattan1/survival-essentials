@@ -42,6 +42,9 @@ These are the **only** permitted values for the danger facets. Do not invent syn
 - `field_id_not_appropriate`: `true` · `false`
 - `legal_status`: `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` ·
   `emergency-exception` · `n/a`
+  - Use `emergency-exception` only when the entry cites a specific statutory exception. No general
+    "survival exemption" has been found for hunting, trapping or fishing; default to `regulated` or
+    `seasonal-permit` and say "know your regulations" in the body.
 
 **Banned:** the `danger_class` facet (lossy — collapsed severity + legality + ID-uncertainty into
 one enum). If you ever see `danger_class` in an entry, it is a contract violation. The orthogonal
@@ -217,7 +220,7 @@ sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
 - [ ] CWD-prion / trichinella / tularemia block present and correct where applicable.
 - [ ] Internal cook temps match USDA; deer entry has the full field-dress→skin→butcher→preserve
       flow.
-- [ ] `legal_status` distinguishes normal season vs. emergency-exception; framed as "know your
+- [ ] `legal_status` is `regulated`/`seasonal-permit` unless a statutory exception is cited; the body distinguishes normal season vs. emergency and is framed as "know your
       regs," not legal advice.
 
 ### First-aid & water
