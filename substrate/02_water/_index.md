@@ -28,7 +28,7 @@ made water fully drinkable.
 Always read the ⚠ CONTAMINATION block of the chosen method FIRST, then the steps.
 Decision:
   Cloudy/turbid water?      → pre-settle / pre-filter before ANY method (chemicals & UV fail on turbidity)
-  Fuel available?           → BOIL (broadest single method; rolling boil ≥1 min, ≥3 min >2,000 m, or 3 min if elevation unknown)
+  Fuel available?           → BOIL (broadest single method; rolling boil 1 min; 3 min above 5,000 ft or if elevation unknown)
   No fuel, have a filter?   → FILTER (state micron rating) + pair with chemical/UV if virus risk
   No fuel, no filter?       → CHEMICAL (chlorine/iodine) — but NOT reliable vs Cryptosporidium
   None of the above, sunny? → SODIS (clear PET bottle, clear water, 6 h full sun / 2 days cloudy)
@@ -44,6 +44,9 @@ Decision:
 | chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
 | solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
 | water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 9 | draft |
+| uv-treatment | entries/uv-treatment.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| pretreatment-settling-and-prefiltering | entries/pretreatment-settling-and-prefiltering.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 0 | planned |
+| floodwater-and-chemical-contamination | entries/floodwater-and-chemical-contamination.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
 
 Every row carries `hazard_severity: moderate|high` because untreated water is a fast killer — each
 entry will cite a **T1** source (CDC / EPA / state extension) and reproduce the CONTAMINATION block.

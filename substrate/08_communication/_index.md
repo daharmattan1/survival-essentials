@@ -37,6 +37,8 @@ Pre-arrange before the emergency: signal kit staged, radio charged, contact plan
 | signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | draft |
 | radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 23 | draft |
 | mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | draft |
+| family-communication-plan | entries/family-communication-plan.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 0 | planned |
+| emergency-alerts-and-noaa-weather-radio | entries/emergency-alerts-and-noaa-weather-radio.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 0 | planned |
 
 `radio-basics-and-bands` cites FCC/NOAA (T1) for band/licensing facts. Signaling from FM 21-76 (T2).
 

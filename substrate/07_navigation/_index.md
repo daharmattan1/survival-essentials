@@ -37,6 +37,8 @@ Rule: fix your position BEFORE moving; aim for a feature you can't overshoot; do
 | celestial-navigation | entries/celestial-navigation.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | reviewed |
 | terrain-and-map-reading | entries/terrain-and-map-reading.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
 | dead-reckoning-and-pace | entries/dead-reckoning-and-pace.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
+| compass-and-declination | entries/compass-and-declination.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 0 | planned |
+| river-and-stream-crossing | entries/river-and-stream-crossing.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
 
 Sources FM 21-76 / FM 3-25.26 map reading (T2).
 

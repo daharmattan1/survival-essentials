@@ -35,6 +35,9 @@ Principle: a small space you can heat > a large space you can't. Don't sweat bui
 | site-selection-and-hazards | entries/site-selection-and-hazards.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 10 | reviewed |
 | insulation-and-ground-barrier | entries/insulation-and-ground-barrier.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 4 | reviewed |
 | emergency-shelter-types | entries/emergency-shelter-types.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 11 | reviewed |
+| tarp-configurations | entries/tarp-configurations.md | METHOD | universal | n/a | n/a | low | n/a | false | T2 | 0 | planned |
+| vehicle-as-shelter | entries/vehicle-as-shelter.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
+| cold-weather-sleep-system | entries/cold-weather-sleep-system.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T2 | 0 | planned |
 
 `site-selection-and-hazards` carries `hazard_severity: moderate` (the site itself can kill).
 Sources FM 21-76 (T2).

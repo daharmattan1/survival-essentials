@@ -52,6 +52,9 @@ Always: "Positive ID or do not consume." Cook all wild meat thoroughly (parasite
 | passive-fishing-trotline-and-traps | entries/passive-fishing-trotline-and-traps.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 6 | reviewed |
 | small-game-trapping-snares | entries/small-game-trapping-snares.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | reviewed |
 | fish-and-game-processing-basics | entries/fish-and-game-processing-basics.md | METHOD | universal | n/a | conditionally-edible | moderate | n/a | n/a | T1 | 19 | reviewed |
+| calorie-planning-and-rationing | entries/calorie-planning-and-rationing.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 0 | planned |
+| preservation-drying-smoking-salting | entries/preservation-drying-smoking-salting.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| cooking-without-power | entries/cooking-without-power.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
 
 `region: universal` for all — technique is biome-independent. `fish-and-game-processing-basics`
 carries `edibility_status: conditionally-edible` and `hazard_severity: moderate` because the

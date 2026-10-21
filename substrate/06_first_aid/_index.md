@@ -42,6 +42,11 @@ Always state: this is field response, not medical advice; get professional care 
 | dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | reviewed |
 | chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 13 | reviewed |
 | bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 8 | reviewed |
+| burns | entries/burns.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| fractures-sprains-and-splinting | entries/fractures-sprains-and-splinting.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| anaphylaxis-and-allergic-reaction | entries/anaphylaxis-and-allergic-reaction.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
+| carbon-monoxide-poisoning | entries/carbon-monoxide-poisoning.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
+| head-injury-and-concussion | entries/head-injury-and-concussion.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
 
 `region`, `edibility_status`, `confusability_level`, `expert_id_required` are `n/a` for protocols
 (non-biology). All five carry `hazard_severity: high|lethal` and cite **T1** (CDC / Red Cross /

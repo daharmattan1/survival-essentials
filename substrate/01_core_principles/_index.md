@@ -36,6 +36,8 @@ Apply BEFORE diving into any technique domain — it tells you which domain to u
 | rule-of-threes | entries/rule-of-threes.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 9 | reviewed |
 | survival-priorities-stop | entries/survival-priorities-stop.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 5 | reviewed |
 | psychology-and-will-to-live | entries/psychology-and-will-to-live.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 6 | reviewed |
+| stay-or-go-decision | entries/stay-or-go-decision.md | PRINCIPLE | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| group-survival-and-roles | entries/group-survival-and-roles.md | PRINCIPLE | universal | n/a | n/a | low | n/a | false | T2 | 0 | planned |
 
 Biology danger facets are `n/a` (PRINCIPLE entries are doctrine, not consumables). Sources optional
 but FAA CAMI, NPS, USFS, FM 21-76 and the other pages listed in each entry's `sources:` are cited.

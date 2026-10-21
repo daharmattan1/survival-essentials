@@ -37,6 +37,7 @@ Preparing in calm (best ROI)?    → skills-to-practice-now (drill the 5 core sk
 | physical-book-backup-layer | entries/physical-book-backup-layer.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T2 | 7 | reviewed |
 | public-domain-id-image-sources | entries/public-domain-id-image-sources.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T1 | 9 | reviewed |
 | skills-to-practice-now | entries/skills-to-practice-now.md | METHOD | universal | n/a | n/a | none | n/a | n/a | T3 | 6 | reviewed |
+| official-emergency-information-sources | entries/official-emergency-information-sources.md | METHOD | universal | n/a | n/a | none | n/a | false | T1 | 0 | planned |
 
 These are reference/pointer entries (type METHOD as the closest fit for "how to use the backup
 layer"); danger facets are `none`/`n/a`. `public-domain-id-image-sources` mirrors

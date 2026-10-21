@@ -65,6 +65,8 @@ For any consumption/biology query, the load order is:
    `edible-plants/_index.md`. Read the "what could kill me" surface before the "what can I eat"
    surface. "What NOT to eat" comes before edible exemplars.
 3. **Index** — the manifest table, to find the right entry and read its facets without opening it.
+   A row with `review_status: planned` has no file yet. Do not cite it; answer from the domain's
+   survey guide (`01_core_principles.md` … `11_essential_gear.md`) instead.
 4. **Entry** — the Layer-3 file, for the positive-ID gate, mandatory preparation, and sources.
 5. **Cross-check `hazards/`** — snakes, ticks, toxic plants that share the habitat.
 6. **Cite** — name the specific entries you loaded; cite their sources.

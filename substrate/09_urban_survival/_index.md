@@ -38,6 +38,10 @@ Set up sanitation EARLY — it's a disease problem, not a comfort problem.
 | power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 15 | reviewed |
 | civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T1 | 8 | reviewed |
 | sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | reviewed |
+| generator-and-heater-co-prevention | entries/generator-and-heater-co-prevention.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
+| food-safety-during-outages | entries/food-safety-during-outages.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| extreme-heat-at-home | entries/extreme-heat-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
+| winter-storm-at-home | entries/winter-storm-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 0 | planned |
 
 `power-outage-bug-in` (`high`) carries the carbon-monoxide warning; `sanitation-and-human-waste`
 (`high`) is a disease-vector protocol citing CDC (T1).

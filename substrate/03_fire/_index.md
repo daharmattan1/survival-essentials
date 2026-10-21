@@ -37,6 +37,9 @@ Safety boundary: ventilate (CO), clear the area (wildfire), never leave unattend
 | fire-lays-and-structure | entries/fire-lays-and-structure.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 9 | reviewed |
 | ignition-methods | entries/ignition-methods.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 3 | reviewed |
 | tinder-and-fuel-progression | entries/tinder-and-fuel-progression.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
+| wet-weather-fire | entries/wet-weather-fire.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T2 | 0 | planned |
+| extinguishing-and-fire-safety | entries/extinguishing-and-fire-safety.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
+| overnight-fire-maintenance | entries/overnight-fire-maintenance.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T2 | 0 | planned |
 
 `hazard_severity: moderate` on the lay + ignition entries (burns / CO / wildfire boundary). Sources
 FM 21-76 (T2).

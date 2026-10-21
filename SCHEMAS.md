@@ -296,7 +296,9 @@ principle_for:     # the decision/priority it governs
 ## Manifest row contract (for `_index.md` files)
 
 Every domain `_index.md` carries a manifest table. Each row (one per planned/present entry) MUST
-have these columns so an AI can filter on the index alone:
+have these columns so an AI can filter on the index alone. A row may carry `review_status: planned`
+(with `source_count: 0`) for an entry that is not written yet; the row changes to the entry's own
+status when the file lands:
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|

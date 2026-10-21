@@ -38,6 +38,8 @@ Any fire/water/game item → inherit that domain's warning blocks (CO, CONTAMINA
 | edc-tier1-kit | entries/edc-tier1-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 8 | reviewed |
 | bug-out-tier2-kit | entries/bug-out-tier2-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 16 | reviewed |
 | home-stockpile-tier3 | entries/home-stockpile-tier3.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | n/a | T1 | 16 | reviewed |
+| vehicle-kit | entries/vehicle-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 0 | planned |
+| individual-first-aid-kit | entries/individual-first-aid-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 0 | planned |
 
 Danger facets `none`/`n/a` for gear; T3 (practitioner consensus) is acceptable for gear opinion per
 `../../CONVENTIONS.md` §7. Items that treat water / make fire link to those domains' safety blocks.

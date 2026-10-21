@@ -26,23 +26,23 @@ blocks per `../SCHEMAS.md`), never left to prose.
 
 ## Domain manifest
 
-| # | Domain index | Primary type | Planned entries | One-line synthesis |
+| # | Domain index | Primary type | Entries (present + planned) | One-line synthesis |
 |---|--------------|--------------|----------------:|--------------------|
-| 01 | [`01_core_principles/_index.md`](01_core_principles/_index.md) | PRINCIPLE | 3 | The decision doctrine — rule of threes, the STOP priority order, and the will-to-live that governs everything below. |
-| 02 | [`02_water/_index.md`](02_water/_index.md) | METHOD | 5 | Make water drinkable; every method carries the ⚠CONTAMINATION boundary (boil time, micron limit, chemical-vs-biological). |
-| 03 | [`03_fire/_index.md`](03_fire/_index.md) | METHOD | 3 | Get and keep fire — structure, ignition, and the tinder→fuel progression that keeps it alive. |
-| 04 | [`04_shelter/_index.md`](04_shelter/_index.md) | METHOD | 3 | Hold core temperature — site selection and hazards, ground/insulation barrier, and shelter types. |
-| 05 | [`05_food/_index.md`](05_food/_index.md) | METHOD (technique) | 3 | Calorie acquisition **technique** only (passive fishing, trapping, processing). Consumption/ID resolves through `../regional/_index.md` → `food_hub.md`. |
-| 06 | [`06_first_aid/_index.md`](06_first_aid/_index.md) | PROTOCOL | 5 | Field response when EMS is gone — each protocol leads with RECOGNIZE → ⚠RED FLAGS/EVAC and a ⚠DO NOT. Not medical advice. |
-| 07 | [`07_navigation/_index.md`](07_navigation/_index.md) | METHOD | 3 | Find direction without GPS — celestial, terrain/map reading, dead reckoning. |
-| 08 | [`08_communication/_index.md`](08_communication/_index.md) | METHOD | 3 | Be found and stay informed — visual/audible signaling, radio bands, mesh/emergency comms. |
-| 09 | [`09_urban_survival/_index.md`](09_urban_survival/_index.md) | METHOD / PROTOCOL | 3 | Bug-in survival — power-outage, civil-disruption safety, and sanitation/human-waste disease control. |
-| 10 | [`10_key_resources/_index.md`](10_key_resources/_index.md) | mixed | 3 | The backup layers — physical books, public-domain ID image sources, and skills to drill now. Links the existing [`../10_key_resources.md`](../10_key_resources.md). |
-| 11 | [`11_gear/_index.md`](11_gear/_index.md) | KIT-GEAR | 3 | The 3-tier kit — EDC (tier 1), bug-out (tier 2), home stockpile (tier 3); multi-use discipline. |
+| 01 | [`01_core_principles/_index.md`](01_core_principles/_index.md) | PRINCIPLE | 5 | The decision doctrine — rule of threes, the STOP priority order, and the will-to-live that governs everything below. |
+| 02 | [`02_water/_index.md`](02_water/_index.md) | METHOD | 8 | Make water drinkable; every method carries the ⚠CONTAMINATION boundary (boil time, micron limit, chemical-vs-biological). |
+| 03 | [`03_fire/_index.md`](03_fire/_index.md) | METHOD | 6 | Get and keep fire — structure, ignition, and the tinder→fuel progression that keeps it alive. |
+| 04 | [`04_shelter/_index.md`](04_shelter/_index.md) | METHOD | 6 | Hold core temperature — site selection and hazards, ground/insulation barrier, and shelter types. |
+| 05 | [`05_food/_index.md`](05_food/_index.md) | METHOD (technique) | 6 | Calorie acquisition **technique** only (passive fishing, trapping, processing). Consumption/ID resolves through `../regional/_index.md` → `food_hub.md`. |
+| 06 | [`06_first_aid/_index.md`](06_first_aid/_index.md) | PROTOCOL | 10 | Field response when EMS is gone — each protocol leads with RECOGNIZE → ⚠RED FLAGS/EVAC and a ⚠DO NOT. Not medical advice. |
+| 07 | [`07_navigation/_index.md`](07_navigation/_index.md) | METHOD | 5 | Find direction without GPS — celestial, terrain/map reading, dead reckoning. |
+| 08 | [`08_communication/_index.md`](08_communication/_index.md) | METHOD | 5 | Be found and stay informed — visual/audible signaling, radio bands, mesh/emergency comms. |
+| 09 | [`09_urban_survival/_index.md`](09_urban_survival/_index.md) | METHOD / PROTOCOL | 7 | Bug-in survival — power-outage, civil-disruption safety, and sanitation/human-waste disease control. |
+| 10 | [`10_key_resources/_index.md`](10_key_resources/_index.md) | mixed | 4 | The backup layers — physical books, public-domain ID image sources, and skills to drill now. Links the existing [`../10_key_resources.md`](../10_key_resources.md). |
+| 11 | [`11_gear/_index.md`](11_gear/_index.md) | KIT-GEAR | 5 | The 3-tier kit — EDC (tier 1), bug-out (tier 2), home stockpile (tier 3); multi-use discipline. |
 
-**Total planned universal entries: 37** (sum of the count column above). Regional biology is counted
+**Total universal entries: 67** (37 present, 30 planned in pass 2; sum of the count column above). Regional biology is counted
 separately — **23 planned** in [`../regional/_index.md`](../regional/_index.md) (edible-plants 5,
-mushrooms 5, game-animals 5, crops 5, hazards 3). **Grand total planned across the repo: 60.**
+mushrooms 5, game-animals 5, crops 5, hazards 3). **Grand total across the repo: 90** (67 universal + 23 regional).
 
 ---
 
@@ -59,7 +59,7 @@ mushrooms 5, game-animals 5, crops 5, hazards 3). **Grand total planned across t
 
 ## Note on entries
 
-Phase 2 (scaffolding) writes **zero entry files**. Every `entries/` dir is intentionally empty (it
-holds a `.gitkeep`). The manifest rows below each domain `_index.md` are **planned** rows
-(`review_status: planned`, `source_count: 0`) that later phases fill in. No row here implies an
-existing file yet.
+The 37 original entries exist in each domain's `entries/` folder. Pass 2 (2026-10) adds 30 more
+as manifest rows with `review_status: planned` and `source_count: 0`. A `planned` row has no
+file yet: do not cite it, and fall back to the domain's survey guide. When an entry is written,
+its row changes to the entry's own status and source count.
