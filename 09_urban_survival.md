@@ -84,7 +84,7 @@ What goes wrong: moving the generator "just inside the garage door" because of r
 
 **Cars.** Never run a car in an attached garage, even with the door open [12][29]. Charge power banks before the outage instead [8].
 
-**Never burn indoors:** charcoal, a grill, a lantern or a camp stove inside a home, tent or camper [11][12]. Never heat a home with a gas stove or oven [1][2][11][12][30]. Do not run an unvented fuel-burning heater (one with no vent to the outdoors) where people sleep [29][30]. If a kerosene heater is legal where you live, ask your fire department before using it [11].
+**Never burn indoors:** charcoal, a grill, a lantern or a camp stove inside a home, tent or camper [11][12]. Never heat a home with a gas stove or oven [1][2][11][12][30]. Do not run an unvented fuel-burning heater (one with no vent to the outdoors, such as a kerosene or propane space heater) inside a home, tent, camper or vehicle. CPSC warns most strongly against one where people sleep [29], and EPA warns against any gas-burning heater in a closed or poorly vented room [30]; this guide's rule is no unvented heater indoors at all.
 
 **Electric heaters.** Use one with automatic shut-off [20][28]. Keep it:
 
@@ -98,7 +98,7 @@ Do not leave it running while you sleep or when you leave the room [28].
 
 **Light.** Flashlights and battery lanterns, not candles [11][32].
 
-**Cooking.** Eat cold food first. Grill or camp stove cooking goes outdoors, away from doors, windows and air intakes [30]. A vented appliance (one that sends its fumes outside through a flue or chimney) works only if that vent needs no power [30]. If you cook on a gas range, ventilate while you cook [30], keep a working CO alarm, and check your stove's manual for how to light it during an outage (general practice, not from a cited source).
+**Cooking.** Eat cold food first. Grill or camp stove cooking goes outdoors, away from doors, windows and air intakes [30]. A vented appliance (one that sends its fumes outside through a flue or chimney) works only if that vent needs no power [30]. A gas range is for cooking only; never use it or the oven to heat the home [1][2][11][12][30]. While you cook on it, run the range hood if it vents outdoors [46] and open a window slightly if the weather allows, because EPA says ventilation matters especially while cooking [30]. Keep a working CO alarm. That is cooking practice, not a way to make burning fuel for heat indoors acceptable. Check your stove's manual for how to light it during an outage (general practice, not from a cited source).
 
 If you smell or hear gas leaking, leave right away. Do not turn lights on or off or use a phone until you are outside. Call the gas company from outside [28]. Keep a fire extinguisher [4][11].
 
@@ -185,16 +185,16 @@ A lined bucket works too [38]. Oregon State's design uses a heavy-duty 13-gallon
 
 ### Cold
 
-1. Pick one small room. Layer clothes and use blankets and sleeping bags [11]. Wear a hat indoors [36].
+1. Pick one small room and close off other rooms to avoid wasting heat [44]. Wear layers of loose, warm clothing and a hat indoors [44]. Use blankets and sleeping bags [11].
 2. For older adults, keep the home at 68 to 70 F or warmer. Even 60 to 65 F can lead to hypothermia [36].
-3. **Hypothermia signs:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness. Call 911 right away for sleepiness, confusion, slurred speech or fumbling hands, or a body temperature below 95 F [2][36]. While you wait, warm the chest, neck, head and groin first, keep the person dry, and wrap them in blankets [2].
+3. **Hypothermia signs:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness. Call 911 whenever you suspect hypothermia, and right away for sleepiness, confusion, slurred speech or fumbling hands, or a body temperature below 95 F [2][36][47]. While you wait, warm the chest, neck, head and groin first, keep the person dry, and wrap them in blankets [2].
 4. **Frozen pipes:** let taps drip and open cabinet doors under sinks. Thaw with a hair dryer, never a torch [20].
 
 ### Heat
 
 Extreme heat is above 90 F for two to three days. Older adults, children and people with chronic conditions are at higher risk [3].
 
-1. Do not rely on a fan. Fans help only when the room is below 90 F. Above 90 F a fan can raise body temperature [3][22].
+1. Do not rely on a fan. Fans help only when the room is below 90 F. Above 90 F a fan can raise body temperature [22].
 2. Take cool showers or baths. Wear loose, light-colored clothing. Close drapes and shades. Use the oven less [3].
 3. Open windows only when the air outside is cooler than the air inside, and mind home security. If it is hotter outside, keep windows closed [30].
 4. Drink plenty of fluids. Pale urine is a hydration check [22].
@@ -213,7 +213,7 @@ This chapter gives no dosing advice. Dosing questions go to a pharmacist, your c
 
 **Make a plan with your provider before an outage.** Ask how long each medicine can stay warm, and what to do about powered devices [1][9].
 
-**Refrigerated medicine.** Do not throw out a life-sustaining medicine (insulin, transplant drugs, etc.) until you have called a pharmacist or clinician. For other refrigerated medicine, Ready.gov says to discard it if the power is out for more than a day, unless the label says otherwise [1]. Insulin is the common exception (next paragraph). CDC adds that if a life depends on a refrigerated drug that has already warmed, it may be used only until a new supply is available [11].
+**Refrigerated medicine.** Do not throw out a life-sustaining medicine (insulin, transplant drugs, etc.) until you have called a pharmacist or clinician. For other refrigerated medicine, Ready.gov says to discard it if the power is out for more than a day, unless the label says otherwise [1]. Insulin is the common exception (next paragraph). If a life depends on a refrigerated drug that has already warmed, do not decide alone whether to use it: contact a pharmacist, healthcare provider or the drug's manufacturer now [45], and if you cannot reach one, call 911 or go to an emergency department (this guide's rule).
 
 **Insulin.** FDA says unopened insulin is stored at about 36 to 46 F. Vials and cartridges, opened or unopened, can stay unrefrigerated at 59 to 86 F for up to 28 days and keep working. Check your pen's label. Heat reduces effectiveness, so keep insulin out of direct heat and sun. When cooling it with ice, never let it freeze, and never use frozen insulin [26]. If the house passes 86 F, call a pharmacist or clinician.
 
@@ -246,7 +246,7 @@ This chapter gives no dosing advice. Dosing questions go to a pharmacist, your c
 1. **Minute 0.** Call the oxygen supplier. Ask how long the backup lasts [9].
 2. **Hour 1: the decision.** The oxygen supply cannot be guaranteed, so they decide to leave for a place with power [9]. They pack insulin, medicines, the concentrator's cord, phone charger, ID and a note [6]. A generator on the porch is not an option [28].
 3. **Until they go.** The house is heating up. Past 90 F a fan will not help [22]. They take cool showers, close the shades, and dial 2-1-1 for cooling centers [3][22].
-4. **Insulin.** The house passes 86 F, the top of the range where insulin keeps working for up to 28 days [26]. They keep it as cool as they can, out of direct sun, and never let it touch ice enough to freeze [26]. They call a pharmacist or clinician now, since insulin that has warmed may still be needed in an emergency [26]. Dosing questions go to the pharmacist.
+4. **Insulin.** The house passes 86 F, the top of the range where insulin keeps working for up to 28 days [26]. They keep it as cool as they can, out of direct sun, and never let it touch ice enough to freeze [26]. They do not throw it out and do not decide alone: FDA notes that warmed insulin may still be needed in an emergency [26], so they call a pharmacist or the prescriber now [26][45], and would call 911 or go to an emergency department if they could not reach one (this guide's rule). Dosing questions go to the pharmacist.
 5. **Hour 2.** One of them feels dizzy and nauseated and is sweating heavily. Those are heat exhaustion signs. They move to a cool place, sip water and use cold compresses [21]. If they became confused, with hot dry skin, they would call 911 [3].
 
 ---
@@ -294,7 +294,8 @@ This chapter gives no dosing advice. Dosing questions go to a pharmacist, your c
 
 - Generator outdoors, 20+ ft from windows, doors, vents. Never in a garage or other enclosed space [28].
 - No car running in an attached garage [12].
-- No stove or oven for heat [1].
+- No stove or oven for heat. A gas range is for cooking only, never for heat, with the hood on or a window open while you cook [1][2][11][12][30].
+- No unvented fuel-burning heater indoors [29][30].
 - No grill or camp stove indoors [11].
 - CO alarms on every level and outside bedrooms, battery backup, replace per maker or every 5 years [12][28].
 - Flashlights and battery lanterns. No candles [32].
@@ -314,7 +315,7 @@ This chapter gives no dosing advice. Dosing questions go to a pharmacist, your c
 
 **MEDICINE**
 
-- Do not throw out insulin or other life-sustaining medicine until you call a pharmacist or clinician [1][11].
+- Do not throw out insulin or other life-sustaining medicine until you call a pharmacist or clinician (this guide's rule; contacting a pharmacist, provider or manufacturer is FDA's advice [45]).
 - Insulin vial or cartridge: 59 to 86 F for up to 28 days. Never freeze [26].
 - Plan with your provider before an outage [1].
 
@@ -372,6 +373,10 @@ This chapter gives no dosing advice. Dosing questions go to a pharmacist, your c
 39. Survival Basics: Sanitation and Waste Management (EM 9334, Oct 2021). Oregon State University Extension. https://extension.oregonstate.edu/catalog/pub/em9334-s
 42. People with Disabilities. Ready.gov / FEMA. https://www.ready.gov/individuals-access-functional-needs
 43. Emergency Disinfection of Drinking Water. EPA. https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
+44. During Extremely Cold Weather. National Weather Service. https://www.weather.gov/safety/cold-during
+45. Safe Drug Use After a Natural Disaster. FDA. https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster
+46. Sources of Combustion Products. EPA. https://www.epa.gov/indoor-air-quality-iaq/sources-combustion-products
+47. Hypothermia. NIH MedlinePlus. https://medlineplus.gov/ency/article/000038.htm
 
 ---
 

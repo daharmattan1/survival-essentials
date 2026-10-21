@@ -1,9 +1,9 @@
 # 03_fire — Fire-Making (METHOD)
 
-> Universal technique: getting and keeping fire. Fire is shelter, water treatment (boiling),
-> cooking, signaling, and morale in one — which is why it sits high in the priority order. METHOD
-> entries (`../../SCHEMAS.md` §6): goal, steps, failure modes. Fire carries a safety boundary (burns,
-> CO, wildfire), so danger facets appear where relevant.
+> Universal technique: getting and keeping fire. Fire is a tool for warmth, drying clothes, signaling
+> and treating water. It comes after injury, shelter and dry clothes, and it carries burn, carbon
+> monoxide and wildfire risk. METHOD entries (`../../SCHEMAS.md` §6): goal, steps, failure modes.
+> Fire carries a safety boundary (burns, CO, wildfire), so danger facets appear where relevant.
 >
 > Survey doorway: [`../../03_fire.md`](../../03_fire.md). Retrieval recipe D in
 > [`../../AGENTS.md`](../../AGENTS.md).
@@ -18,31 +18,41 @@ tinder to kindling to fuel). Beginners obsess over the spark and neglect the oth
 why a lit match dies. The reliable approach is to build the lay and stage a full tinder→kindling→fuel
 progression *before* striking anything, so the moment of ignition has somewhere to go. Treat fire as
 a system with a safety boundary: burns, carbon-monoxide indoors, and wildfire spread are the failure
-modes that turn a survival asset into a second emergency.
+modes that turn a survival asset into a second emergency. Three further entries cover the situations
+that go wrong: **fire in wet weather** (find standing dead wood, split it to the dry core, build on a
+platform), **keeping a fire through the night** (the default is to put it out before you sleep; a night
+fire is only for freezing-or-fire choices, with someone awake at all times), and **extinguishing and
+fire safety** (burn bans, site clearing, drown-stir-feel until cold).
 
 ## Load order (this domain)
 
 ```
 Build before you light:
-  1. fire-lays-and-structure        — pick the lay (teepee/log-cabin/lean-to) + prep the platform
+  0. Is fire allowed here (burn bans) and do you need one?     → extinguishing-and-fire-safety
+  1. fire-lays-and-structure        — pick the site and the lay (teepee, log cabin, lean-to, star)
   2. tinder-and-fuel-progression    — stage tinder → kindling → fuel BEFORE ignition
-  3. ignition-methods               — only now strike (lighter > ferro > friction); protect from wind/wet
-Safety boundary: ventilate (CO), clear the area (wildfire), never leave unattended.
+  3. ignition-methods               — only now strike (lighter, ferro rod, matches, lens; friction last); light from the upwind side
+Everything damp?        → wet-weather-fire (dry wood, platform, feather sticks)
+Need it through the night? → overnight-fire-maintenance (default: put it out; never asleep in an enclosed space with a fire)
+Leaving or sleeping?    → extinguishing-and-fire-safety (drown, stir, feel; never leave it unattended)
+Safety boundary: fire goes outside; nothing burns in a tent, vehicle, garage, snow shelter or home
+except a vented fireplace or stove in working order, and opening a flap or window does not fix it.
+Clear the area (wildfire). Never leave a fire unattended.
 ```
 
-## Manifest (planned entries)
+## Manifest
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
 | fire-lays-and-structure | entries/fire-lays-and-structure.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 9 | reviewed |
 | ignition-methods | entries/ignition-methods.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 3 | reviewed |
 | tinder-and-fuel-progression | entries/tinder-and-fuel-progression.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
-| wet-weather-fire | entries/wet-weather-fire.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T2 | 0 | planned |
-| extinguishing-and-fire-safety | entries/extinguishing-and-fire-safety.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 0 | planned |
-| overnight-fire-maintenance | entries/overnight-fire-maintenance.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T2 | 0 | planned |
+| wet-weather-fire | entries/wet-weather-fire.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 11 | draft |
+| extinguishing-and-fire-safety | entries/extinguishing-and-fire-safety.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 21 | draft |
+| overnight-fire-maintenance | entries/overnight-fire-maintenance.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 13 | draft |
 
-`hazard_severity: moderate` on the lay + ignition entries (burns / CO / wildfire boundary). Sources
-FM 21-76 (T2).
+`hazard_severity: moderate` on the lay + ignition entries (burns / CO / wildfire boundary). Sources:
+ATP 3-50.21 (primary) with FM 21-76, Forest Service, NPS, CDC and CPSC pages (T2).
 
 ## `check_manifests`
 

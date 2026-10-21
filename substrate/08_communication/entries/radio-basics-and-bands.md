@@ -8,7 +8,7 @@ usda_zone:             n/a
 confidence:            medium
 source_tier:           T1
 sources:
-  - title: "47 CFR 95.305, Authorization to operate Personal Radio Services stations (licensed by rule)"
+  - title: "47 CFR 95.305, Authorization to operate Personal Radio Services stations"
     publisher: "Federal Communications Commission (eCFR)"
     url: "https://www.ecfr.gov/current/title-47/part-95/section-95.305"
     tier: T1
@@ -129,7 +129,7 @@ Radio law is federal, and rules and fees change. What follows was read from the 
 
 | Service | License to transmit | Channels | Power |
 |---|---|---|---|
-| FRS (Family Radio Service) | None; licensed by rule [1][2] | 22 [2] | 2 W on channels 1-7 and 15-22; 0.5 W on 8-14 (effective radiated power) [2] |
+| FRS (Family Radio Service) | None; no individual license [1][2] | 22 [2] | 2 W on channels 1-7 and 15-22; 0.5 W on 8-14 (effective radiated power) [2] |
 | GMRS (General Mobile Radio Service) | Individual FCC license; applicant 18 or older [3] | 30 [4] | Up to 50 W (mobile, base, repeater); 5 W on 462 MHz interstitial channels; 0.5 W for handhelds on 467 MHz interstitial channels [4] |
 | CB (Citizens Band) | None at all [9] | 40 [9] | 4 W carrier (AM or FM); 12 W peak (single sideband) [8] |
 | MURS (Multi-Use Radio Service) | None; licensed by rule [11] | 5 [10] | 2 W [10] |
@@ -155,13 +155,13 @@ Radio law is federal, and rules and fees change. What follows was read from the 
 
 ### Transmit: what each service allows
 
-**3. FRS (Family Radio Service): no license** [1][2]
-- The FCC does not require or accept an application for an individual license to operate an FRS station [1].
+**3. FRS (Family Radio Service): no individual license** [1][2]
+- Under 47 CFR 95.305, the FCC does not require or accept an application for an individual license to operate a Personal Radio Service station, unless the rules for that service say otherwise [1]. The FRS rules in Subpart B contain no license requirement [2].
 - 22 channels. Channels 1-7 and 15-22 are limited to 2 W effective radiated power; channels 8-14 to 0.5 W. The antenna must be built in [2].
 - It is a short-distance voice service. FRS units may also send one-way emergency messages and traveler-assistance messages [2].
 - **Range.** The FCC says the usual range of an FRS device on channels 8-14 is less than one-half mile, and longer range can be achieved on channels 1-7 and 15-22 depending on conditions [23].
 - FRS shares its channels with GMRS, so you may hear licensed users [2].
-- Since September 30, 2019, radios that combine FRS with other licensed services may not be sold or offered for sale [2]. An older "FRS/GMRS" radio that exceeds FRS limits is a GMRS radio and needs a GMRS license. Read the label and the manual (this guide's judgment from [2][5]).
+- Since September 30, 2019, radios that combine FRS with other licensed services may not be sold or offered for sale [2]. An older "FRS/GMRS" radio that exceeds FRS limits is a GMRS radio and needs a GMRS license [3]. Read the label and the manual (this guide's judgment from [2][5]).
 
 **4. GMRS (General Mobile Radio Service): individual license required** [3][4][5][6]
 - **License.** A valid individual license is required to operate a GMRS station. Only a person at least 18 years old is eligible for a new one [3]. The rule sets age, a fee and the usual FCC filing. It names no exam, and the FCC GMRS page lists none [3][5]. (FCC 20-184 quotes a commenter saying no testing is involved [7].)
@@ -174,7 +174,7 @@ Radio law is federal, and rules and fees change. What follows was read from the 
 
 **5. CB (Citizens Band): no license at all** [8][9]
 - 40 channels between 26.965 and 27.405 MHz [9]. Anyone may operate a CB station except a foreign government or its representative, a federal agency, or a person under a standing FCC cease-and-desist order [9].
-- The FCC does not require an individual license for CB [9]. That holds for every use inside the rules, not only emergencies. Violating an operating rule voids the authority to operate [8].
+- The FCC does not require an individual license for CB [9]. The CB rules (which call the service CBRS) treat its stations as operating without an individual license under 95.305 [8]. That holds for every use inside the rules, not only emergencies. Violating an operating rule voids the authority to operate [8].
 - Power: 4 W carrier on AM or FM; 12 W peak on single sideband [8].
 - **Channel 9 may be used only for emergency communications or traveler assistance.** Any CB channel may be used for an emergency or traveler assistance, and operators must give priority to emergency communications on every channel [8].
 - Plain-language voice only [8]. Channel 19 is a trucker habit; the rules name only channel 9.

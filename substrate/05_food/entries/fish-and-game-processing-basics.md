@@ -84,6 +84,10 @@ sources:
     publisher: US Department of the Army
     url: "https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf"
     tier: T2
+  - title: "Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907; 165 F for wild game)"
+    publisher: CDC
+    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
+    tier: T1
 last_reviewed: 2026-06-27
 review_status: reviewed
 method_for: "Clean, cool and cook fish and small/medium game from field kill, and know the limits of preserving it without tested equipment"
@@ -96,7 +100,7 @@ materials:
   - "Ice or snow in resealable bags (to cool a carcass above 40 F)"
   - "Stick or rock for scaling (fish)"
 difficulty: moderate
-edibility_status: conditionally-edible
+edibility_status: n/a
 hazard_severity: moderate
 preparation_required: true
 ---
@@ -185,10 +189,10 @@ Wear disposable gloves if you have them [6]. Cool fish quickly to 35–40 F and 
 #### 5. Cooking and keeping
 
 - **Rabbit and hare:** USDA's chart says 160 F internal [2][3]. The Missouri Department of Conservation says 165 F [18]. The two sources differ; this guide's rule is 165 F, which covers both.
-- **Squirrel and other wild small mammals:** 160 F is the CDC's figure for wild game [15]. This guide's rule is 165 F, to match rabbit and birds.
+- **Squirrel and other wild small mammals:** CDC's 2024 figure for wild game is 165 F [20]; its 2004 report gave 160 F [15]. This guide's rule is 165 F, which also matches rabbit and birds. Raccoon, opossum and other wild meat-eaters or omnivores: 165 F in any form, including jerky strips [20].
 - **Game birds and all poultry:** 165 F internal, with juices running clear [1][4][6].
 - **Broth, stews, soups, leftovers:** 165 F [5].
-- **Jerky from small game:** heat the strips to 160 F (165 F for birds) before drying, then dry at 140 F until a test strip cracks but does not break [7][8][9]. See Preserving under Medium Game, below.
+- **Jerky from small game:** heat the strips to 165 F for birds, rabbit, hare, squirrel, raccoon, opossum, bear, wild pig and other wild meat-eaters [18][20], and to 160 F for venison, before drying, then dry at 140 F until a test strip cracks but does not break [7][8][9]. See Preserving under Medium Game, below.
 - **Refrigerator:** use game birds within 3 days at 40 F or lower [4]; other game meat within 2 to 3 days [5].
 
 ---
@@ -238,13 +242,13 @@ Cook wild fish and game to these internal temperatures, measured with a food the
 
 - **Fish:** 145 F, or until the flesh is opaque and separates easily with a fork [1][2].
 - **Rabbit and hare:** 160 F on USDA's chart [2][3]; 165 F per the Missouri Department of Conservation [18]. This guide's rule: 165 F.
-- **Venison (all cuts):** 160 F [2][3]. **Ground game meat:** 160 F [6].
+- **Venison (all cuts):** 160 F [2][3]. **Ground game meat:** 160 F [6], except ground bear, wild pig and other wild meat-eaters, which are 165 F [20].
 - **Game birds and poultry:** 165 F [1][4][6].
-- **Wild boar, bear and other wild meat-eaters:** 160 F (CDC advice for wild game) [15]. Bear meat is very dark, so use a thermometer, not color [15].
+- **Wild boar, bear and other wild meat-eaters or omnivores (raccoon, opossum), in any form (whole, ground, jerky strips):** 165 F [20]. CDC's 2004 report gave 160 F [15]; CDC's 2024 report says 165 F is necessary to kill *Trichinella* [20]. Bear meat is very dark, so use a thermometer, not color [15].
 - **Stews, casseroles, leftovers:** 165 F [5].
-- **Jerky:** heat strips to 160 F (165 F for poultry and game birds) before drying, then dry at 140 F [7][8][9].
+- **Jerky:** heat strips to 160 F (165 F for poultry, game birds, rabbit, hare, squirrel, bear, wild pig and other wild meat-eaters [18][20]) before drying, then dry at 140 F [7][8][9].
 
-Raw or undercooked wild game can transmit *Trichinella*, bacteria and tularemia. Freezing does not reliably kill wild-game *Trichinella*, because some strains resist freezing [11][15]. Curing, drying and smoking do not either [11]. Cooking to temperature is the protection [11].
+Raw or undercooked wild game can transmit *Trichinella*, bacteria and tularemia. Freezing does not reliably kill wild-game *Trichinella*, because some strains resist freezing, and CDC's 2024 report says freezing might not be sufficient [11][15][20]. Curing, drying and smoking do not either [11]. Cooking to temperature is the protection [11].
 
 ### NEVER EAT (CROSS-LINK REGIONAL GAME-ANIMAL DISEASE BLOCKS)
 
@@ -293,5 +297,6 @@ Raw or undercooked wild game can transmit *Trichinella*, bacteria and tularemia.
 17. **Preventing Tularemia** — CDC. https://www.cdc.gov/tularemia/prevention/index.html
 18. **Rabbit: Safety and Health** — Missouri Department of Conservation. https://mdc.mo.gov/hunting-trapping/species/rabbit/rabbit-safety-health
 19. **FM 21-76 US Army Survival Manual** (1992 text, 2006 reprint) — US Department of the Army. https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
+20. **Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023** (MMWR 2024;73(40):906-907, Oct 10, 2024) — CDC. https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm
 
 **Note:** This entry is technique only. The "Never eat" list and cook temperatures are the minimum; consult the active region's game-animal disease blocks for species-specific CWD, *Trichinella* and tularemia restrictions before preparing any wild game.

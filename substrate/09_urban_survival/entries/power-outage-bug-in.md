@@ -68,6 +68,10 @@ sources:
     publisher: U.S. Consumer Product Safety Commission, via Federal Register
     url: "https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators"
     tier: T1
+  - title: "Safe Drug Use After a Natural Disaster"
+    publisher: FDA
+    url: "https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster"
+    tier: T1
 last_reviewed: 2026-06-27
 review_status: reviewed
 method_for: Surviving a multi-day power outage by maintaining heat or cold, managing food safety, securing lighting, and avoiding carbon monoxide poisoning
@@ -143,8 +147,8 @@ Burn nothing for heat indoors. Warmth comes from insulation, layers, and body he
 ### Part 4: Water and Medicines
 
 1. **If you have warning, fill clean containers with drinking water** before the outage (CDC hurricane guidance; Ready.gov).
-2. **If officials issue a boil advisory,** bring water to a full rolling boil for 1 minute (3 minutes above 6,500 feet; if you are unsure of your elevation, 3 minutes), let it cool before use, or use commercially bottled water (CDC).
-3. **Medicines that need refrigeration:** Ready.gov says that if the power is out for more than a day, discard refrigerated medicine unless the drug's label says otherwise, and consult your doctor or pharmacist for a new supply. CDC adds that if a life depends on a refrigerated drug that has already warmed, it may be used only until a new supply is available: call a pharmacist or clinician right away. Insulin has its own FDA and manufacturer storage limits; see the `chronic-med-continuity` entry. Do not change or ration a prescription dose on your own.
+2. **If officials issue a boil advisory,** bring water to a full rolling boil for 1 minute (3 minutes above 5,000 feet or if you are unsure of your elevation; CDC uses 6,500 feet, EPA 5,000), let it cool before use, or use commercially bottled water (CDC).
+3. **Medicines that need refrigeration:** Ready.gov says that if the power is out for more than a day, discard refrigerated medicine unless the drug's label says otherwise, and consult your doctor or pharmacist for a new supply. If a life depends on a refrigerated drug that has already warmed, do not decide alone whether to use it: call a pharmacist or the prescriber right away (FDA, Safe Drug Use After a Natural Disaster), and if you cannot reach one, call 911 or go to an emergency department (this repo's rule, matching 09_urban_survival.md). Insulin has its own FDA and manufacturer storage limits; see the `chronic-med-continuity` entry. Do not change or ration a prescription dose on your own.
 4. **Check on family, older adults, and neighbors,** especially in extreme cold or heat (Ready.gov).
 
 ---
@@ -191,3 +195,4 @@ Burn nothing for heat indoors. Warmth comes from insulation, layers, and body he
 - CPSC: Carbon Monoxide Fact Sheet - https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet
 - NIA / NIH: Hypothermia: A cold weather hazard - https://www.nia.nih.gov/news/hypothermia-cold-weather-hazard
 - CPSC via Federal Register: Safety Standard for Portable Generators (proposed rule) - https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators
+- FDA: Safe Drug Use After a Natural Disaster - https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster

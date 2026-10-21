@@ -193,7 +193,7 @@ A winter storm watch means a blizzard, heavy snow or heavy freezing rain is poss
 
 **If you are stranded in the car**
 
-9. Stay inside the car [6][7]. Run the engine about 10 minutes each hour for heat [7]. Keep a window cracked for fresh air and keep the exhaust pipe clear of snow to avoid CO poisoning [7]. Never sleep with the engine running, and if drifting snow keeps burying the pipe, leave the engine off. The engine runs outdoors only, never in a garage. Full vehicle rules: [`04_shelter.md`](04_shelter.md#vehicle-as-shelter).
+9. Stay inside the car [6][7]. Run the engine about 10 minutes each hour for heat [7]. Keep the exhaust pipe clear of snow first; that is the main CO control [7]. A slightly open window for fresh air lowers the risk but does not remove it (this guide's rule, matching [`04_shelter.md`](04_shelter.md)). Never sleep with the engine running, and if drifting snow keeps burying the pipe, leave the engine off. The engine runs outdoors only, never in a garage. Full vehicle rules: [`04_shelter.md`](04_shelter.md#vehicle-as-shelter).
 10. Make the car easy to find. Use the dome light at night while the engine runs, tie a bright cloth to the antenna or door, and raise the hood once the snow stops [7].
 11. Move your arms, legs, fingers and toes regularly [7]. Use blankets, floor mats and clothes for insulation (general practice).
 
@@ -251,7 +251,7 @@ A winter storm watch means a blizzard, heavy snow or heavy freezing rain is poss
 
 - Evacuation order: go. Leave early. Follow officials and official routes [12].
 - Stranded in a car in a winter storm: stay in it [6][7].
-- Engine about 10 minutes each hour, window cracked, exhaust clear [7]. Never sleep with it running.
+- Engine about 10 minutes each hour, exhaust clear first [7]; a cracked window lowers the risk but is not a fix (this guide's rule). Never sleep with it running.
 - Generators outdoors at least 20 ft from windows, doors and attached garages [6].
 
 **STORM TIMING**

@@ -50,7 +50,7 @@ Work down this list in order.
 1. **Are you inside a tent, vehicle, garage, or house?** Do not light a fire there. Go to the [carbon monoxide rule](#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule).
 2. **Are you in danger right now?** Cold and wet, night coming, or no heat at home: yes. Warm, dry, and rescue close: probably not.
 3. **Shelter and dry clothes come first.** Fire does not replace them. Wet clothing is a big part of the problem [15][10].
-4. **Is fire allowed here?** Check for burn bans and fire restrictions [2][5][6]. See [burn bans](#burn-bans-and-what-a-fire-can-cost-you): the current Forest Service order cited there (Tahoe National Forest, 2026) lists no survival or emergency exemption [26]. If a ban is on, check whether it covers stoves too (many do). Otherwise rely on layers and shelter.
+4. **Is fire allowed here?** Check for burn bans and fire restrictions [2][5][6]. See [burn bans](#burn-bans-and-what-a-fire-can-cost-you): the example Forest Service order cited there (Tahoe National Forest, 2026) lists no survival or emergency exemption [26]. If a ban is on, check whether it covers stoves too (many do). Otherwise rely on layers and shelter.
 5. **Is it safe to light?** Not in dry or windy conditions [2][4], and not under low branches, on a steep slope, or in dry grass [4][6].
 6. **Consider a stove.** For cooking, a camp stove used outdoors is lower-impact than a wood fire [9]. It will not warm you the way a fire does. Never use a stove or candle lantern inside a tent [21].
 7. **Pick your ignition.** A lighter is the easiest tool. A ferro rod (a metal rod you scrape with a steel edge to throw hot sparks) is the most versatile if you have practiced with it. Then matches. Lens only in bright sun. Friction last [10].
@@ -161,7 +161,7 @@ At high altitude, one lab study found fires burn at a lower rate [28]. This guid
 
 **Overnight**
 
-- **Default: put the fire out before you sleep or leave** [4][5]. Prefer warmth that does not burn: a better shelter, ground insulation, dry layers, and a reflector wall built while the fire is lit [10][15].
+- **Default: put the fire out before you sleep or leave** [4][5]. Prefer warmth that does not burn: a better shelter, ground insulation, dry layers, and a reflector wall (build it before the fire is hot, since that is easier [10]) [15].
 - **If the choice is a night fire or freezing** (this guide's judgment, not an agency rule): someone stays awake with it, in shifts. Keep it in a cleared pit, at least 15 ft from any tent or shelter [2], with water and a shovel beside it. The Army describes a pyramid lay that burns downward and needs little tending through the night [10]. That saves fuel and effort. It does not make an unattended fire safe. You are taking a risk and may be responsible if it escapes (see [burn bans](#burn-bans-and-what-a-fire-can-cost-you)).
 
 ---
@@ -197,7 +197,7 @@ The ground under the fire should be cool to the touch before you leave [10].
 - Burns on the face, mouth, nose, hands, feet, joints, or groin
 - A burn that goes all the way around a limb, the chest, or the neck
 - A chemical or electrical burn
-- Smoke breathed in (soot in the nose or mouth, singed hair, dry cough)
+- Smoke breathed in (burns on the head, face, neck, eyebrows or nose hairs; coughing; dark, black-stained mucus) [13]
 - Signs of shock
 - A very young or very old person
 
@@ -257,7 +257,7 @@ This is the one place the full rule is written out. Other sections point here.
 
 ## Worked scenario B: winter, power out at home
 
-1. **Carbon monoxide first.** Follow the [carbon monoxide rule](#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule) above, including generators, gas ovens, and CO alarms.
+1. **Carbon monoxide first.** Follow the [carbon monoxide rule](#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule) above, including generators, gas ovens (a gas range is for cooking only, never for heat, with the hood on or a window open while you cook [1][23][29]; see [`09_urban_survival.md`](09_urban_survival.md)), and CO alarms.
 2. **Shrink your space.** Pick one small room, shut the door, wear layers, add blankets [15]. If the cold is extreme, go to a community location with power, and ask local officials where warming centers are [23].
 3. **Space heater:** only if you have working power for it. Keep it at least 3 ft from anything flammable, plug it into a wall outlet, and never run it while you sleep [22].
 4. **Watch for cold and for CO.** Both can look like being tired or sick [15][1].
@@ -280,7 +280,7 @@ More on water and food without power: [`09_urban_survival.md`](09_urban_survival
 Check before every outdoor fire [2][5][6]. Rules change by place and week. This is not legal advice.
 
 - **Virginia** bans open-air burning before 4 p.m. from Feb 15 to Apr 30 within 300 ft of woods or dry grass. Campfires count, though a fully contained ring under a fine metal screen, attended, with 20 ft cleared, may be acceptable. The fine is up to $500. The person who started the fire pays suppression costs if it escapes, even if they took all proper precautions [25].
-- **A current Forest Service order** (Tahoe National Forest, 2026) allows campfires only in listed rings at recreation sites. Penalties run up to $5,000 for a person, up to six months in prison, or both. The only exemptions are officers and rescue or firefighting crews on duty, and holders of one specific Forest Service permit. Campfire-permit holders and fuelwood cutters are not exempt. The order lists no survival or emergency exemption [26].
+- **A Forest Service order, for example** (Tahoe National Forest, Order 17-26-25, effective October 9, 2026 through November 30, 2026; check current orders for where you are) allows campfires only in listed rings at recreation sites. Penalties run up to $5,000 for a person, up to six months in prison, or both. The only exemptions are officers and rescue or firefighting crews on duty, and holders of one specific Forest Service permit. Campfire-permit holders and fuelwood cutters are not exempt. The order lists no survival or emergency exemption [26].
 - **If your negligence starts a wildfire,** you can be liable for suppression costs and damages [4].
 
 Lighting a fire to survive is your call. Do not assume the law will protect you.
@@ -327,7 +327,7 @@ Lighting a fire to survive is your call. Do not assume the law will protect you.
 
 **CO.** Headache, dizzy, nausea, confused: fresh air now, then 911.
 
-**Home, power out.** Nothing burns inside except a vented fireplace or stove in working order, no gas oven, generator outdoors at least 20 ft from windows, doors, and vents, battery CO alarm. See the CO section and [`09_urban_survival.md`](09_urban_survival.md).
+**Home, power out.** Nothing burns inside except a vented fireplace or stove in working order, no gas oven (a gas range is for cooking only, never for heat; hood on or window open while cooking), generator outdoors at least 20 ft from windows, doors, and vents, battery CO alarm. See the CO section and [`09_urban_survival.md`](09_urban_survival.md).
 
 **Cold.** Out of wind and rain; wet clothes off only once somewhere warm. Sleepy or confused: call 911. Warm the middle of the body. Warm drink, no alcohol, only if alert, shivering and able to swallow; otherwise nothing by mouth. Under 95 F body temperature means medical help.
 
@@ -364,9 +364,10 @@ All pages opened 2026-10-20.
 23. Power Outages. Ready.gov / FEMA. https://www.ready.gov/power-outages
 24. Buying and Storing Firewood (FS-937). University of Maryland Extension. https://extension.umd.edu/sites/extension.umd.edu/files/publications/FS-937_2012_Buying_and_Storing_Firewood_Pellets.pdf
 25. 4 PM Burning Law. Virginia Department of Forestry. https://www.dof.virginia.gov/wildland-prescribed-fire/fire-laws/4-pm-burning-law/
-26. Stage 1 Fire Restrictions, Order 17-26-25 (effective Oct 9, 2026). USDA Forest Service, Tahoe National Forest. https://www.fs.usda.gov/r05/tahoe/alerts/stage-1-fire-restrictions
+26. Stage 1 Fire Restrictions, Order 17-26-25 (effective Oct 9, 2026 through Nov 30, 2026). USDA Forest Service, Tahoe National Forest. https://www.fs.usda.gov/r05/tahoe/alerts/stage-1-fire-restrictions
 27. 9-Volt Battery Fire Safety. Colorado Springs Fire Department. https://coloradosprings.gov/fire-department/page/9-volt-battery-fire-safety
 28. Li, He, Zhang, Wang. Combustion characteristics of n-heptane and wood crib fires at different altitude. Proceedings of the Combustion Institute 32(2), 2009 (abstract). Western Sydney University repository. https://researchers.westernsydney.edu.au/en/publications/combustion-characteristics-of-n-heptane-and-wood-crib-fires-at-di/
+29. Power Outages and Indoor Air Quality (IAQ). EPA. https://www.epa.gov/emergencies-iaq/power-outages-and-indoor-air-quality-iaq
 
 ---
 

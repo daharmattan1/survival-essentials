@@ -104,7 +104,7 @@ W means watts, the measure of transmit power.
 - **Channels and power:** 22 channels. 2 W on 1-7 and 15-22, 0.5 W on 8-14 [12].
 - **Range, per the FCC:** under half a mile on 8-14; longer on the others [12].
 - **Good for:** short-range check-ins in a group (this guide's judgment).
-- **Combo-radio trap:** a radio sold as FRS/GMRS is FRS only if it keeps to FRS channels and power. With extra channels or more power it is a GMRS device and needs a license [12].
+- **Combo-radio trap:** an older combination FRS/GMRS radio (new ones may not be sold since Sept 30, 2019 [40]) is FRS only if it keeps to FRS channels and power. With extra channels or more power it is a GMRS device and needs a license [12].
 - Radios must be FCC-certified, unmodified and not connected to the phone system. FRS and GMRS share channels, so you may hear licensed users [12].
 
 **GMRS (General Mobile Radio Service)**
@@ -252,7 +252,7 @@ You and a partner are four hours up a trail. Your partner falls and breaks an an
 - **Jammed network:** text rather than call family when networks are busy, unless you are in danger: call 911 first. Keep calls short. Wait 10 seconds to redial [2][3][4].
 - **Warnings:** phone alerts on and not in airplane mode, plus a weather radio with SAME and battery backup [6][8].
 - **Boat in distress:** VHF channel 16. If your radio has DSC, send a DSC distress alert first. Say MAYDAY three times, your vessel name, position, the problem, the help needed and the number aboard [32][38].
-- **FRS:** no license, 22 channels. A radio sold as FRS/GMRS needs a GMRS license if it has extra channels or more power [12].
+- **FRS:** no license, 22 channels. An older combination FRS/GMRS radio (new ones may not be sold since Sept 30, 2019 [40]) needs a GMRS license if it has extra channels or more power [12].
 - **GMRS:** license, $35 application fee, ten years, close family covered [13][14].
 - **MURS:** no license, 5 channels, 2 W (watts), short range [17].
 - **CB:** no license, channel 9 for emergencies [18]. **Ham:** license and exam [19].
@@ -282,7 +282,7 @@ You and a partner are four hours up a trail. Your partner falls and breaks an an
 15. 47 CFR 95.303 (definitions), 95.1705, 95.1731, 95.1733, 95.1751, 95.1767 (GMRS rules). eCFR text via Cornell LII. https://www.law.cornell.edu/cfr/text/47/95.1705 (other sections at the same path)
 16. 47 CFR 95.333, 95.531, 95.567 (prohibited uses, FRS uses, FRS power). eCFR text via Cornell LII. https://www.law.cornell.edu/cfr/text/47/95.531 (other sections at the same path)
 17. Multi-Use Radio Service (MURS). FCC. https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs
-18. 47 CFR 95.305, 95.931, 95.963, 95.967 (Citizens Band rules). eCFR text via Cornell LII. https://www.law.cornell.edu/cfr/text/47/95.931 (other sections at the same path)
+18. 47 CFR 95.305, 95.905, 95.931, 95.963, 95.967 (Citizens Band rules; 95.905 is in the CB Radio Service subpart and refers to operating a CB station without an individual license under 95.305). eCFR text via Cornell LII. https://www.law.cornell.edu/cfr/text/47/95.905 and https://www.law.cornell.edu/cfr/text/47/95.931 (other sections at the same path)
 19. Amateur Radio Service. FCC. https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
 20. Getting Licensed. American Radio Relay League (ARRL). https://www.arrl.org/getting-licensed
 21. 47 CFR 97.5, 97.113, 97.403 (amateur license, prohibited transmissions, safety of life). eCFR text via Cornell LII. https://www.law.cornell.edu/cfr/text/47/97.403 (other sections at the same path)
@@ -304,6 +304,7 @@ You and a partner are four hours up a trail. Your partner falls and breaks an an
 37. Meshtastic overview (community project documentation, not a government source). https://meshtastic.org/docs/overview/
 38. DSC Distress. U.S. Coast Guard Navigation Center. https://navcen.uscg.gov/dsc-distress
 39. What to Do to Protect Yourself During a Power Outage. Centers for Disease Control and Prevention (CDC). https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html (page dated Aug. 26, 2026)
+40. 47 CFR 95.591 (sales of FRS combination radios prohibited). eCFR. https://www.ecfr.gov/current/title-47/part-95/section-95.591
 
 ---
 

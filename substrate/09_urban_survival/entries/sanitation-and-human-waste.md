@@ -97,7 +97,7 @@ Local officials know whether the sewer or water system is working and how waste 
 
 ### Step 5: Drinking water during a water failure
 
-1. If officials issue a boil advisory, bring water to a full rolling boil for 1 minute (3 minutes above 6,500 feet), let it cool, or use commercially bottled water (CDC).
+1. If officials issue a boil advisory, bring water to a full rolling boil for 1 minute (3 minutes above 5,000 feet or if you are unsure of your elevation; CDC uses 6,500 feet, EPA 5,000), let it cool, or use commercially bottled water (CDC).
 2. For other treatment methods, see the water chapter and follow local instructions.
 
 ### Step 6: If someone gets sick

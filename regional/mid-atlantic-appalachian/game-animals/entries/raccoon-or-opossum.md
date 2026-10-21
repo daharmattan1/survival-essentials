@@ -20,6 +20,10 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm"
     tier: T1
+  - title: "Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907)"
+    publisher: CDC
+    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
+    tier: T1
   - title: "Trichinella murrelli in scavenging mammals from south-central Wisconsin, USA (Hill et al., J Wildl Dis 2008)"
     publisher: US Geological Survey
     url: "https://www.usgs.gov/publications/trichinella-murrelli-scavenging-mammals-south-central-wisconsin-usa"
@@ -64,7 +68,7 @@ common_names:
 scientific_name: "Procyon lotor (raccoon); Didelphis virginiana (opossum)"
 legal_status: regulated
 season_normal: "Fall–winter (regulated furbearer season, typically Nov–Feb; check state for specifics and method restrictions)"
-internal_cook_temp: "160°F minimum (CDC advice for cooking wild game, MMWR 2004); this guide's conservative margin for raccoon and opossum is 165°F"
+internal_cook_temp: "165°F (CDC MMWR 2024: cooking wild game to at least 165°F is necessary to kill Trichinella; the 2004 MMWR gave 160°F)"
 edibility_status: edible-when-prepared
 hazard_severity: high
 confusability_level: none
@@ -151,7 +155,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 1. **Refrigeration:** Unfrozen game meat goes in the refrigerator and is used within two to three days [6].
 2. **Freezing:** Wrap in multiple layers of freezer paper or plastic wrap. Penn State says properly wrapped game meat keeps 9 to 12 months in the freezer [6]; the fat in this meat may shorten the good-quality time (general practice). **Freezing is storage, not a way to kill *Trichinella*;** some wild-game strains survive freezing [2][3].
-3. **Drying (jerky):** Not recommended for this meat. If you do it, trim visible fat, heat the strips to 160°F first, then dry at 140°F [8]. CDC says drying, smoking and curing alone do not consistently kill *Trichinella* worms, and homemade jerky from wild game has caused outbreaks [1][2].
+3. **Drying (jerky):** Not recommended for this meat. If you do it, trim visible fat, heat the strips to 165°F first (CDC's 2024 figure for wild game [13]), then dry at 140°F [8]. CDC says drying, smoking and curing alone do not consistently kill *Trichinella* worms, and homemade jerky from wild game has caused outbreaks [1][2].
 4. **Stewing/braising:** Raccoon and opossum suit long-cooked stews and braises (general practice). Skim fat from the broth before serving.
 5. **Canning (pressure canning only):** Pressure canning is the only recommended method for low-acid foods such as meat [9]. Use a tested pressure-canning recipe from an extension service for your altitude; this guide gives no pressures or times. If you are unsure how a jar was canned, throw it out [9].
 
@@ -175,7 +179,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 > **Trichinella and raccoons:** The CDC says infection comes from eating raw or undercooked pork or wild game, in particular bear, wild boar, wildcat, fox, wolf, seal or walrus; it also says meat-eating animals are the usual source [1]. **The CDC does not name raccoon.** A study in south-central Wisconsin found *Trichinella* in 19 percent of 59 raccoons tested (and 26 percent of coyotes) [4]. That is one study in one place, but it shows raccoons can carry it, so this guide treats raccoon meat as a *Trichinella* risk (this guide's precaution). This guide found no opened source on opossum and *Trichinella*; FM 21-76 says only that scavenging mammals such as the opossum may carry diseases [5]. Treat opossum the same way (this guide's precaution).
 >
 > **MANDATORY PRECAUTION:**
-> - **Cook to at least 160°F (71°C) internal.** This is the CDC's advice for cooking wild game [3]. **This guide's conservative margin for raccoon and opossum is 165°F (74°C)** (this guide's rule; it is not a CDC number). Use a thermometer in the thickest part of the leg or loin; do not rely on color [3][2].
+> - **Cook to at least 165°F (74°C) internal.** CDC's 2024 report says cooking wild game to 165°F is necessary to kill *Trichinella* [13]; its 2004 report gave 160°F [3]. Use a thermometer in the thickest part of the leg or loin; do not rely on color [3][2].
 > - **No rare or medium-rare cooking:** cook all raccoon and opossum meat fully; no pink centers.
 > - **Do not eat the brain, spinal cord or organs of wild carnivores** (this guide's rule; general practice).
 > - **Trimming fat is for taste only.** It does not change the need to cook to temperature (general practice).
@@ -189,7 +193,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 ## ⚠ MANDATORY PREPARATION
 
 **Internal cook temperature (critical for Trichinella control):**
-- **Raccoon/opossum meat (all cuts):** at least **160°F (71°C)**, the CDC's advice for cooking wild game [3]. **This guide's conservative margin is 165°F (74°C)** (this guide's rule; not a CDC figure). Measure at the thickest part of the leg or loin with a food thermometer, away from bone. Do not rely on color [2][3].
+- **Raccoon/opossum meat (all cuts):** at least **165°F (74°C)**, per CDC's 2024 report on wild game [13] (its 2004 report gave 160°F [3]). Measure at the thickest part of the leg or loin with a food thermometer, away from bone. Do not rely on color [2][3].
 
 **Cooking methods (general practice):**
 - **Stewing/braising (preferred):** Cut meat into 1–2 inch cubes, brown in fat, add water or broth and root vegetables, and simmer at low heat until tender. Confirm with a thermometer that the meat has reached temperature. Skim fat from the broth before serving.
@@ -198,7 +202,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 - **Boiling:** Boil cut meat until it reaches temperature; do not undercook.
 
 **Never eat:**
-- Undercooked or rare raccoon/opossum (below 160°F; this guide's rule is 165°F).
+- Undercooked or rare raccoon/opossum (below 165°F [13]).
 - Brain, spinal cord, or organs from any wild carnivore (this guide's rule; general practice).
 - Meat from a visibly sick animal.
 - Meat that smells sour or off (do not taste it to check).
@@ -212,7 +216,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 1. **About Trichinellosis** — CDC. https://www.cdc.gov/trichinellosis/about/index.html
 2. **Preventing Trichinellosis** — CDC. https://www.cdc.gov/trichinellosis/prevention/index.html
-3. **Trichinellosis Associated with Bear Meat** (MMWR 2004; advises cooking wild game to 160°F and notes freeze-resistant *T. nativa*) — CDC. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm
+3. **Trichinellosis Associated with Bear Meat** (MMWR 2004; advised cooking wild game to 160°F, superseded here by [13]; notes freeze-resistant *T. nativa*) — CDC. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm
 4. **Trichinella murrelli in scavenging mammals from south-central Wisconsin, USA** (Hill et al., Journal of Wildlife Diseases, 2008) — US Geological Survey publication record. https://www.usgs.gov/publications/trichinella-murrelli-scavenging-mammals-south-central-wisconsin-usa
 5. **FM 21-76 US Army Survival Manual** (1992 text, 2006 reprint) — US Department of the Army. https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
 6. **Proper Care and Handling of Venison from Field to Table** (storage times for game meat) — Penn State Extension. https://extension.psu.edu/proper-care-and-handling-of-venison-from-field-to-table
@@ -222,3 +226,4 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 10. **Trapping regulations** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=8638
 11. **About Rabies** — CDC. https://www.cdc.gov/rabies/about/index.html
 12. **Rabies Prevention** — CDC. https://www.cdc.gov/rabies/prevention/index.html
+13. **Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023** (MMWR 2024;73(40):906-907; cooking wild game to 165°F; freezing might not be sufficient) — CDC. https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm

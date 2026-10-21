@@ -55,7 +55,7 @@ No way to treat water at all? See [If you cannot treat water](#if-you-cannot-tre
 - **Water heater tank.** It holds roughly 30 to 80 gallons. A tankless heater holds none. Use only the faucet-side tank, never the separate heating-loop (radiator or boiler) water [15][5]. Steps are in [Draining a water heater](#draining-a-water-heater).
 - **Pipes.** Shut the main valve, open the highest faucet, draw from the lowest [14][5].
 - **Melted ice** made from uncontaminated water. During a boil notice, do not use ice from fridge or freezer dispensers [5][6][9].
-- **Liquid from canned fruit and vegetables.** Water-packed is better than syrup. Do not use cans that sat in floodwater [5][15].
+- **Liquid from canned fruit and vegetables.** Water-packed is better than syrup [5][15]. Do not use liquid from damaged cans. An undamaged all-metal can that sat in floodwater can be used only after it is cleaned and sanitized; throw out food or drink in screw-cap, snap-lid, pull-top or crimped-cap containers that touched floodwater [24].
 - **Toilet tank, last resort only.** Never the bowl. Only if the water is clear and the tank has no colored or chemical cleaner. Treat it before drinking [5][14]. Some agencies advise against it entirely [15].
 
 ### Outdoors, best first
@@ -315,7 +315,7 @@ Use this when the power is out. The water is hot and may carry sediment [15].
 - **Sanitize before filling.** Wash with soap, rinse, add 1 teaspoon of unscented bleach per quart, shake, wait at least 30 seconds, pour out, and air-dry [4].
 - **What to fill with.** Public-supply tap water needs nothing added [14][13]. Do not store raw well or surface water. Treat it first [14].
 - **Label and place.** Write "drinking water" and the date. Store at 50 to 70 F, out of the sun, away from gasoline and pesticides [4].
-- **Replace** home-stored water every 6 months. Keep bottled water sealed and follow its date. If stored water touched floodwater, treat it again [3][4][13].
+- **Replace** home-stored water every 6 months. Keep bottled water sealed and follow its date. If a screw-cap, snap-lid or pull-top container of water may have touched floodwater, throw the water out and use other water [24]. Treatment does not purify water contaminated with fuel or toxic chemicals [13], and floodwater can carry them [10]. Clean and re-sanitize any container that touched floodwater before reuse [13].
 
 ---
 
@@ -409,6 +409,7 @@ Agency numbers differ slightly (elevation threshold, bleach drops). Local public
 21. ATP 3-50.21 Survival (2018). US Army. https://irp.fas.org/doddir/army/atp3-50-21.pdf
 22. Preventing and Controlling Crypto at Camps. CDC. https://www.cdc.gov/cryptosporidium/prevention/preventing-and-controlling-crypto-at-camps.html
 23. Can humans drink seawater? NOAA National Ocean Service. https://oceanservice.noaa.gov/facts/drinksw.html
+24. Food and Water Safety During Power Outages and Floods. FDA. https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods
 
 ---
 

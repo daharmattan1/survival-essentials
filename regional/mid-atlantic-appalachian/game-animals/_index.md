@@ -54,9 +54,9 @@ demands the full processing chain and the strictest disease discipline. Load ord
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
 | white-tailed-deer | entries/white-tailed-deer.md | GAME-ANIMAL | mid-atlantic-appalachian | fall (regulated) | edible-when-prepared | high | none | false | T1 | 13 | reviewed |
 | eastern-cottontail-rabbit | entries/eastern-cottontail-rabbit.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | high | none | false | T1 | 6 | reviewed |
-| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | moderate | none | false | T1 | 7 | reviewed |
+| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter (regulated) | edible-when-prepared | moderate | none | false | T1 | 8 | reviewed |
 | wild-turkey | entries/wild-turkey.md | GAME-ANIMAL | mid-atlantic-appalachian | spring/fall (regulated) | edible-when-prepared | moderate | none | false | T1 | 5 | reviewed |
-| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | varies (furbearer) | edible-when-prepared | high | none | false | T1 | 12 | reviewed |
+| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | varies (furbearer) | edible-when-prepared | high | none | false | T1 | 13 | reviewed |
 
 `legal_status: regulated` is set in-entry for all (no opened source supports a survival exemption; entries say so). Deer + rabbit + raccoon are
 `hazard_severity: high` (CWD prion / tularemia / trichinella). Deer is the mandatory full-flow

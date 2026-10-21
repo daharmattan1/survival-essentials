@@ -100,7 +100,7 @@ Ready.gov's basic disaster supplies kit [1]. CDC's short list agrees on the core
 
 ## First aid kit
 
-Red Cross's recommended kit list, written for a family of four [13]:
+Red Cross's recommended kit list, which the Red Cross text says is for a family of four [32]:
 
 - 2 absorbent compress dressings (5 x 9 inches)
 - 25 adhesive bandages in assorted sizes
@@ -334,6 +334,7 @@ All pages opened 2026-10-21. Where agencies differ, the text says so.
 29. How to Create an Emergency Water Supply. CDC. https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
 30. Food. Ready.gov / FEMA. https://www.ready.gov/food
 31. Reye syndrome. NIH MedlinePlus. https://medlineplus.gov/ency/article/001565.htm
+32. Anatomy of a First Aid Kit (Red Cross kit list text, copy hosted by the Town of Boxborough, MA). American Red Cross, hosted by the Town of Boxborough. https://www.boxborough-ma.gov/DocumentCenter/View/559/Anatomy-of-a-First-Aid-Kit-PDF (the redcross.org page does not state "family of four")
 
 ---
 

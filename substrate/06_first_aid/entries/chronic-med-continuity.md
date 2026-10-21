@@ -60,6 +60,10 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
     tier: T1
+  - title: "Safe Drug Use After a Natural Disaster"
+    publisher: FDA
+    url: "https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster"
+    tier: T1
 last_reviewed: 2026-06-27
 review_status: reviewed
 protocol_for: "interrupted or at-risk chronic medications (insulin and other prescriptions) during power outages and disasters: storage, planning, and when to get help"
@@ -123,13 +127,13 @@ These are FDA storage figures. Your product label controls, and products differ.
 2. **Keep insulin as cool as possible,** away from direct heat and out of direct sunlight. Extreme temperatures make insulin less effective.
 3. **Never freeze it.** If you use ice to keep insulin cool, avoid letting it freeze. Do not use insulin that has been frozen.
 4. **Pump insulin** that has been exposed to temperatures above 98.6 °F should be thrown away (FDA). If it is your only supply, call a clinician or pharmacist first. Diluted or transferred insulin should be thrown away within two weeks.
-5. **Heat- or cold-exposed vials.** Once you can get properly stored insulin, replace vials that were exposed to extreme heat or cold (FDA). Under emergency conditions you might still need to use insulin that got warm (FDA). If your insulin froze, do not use it (FDA) and call a clinician or pharmacist now. If it is your only supply and it got very hot, call a clinician or pharmacist now.
+5. **Heat- or cold-exposed vials.** Once you can get properly stored insulin, replace vials that were exposed to extreme heat or cold (FDA). FDA notes that in an emergency, insulin that got warm may still be needed, so do not throw it out and do not decide alone: call a pharmacist or your prescriber now (FDA), and if you cannot reach one, call 911 or go to an emergency department (this entry's rule). If your insulin froze, do not use it (FDA) and call a clinician or pharmacist now. If it is your only supply and it got very hot, call a clinician or pharmacist now.
 6. **If insulin has been kept hotter than the label allows,** ask a clinician or pharmacist before using it. For questions about whether a product is still usable, the manufacturer's customer service line is a source FDA names.
 7. **Do not switch insulin products on your own.** FDA says switching should be done under a doctor's care, with close monitoring of blood sugar.
 
 ### Step 3: Other prescription medicines
 
-1. **If a medicine that is normally refrigerated has been without power for more than a day,** discard it unless the label says otherwise, and call your doctor or pharmacist for a new supply (Ready.gov). CDC adds that if a life depends on a refrigerated drug that has already warmed, it may be used only until a new supply is available: call a pharmacist or clinician right away (CDC).
+1. **If a medicine that is normally refrigerated and NOT life-sustaining has been without power for more than a day,** discard it unless the label says otherwise, and call your doctor or pharmacist for a new supply (Ready.gov). If a life depends on a refrigerated drug that has already warmed, do not decide alone whether to use it: call a pharmacist or the prescriber right away (FDA, Safe Drug Use After a Natural Disaster), and if you cannot reach one, call 911 or go to an emergency department (this repo's rule, matching 09_urban_survival.md).
 2. **If you miss or run out of any prescription** (including blood thinners, seizure medicines, heart medicines, and steroids), call your prescriber or pharmacist the same day. Do not double up, skip, or cut doses to make a supply last.
 
 ### Step 4: Plan ahead
@@ -175,3 +179,4 @@ These are FDA storage figures. Your product label controls, and products differ.
 - CDC: Stroke Signs and Symptoms - https://www.cdc.gov/stroke/signs-symptoms/index.html
 - CDC: Heart Attack Signs and Symptoms - https://www.cdc.gov/heart-disease/about/heart-attack.html
 - CDC: First Aid for Seizures - https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html
+- FDA: Safe Drug Use After a Natural Disaster - https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster

@@ -85,14 +85,14 @@ A food thermometer is the only reliable test. Color is not [1].
 | Food | Cook to |
 |---|---|
 | Fish | 145 F [1] |
-| Ground meat and ground game | 160 F [15][16] |
+| Ground meat and ground game (but ground bear, wild pig and other wild meat-eaters: 165 F, next rows) | 160 F [15][16] |
 | Venison, wild or farm-raised, all cuts | 160 F [32] |
-| Bear, wild pig and other wild meat-eaters or omnivores | 160 F [14] |
+| Bear, wild pig and other wild meat-eaters or omnivores, in any form (whole, ground, jerky strips) | 165 F [33] |
 | Rabbit and hare | 165 F [11][32] |
 | Poultry and game birds | 165 F [16][17][1] |
 | Soups, stews, casseroles, leftovers | 165 F [15] |
 
-- **Sources differ in two places.** Penn State gives 145 F for whole venison cuts [15]; this guide uses 160 F. USDA's chart lists 160 F for rabbit [32] and Missouri sets 165 F [11]; this guide uses 165 F so both are met.
+- **Sources differ in three places.** Penn State gives 145 F for whole venison cuts [15]; this guide uses 160 F. USDA's chart lists 160 F for rabbit [32] and Missouri sets 165 F [11]; this guide uses 165 F so both are met. For bear and other wild meat-eaters, CDC's 2004 report gave 160 F [14] and CDC's 2024 report gives 165 F [33]; this guide uses 165 F.
 - **No thermometer:** cook until the meat is well done all the way through, then keep cooking. This is general practice and not reliable; a thermometer is the only real test. The same applies to bear and wild pig. Bear meat is very dark, so color cannot guide you [14].
 
 ---
@@ -213,7 +213,7 @@ Cook to the temperatures in the [cook-to table](#what-temperature-to-cook-to), w
 
 The CDC lists bear, wild boar, wildcat, fox, wolf, seal and walrus as meats that can carry *Trichinella* [13]. It does not name raccoon, but this guide's rule is to treat raccoon the same way.
 
-*Trichinella and freezing.* Penn State says three weeks of freezing kills the parasite [16]. The CDC says some wild-game strains survive freezing, and curing, drying and smoking do not reliably kill the worms [12][14]. When sources differ, take the more cautious choice: cook it.
+*Trichinella and freezing.* Penn State says three weeks of freezing kills the parasite [16]. The CDC says some wild-game strains survive freezing, and curing, drying and smoking do not reliably kill the worms [12][14]; its 2024 report says freezing might not be sufficient [33]. When sources differ, take the more cautious choice: cook it.
 
 ### Diseases to know
 
@@ -238,7 +238,7 @@ The CDC lists bear, wild boar, wildcat, fox, wolf, seal and walrus as meats that
 
 Food that sits between 40 F and 140 F spoils fast [1].
 
-**Drying jerky.** Heat meat strips to 160 F first (165 F for poultry and game birds [17][1]), in marinade or in an oven. Then dry at 140 F until a test strip cracks but does not break when bent [18]. Heating first matters because bacteria such as *E. coli* may be present [18]. Jerky keeps one to two months refrigerated below 40 F [15].
+**Drying jerky.** Heat meat strips to 160 F first (165 F for poultry and game birds [17][1], for rabbit and hare [11], and for squirrel, bear, wild pig and other wild meat-eaters [33]), in marinade or in an oven. Then dry at 140 F until a test strip cracks but does not break when bent [18]. Heating first matters because bacteria such as *E. coli* may be present [18]. Jerky keeps one to two months refrigerated below 40 F [15].
 
 **Smoking and salting.** This guide gives no tested home formula for either. Smoke and salt do not reliably kill *Trichinella* [12]. Cold smoking in the 40 to 140 F range for days sits where bacteria multiply [1]. (This guide's judgment: cook fresh meat within two to three days, keep it cold, or dry heated strips.)
 
@@ -316,15 +316,15 @@ What would have gone wrong: the deer left on the tailgate in the sun.
 - **Cooking outdoors:** stoves and grills at least 20 ft from windows, doors and garages [5].
 - **Cook to a thermometer reading. Color is not a test [1].**
   - Fish: 145 F [1]
-  - Ground meat, ground game, venison (all cuts): 160 F [15][16][32]
-  - Bear, wild pig, other wild meat-eaters or omnivores: 160 F [14]
+  - Ground meat, ground game (not bear or wild meat-eaters), venison (all cuts): 160 F [15][16][32]
+  - Bear, wild pig, other wild meat-eaters or omnivores, any form (whole, ground, jerky strips): 165 F [33]
   - Rabbit and hare: 165 F [11][32]
   - Poultry and game birds: 165 F [16][17][1]
   - Soups, stews, casseroles, leftovers: 165 F [15]
 - **Deer:** cool to 35 to 40 F. Hold at 40 F or below, two to three days at most [15].
 - **CWD:** do not eat brain, spinal cord, eyes, spleen, tonsils or lymph nodes. Cooking does not destroy prions. Test where CWD is present [8][9][31].
 - **Rabbits:** gloves; discard if the liver has white pinhead spots [10][11].
-- **Jerky:** heat to 160 F first (165 F for poultry and game birds [17][1]), dry at 140 F [18].
+- **Jerky:** heat to 160 F first (165 F for poultry and game birds [17][1], for rabbit and hare [11], and for squirrel, bear, wild pig and other wild meat-eaters [33]), dry at 140 F [18].
 - **Home canning:** unknown jar, throw it out [19].
 - **Traps, snares, set lines:** regulated almost everywhere. Check the law [25][26].
 
@@ -364,6 +364,7 @@ What would have gone wrong: the deer left on the tailgate in the sun.
 30. First Aid for Poisonings (first-aid guidance, including "Do not induce vomiting"). National Capital Poison Center (poison.org). https://www.poison.org/first-aid-for-poisonings
 31. Precautions for Hunters (chronic wasting disease). Indiana Department of Natural Resources. https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/wildlife-diseases-in-indiana/precautions-for-hunters
 32. Safe Minimum Internal Temperature Chart (rabbit and venison, wild or farm-raised, 160 F; reviewed Nov 21, 2024). USDA / FoodSafety.gov. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+33. Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907, Oct 10, 2024). CDC. https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm
 
 ---
 

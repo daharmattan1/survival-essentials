@@ -17,7 +17,7 @@ First aid here is the commonly taught field response for when help is far away. 
 
 **Call 911 first if you can:**
 
-- Someone is confused, drowsy, slurring words, fumbling, or has a body temperature below 95 F. Below 95 F, CDC says get medical attention immediately [2]; Ready.gov calls it an emergency [3]. Call 911 (this guide's rule for confusion or drowsiness).
+- Someone is confused, drowsy, slurring words, fumbling, or has a body temperature below 95 F. Below 95 F, CDC says get medical attention immediately [2]; Ready.gov calls it an emergency [3]. Call 911 for any suspected hypothermia, and right away if confusion or drowsiness is present [26].
 - Anyone has a headache, dizziness, nausea or chest pain near a stove, heater, generator, grill or running vehicle. These are CO symptoms [23]. Get everyone into fresh air first, then call (this guide's rule, as in [`03_fire.md`](03_fire.md#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule)).
 - Someone in the heat is confused, has slurred speech, faints, has hot skin or a fast strong pulse, or a temperature above 103 F. That is heat stroke [11][13].
 - You are lost or hurt and your phone has any signal. Give your coordinates, trail or area name and last known location, then stay put [17].
@@ -98,7 +98,7 @@ Three things take your heat. Deal with them in this order.
 
 ## Someone is too cold: hypothermia and frostbite
 
-**Signs:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness [2]. Hypothermia is a body temperature below 95 F, and CDC says to get medical attention immediately [2]. You will not have a thermometer, so go by the signs. **Sleepiness or confusion: call 911** (this guide's rule, as in [`06_first_aid.md`](06_first_aid.md#cold-hypothermia-and-frostbite)). If you cannot reach help, or it is not coming:
+**Signs:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness [2]. Hypothermia is a body temperature below 95 F, and CDC says to get medical attention immediately [2]. You will not have a thermometer, so go by the signs. **Call 911 whenever you suspect hypothermia. Sleepiness or confusion means call right away** [26], as in [`06_first_aid.md`](06_first_aid.md#cold-hypothermia-and-frostbite). If you cannot reach help, or it is not coming:
 
 1. **Get out of wind and rain.** Handle the person gently, lying flat [14]. Wet clothes come off only once you are somewhere warm and sheltered. Otherwise put dry layers and a waterproof layer over them [14].
 2. **Body heat and dry blankets first.** Warm the chest, neck, head and groin, skin to skin under dry blankets if you can [2]. If you have heat packs, wrap them and put them on the chest, armpits and back, never on bare skin [14].
@@ -118,7 +118,7 @@ The fastest roof. From the Army manual [1], a poncho lean-to needs a poncho, 7 t
 4. Tie a drip stick (about 4 inches long) to each rope so rain does not run down it into the shelter.
 5. Block the sides with brush or a pack. Put leaves or boughs on the floor.
 
-**Pitch.** Cloth sheds rain only if taut and angled. Aim for 40 to 60 degrees. Water pools in wrinkles and leaks. Do not touch the tarp while water runs over it [1].
+**Pitch.** The Army says that porous material (a parachute, for example) will not shed water unless it is stretched tightly at a steep enough angle. It recommends 40 to 60 degrees, wrinkle-free and tight, and says not to touch the material while water runs over it, because that lets water drip through [1]. That angle is for porous cloth. For a waterproof tarp, keep it tight and sloped so water runs off instead of pooling (general practice).
 
 **What goes wrong:** slack cover; the open side to the wind; a tarp near a fire (plastic and nylon melt and burn); bare ground under a good roof; burning anything inside (see [the carbon monoxide rule](#the-carbon-monoxide-rule-for-shelters)).
 
@@ -284,7 +284,7 @@ Three of you are stuck in a drift on a back road at dusk. Snow is falling, the t
 ## Quick-reference card (print on one page)
 
 - **Cold kills first.** Hypothermia can start above 40 F when you are wet.
-- **Call 911 if someone is confused, drowsy, slurring or fumbling, or has a body temperature below 95 F.**
+- **Call 911 if you suspect hypothermia: right away if someone is confused or drowsy; also for slurring, fumbling, or a body temperature below 95 F.**
 - **Too cold:** get out of wind and rain. Body heat and dry blankets first. Wet clothes come off only once you are somewhere warm and sheltered.
 - **Warm, sweet drink only if the person is alert, shivering and can swallow.** Otherwise nothing by mouth.
 - **Lost?** Stop and stay put. Leave only for an immediate threat.
@@ -295,7 +295,7 @@ Three of you are stuck in a drift on a back road at dusk. Snow is falling, the t
 - **Never sleep with the car engine running.**
 - **Ground bed:** at least 12 inches thick. It compresses.
 - **Debris hut:** at least 3 feet of debris on top, a 2-foot layer inside, a door.
-- **Tarp pitch:** 40 to 60 degrees, taut, no wrinkles.
+- **Tarp pitch:** porous cloth (a parachute) needs 40 to 60 degrees, tight, no wrinkles. A waterproof tarp: tight and sloped so water runs off.
 - **Poncho lean-to:** two trees 7 to 10 ft apart, back to the wind.
 - **Fire:** at least 15 ft from tents and shelters.
 - **Snow cave:** a drift about 10 ft deep, walls and ceiling at least 1 ft thick, arched roof, sleeping platform higher than the entrance, a vent shaft.
@@ -338,6 +338,7 @@ All pages opened 2026-10-21.
 23. Carbon Monoxide Poisoning (About). CDC. https://www.cdc.gov/carbon-monoxide/about/index.html
 24. Carbon Monoxide Poisoning Deaths Associated with Camping, Georgia, March 1999. CDC MMWR. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4832a1.htm
 25. Heat Safety. National Weather Service. https://www.weather.gov/safety/heat
+26. Hypothermia. NIH MedlinePlus. https://medlineplus.gov/ency/article/000038.htm
 
 ---
 

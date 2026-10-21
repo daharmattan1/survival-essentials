@@ -28,6 +28,10 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm"
     tier: T1
+  - title: "Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907)"
+    publisher: CDC
+    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
+    tier: T1
   - title: "Preventing Trichinellosis"
     publisher: CDC
     url: "https://www.cdc.gov/trichinellosis/prevention/index.html"
@@ -43,7 +47,7 @@ common_names:
 scientific_name: Sciurus carolinensis
 legal_status: regulated
 season_normal: "Fall–winter (regulated small-game season, typically Sep–Feb, varies by state)"
-internal_cook_temp: "165°F internal temperature (CDC gives 160°F for wild game; this guide uses 165°F to match rabbit and birds)"
+internal_cook_temp: "165°F internal temperature (CDC MMWR 2024 gives 165°F for wild game; the 2004 MMWR gave 160°F)"
 edibility_status: edible-when-prepared
 hazard_severity: moderate
 confusability_level: none
@@ -106,7 +110,7 @@ Gray squirrel is a regulated small-game species in all Mid-Atlantic states. Norm
 
 1. **Refrigeration:** Wrapped in cloth, lasts 2–3 days at 32–40°F.
 2. **Freezing:** Vacuum-seal or wrap in freezer paper; lasts 6–9 months at 0°F or below.
-3. **Drying (jerky):** Slice meat thin and heat the strips to 165°F first (this guide's small-game rule; Penn State's jerky page says 160°F before drying), then dry at 140°F until a cooled strip cracks but does not break when bent [3]. Drying alone does not reliably kill disease organisms [6]. Do not sun-dry raw meat. Penn State says to eat jerky within one to three weeks, or freeze it [3].
+3. **Drying (jerky):** Slice meat thin and heat the strips to 165°F first (CDC's 2024 wild-game figure [8]; Penn State's jerky page says 160°F before drying), then dry at 140°F until a cooled strip cracks but does not break when bent [3]. Drying alone does not reliably kill disease organisms [6]. Do not sun-dry raw meat. Penn State says to eat jerky within one to three weeks, or freeze it [3].
 4. **Stewing/boiling:** Squirrel is ideal for long-cooked broths and stews (simmer 45–60 minutes); tough connective tissue tenderizes with heat.
 
 **Yield:** A single squirrel yields approximately 50–100g of usable meat (mostly legs and saddle). Multiple squirrels needed for meaningful meal.
@@ -141,7 +145,7 @@ Gray squirrel is a regulated small-game species in all Mid-Atlantic states. Norm
 ## ⚠ MANDATORY PREPARATION
 
 **Internal cook temperature:**
-- **Whole squirrel or chunks:** 165°F internal temperature, measured at the thickest part of the thigh or loin. CDC's advice for cooking wild game is 160°F [5]; this guide uses 165°F for squirrel to match rabbit and birds (this guide's rule).
+- **Whole squirrel or chunks:** 165°F internal temperature, measured at the thickest part of the thigh or loin. CDC's 2024 report gives 165°F for cooking wild game [8] (it does not name squirrel; this guide applies it to all wild game); its 2004 report gave 160°F [5]. This also matches rabbit and birds.
 
 **Cooking methods:**
 - **Boiling/stewing:** Place whole or quartered squirrel in water, bring to boil, simmer 45–60 minutes until tender and cooked through. Broth is nutritious.
@@ -164,6 +168,7 @@ Gray squirrel is a regulated small-game species in all Mid-Atlantic states. Norm
 2. Four Steps to Food Safety (2-hour rule, 1 hour above 90°F; refrigerator at 40°F or below), CDC: https://www.cdc.gov/food-safety/prevention/index.html
 3. Drying Jerky (heat strips before drying, dry at 140°F, eat within one to three weeks), Penn State Extension: https://extension.psu.edu/drying-jerky
 4. Trapping regulations, Virginia Department of Wildlife Resources: https://dwr.virginia.gov/?p=8638
-5. Trichinellosis Associated with Bear Meat (MMWR 2004; advises cooking wild game to 160°F), CDC: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm
+5. Trichinellosis Associated with Bear Meat (MMWR 2004; advised cooking wild game to 160°F; superseded by [8]), CDC: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm
 6. Preventing Trichinellosis (curing, drying, smoking or microwaving alone does not consistently kill worms), CDC: https://www.cdc.gov/trichinellosis/prevention/index.html
 7. Proper Field Dressing and Handling of Wild Game and Fish (organ smell, greenish discharge, black blood, clots), Penn State Extension: https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish
+8. Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907; cooking wild game to 165°F), CDC: https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm
