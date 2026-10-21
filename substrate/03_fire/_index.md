@@ -43,7 +43,7 @@ FM 21-76 (T2).
 
 ## `check_manifests`
 
-- [ ] Every row maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row maps to an existing file in `entries/`.
 - [ ] Every entry file has a row (no orphans).
 - [ ] Required columns filled.
 - [ ] Each METHOD entry follows the skeleton (Goal & When → Steps → Failure Modes & Fixes); fire

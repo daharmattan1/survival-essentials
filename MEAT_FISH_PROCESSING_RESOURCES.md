@@ -16,7 +16,10 @@ the region's game-animal disease rules, see:
 
 **Key sources at a glance** (full table in [`_media/SOURCES.md`](_media/SOURCES.md)): FM 21-76 /
 FM 3-05.70 (U.S. Army Survival Manual — illustrated field-dressing/trap line art, public domain), FAO
-fish handling & processing manuals, Rawpixel (CC0). All public-domain / open access.
+fish handling & processing manuals, Rawpixel. Only the Army manuals are public domain. The FAO pages state
+no license (FAO terms allow non-commercial copying with credit, so link only), and Rawpixel licenses vary
+by item and are not verified, so check each item. See the License column in
+[`_media/SOURCES.md`](_media/SOURCES.md) before copying anything.
 
 Technique diagrams (never biology ID) are added to [`_media/diagrams/`](_media/diagrams/) in a later
 phase, each logged in `_media/SOURCES.md`. Prefer adapting public-domain FM 21-76 line art over

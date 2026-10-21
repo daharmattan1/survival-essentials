@@ -34,15 +34,15 @@ Pre-arrange before the emergency: signal kit staged, radio charged, contact plan
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | draft |
-| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | draft |
-| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T3 | 4 | draft |
+| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | draft |
+| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 23 | draft |
+| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | draft |
 
 `radio-basics-and-bands` cites FCC/NOAA (T1) for band/licensing facts. Signaling from FM 21-76 (T2).
 
 ## `check_manifests`
 
-- [ ] Every row maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row maps to an existing file in `entries/`.
 - [ ] Every entry file has a row (no orphans).
 - [ ] Required columns filled.
 - [ ] Each METHOD entry follows the skeleton; licensing facts (TX vs. RX) cite a T1 source.

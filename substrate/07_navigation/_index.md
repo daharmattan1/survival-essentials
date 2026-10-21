@@ -34,15 +34,15 @@ Rule: fix your position BEFORE moving; aim for a feature you can't overshoot; do
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| celestial-navigation | entries/celestial-navigation.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
-| terrain-and-map-reading | entries/terrain-and-map-reading.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
-| dead-reckoning-and-pace | entries/dead-reckoning-and-pace.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
+| celestial-navigation | entries/celestial-navigation.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | reviewed |
+| terrain-and-map-reading | entries/terrain-and-map-reading.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
+| dead-reckoning-and-pace | entries/dead-reckoning-and-pace.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
 
 Sources FM 21-76 / FM 3-25.26 map reading (T2).
 
 ## `check_manifests`
 
-- [ ] Every row maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row maps to an existing file in `entries/`.
 - [ ] Every entry file has a row (no orphans).
 - [ ] Required columns filled.
 - [ ] Each METHOD entry follows the skeleton (Goal & When → Steps → Failure Modes & Fixes).

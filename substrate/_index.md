@@ -52,7 +52,7 @@ mushrooms 5, game-animals 5, crops 5, hazards 3). **Grand total planned across t
 - [ ] Each domain `_index.md` carries its own manifest table with the SCHEMAS.md §"Manifest row
       contract" columns, and its own `check_manifests` checklist.
 - [ ] The planned-entry counts in the table above match the number of rows in each domain manifest.
-- [ ] No domain has stray entry files without a manifest row (none yet — Phase 2 writes zero entries).
+- [x] No domain has stray entry files without a manifest row.
 - [ ] `grep -rn "danger_class" .` returns nothing; no `safe` token on biology facets.
 
 ---

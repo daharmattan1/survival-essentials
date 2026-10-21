@@ -124,11 +124,12 @@ lights-out, keep the physical/PDF layer the original survey already curated:
   public domain.
 - **SAS Survival Handbook** — classic comprehensive reference.
 - **Local Red Cross first-aid course** — hands-on medical training nothing offline replaces.
-- Public-domain ID image sources (Biodiversity Heritage Library, USDA PLANTS, Peterson field
-  guide) — see [`10_key_resources.md`](10_key_resources.md) and `_media/SOURCES.md`.
+- ID image sources (Biodiversity Heritage Library and USDA PLANTS; licenses vary by item or
+  image, so check each one) — see [`10_key_resources.md`](10_key_resources.md) and
+  `_media/SOURCES.md`. The Peterson field guide is copyrighted: buy or borrow it, do not copy it.
 
-Total storage for the complete offline base is small (~<10MB of markdown + a curated handful of
-deadly-look-alike photos).
+Total storage for the complete offline base is small (about 15 MB total, measured 2026-10-21: about
+1.2 MB of text plus about 13.6 MB of look-alike photos; check the size before relying on it).
 
 ---
 

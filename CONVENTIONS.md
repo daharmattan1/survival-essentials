@@ -160,9 +160,10 @@ Rules:
   external image in `_media/SOURCES.md` (URL + license + attribution).
 
 **Seed source library (from the repo's existing resource files):** USDA PLANTS, USDA Weed Images,
-USDA Pomological Watercolors, Biodiversity Heritage Library, Peterson *Field Guide to Edible Wild
-Plants* (Eastern/Central NA), Wikimedia Commons (PD/CC0 only); FM 21-76 / FM 3-05.70, FAO fish
-manuals, Rawpixel (CC0). CDC / Red Cross / EPA / state extension for medical + water.
+USDA Pomological Watercolors, Biodiversity Heritage Library (license varies by item), Wikimedia
+Commons (PD/CC0 only); FM 21-76 / FM 3-05.70 / ATP 3-50.21, FAO fish manuals, Rawpixel (verify per
+item). Peterson *Field Guide to Edible Wild Plants* (Eastern/Central NA) is a copyrighted reference:
+cite it, never copy it. CDC / Red Cross / EPA / state extension for medical + water.
 
 ---
 

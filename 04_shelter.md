@@ -206,7 +206,7 @@ A car is a windproof, waterproof room that rescuers can see. Stay in it [3][4]. 
 
 ## Be found from the shelter
 
-Stay near the shelter and make it easy to spot. Blow a whistle often instead of shouting. Flash a mirror at aircraft, and flash a flashlight in the SOS pattern (three quick, three slow, three quick) while saving batteries. Lay out shelter materials or rocks in a shape visible from above [17]. Three of any signal in a row is the universal distress call [18]. No fire in high fire risk or wildland fire season [17]; see [`03_fire.md`](03_fire.md).
+Stay near the shelter and make it easy to spot. Blow a whistle often instead of shouting. Flash a mirror at aircraft, and flash a flashlight in the SOS pattern (three quick, three slow, three quick) while saving batteries. Lay out shelter materials or rocks in a shape visible from above [17]. Any signal done three times in a series is a universal distress call [18]. No fire in high fire risk or wildland fire season [17]; see [`03_fire.md`](03_fire.md).
 
 ---
 
@@ -288,7 +288,7 @@ Three of you are stuck in a drift on a back road at dusk. Snow is falling, the t
 - **Too cold:** get out of wind and rain. Body heat and dry blankets first. Wet clothes come off only once you are somewhere warm and sheltered.
 - **Warm, sweet drink only if the person is alert, shivering and can swallow.** Otherwise nothing by mouth.
 - **Lost?** Stop and stay put. Leave only for an immediate threat.
-- **Be found:** if your phone has any signal, call 911 and give your coordinates, trail or area name and last known location. Then stay put. Blow a whistle often instead of shouting. Three of any signal in a row is the distress call.
+- **Be found:** if your phone has any signal, call 911 and give your coordinates, trail or area name and last known location. Then stay put. Blow a whistle often instead of shouting. Any signal done three times in a series is a universal distress call [18].
 - **Headache, dizziness or nausea near a stove, heater, generator, grill or running vehicle:** get everyone into fresh air now, then call 911.
 - **Never burn anything in a tent, car, tarp shelter, debris hut or snow shelter.** A vent does not make it acceptable.
 - **In a car?** Stay in it. Run the engine about 10 minutes each hour with the exhaust pipe clear of snow and a window cracked.

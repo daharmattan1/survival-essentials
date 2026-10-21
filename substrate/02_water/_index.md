@@ -50,7 +50,7 @@ entry will cite a **T1** source (CDC / EPA / state extension) and reproduce the 
 
 ## `check_manifests`
 
-- [ ] Every row above maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row above maps to an existing file in `entries/`.
 - [ ] Every entry file in `entries/` has a row here (no orphans).
 - [ ] Required columns filled for every row.
 - [ ] Every entry carries the `## ⚠ CONTAMINATION` block with boil time, micron limit, and the

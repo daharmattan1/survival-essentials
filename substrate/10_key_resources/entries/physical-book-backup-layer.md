@@ -7,45 +7,55 @@ region_scope: universal
 usda_zone: n/a
 confidence: high
 source_tier: T2
-method_for: survive and reference critical knowledge when all devices are dead or unavailable
+method_for: keep critical reference knowledge on paper for when all devices are dead or unavailable
 materials:
-  - FM 21-76 (U.S. Army Survival Manual) — physical print or bound PDF
-  - FM 3-05.70 (Survival, updated edition) — physical print
-  - SAS Survival Handbook by John "Lofty" Wiseman — physical book
-  - Regional field guide (e.g., Peterson Field Guide to Edible Wild Plants — Eastern/Central North America)
-  - Red Cross or equivalent first-aid manual (printed bound edition)
-  - "Where There Is No Doctor" by David Werner (for remote/austere scenarios)
+  - ATP 3-50.21, Survival (U.S. Army, 2018) — printed copy (public domain)
+  - FM 21-76 (U.S. Army Survival Manual, older) and/or FM 3-05.70 — optional printed copies (public domain)
+  - SAS Survival Handbook by John "Lofty" Wiseman — purchased copy
+  - A regional field guide you bought (for example Peterson, A Field Guide to Edible Wild Plants of Eastern and Central North America — buy it or borrow it)
+  - Red Cross or equivalent first-aid manual (printed edition)
+  - "Where There Is No Doctor" by David Werner (Hesperian) — for remote/austere scenarios
 difficulty: easy
 sources:
+  - title: "Survival (ATP 3-50.21), September 2018"
+    publisher: "U.S. Army (Internet Archive copy, Public Domain Mark 1.0)"
+    url: "https://archive.org/details/survival-atp-3-50-21"
+    tier: T1
   - title: "FM 21-76 — U.S. Army Survival Manual"
     publisher: "U.S. Army / Archive.org"
     url: "https://archive.org/details/FM2176USARMYSURVIVALMANUAL"
-    tier: T1
-  - title: "FM 3-05.70 — Survival (updated)"
-    publisher: "U.S. Army / FAS"
-    url: "https://irp.fas.org/doddir/army/fm3-05-70.pdf"
-    tier: T1
-  - title: "SAS Survival Handbook — Revised Edition"
-    publisher: "Collins"
-    url: "https://www.johnloftywise.com/"
     tier: T2
-  - title: "Peterson Field Guide to Edible Wild Plants"
-    publisher: "Houghton Mifflin (Archive.org)"
+  - title: "FM 3-05.70 — Survival"
+    publisher: "U.S. Army / Federation of American Scientists"
+    url: "https://irp.fas.org/doddir/army/fm3-05-70.pdf"
+    tier: T2
+  - title: "SAS Survival Handbook, Third Edition (book listing)"
+    publisher: "Mariner Books (listing on Apple Books)"
+    url: "https://books.apple.com/us/book/id904016120"
+    tier: T2
+  - title: "A field guide to edible wild plants of Eastern and Central North America — Lee Peterson"
+    publisher: "Houghton Mifflin, 1978 (Internet Archive record: restricted, borrow-only)"
     url: "https://archive.org/details/fieldguidetoedib0000pete_h5c3"
     tier: T2
-  - title: "Where There Is No Doctor — David Werner"
-    publisher: "Hesperian Health Guides / WHO"
-    url: "https://www.hesperian.org/"
-    tier: T1
+  - title: "Where There Is No Doctor — David Werner (2025 printing front matter)"
+    publisher: "Hesperian Health Guides"
+    url: "https://hesperian.org/wp-content/uploads/pdf/en_wtnd_2025/en_wtnd_2025_fm.pdf"
+    tier: T2
+  - title: "Open Copyright Policy"
+    publisher: "Hesperian Health Guides"
+    url: "https://hesperian.org/open-copyright-policy/"
+    tier: T2
 last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
 ## Goal & When To Use
 
-This is the **true lights-out fallback**: the physical book layer you keep **without electricity, without devices, without network access**. When your phone is dead, your laptop fried, and your internet is gone, these books are what you reference. They answer: How do I treat a wound when there's no EMS? How do I build a fire? How do I identify an edible plant? What does a poisonous snake look like?
+This is the **lights-out fallback**: the physical books you keep **without electricity, without devices, without network access**. When your phone is dead and the network is gone, these are what you reference. They help with wound care when there is no EMS, fire, water, shelter and navigation.
 
-This layer exists because **digital knowledge is fragile**. Markdown repositories assume you have some device and power. Reality includes scenarios where you don't.
+This layer exists because **digital knowledge is fragile**. A markdown repository assumes you have some device and power.
+
+**Copyright matters here.** Only some of these books may be copied or printed. Each item below says which. Buy or borrow the rest; do not photocopy them.
 
 ---
 
@@ -53,67 +63,60 @@ This layer exists because **digital knowledge is fragile**. Markdown repositorie
 
 ### 1. Curate Your Physical Library
 
-**Core tier (buy these, keep at home and in vehicle):**
-- **FM 21-76** (U.S. Army Survival Manual) — 300+ pages, covers all fundamentals (fire, water, shelter, signaling, survival priorities). Printed or spiral-bound PDF. Public domain, free to download and print.
-- **FM 3-05.70** (updated Survival) — more recent than FM 21-76; includes updated trapping, fishing, cooking. Public domain PDF, printable.
-- **SAS Survival Handbook** — one comprehensive reference covering global contexts (not just North America). Illustrated, ~400 pages. Buy the physical book; it's worth the ~$20.
+**Core tier (keep at home and in the vehicle):**
+- **ATP 3-50.21, Survival (U.S. Army, 2018).** The current Army survival manual; it revises the older FM 3-05.70. It is a U.S. government work and the Internet Archive copy carries a Public Domain Mark, so you may print it. The Army wrote it for soldiers in isolated situations.
+- **FM 21-76 and FM 3-05.70** (older Army manuals, also U.S. government works). Optional. Prefer ATP 3-50.21 when they differ.
+- **SAS Survival Handbook, Third Edition** (Wiseman, Mariner Books, 2014). One broad reference that covers more than North America. It is a copyrighted commercial book: buy it or borrow it. Do not photocopy it.
+
+**A caution on the Army manuals.** ATP 3-50.21 (chapter 4) and FM 21-76 include a plant edibility test, and FM 21-76 includes herbal remedies. **This repo does not endorse them.** Our rule is positive ID or do not consume; see the wild plants and mushrooms section and the Universal Edibility Test limits in [`05_food.md`](../../../05_food.md). For first aid, follow [`06_first_aid.md`](../../../06_first_aid.md) rather than the Army manual's improvised remedies.
 
 **Region-specific (buy one):**
-- **Peterson Field Guide to Edible Wild Plants** (Eastern/Central North America) — the standard for the mid-Atlantic. Out of copyright; free PDF available. Print it bound (stapled or comb-bound at FedEx Office for ~$15), or buy a used physical copy (~$10 used, often available).
-- For other biomes: buy a regional field guide from a reputable publisher (Audubon, Peterson, National Audubon Society).
+- **A regional field guide** from a reputable publisher, for your biome. For the East, one standard guide is Lee Peterson, *A Field Guide to Edible Wild Plants of Eastern and Central North America* (Houghton Mifflin, 1978). **It is copyrighted and is not public domain.** The Internet Archive copy is restricted and borrow-only, so there is no free PDF to download or print. Buy a used copy or borrow one from a library. A field guide does not replace an expert for any plant or mushroom with a deadly look-alike.
 
-**First-aid (buy this; it will save a life):**
-- **Red Cross First Aid / CPR manual** — current edition, ~150 pages. Buy the spiral-bound version (~$15). Keep one at home, one in car.
-- **Where There Is No Doctor** (Werner) — when professional medical care is unavailable. Free PDF; bind it (staple, comb, or spiral).
+**First aid:**
+- **A printed Red Cross (or equivalent) first-aid and CPR manual**, current edition. It is copyrighted: buy it. Keep one at home and one in the car. A book does not replace a hands-on course.
+- **Where There Is No Doctor** (David Werner), published by Hesperian Health Guides. It is written for places without clinics. **It is copyrighted by Hesperian, not by the WHO.** Hesperian's front matter encourages copying "for non-commercial purposes", with credit to Hesperian, and asks you to get its permission first to use any part of the book commercially, in more than 100 print copies, or in any digital format (2025 printing front matter; see also Hesperian's Open Copyright Policy). A single paper copy for your own household is within the stated terms; check Hesperian before posting or sharing digital copies. It contains medicine doses; this repo gives none. For any medicine, follow your clinician, pharmacist and the product label.
 
-**Optional but high-value:**
-- **FAO Freshwater Fish Preliminary Processing** — if you expect to harvest fish. Print from the FAO archive (free).
-- **"Deep Survival" by Laurence Gonzales** — psychology and decision-making under stress. Not a technical manual, but teaches why people live or die. ~$15 used.
+**Optional:**
+- **Deep Survival** by Laurence Gonzales: psychology and decision-making under stress. Copyrighted; buy or borrow.
 
-### 2. Create Bound Copies for Redundancy
+### 2. Make Bound Copies of the Public-Domain Items
 
-**At-home copy** (primary reference):
-- Bind the FM 21-76 PDF (print double-sided, comb-bind). Cost: ~$10 for materials, 2 hours.
-- Bind the Peterson guide PDF. Cost: ~$15.
-- Keep these in a bookshelf, easy to reach. They're your calm-time reference layer.
+Only the Army manuals may be copied and bound.
 
-**Bug-out / vehicle copy** (secondary, smaller):
-- Print a condensed version of FM 21-76 (pages 1–80: fire, water, shelter, first aid). Staple. Cost: ~$5, weight ~5 oz.
-- Print Peterson abridged (key plant profiles relevant to your region). Staple. Cost: ~$5.
-- Keep this in your bug-out bag, car, or field pack. Small, light, enough to survive on.
+**At-home copy:**
+- Print ATP 3-50.21 double-sided and comb-bind it. Keep it on a shelf you can reach.
 
-**Third copy (optional, hidden):**
-- Distributed to a trusted location (parent's house, bug-out location). Same contents as bug-out copy. Insurance against loss.
+**Vehicle or bug-out copy (smaller):**
+- Print only the chapters you need (for example fire, water, shelter, navigation). Staple them. Keep them in the car or pack.
+
+**Do not make photocopies or PDF prints of** the SAS handbook, the Peterson guide, the Red Cross manual, or other copyrighted books. Buy a second copy instead if you want a spare.
 
 ### 3. Annotate for Your Context
 
-Physical books are **write-able**. Add:
-- **Margin notes** with local plant names, seasonal notes for your region (e.g., "morels appear mid-April here").
-- **Highlighted sections** that matter most to you (e.g., if you're diabetic, highlight the diabetes-continuity section in Where There Is No Doctor).
-- **Quick-reference tabs** (sticky tabs at chapter starts). Mark "FIRE," "WATER," "FIRST AID," "EDIBLE PLANTS" for fast lookup under stress.
-- **Printed map insert** (regional map showing your home, nearby water, escape routes, local hazards).
+Books are write-able. Add:
+- **Margin notes** with local names and seasons for your area.
+- **Highlighted sections** that matter most to you.
+- **Quick-reference tabs** at chapter starts ("FIRE", "WATER", "FIRST AID").
+- **A printed map insert** showing your home, nearby water and escape routes.
+
+If someone in your household has a chronic condition, keep the clinician's written plan and a current medication list with the books. Do not rely on a general handbook for medicine decisions.
 
 ### 4. Pair Physical with Hands-On Practice
 
-A book alone is **insufficient under panic**. Reading "how to build a fire" and starting one with wet wood in rain are different.
-- Practice the 5 core techniques **now, in calm**: fire-starting, water treatment, shelter-building, first-aid response, navigation.
-- When you read a section in the book, **immediately practice it** (or schedule a practice session). Example: read FM 21-76 on fire lays, then build 3 different fire lays in your yard.
-- A book + muscle memory = competence. A book alone = theoretical knowledge that fails under stress.
+A book alone is **insufficient under panic**. Read a section, then practise it. See [`skills-to-practice-now.md`](skills-to-practice-now.md).
 
 ### 5. Maintenance & Refresh
 
 **Quarterly:**
-- Check books for water damage, torn pages, fading. Keep in a dry, cool place (not a damp basement or hot attic).
-- Verify all three copies exist and are readable.
+- Check books for water damage, torn pages and fading. Store them in a dry, cool place.
+- Check that every copy exists and is readable.
 
 **Annually:**
-- Review any new field guides or manuals published in your region.
-- Update your annotations if local seasonal windows shift or new hazards emerge.
-- Replace copies if pages are illegible or pages are missing.
+- Update annotations if seasonal windows or local hazards change.
+- Replace any copy with missing or illegible pages.
 
-**Never:**
-- Rely on a single copy. Two at minimum (home + vehicle/bag).
-- Assume digital availability when power is gone. The backup layer must be physical.
+**Never rely on a single copy.** Keep at least two (home and vehicle or pack).
 
 ---
 
@@ -121,22 +124,24 @@ A book alone is **insufficient under panic**. Reading "how to build a fire" and 
 
 | Failure | Fix |
 |---------|-----|
-| **Book gets wet / pages are illegible** | Bind books in waterproof covers (Ziploc freezer bags, waterproof military surplus covers, or laminated pages). Test: submerge in water, pull out, ensure pages are still readable. |
-| **Can't find the right section under stress** | Use tabs and create a one-page index glued to the inside cover. Teach family members where the index is. |
-| **Peterson field guide is out of date or covers wrong region** | Buy a regional guide that covers YOUR specific biome (not national generalists). Verify the region on the cover or spine. |
-| **You own the book but never read it** | Start with FM 21-76 Chapter 1 (Survival Priorities). Read 10 pages/week; you'll finish the core manual in 6 weeks. Don't own a book you won't read. |
-| **Red Cross manual lacks details for your medical situation** | Pair it with Where There Is No Doctor (which covers chronic conditions). Or download USDA extension bulletins (free PDFs) on your specific medical need and print them. |
-| **Books are too heavy for a bug-out bag** | Print excerpts, not whole books. Create a 40-page condensed version (fire + water + first aid + 10 key plants) and staple it. Clip to bag. |
+| **Book gets wet and pages are illegible** | Keep it in a sealed freezer bag or waterproof cover. For the public-domain items, also keep a spare printed copy elsewhere. |
+| **You cannot find the right section under stress** | Add tabs and a one-page index on the inside cover. Show family members where it is. |
+| **Your field guide covers the wrong region** | Buy a guide for your own region. Check the region on the cover. |
+| **You own the book but never read it** | Read a few pages a week. Start with the survival-priorities chapter. |
+| **A manual's advice conflicts with this repo** | For plant edibility testing and improvised remedies, follow this repo's rules (see `05_food.md` and `06_first_aid.md`). When sources differ, take the safer choice. |
+| **Books are too heavy for a pack** | Print excerpts of the public-domain manuals only. Do not copy copyrighted books. |
 
 ---
 
 ## Sources
 
-- FM 21-76 — U.S. Army Survival Manual (Archive.org, free public-domain PDF)
-- FM 3-05.70 — Survival (FAS, free public-domain PDF)
-- SAS Survival Handbook — John "Lofty" Wiseman (physical book, ~$20)
-- Peterson Field Guide to Edible Wild Plants, Eastern/Central North America (Archive.org out-of-copyright PDF, or buy used ~$10)
-- American Red Cross First Aid/CPR Manual (current edition, ~$15)
-- Where There Is No Doctor — David Werner (Hesperian Health Guides, free PDF + printable)
-- Survivial-essentials repo survey: [`../../10_key_resources.md`](../../../10_key_resources.md)
-- Media catalog: [`../../_media/SOURCES.md`](../../../_media/SOURCES.md)
+- **ATP 3-50.21, Survival (U.S. Army, September 2018)**: https://archive.org/details/survival-atp-3-50-21 (Internet Archive copy carries a Public Domain Mark 1.0)
+- **FM 21-76 — U.S. Army Survival Manual**: https://archive.org/details/FM2176USARMYSURVIVALMANUAL (U.S. government work)
+- **FM 3-05.70 — Survival**: https://irp.fas.org/doddir/army/fm3-05-70.pdf (U.S. government work; the link opens as a PDF, checked 2026-10-21)
+- **SAS Survival Handbook, Third Edition**: https://books.apple.com/us/book/id904016120 (Mariner Books, November 2014, book listing)
+- **Lee Peterson, A field guide to edible wild plants of Eastern and Central North America (Houghton Mifflin, 1978)**: https://archive.org/details/fieldguidetoedib0000pete_h5c3 (restricted, borrow-only)
+- **Where There Is No Doctor, 2025 printing front matter (Hesperian)**: https://hesperian.org/wp-content/uploads/pdf/en_wtnd_2025/en_wtnd_2025_fm.pdf
+- **Hesperian Open Copyright Policy**: https://hesperian.org/open-copyright-policy/
+- **American Red Cross First Aid/CPR manual** (current edition): https://www.redcross.org/
+- Survival-essentials repo survey: [`10_key_resources.md`](../../../10_key_resources.md)
+- Media catalog: [`_media/SOURCES.md`](../../../_media/SOURCES.md)

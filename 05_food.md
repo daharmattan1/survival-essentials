@@ -135,7 +135,7 @@ The test is a last resort, never for mushrooms, and it cannot catch poisons that
 
 ### If someone ate something
 
-1. **Call Poison Control, 1-800-222-1222**, at the first suspicion. Do not wait for symptoms [21][30]. Have ready the person's age, weight and condition, and what and how much was eaten [24].
+1. **Call Poison Control, 1-800-222-1222**, at the first suspicion. Do not wait for symptoms [21][29]. Have ready the person's age, weight and condition, and what and how much was eaten [24].
 2. **Call 911** if the person collapses, has a seizure, has trouble breathing, or cannot be woken [29][30].
 3. **Do not make the person vomit.** Poison Control's guidance is "Do not induce vomiting" [30]. Do it only if Poison Control tells you to.
 4. **Save a sample.** Photograph it beside a coin for scale and keep pieces in a paper bag, not plastic [21].
@@ -308,7 +308,7 @@ What would have gone wrong: the deer left on the tailgate in the sun.
 - **Wild plant:** positive ID or do not consume.
 - **Wild mushroom:** never eat one on your own identification. A photo is never enough.
 - **This guide never says a wild plant, mushroom or animal is edible.** Go to [`regional/_index.md`](regional/_index.md).
-- **Poisoning:** Poison Control 1-800-222-1222. 911 if the person collapses, seizes, has trouble breathing or cannot be woken. Do not induce vomiting [30].
+- **Poisoning:** Poison Control 1-800-222-1222 [29]. 911 if the person collapses, seizes, has trouble breathing or cannot be woken [29][30]. Do not induce vomiting [30].
 - **Planning figure:** about 2,000 calories per adult per day [6][7].
 - **Rationing:** food can be rationed, but not for children or pregnant women. Never ration water [4].
 - **Power out:** closed fridge about 4 hours, full freezer about 48, half-full about 24 [5][2].
@@ -360,8 +360,8 @@ What would have gone wrong: the deer left on the tailgate in the sun.
 26. 4VAC15-350 (fishing methods, trotlines and juglines). Virginia Administrative Code. https://law.lis.virginia.gov/admincodefull/title4/agency15/chapter350
 27. Freshwater fishing regulations. Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=1406
 28. Build A Kit. Ready.gov / FEMA. https://www.ready.gov/kit
-29. Poison Help. National Capital Poison Center. https://www.poison.org/
-30. First Aid for Poisonings. National Capital Poison Center (Poison Control). https://www.poison.org/first-aid-for-poisonings
+29. Poison Help line (1-800-222-1222), online help and when to call 911. America's Poison Centers. https://poisoncenters.org/ and https://www.poisonhelp.org/
+30. First Aid for Poisonings (first-aid guidance, including "Do not induce vomiting"). National Capital Poison Center (poison.org). https://www.poison.org/first-aid-for-poisonings
 31. Precautions for Hunters (chronic wasting disease). Indiana Department of Natural Resources. https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/wildlife-diseases-in-indiana/precautions-for-hunters
 32. Safe Minimum Internal Temperature Chart (rabbit and venison, wild or farm-raised, 160 F; reviewed Nov 21, 2024). USDA / FoodSafety.gov. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
 

@@ -60,7 +60,7 @@ the game-animal disease blocks in the region pack. Sources are FM 21-76 / FAO (T
 
 ## `check_manifests`
 
-- [ ] Every row maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row maps to an existing file in `entries/`.
 - [ ] Every entry file has a row (no orphans).
 - [ ] Required columns filled.
 - [ ] No entry here asserts an edibility verdict for a *specific organism* — those belong to the

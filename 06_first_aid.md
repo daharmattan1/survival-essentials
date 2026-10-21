@@ -70,7 +70,7 @@ This follows the Army's "massive bleeding first" sequence [41], simplified (this
 
 **Tourniquet: how**
 
-1. Place it **2 to 3 inches above the wound, between the wound and the heart,** not on a joint. If the wound is at or near the elbow or knee, go above the joint. Over clothing is fine [2][4][5].
+1. Place it **at least 2 to 3 inches above the wound, between the wound and the heart,** not on a joint. If the wound is at or near the elbow or knee, go above the joint. Over clothing is fine [2][4][5].
 2. Pull the strap **as tight as you can,** then twist the rod (windlass) until the bleeding stops or you cannot twist further. Secure the rod so it cannot unwind [2][4].
 3. **Write down the time** and tell responders. Too long on can damage tissue [2][5].
 4. **Do not loosen or remove it.** Only a medical professional does that. If bleeding continues after you have tightened it as far as it goes, put a second tourniquet above the first, closer to the heart [4].
@@ -272,7 +272,7 @@ On a hike, a fall onto a sharp branch opens a companion's thigh. Blood pulses th
 
 1. **Send others for help** or toward signal. Alone, shout and try the phone from high ground.
 2. **Press** a folded shirt hard onto the wound with both hands [2][5].
-3. **The bleeding does not stop.** Tourniquet 2 to 3 inches above the wound on the thigh, between the wound and the body. Twist the rod until the blood stops, secure it, write the time on it [2][4].
+3. **The bleeding does not stop.** Tourniquet at least 2 to 3 inches above the wound on the thigh, between the wound and the body. Twist the rod until the blood stops, secure it, write the time on it [2][4].
 4. **Treat shock.** Lay the person flat. Do not raise the legs, because this is a leg injury. Cover them and put a layer under them. Nothing to eat or drink [7].
 5. **Do not loosen it** [4]. If blood still seeps, twist further and press a pad on the wound. If it keeps going, put a second tourniquet above the first [4].
 6. **Move toward care.** Do not release it. Get carried out and tell responders the time [9][10].
@@ -321,7 +321,7 @@ A boil-water notice has run three days. A family member started having watery di
 - **Child, baby or drowning:** call 911 and follow the dispatcher's CPR instructions. Take a hands-on course to learn child and infant CPR.
 - **Choking:** adult, 5 back blows then 5 abdominal thrusts; baby, 5 back blows then 5 chest thrusts.
 - **Heavy bleeding:** press hard; if blood soaks through, add cloth and keep pressing.
-- **Life-threatening arm or leg bleeding:** tourniquet now, 2 to 3 inches above the wound, not on a joint.
+- **Life-threatening arm or leg bleeding:** tourniquet now, at least 2 to 3 inches above the wound, not on a joint.
 - **Tourniquet:** as tight as you can; twist until bleeding stops; write the time; do not loosen or remove. Bleeding continues: second one above the first.
 - **Tourniquet will not go:** press hard with both hands; pack the wound only if you have learned how.
 - **Allergic reaction:** call 911; epinephrine auto-injector as prescribed, outer thigh, hold for the time on the device's label (EpiPen: 3 seconds).
