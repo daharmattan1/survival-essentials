@@ -4,24 +4,59 @@ title: Morel (Morchella spp.)
 type: MUSHROOM
 domain: regional/mid-atlantic-appalachian/mushrooms
 region_scope: mid-atlantic-appalachian
-usda_zone: 7a
-confidence: high
+usda_zone: 5b-8a
+confidence: medium
 source_tier: T2
 sources:
-  - title: Peterson Field Guide to Mushrooms of North America
-    publisher: Houghton Mifflin Harcourt
+  - title: Morels
+    publisher: Missouri Department of Conservation
+    url: https://mdc.mo.gov/discover-nature/field-guide/morels
+    tier: T1
+  - title: Morchella esculentoides
+    publisher: MushroomExpert.Com (Michael Kuo)
+    url: https://mushroomexpert.com/morchella_esculentoides.html
     tier: T2
-  - title: North American Mycological Association Field Identification Resources
-    publisher: NAMA
+  - title: Verpa bohemica
+    publisher: MushroomExpert.Com (Michael Kuo)
+    url: https://mushroomexpert.com/verpa_bohemica.html
     tier: T2
+  - title: Gyromitra caroliniana
+    publisher: MushroomExpert.Com (Michael Kuo)
+    url: https://mushroomexpert.com/gyromitra_caroliniana.html
+    tier: T2
+  - title: Mushroom Poisoning Syndromes
+    publisher: North American Mycological Association
+    url: https://www.namyco.org/mushroom_poisoning_syndromes.php
+    tier: T2
+  - title: "Report: nearly one-fifth of toxin remains in false morels despite boiling recommendation (26 May 2025)"
+    publisher: Finnish Food Authority (Ruokavirasto)
+    url: https://www.ruokavirasto.fi/en/themes/risk-assessment/risk-assessment-news/news-about-risk-assessment/report-nearly-one-fifth-of-toxin-remains-in-false-morels-despite-boiling-recommendation/
+    tier: T1
+  - title: "Mushroom poisoning: Don't invite \"the death angel\" to dinner"
+    publisher: America's Poison Centers (Poison Help)
+    url: https://www.poison.org/articles/wild-mushroom-warning
+    tier: T1
+  - title: Collecting Plants and Mushrooms (last updated April 26, 2022)
+    publisher: National Park Service, Shenandoah National Park
+    url: https://www.nps.gov/shen/learn/management/collecting-plants.htm
+    tier: T1
+  - title: Pennsylvania State Forests Rules and Regulations
+    publisher: Pennsylvania Department of Conservation and Natural Resources
+    url: https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations
+    tier: T1
+  - title: It's Time to Gather Summer Mushrooms (July 18, 2019)
+    publisher: Virginia Department of Wildlife Resources
+    url: https://dwr.virginia.gov/blog/its-time-to-gather-summer-mushrooms/
+    tier: T1
 common_names:
   - Morel
   - Black morel
+  - Yellow morel
   - Blonde morel
 scientific_name: Morchella spp.
-spore_print_color: white to pale buff
-fruiting_season: April–May (lowland), May–June (highland)
-fruiting_substrate: mycorrhizal with ash, elm, cottonwood, tulip poplar; sometimes on disturbed ground
+spore_print_color: unknown/variable (no source opened gives one; the print is not used for ID here)
+fruiting_season: spring (Kuo: March through June depending on latitude and altitude; Missouri: late March through April; no Mid-Atlantic agency dates opened)
+fruiting_substrate: ground under or near dead or dying American elm, living ash, old apple orchards and other hardwoods (Kuo, Missouri)
 cook_required: true
 edibility_status: edible-when-prepared
 hazard_severity: lethal
@@ -29,148 +64,137 @@ confusability_level: deadly-lookalike-exists
 preparation_required: true
 expert_id_required: true
 field_id_not_appropriate: true
-legal_status: unrestricted
+legal_status: regulated
 last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
 
-> ⚠ **Morel misidentification vs. False Morel — lethal consequence**
+Read the [mushroom doctrine and look-alike matrix](../_index.md) first.
+
+> ⚠ **Morel vs. false morels (*Gyromitra*) and *Verpa*: the wrong one can kill or sicken for days**
 >
 > **Positive-ID checklist (ALL must hold):**
-> - Cap is **pitted or honeycombed** (like a beehive or lace), not wrinkled or brain-like
-> - Cap is **fully hollow when sliced top-to-bottom** — uniform cavity from cap to stem base, no chambers or cottony fill
-> - Cap is **fused directly to the stem** (they are one seamless structure); stem may be hollow but is attached, not separated
-> - Grows in spring (April–May in lowland MD/VA) near hardwoods (ash, elm, tulip poplar) or disturbed soil
-> - Spore print is white to pale buff
+> - **The cap is pitted and ridged,** like a sponge or honeycomb. It is not lobed, folded, flapped or wrinkled [1][2].
+> - **Slice it from the top to the bottom of the stem. The cap and the stem are hollow all the way down,** one open space from the tip of the cap to the base of the stem [1][2]. Kuo notes that an old stem may be a little layered near the base [2]. If the cap is not fully hollow, or you are unsure, discard it.
+> - **The base of the cap joins the stem directly** (black and yellow morels) [1][2]. Half-free morels exist (the lower half of the cap hangs free) [1]. This guide treats any cap that hangs free as a reason to discard (see *Verpa* below).
+> - **No cottony or wispy fibre** stuffed in the stem or cap [3][4].
+> - Ground in moist woods, river bottoms, old orchards, in spring [1][2].
+> - **A person who knows morels has looked at the sliced mushroom in hand.**
 >
 > **Do NOT use if ANY of these are present (disqualifying traits):**
-> - Cap appears wrinkled, brain-like, or has lobed ridges (instead of regular pits)
-> - Interior is chambered, cottony, or has visible divisions when cut
-> - Cap sits loosely on the stem or is attached only at the edges (vs. fused along entire length)
-> - Mushroom is growing in summer (June+) in the lowland zone
+> - A cap that is wrinkled, folded, lobed or flapped instead of pitted [1].
+> - Any chambers, cottony stuffing or solid flesh inside the cap or stem [1][4].
+> - A cap that hangs free like a skirt and is attached only at the very top, or a stem with cotton-like fibres in it (*Verpa*) [3].
+> - A reddish-brown, tightly wrinkled cap on a thick, white, ribbed stem (eastern false morel, *Gyromitra caroliniana*). Its cap is NOT lobed and sits tightly on the stem, so "lobed" and "attached" will not catch it [4].
+> - Decayed, slimy or insect-damaged flesh, or a bag mixed with other mushrooms.
 >
-> **Confusable with:** False morel (*Gyromitra* spp.) → **FALSE morel has a wrinkled/brain-like lobed cap, chambers or cottony fill inside, not uniformly hollow** → gyromitrin toxin causes vomiting, seizures, liver/CNS damage; can be lethal.
+> **Confusable with:** false morels (*Gyromitra* spp., including the eastern *G. caroliniana*) → pitted cap and fully hollow interior vs. wrinkled or tightly folded cap and chambered, stuffed interior → gyromitrin poisoning: headache, severe diarrhea, vomiting, and in severe cases liver, kidney and blood-cell damage, possibly death [5]. Also *Verpa bohemica* (cap hangs free, stem stuffed with fibres) [3].
 >
-> **Verdict:** Positive ID on every checklist item AND spore print, expert confirmation recommended, or do not consume. **This species must never be eaten on field identification alone.** Pair with a recognized field guide or regional mycological society confirmation.
+> **Verdict:** Positive ID on every checklist item, or do not consume. This species must never be eaten on field identification alone. A photo or a description is never enough.
 
 ---
 
 ## ☠ Deadly Look-Alikes
 
-### False Morel (*Gyromitra* spp.)
+### False morels (*Gyromitra* spp.)
 
-**The discriminator (verbatim from the deadly-look-alike matrix):**
-- TRUE morel: cap **pitted/honeycombed**, fully **hollow** when sliced top-to-bottom, cap **fused to stem**
-- FALSE: cap **wrinkled/brain-like (lobed, not pitted)**, **chambered/cottony** inside, not uniformly hollow
+- **How they differ:** Missouri says false morel caps have lobes, folds, flaps or wrinkles instead of pits and ridges, and the cap and stalk are chambered, not hollow [1]. The **pitted cap plus a fully hollow inside, checked by slicing lengthwise,** is the test.
+- **The eastern false morel, *Gyromitra caroliniana*:** Kuo describes a reddish-brown, roundish, tightly wrinkled cap that is "not lobed" and "tightly affixed" to the stem, a thick white stem with vertical ribs up to 1 cm across, and an interior "heavily stuffed and chambered." It grows from Kansas to the East Coast, under hardwoods, usually near rotting stumps and downed trees, in spring [4]. Kuo says newspaper reports of giant "monster morels" are invariably this species [4].
+- **What it does:** NAMA says gyromitrin poisoning symptoms appear within 2 to 24 hours and include headaches, abdominal distress, severe diarrhea and vomiting. In severe cases liver, kidney and red blood cell damage may occur, possibly resulting in death. Treatment is largely supportive [5].
+- **Cooking does not fix a wrong ID.** The Finnish Food Authority found that after the recommended double boiling, about 18% of the original toxin remained on average, and that drying left up to half. It also states that no threshold level for gyromitrin or its toxic by-products has been established for human consumption [6].
+- **If in doubt, do not eat.**
 
-**What it does:** *Gyromitrin* (gyromitrin toxin) metabolizes to monomethylhydrazine (MMH) in the stomach. Symptoms begin 2–24 hours after consumption (most commonly 5–10 h for GI onset; neuro 6–12 h): nausea, vomiting, diarrhea, headache, tremor. Severe cases progress to seizures, liver damage, CNS toxicity, and death. The toxin is **not reliably destroyed by cooking** — cooking reduces but does not eliminate gyromitrin (~20% of toxin can remain even after recommended boiling, per Finnish Food Authority); *Gyromitra* **cannot be made reliably safe by cooking**.
+### Early false morel (*Verpa bohemica*)
 
-**Why this matters:** The false morel is common in the same season and habitat as the true morel. A visual scan of "cap shape" is insufficient; the internal structure must be cut open and examined. False morels often grow in clusters and can dominate a fruiting, making accidental collection likely if the checker does not slice each specimen.
+- **How it differs:** Kuo says the cap "hangs completely free of the stem, attached only at the top." The cap is wrinkled lengthwise (it may look pitted), and the stem is hollow or loosely stuffed with wispy white fibres "like cotton candy." It fruits very early in spring and keeps fruiting into the true morel season [3].
+- **Half-free morels are true morels,** but they are only partly attached and their stem is hollow. Kuo separates them from *Verpa* by how far the cap is attached and by the wispy stem filling [3]. A beginner should not try to make that call in the field. This guide's rule: **a cap that hangs free, or any cotton in the stem, goes in the discard pile.**
+- **What it does:** the sources opened do not settle whether *Verpa* is toxic. Kuo's page carries no edibility information [3]. Treat it as not a morel and do not eat it.
+
+### Elfin saddles (*Helvella* spp.)
+
+Missouri names these as a second look-alike group [1]. The page opened gives no description of them and no toxicity. Anything that does not have a pitted, sponge-like cap and a fully hollow inside fails the gate: discard it.
 
 ---
 
 ## Identification
 
-**Cap (8–15 cm tall):**
-- **Pitted or honeycombed pattern** — regular, rounded or oval pits separated by ridges; looks like a sponge or beehive
-- Color ranges from cream/tan (blonde morel) to dark brown/black (black morel)
-- **Fully hollow interior** — no chambers, no cottony filling; a single open cavity when cut vertically
-
-**Stem:**
-- **White to pale tan**, smooth or finely grooved
-- **Hollow** and directly fused to the cap (they are one piece)
-- Typically 5–10 cm tall, wider at the base
-- No ring or volva
-
-**Flesh:**
-- Thin, brittle, pale
-
-**Bruising:**
-- Does not bruise noticeably
-
-**Spore print:**
-- White to pale buff; must be taken from a fresh specimen for confident ID
-
-**Smell:**
-- Faint, pleasant, earthy (not a primary ID trait but can aid confirmation)
-
-**Critical observation:** Slice the entire mushroom vertically from cap through stem. The interior must be a single, uniform hollow chamber — no ridges, septa (walls), or cottony fill.
+- **Cap:** a somewhat conical head covered with definite pits and ridges, like a sponge, pinecone or honeycomb [1]. Kuo (*M. esculentoides*): pits randomly arranged and oriented, cap joined directly to the stem with no groove, young ridges pale and blunt, older ridges sharpened or eroded [2].
+- **Stem:** 2 to 12 cm tall, often swollen at the base, whitish to pale yellowish or brownish, bald or finely mealy [2]. Missouri says true morel stems are completely hollow [1].
+- **Inside:** hollow cap and hollow stem [1][2]. This is the cut test. Do it on every mushroom.
+- **Color:** the sources opened describe black, yellow and blonde forms [1]. Color is not the test.
+- **Spore print:** no source opened gives a print color for morels. Do not use a print to confirm a morel.
+- **Species:** Kuo says some eastern morel species cannot be separated without DNA work [2]. For eating decisions the species name does not matter. The gate does.
+- **Red flags every time:** wrinkled or folded cap; chambers, cotton or solid flesh inside; cap hanging free; reddish-brown cap on a thick ribbed white stem.
 
 ---
 
-## Habitat, Substrate & Fruiting (Mid-Atlantic / Appalachian, Zone 7a)
+## Habitat, Substrate & Fruiting (Mid-Atlantic / Appalachian)
 
-**Where it grows:**
-- Mycorrhizal with hardwoods: **ash** (most common), **elm**, **cottonwood**, **tulip poplar** (yellow poplar)
-- Often on slopes, floodplain edges, and disturbed ground (old logging sites, burned areas)
-- Occasionally in gardens or landscaped ash groves
+- **Where:** Kuo: east of the Rockies, "especially frequent under dead or dying American elms," and under living white ash and green ash, plus old untended apple orchards [2]. Missouri: moist woodlands and river bottoms, often with ash, dying elms and apple trees, but also under other hardwoods and conifers [1].
+- **When:** Kuo gives spring, March through June, depending on latitude and altitude [2]. Missouri gives late March through April for its own state [1]. No Virginia, Maryland, West Virginia or Pennsylvania agency source was opened, so treat these as the pattern the sources support, not as a calendar for your woods.
+- **Soil temperature and rain rules:** no opened source gives them, so none are given here.
 
-**Timing:**
-- **Lowland (Baltimore area, piedmont):** mid-April through early May
-- **Highland (Appalachian zone):** late May through June, as soil warms
-- First morels typically fruit after a 50–60°F soil temperature is sustained overnight for 3–5 days
+### Picking rules: check the land manager first
 
-**After what weather:**
-- Often fruit after spring rain or a warm rain-night sequence
-- Prefer moist (not waterlogged) soil conditions
-- Disappear by early June in the lowland zone
+Foraging rules differ by land manager and change. Nothing here is legal advice, and no source opened gives a survival exemption.
+
+- **Shenandoah National Park:** small amounts of edible mushrooms may be collected for personal use; collecting or disturbing medicinal, woody shelf or other inedible mushrooms is prohibited. The park sends readers to the superintendent's compendium [8].
+- **Pennsylvania state forests:** DCNR prohibits removing a living or dead plant, including fungus, without written permission, and separately permits gathering edible wild plants or plant parts for personal or family consumption. The page does not say whether the second rule covers mushrooms, so ask DCNR [9].
+- **George Washington and Jefferson National Forests and Virginia wildlife management areas:** Virginia DWR says personal gathering of mushrooms is allowed, and commercial gathering needs a permit or is prohibited [10].
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-Morels are **not safely eaten raw**. They contain chitin and other compounds that are poorly digestible when uncooked; moreover, cooking eliminates any residual toxin risk and firms the texture.
+**Never eat morels raw or undercooked. Cook them thoroughly.** Missouri says always cook them [1]. NAMA says even morels can cause upset if eaten raw or not thoroughly cooked [5]. Cooked morels can still upset some people. NAMA lists morels among mushrooms that can cause stomach and bowel distress in susceptible people when taken with alcohol, with a delay of up to 5 hours [5].
 
-**Preparation protocol:**
-1. **Clean carefully:** brush loose dirt from caps and stems; do not soak (they absorb water and become mushy). A damp cloth works.
-2. **Split lengthwise** and inspect the interior again. Discard if any chambers, cottony fill, or unexpected ridges appear.
-3. **Boil first:** submerge whole or halved morels in salted water for 5–10 minutes. Drain and discard the liquid.
-4. **Cook thoroughly:** sauté in butter, roast, or add to soups. Do not eat raw or undercooked.
-5. **First-portion rule:** after preparation, consume a small portion (2–3 mushrooms) with no other new foods or alcohol. Wait 6–8 hours for any GI upset. Only if no reaction occurs, continue eating.
-6. **Avoid alcohol:** some individuals report GI distress if morels are consumed with beer or wine; err on the side of water/no alcohol for the first meal.
-7. **Never mix foraging collections:** only morels in your container; do not mix with other wild mushrooms in a single bag (contamination risk).
+1. **Confirmed ID first.** Every gate item holds, you sliced each one lengthwise, and a person who knows morels has seen them.
+2. **Clean:** brush off dirt and check the inside again for grit, insects, chambers or cotton (general practice).
+3. **Cook thoroughly** [1][5]. No opened source gives a time or temperature, so none is given here.
+4. **First-portion rule.** Eat a small portion the first time and wait. Doctrine point 7 applies (general practice).
+5. **No alcohol** with the first meal, and ideally never with morels [5].
+6. **Never mix collections** in one bag, and never try two new species at once (doctrine points 4 and 7). Keep one raw specimen aside for identification if someone gets sick [10].
+7. **Cooking does not rescue a wrong ID.** A false morel is not made fit to eat by boiling [6].
 
 ---
 
 ## Toxicology of the Confusables
 
-### *Gyromitra* spp. (False Morel) — Gyromitrin Toxin
+### Gyromitrin (false morels)
 
-**The toxin:** Gyromitrin is metabolized by stomach acid and heat to **monomethylhydrazine (MMH)**, a volatile compound. MMH acts primarily as a **pyridoxal-5-phosphate (vitamin B6) antagonist**, depleting GABA and causing seizures; treatment requires high-dose pyridoxine (B6). MAO inhibition is an incidental effect, not the primary mechanism of toxicity.
+- **Onset:** within 2 to 24 hours [5]. Because of the wait, a victim may not connect the illness to the meal. Do not wait for symptoms to call.
+- **Symptoms:** headaches, abdominal distress, severe diarrhea, vomiting; in severe cases liver, kidney and red blood cell damage, possibly death [5].
+- **Treatment:** largely supportive, and a physician should be consulted [5]. Hospital care is guided by a poison center. There is nothing to do at home.
+- **Heat:** boiling and drying do not remove it all. About 18% remained after double boiling in the Finnish study [6].
 
-**Timeline & symptoms:**
-- **Onset:** 2–24 hours post-consumption (most commonly 5–10 h for GI onset; neuro 6–12 h)
-- **Phase 1 (4–8 h):** nausea, vomiting, diarrhea, abdominal cramping, headache, lightheadedness
-- **Phase 2 (if severe or untreated, 8–24 h+):** tremor, ataxia (loss of coordination), seizures, altered mental status, hypoglycemia, jaundice
-- **Phase 3 (severe cases):** liver necrosis, kidney failure, coma, death
+### *Verpa*
 
-**Why cooking doesn't help:** Gyromitrin is partially but **not reliably** destroyed by heat. Cooking reduces toxin load — repeated boiling in changes of water may lower it further — but ~20% of the toxin can remain even after recommended boiling (Finnish Food Authority). *Gyromitra* **cannot be made reliably safe by cooking.** There is no safe dosing threshold; **even "treated" false morels remain a serious risk.**
+The sources opened give no toxin or symptoms for *Verpa*. This entry does not invent any [3].
 
-**No antidote, only supportive care:** treatment is hospitalization for IV fluids, blood glucose monitoring, and high-dose pyridoxine (vitamin B6, the specific cofactor depleted by MMH); liver function must be monitored. Deaths have occurred despite treatment.
-
-**Lesson:** the 6–24 hour latency of false-morel poisoning means the victim may not connect the meal to the illness, delaying medical attention and worsening outcome. Do not risk field ID alone.
+**If someone ate a suspected false morel, or any wild mushroom they could not identify:** call Poison Control at **1-800-222-1222** at once, even if they feel fine [7]. Call **911** if the person collapses, has a seizure, has trouble breathing or cannot be woken. Do not make the person vomit unless Poison Control says to. Save a sample of what was eaten, in a paper bag, and photograph it. Get medical care now. Details: [the food guide](../../../../05_food.md#if-someone-ate-something). This is commonly taught guidance for when professional care is far away, not medical advice.
 
 ---
 
 ## Reference Photos
 
-Local CC0 reference images (in [`_media/photos/`](../../../../_media/photos/), full attribution in
-[`_media/SOURCES.md`](../../../../_media/SOURCES.md)). **Supporting evidence only — a photo is
-NEVER sufficient for ID; the positive-ID gate above governs.**
+Local CC0 images in [`_media/photos/`](../../../../_media/photos/), with attribution in [`_media/SOURCES.md`](../../../../_media/SOURCES.md). **Supporting evidence, never sufficient for ID.** The gate above governs.
 
-- True morel (*Morchella americana*): `morel-true_morchella-americana_CC0.jpg` — note the
-  **pitted/honeycombed** cap, fully **hollow** when sliced.
-- ☠ False morel (*Gyromitra* spp.): `false-morel_gyromitra-esculenta_CC0.jpg` — note the
-  **wrinkled/brain-like, lobed** cap, **chambered** (not hollow) inside. In the Mid-Atlantic, the
-  eastern species are *Neogyromitra caroliniana* and *N. brunnea* (formerly placed in *Gyromitra*);
-  *G. esculenta* sensu stricto is less common here but the toxin profile is the same across the group.
+- True morel (*Morchella americana*): `morel-true_morchella-americana_CC0.jpg`. Note the pitted, honeycombed cap.
+- ☠ False morel (*Gyromitra esculenta*): `false-morel_gyromitra-esculenta_CC0.jpg`. This is the lobed, brain-like kind. The common eastern false morel (*G. caroliniana*) looks different: tightly wrinkled and not lobed. Do not expect a false morel to look like this photo.
 
 ---
 
 ## Sources
 
-- Peterson, R. T., & McKenny, M. (1987). *A Field Guide to Mushrooms of North America*. Houghton Mifflin Harcourt. [T2]
-- North American Mycological Association (NAMA). Regional identification resources and toxicology database. [T2]
-- Maines, R. P. (2000). Gyromitra and monomethylhydrazine toxicity. In *Medicinal Mushrooms of North America*. Fungal Ecology & Toxicology Review.
+1. Morels. Missouri Department of Conservation. https://mdc.mo.gov/discover-nature/field-guide/morels [T1]
+2. Morchella esculentoides. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/morchella_esculentoides.html [T2]
+3. Verpa bohemica. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/verpa_bohemica.html [T2]
+4. Gyromitra caroliniana. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/gyromitra_caroliniana.html [T2]
+5. Mushroom Poisoning Syndromes. North American Mycological Association. https://www.namyco.org/mushroom_poisoning_syndromes.php [T2]
+6. Report: nearly one-fifth of toxin remains in false morels despite boiling recommendation, 26 May 2025. Finnish Food Authority (Ruokavirasto). https://www.ruokavirasto.fi/en/themes/risk-assessment/risk-assessment-news/news-about-risk-assessment/report-nearly-one-fifth-of-toxin-remains-in-false-morels-despite-boiling-recommendation/ [T1]
+7. Mushroom poisoning: Don't invite "the death angel" to dinner. America's Poison Centers (Poison Help). https://www.poison.org/articles/wild-mushroom-warning [T1]
+8. Collecting Plants and Mushrooms. National Park Service, Shenandoah National Park (last updated April 26, 2022). https://www.nps.gov/shen/learn/management/collecting-plants.htm [T1]
+9. Pennsylvania State Forests Rules and Regulations. Pennsylvania DCNR. https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations [T1]
+10. It's Time to Gather Summer Mushrooms. Virginia Department of Wildlife Resources, July 18, 2019. https://dwr.virginia.gov/blog/its-time-to-gather-summer-mushrooms/ [T1]

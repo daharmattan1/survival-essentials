@@ -238,7 +238,7 @@ The CDC lists bear, wild boar, wildcat, fox, wolf, seal and walrus as meats that
 
 Food that sits between 40 F and 140 F spoils fast [1].
 
-**Drying jerky.** Heat meat strips to 160 F first (165 F for poultry and game birds [17][1], for rabbit and hare [11], and for squirrel, bear, wild pig and other wild meat-eaters [33]), in marinade or in an oven. Then dry at 140 F until a test strip cracks but does not break when bent [18]. Heating first matters because bacteria such as *E. coli* may be present [18]. Jerky keeps one to two months refrigerated below 40 F [15].
+**Drying jerky.** Heat meat strips to 160 F first (165 F for poultry and game birds [17][1], for rabbit and hare [11], and for squirrel, bear, wild pig and other wild meat-eaters [33]), in marinade or in an oven. Then dry at 140 F until a test strip cracks but does not break when bent [18]. Heating first matters because bacteria such as *E. coli* may be present [18]. Jerky keeps one to two months refrigerated below 40 F [15]. At room temperature in a sealed container, eat properly dried jerky within about two weeks [34].
 
 **Smoking and salting.** This guide gives no tested home formula for either. Smoke and salt do not reliably kill *Trichinella* [12]. Cold smoking in the 40 to 140 F range for days sits where bacteria multiply [1]. (This guide's judgment: cook fresh meat within two to three days, keep it cold, or dry heated strips.)
 
@@ -365,6 +365,7 @@ What would have gone wrong: the deer left on the tailgate in the sun.
 31. Precautions for Hunters (chronic wasting disease). Indiana Department of Natural Resources. https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/wildlife-diseases-in-indiana/precautions-for-hunters
 32. Safe Minimum Internal Temperature Chart (rabbit and venison, wild or farm-raised, 160 F; reviewed Nov 21, 2024). USDA / FoodSafety.gov. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
 33. Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907, Oct 10, 2024). CDC. https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm
+34. Jerky (storage). National Center for Home Food Preservation, University of Georgia. https://nchfp.uga.edu/how/dry/jerky.html
 
 ---
 

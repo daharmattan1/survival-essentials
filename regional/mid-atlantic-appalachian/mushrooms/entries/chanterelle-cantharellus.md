@@ -4,24 +4,74 @@ title: Chanterelle (Cantharellus spp.)
 type: MUSHROOM
 domain: regional/mid-atlantic-appalachian/mushrooms
 region_scope: mid-atlantic-appalachian
-usda_zone: 7a
-confidence: high
+usda_zone: 5b-8a
+confidence: medium
 source_tier: T2
 sources:
-  - title: Peterson Field Guide to Mushrooms of North America
-    publisher: Houghton Mifflin Harcourt
+  - title: Chanterelles
+    publisher: Missouri Department of Conservation
+    url: https://mdc.mo.gov/discover-nature/field-guide/chanterelles
+    tier: T1
+  - title: Cantharellus lateritius (Smooth chanterelle)
+    publisher: MushroomExpert.Com (Michael Kuo); identification only, the site disclaims toxicity
+    url: https://mushroomexpert.com/cantharellus_lateritius.html
     tier: T2
-  - title: North American Mycological Association Field Identification Resources
-    publisher: NAMA
+  - title: Cantharellus appalachiensis
+    publisher: MushroomExpert.Com (Michael Kuo); identification only
+    url: https://mushroomexpert.com/cantharellus_appalachiensis.html
     tier: T2
+  - title: Jack-o'-Lantern
+    publisher: Missouri Department of Conservation
+    url: https://mdc.mo.gov/discover-nature/field-guide/jack-o-lantern
+    tier: T1
+  - title: Omphalotus illudens
+    publisher: MushroomExpert.Com (Michael Kuo); identification only
+    url: https://mushroomexpert.com/omphalotus_illudens.html
+    tier: T2
+  - title: An adventure with Omphalotus
+    publisher: Cornell Mycology blog (Cornell University)
+    url: https://blog.mycology.cornell.edu/2007/04/02/an-adventure-with-omphalotus
+    tier: T2
+  - title: Hygrophoropsis aurantiaca
+    publisher: MushroomExpert.Com (Michael Kuo); identification only
+    url: https://mushroomexpert.com/hygrophoropsis_aurantiaca.html
+    tier: T2
+  - title: Hygrophoropsis aurantiaca (false chanterelle)
+    publisher: Wikipedia (corroboration only; it cites Miller and Miller 2006, Jordan 2004, Sitta 2021)
+    url: https://en.wikipedia.org/wiki/Hygrophoropsis_aurantiaca
+    tier: T3
+  - title: Mushroom Poisoning Syndromes
+    publisher: North American Mycological Association
+    url: https://www.namyco.org/mushroom_poisoning_syndromes.php
+    tier: T2
+  - title: Wild Mushroom Safety (identification, cooking, poison awareness)
+    publisher: North American Mycological Association
+    url: https://namyco.org/?p=163236
+    tier: T2
+  - title: First Aid for Poisonings
+    publisher: National Capital Poison Center (poison.org)
+    url: https://www.poison.org/first-aid-for-poisonings
+    tier: T1
+  - title: Poisonous mushrooms pose danger as more people forage
+    publisher: Rutgers University
+    url: https://www.rutgers.edu/news/poisonous-mushrooms-pose-danger-more-people-forage-locally-grown-food-rutgers-experts-say
+    tier: T1
+  - title: Collecting Plants and Mushrooms
+    publisher: National Park Service, Shenandoah National Park
+    url: https://www.nps.gov/shen/learn/management/collecting-plants.htm
+    tier: T1
+  - title: Pennsylvania State Forests Rules and Regulations
+    publisher: Pennsylvania Department of Conservation and Natural Resources
+    url: https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations
+    tier: T1
 common_names:
   - Chanterelle
   - Golden chanterelle
-  - Girolle
-scientific_name: Cantharellus spp. (Mid-Atlantic species primarily C. lateritius and C. appalachiensis; C. cibarius sensu stricto is European)
-spore_print_color: white to pale yellow
-fruiting_season: June–September
-fruiting_substrate: mycorrhizal with hardwoods (oak, beech, birch); forest soil and litter
+  - Smooth chanterelle
+scientific_name: Cantharellus spp. (eastern species in the sources opened include C. lateritius and C. appalachiensis)
+spore_print_color: white, cream or pale pinkish yellow (varies by species; does not separate chanterelle from its look-alikes)
+fruiting_season: summer (July is typical for C. lateritius per Kuo; Missouri lists May to October)
+fruiting_substrate: on the ground, mycorrhizal with oaks, hickories and other hardwoods; never on decaying wood
 cook_required: true
 edibility_status: edible-when-prepared
 hazard_severity: high
@@ -29,180 +79,146 @@ confusability_level: deadly-lookalike-exists
 preparation_required: true
 expert_id_required: true
 field_id_not_appropriate: true
-legal_status: unrestricted
+legal_status: regulated
 last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
 
-> ⚠ **Chanterelle ridges vs. jack-o'-lantern gills — fatal classic error**
+> ⚠ **Chanterelle vs. jack-o'-lantern and false chanterelle — a poisoning that sends many people to the emergency room**
 >
 > **Positive-ID checklist (ALL must hold):**
-> - **Gills are NOT true gills — they are blunt forked RIDGES** that run down the stem (decurrent); ridges are thick, blunt-edged, and branch/fork as they run downward
-> - **Bright yellow to orange**, sometimes pale pale tan
-> - **Mycorrhizal on the ground** — grows from soil in association with hardwoods (oak, beech, birch), not on wood or buried roots
-> - Cap is typically funnel or vase-shaped, with wavy edges
-> - Fruiting June–September
-> - **Spore print is white to pale yellow** — not orange
+> - **False gills, not true gills.** The underside is nearly smooth, or has wrinkles and gill-like ridges running down the stem. The ridges are always blunt-edged [1][2][3].
+> - **White to pale yellow flesh inside. Cut the stem lengthwise on every mushroom.** Chanterelle flesh is white and unchanging (*C. lateritius*) or whitish to yellowish and unchanging (*C. appalachiensis*) [2][3]. Jack-o'-lantern flesh is pale orange [5].
+> - **On the ground, in grass or leaf litter, never on decaying wood** [1]. Kuo's *C. lateritius* grows alone, scattered or in groups, sometimes densely [2]. Fused clusters rising from a stump, tree base or buried wood are jack-o'-lantern, not chanterelle [4][5].
+> - **Cap yellow to orange, or brown with yellow undertones** (*C. appalachiensis*) [2][3].
+> - **Fruiting in summer** [1][2][3].
 >
 > **Do NOT use if ANY of these are present (disqualifying traits):**
-> - Undersurface has **true gills** (thin, sharp-edged blades), not forked blunt ridges
-> - Growing in dense clumps on buried wood or emerging from soil over buried tree roots
-> - Summer/fall fruiting from partially buried wood or root clusters (jack-o'-lantern)
-> - Ridges are actually serrated knife-edge gills
+> - Thin, sharp-edged, blade-like **true gills** [1][4][6]
+> - **Orange flesh** anywhere inside the stem [5]
+> - Growing in a dense cluster on a stump, the base of a tree, or buried wood [4][5][6]
+> - Soft, flimsy flesh with thin, repeatedly forked gills, on litter or woody debris under conifers [7]
 >
-> ⚠ **Spore print does NOT distinguish chanterelle from jack-o'-lantern** — both are white-to-cream/pale-yellow. The decisive test is **gill structure (true blades) vs. ridge structure (blunt, forked, integral to the cap)**, NOT spore-print color.
+> **Confusable with:** Jack-o'-lantern (*Omphalotus illudens*) → true, sharp-edged gills, dense clusters on wood, orange flesh → severe vomiting, cramps and diarrhea that can last days [4][5][9]. False chanterelle (*Hygrophoropsis aurantiaca*) → true thin forked gills, soft flesh → sources disagree on how toxic it is [7][8].
 >
-> **Confusable with:** Jack-o'-lantern (*Omphalotus* spp.) and false chanterelle (*Hygrophoropsis*) → **Chanterelle: false gills = blunt forked ridges running down the stem, bright yellow-orange, mycorrhizal (on ground near hardwood). Jack-o'-lantern: true, knife-edge gills, clustered on wood.** → *Omphalotus*: severe GI illness; **mistaking gills for ridges is the classic fatal-class error.**
+> **Spore print does NOT separate these.** Chanterelles print white to cream or pale pinkish yellow [2][3]. Jack-o'-lantern prints white to creamy or pale yellow [5]. False chanterelle prints white [7]. A white print clears nothing.
 >
-> **Verdict:** Positive ID on the ridge vs. gill distinction AND spore print, expert confirmation recommended, or do not consume. **This species must never be eaten on field identification alone.** Deadly look-alike present. **Mistaking jack-o'-lantern's true gills for chanterelle's blunt ridges is a common and dangerous error.**
+> **Verdict:** Positive ID on every checklist item, confirmed by a mushroom expert, or do not eat it. **This species must never be eaten on field identification alone.** Photos and descriptions are never enough.
 
 ---
 
 ## ☠ Deadly Look-Alikes
 
-### Jack-o'-lantern (*Omphalotus illudens* — eastern NA species)
+How bad is the main look-alike? The Missouri Department of Conservation says eating jack-o'-lantern "will make you very sick for a few days" and is not life-threatening to healthy adults [4]. NAMA reports most victims recovered within 12 hours, and says the victims usually thought they were picking chanterelles [9]. Cornell says most victims end up in the emergency room [6]. This reference still lists it at the top tier because the mistake is common and costly. If you are a child, elderly or already ill, dehydration from vomiting and diarrhea is the danger (general practice; NAMA stresses replacing lost fluids and electrolytes [9]).
 
-**The discriminators (verbatim from the deadly-look-alike matrix):**
-- Chanterelle: **false gills = blunt forked RIDGES running down the stem**, not true blades; bright yellow-orange; mycorrhizal (on ground near hardwood)
-- Jack-o'-lantern: **true, knife-edge gills**, clustered on wood
+### Jack-o'-lantern (*Omphalotus illudens*, eastern North America)
 
-**The critical difference:** This is the **classic, fatal-class error** in mushroom foraging. Both are bright orange-yellow and fruity-smelling. The undersurface is the discriminator:
-- **Chanterelle ridges:** thick, blunt-edged, fork or branch as they run downward; you **cannot separate one ridge from the mushroom body** with a knife (they are ridges, integral to the cap structure)
-- **Jack-o'-lantern gills:** thin, sharp-edged, blade-like; you **can separate a gill from the cap** as a distinct structure; gills often drip liquid if squeezed
+| Check | Chanterelle | Jack-o'-lantern |
+|---|---|---|
+| Underside | False gills: nearly smooth, or wrinkles and blunt-edged ridges [1][2] | True gills, "sharp-edged," close or crowded, running down the stem [4][5] |
+| Flesh inside | White to whitish yellow, unchanging [2][3] | Pale orange, unchanging [5] |
+| How it grows | On the ground, alone, scattered or in groups, never on decaying wood [1][2] | Large dense clusters on stumps, tree bases or buried roots of hardwoods, especially oaks [4][5][6] |
+| Cap | Yellow to orange, or brownish with yellow [2][3] | Bright orange to pumpkin orange [5] |
+| Spore print | White to cream or pale pinkish yellow [2][3] | White to creamy or pale yellow [5] |
 
-**Spore print:** *O. illudens* produces a **white-to-cream spore print** (the cap and gills are orange, but the spores are white); true chanterelle is also white-to-pale-yellow. Spore print alone does not distinguish these two — gill structure is the decisive test.
+What to do: pick one mushroom, turn it over, and cut the stem lengthwise. If the underside has thin, sharp blades, or the inside is orange, or there is a tight cluster on wood, throw all of it out. Season does not help either: jack-o'-lantern fruits July to October [4], the same weeks chanterelles do.
 
-**What it does:** Jack-o'-lantern contains **illudins** (DNA-alkylating cytotoxins) causing severe GI illness. Symptoms: rapid onset nausea, vomiting, severe cramping, watery diarrhea, salivation. Usually self-limited within 6–24 hours, but severe dehydration and aspiration risk occur in serious cases. Illudins are NOT cholinergic agonists — the clinical picture is severe GI, not a cholinergic (muscarine-like) syndrome.
+Do not use the glow. Jack-o'-lantern gills are luminescent when fresh [5], but Cornell says the glow fades after the mushroom is picked, so no glow proves nothing [6].
 
-**Why this matters:** The resemblance is close enough that novice foragers often rely on color and smell alone. Both are golden/orange and pleasant-smelling. The error is made even more likely by old field guides or online photos showing poor gill detail. The only safe path is to handle the mushroom in the field, carefully examine and manipulate the undersurface, and confirm the ridge-vs-gill distinction before harvest.
+### False chanterelle (*Hygrophoropsis aurantiaca*)
 
-### False Chanterelle (*Hygrophoropsis aurantiaca*)
-
-**The discriminators:**
-- False chanterelle has **true, repeatedly-forked gills** — thin, sharp-edged, blade-like, and separable from the cap — unlike the blunt, non-separable false ridges of a true chanterelle; this is the decisive distinction
-- False chanterelle is thinner-textured, more pliable, and often grows in clusters on or near woody debris
-- True chanterelle has stouter texture, fuller-bodied blunt ridges, and grows mycorrhizally from soil
-
-**What it does:** *Hygrophoropsis aurantiaca* is now generally classified as **poisonous / weakly toxic** — GI illness from arabitol and related compounds; anecdotal unconfirmed neurological reports exist. It is not merely "inedible"; it should be treated as a toxic species and avoided.
-
-**Why this matters:** Less common than jack-o'-lantern confusion, but still a risk. Spore print helps (white-to-pale-yellow for true chanterelle); also confirm by handling the ridges — true chanterelle ridges feel blunt and cannot be peeled free.
+- Kuo describes true gills that are repeatedly forked, pale to bright orange and soft, on a thin whitish, flimsy mushroom, growing on litter and woody debris, usually under conifers [7].
+- Chanterelles are sturdier, with false gills [7]. A secondary source also lists deeper orange color, a velvety cap and forked gills as marks of the false chanterelle [8].
+- Spore print is white [7], so it does not help.
+- Toxicity is disputed. The conflict rests on a Tier 3 summary [8] that cites books; no Tier 1 or Tier 2 source opened states whether it is toxic (Kuo gives identification only [7]). That summary says one source calls it poisonous with possible serious digestive problems, that it was sometimes called edible but not tasty until 1999, and that an Italian author (Sitta 2021) judged the one attributed poisoning case possibly idiosyncratic (one of three diners ill) and concluded it is harmless, though Italy does not recommend it [8]. Treat it as not for eating.
 
 ---
 
 ## Identification
 
-**Cap:**
-- **Bright yellow to orange**, sometimes pale tan or cream
-- **Funnel, vase, or trumpet-shaped** — center depressed, edges often wavy or irregular
-- **Smooth or slightly ridged** upper surface
-- Diameter 2–10 cm (variable)
+**Underside:** False gills. Nearly smooth, or with wrinkles and gill-like ridges that run down the stem, always blunt-edged [1]. *C. lateritius* is "smooth or with shallow wrinkles," paler than the cap and often pinkish [2]. *C. appalachiensis* has closely spaced false gills that run down the stem, yellow throughout [3].
 
-**Undersurface:**
-- **NOT true gills — blunt forked RIDGES** (false gills) that run downward (decurrent)
-- Ridges are thick, rounded-edged, and branch or fork as they extend toward and along the stem
-- **You cannot peel a ridge off the cap** as a distinct object (they are part of the cap structure)
-- Same color as cap, or slightly paler
+**Cap:** Bright orange-yellow to egg-yolk yellow (*C. lateritius*) [2]. Brown at first, becoming yellowish brown to yellowish with a brown spot over the center (*C. appalachiensis*) [3].
 
-**Stem (stipe):**
-- **Solid** (not hollow like oyster or morel)
-- Pale yellow to orange, same color or paler than cap
-- Tapers gradually downward or expands into the cap
-- No ring or volva
+**Flesh:** White and unchanging when sliced (*C. lateritius*) [2]. Whitish to yellowish, unchanging (*C. appalachiensis*) [3]. This is the fastest test against jack-o'-lantern, which is pale orange inside [5].
 
-**Flesh:**
-- Pale yellow or orange, thick and firm
-- Does not stain or bruise noticeably
+**Spore print:** Pale pinkish yellow (*C. lateritius*) [2], white to creamy (*C. appalachiensis*) [3]. Only useful to rule out a different color, never to confirm.
 
-**Spore print:**
-- **White to pale yellow** — taken on white or tan paper overnight
-- ⚠ **Jack-o'-lantern's spore print is ALSO white-to-cream** — so spore print does NOT separate the two. The decisive test is ridge (chanterelle) vs. true gill (jack-o'-lantern) structure.
+**Smell, color, insect damage:** NAMA says color, insect damage, smell and folklore are not reliable tests of edibility [10].
 
-**Smell:**
-- Pleasant, fruity, or slightly apricot-like (not a primary ID trait but supportive)
-
-**Bioluminescence:**
-- Jack-o'-lantern can faintly glow in the dark
-- Chanterelle does not glow
-
-**Critical field test:**
-1. Examine the undersurface in clear light.
-2. Run a fingernail or soft knife handle along the ridges — they should feel blunt, not sharp.
-3. Attempt to separate a ridge from the cap — it should NOT come free as a blade would.
-4. Cross-sectional view: if you were to slice the mushroom vertically, the ridges should appear as thick lines, not thin blades.
+**Similar chanterelles:** *Cantharellus confluens* is nearly identical, and *Craterellus odoratus* is thin-fleshed and fragile [2]. MDC also lists smooth, golden, cinnabar and black trumpet chanterelles as similar species [1]. This entry covers only the two species above. For any other chanterelle-like mushroom, this entry gives no basis to eat it.
 
 ---
 
-## Habitat, Substrate & Fruiting (Mid-Atlantic / Appalachian, Zone 7a)
+## Habitat, Substrate & Fruiting (this biome)
 
-**What it grows with:**
-- **Mycorrhizal** with hardwoods: oak (most common), beech, birch, hickory, maple
-- Never on wood itself; always from the soil in association with living or recently-dead hardwoods
-
-**Where in the region:**
-- Mixed oak-beech forests, floodplain hardwoods, upland ridges
-- Forest clearings and trails with dappled light
-- Often in mossy patches or among leaf litter
-
-**Fruiting season:**
-- **June–September** (peak July–August in Maryland/Virginia)
-- Prefer moist, warm conditions after summer rain
-- Can be prolific in wet years; scarce in drought years
-
-**After what weather:**
-- Fruit abundantly after warm rain in mid to late summer
-- Prefer consistent moisture (not waterlogged, but not dry)
-- Often associated with limestone or rich soil
+- **Grows with:** oaks and sometimes hickories (*C. lateritius*) [2]; oaks and other hardwoods (*C. appalachiensis*) [3]. On the ground, in grass or leaf litter [1].
+- **Season:** summer. *C. lateritius* "usually appears in July" [2]; *C. appalachiensis* in summer [3]; Missouri lists May to October [1].
+- **Range:** *C. lateritius* is widespread east of the Rocky Mountains [2]. *C. appalachiensis* is found throughout eastern North America [3]. These sources cover the East, not the Mid-Atlantic specifically. Peak weeks and rain triggers for VA, MD, WV and PA were not found in a source and are left out.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-Chanterelle is **not safely eaten raw** and requires cooking for digestibility and safety.
+Cook wild mushrooms thoroughly. NAMA notes that many edible species need appropriate preparation, using thoroughly cooked morels as its example [10]. The Missouri Department of Conservation labels chanterelles edible and adds "Always be cautious when eating edible mushrooms" [1]. No source opened says to eat a chanterelle raw.
 
-**Preparation protocol:**
-1. **Harvest firm, fresh specimens:** select young, open chanterelles from recent flushes. Discard old, slimy, or pest-damaged specimens.
-2. **Clean carefully:** brush or rinse gently; do not soak (absorbs water and becomes waterlogged). Pay special attention to the ridges, which can trap dirt.
-3. **Examine the undersurface one more time** — confirm the ridges are blunt and cannot be peeled free. Discard if gills appear knife-edged.
-4. **Cut into bite-sized pieces** and sauté in butter or oil over medium heat until the liquid released is mostly evaporated and the mushroom firms up (5–7 minutes).
-5. **Cook thoroughly:** chanterelles are best sautéed, but also suit soups and stews. Do not eat raw or barely-cooked.
-6. **First-portion rule:** after preparation, consume a small portion (2–3 small pieces) with no other new foods or alcohol. Wait 6–8 hours for GI reaction. Only if no upset occurs, continue eating.
-7. **Avoid alcohol:** some individuals report GI distress if chanterelles are paired with beer or wine during the first trial; water only.
-8. **The decisive test is gill-vs-ridge, NOT spore print:** for any ambiguous specimen, examine the undersurface — true chanterelle has **blunt, forked ridges integral to the cap (cannot be peeled free)**; jack-o'-lantern has **thin, sharp-edged true gills (separable blades)**. ⚠ Spore print does NOT discriminate them — both are white-to-cream — so never use spore-print color to "clear" a suspect chanterelle. If the undersurface has true gills, or it grows clustered on wood/buried roots → discard.
-9. **Never mix collections:** only chanterelles in your container; do not combine with other wild mushrooms in a single bag.
+1. Confirm every item in the gate on every mushroom, including the lengthwise cut. Have a mushroom expert confirm the collection first.
+2. Throw out any old, decayed or insect-damaged mushroom.
+3. Cook thoroughly before eating. Do not eat raw.
+4. Keep one species per container. Never mix collections.
+5. Eat a small amount the first time (general practice). A small portion does not clear a doubtful mushroom: some poisoning starts in 1 to 3 hours and others 6 to 24 hours later [9].
+6. If anything about the ID is in doubt, do not eat it. "When in doubt, throw it out" [12].
 
 ---
 
 ## Toxicology of the Confusables
 
-### Jack-o'-lantern (*Omphalotus illudens*) — Illudin Toxins
+### Jack-o'-lantern (*Omphalotus illudens*)
 
-**The toxins:** **Illudins** (sesquiterpene-derived DNA-alkylating cytotoxins) and related compounds; thermostable (cannot be cooked out). These are NOT muscarinic/cholinergic agonists — the mechanism is cytotoxic GI damage, not cholinergic stimulation.
+- **Toxins:** illudin M and illudin S. The toxin was long thought to be muscarine, but NAMA says the symptoms do not match classic muscarine poisoning [9].
+- **Onset:** typically 1 to 3 hours after the meal [9].
+- **Symptoms (NAMA case figures):** nausea in 90% of cases, vomiting in 73%, abdominal pain, headache, exhaustion, weakness (40%), dizziness. Less often sweating and salivation (15%) and diarrhea (22%) [9].
+- **Duration:** NAMA says recovery is usually rapid, most within 12 hours [9]. Missouri says very sick for a few days [4]. Cornell says symptoms pass within a day or two but most victims end up in the emergency room [6].
+- **Cooking:** no source opened says cooking removes the toxin. Do not count on it.
+- **Treatment:** NAMA says that with vomiting and diarrhea, replacing lost fluids and electrolytes is important [9]. That is medical care, not a home remedy.
 
-**Timeline & symptoms:**
-- **Onset:** 30 minutes to 4 hours post-consumption
-- **Phase 1:** excessive salivation, nausea, cramping
-- **Phase 2:** severe vomiting, watery diarrhea (rapid onset), muscle weakness, lacrimation
-- **Duration:** typically 6–24 hours; recovery usually complete
-- **Severity:** moderate to severe; dehydration risk in vulnerable individuals
+### False chanterelle (*Hygrophoropsis aurantiaca*)
 
-**No antidote; supportive care only:** IV fluids and electrolyte monitoring if severe. Antiemetics may control vomiting.
+Sources conflict, and the only place the conflict appears is a Tier 3 summary [8]: one source calls it poisonous with possible serious digestive problems, it was sometimes called edible but not tasty until 1999, and one author (Sitta 2021) judged the single attributed poisoning idiosyncratic and called it harmless, though Italy does not recommend it. No Tier 1 or Tier 2 source opened states its toxicity. Treat it as not for eating. No onset or duration is given in a source opened here, so none is stated.
 
-### False Chanterelle (*Hygrophoropsis* spp.)
+### If someone may have eaten a look-alike
 
-**GI toxins (poorly documented):** Likely contains compounds causing mild GI upset (poorly studied). Generally avoided by cautious foragers; not known to be lethal.
+This is commonly taught first aid for when help is slow to arrive, not medical advice.
 
-**Timeline & symptoms:**
-- **Onset:** 2–6 hours post-consumption
-- **Symptoms:** mild to moderate nausea, cramping, loose stools
-- **Duration:** typically self-limited within 12–24 hours
-- **Severity:** mild
+1. **Call Poison Help, 1-800-222-1222, now.** Do not wait for symptoms [11][12].
+2. **Call 911** if the person collapses, has a seizure, has trouble breathing, or cannot be woken [11].
+3. **Do not induce vomiting** [11].
+4. **Save a sample.** Photograph it beside a coin for scale and keep pieces in a paper bag, not plastic [12].
+5. Tell them what was eaten, when, and how much.
+
+---
+
+## Legal note
+
+Picking is regulated on public land and the rule differs by manager. Shenandoah National Park allows small amounts of edible mushrooms for personal use [13]. Pennsylvania state forests prohibit removing plants "including fungus, lichen and moss" without written DCNR permission, and the page does not say whether its personal-use exception for edible wild plants covers mushrooms [14]. Check the land manager's rule before picking. No survival exemption was found.
 
 ---
 
 ## Sources
 
-- Peterson, R. T., & McKenny, M. (1987). *A Field Guide to Mushrooms of North America*. Houghton Mifflin Harcourt. [T2]
-- North American Mycological Association (NAMA). Field Identification Guide: *Cantharellus* and *Omphalotus*. [T2]
-- Kuo, M. (2007–2024). *MushroomExpert.Com* (detailed species comparison, ridge-vs-gill distinction, and toxicology). [T2]
+1. Chanterelles. Missouri Department of Conservation. https://mdc.mo.gov/discover-nature/field-guide/chanterelles [T1]
+2. Cantharellus lateritius. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/cantharellus_lateritius.html [T2, identification only]
+3. Cantharellus appalachiensis. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/cantharellus_appalachiensis.html [T2, identification only]
+4. Jack-o'-Lantern. Missouri Department of Conservation. https://mdc.mo.gov/discover-nature/field-guide/jack-o-lantern [T1]
+5. Omphalotus illudens. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/omphalotus_illudens.html [T2, identification only]
+6. An adventure with Omphalotus. Cornell Mycology blog. https://blog.mycology.cornell.edu/2007/04/02/an-adventure-with-omphalotus [T2]
+7. Hygrophoropsis aurantiaca. MushroomExpert.Com (Michael Kuo). https://mushroomexpert.com/hygrophoropsis_aurantiaca.html [T2, identification only]
+8. Hygrophoropsis aurantiaca. Wikipedia (corroboration only). https://en.wikipedia.org/wiki/Hygrophoropsis_aurantiaca [T3]
+9. Mushroom Poisoning Syndromes. North American Mycological Association. https://www.namyco.org/mushroom_poisoning_syndromes.php [T2]
+10. Wild Mushroom Safety. North American Mycological Association. https://namyco.org/?p=163236 [T2]
+11. First Aid for Poisonings. National Capital Poison Center. https://www.poison.org/first-aid-for-poisonings [T1]
+12. Poisonous mushrooms pose danger as more people forage. Rutgers University. https://www.rutgers.edu/news/poisonous-mushrooms-pose-danger-more-people-forage-locally-grown-food-rutgers-experts-say [T1]
+13. Collecting Plants and Mushrooms. National Park Service, Shenandoah National Park. https://www.nps.gov/shen/learn/management/collecting-plants.htm [T1]
+14. Pennsylvania State Forests Rules and Regulations. Pennsylvania DCNR. https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations [T1]

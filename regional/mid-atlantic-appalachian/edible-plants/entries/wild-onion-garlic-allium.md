@@ -1,250 +1,280 @@
 ---
 entry_id: wild-onion-garlic-allium
-title: "Wild Onion & Garlic (Allium spp.) — DEADLY-TWIN ALERT"
+title: "Wild Onion & Garlic (Allium spp.): DEADLY-TWIN ALERT"
 type: WILD-EDIBLE-PLANT
 domain: regional/mid-atlantic-appalachian/edible-plants
 region_scope: mid-atlantic-appalachian
-usda_zone: 7a
-confidence: high
-source_tier: T2
+usda_zone: "5b-8a"
+confidence: medium
+source_tier: T1
 sources:
-  - title: "Peterson Field Guide to Edible Wild Plants of Eastern and Central North America"
-    publisher: Houghton Mifflin
-    tier: T2
-  - title: "USDA PLANTS Database"
-    publisher: USDA
-    url: "https://plants.usda.gov"
+  - title: "Allium canadense (Meadow Garlic, Wild Garlic, Wild Onion)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/allium-canadense/"
     tier: T1
-  - title: "North Carolina Poison Control / Eastern death camas toxicology"
-    publisher: "NC Division of Public Health"
-    url: "https://www.ncpoisoncontrol.org"
+  - title: "Allium vineale (Field Garlic, Wild Garlic)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/allium-vineale/"
+    tier: T1
+  - title: "Allium tricoccum (Ramps, Wild Leek)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/allium-tricoccum/"
+    tier: T1
+  - title: "Amianthium muscitoxicum (Crow Poison, Fly Poison, Stagger Grass)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/amianthium-muscitoxicum/"
+    tier: T1
+  - title: "Stenanthium densum (Black Death Camas, Crow-poison)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/stenanthium-densum/"
+    tier: T1
+  - title: "Zigadenus glaberrimus (Sandbog Deathcamas)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/zigadenus-glaberrimus/"
+    tier: T1
+  - title: "Species Highlight: Large death-camass (Zigadenus glaberrimus)"
+    publisher: "Virginia Department of Conservation and Recreation, Division of Natural Heritage"
+    url: "https://dcr.am.virginia.gov/natural-heritage/document/zig-glab.pdf"
+    tier: T1
+  - title: "Fly Poison (Amianthium muscaetoxicum)"
+    publisher: "National Park Service, Shenandoah National Park"
+    url: "https://www.nps.gov/shen/learn/nature/fly_poison.htm"
+    tier: T1
+  - title: "Amianthium muscitoxicum (Fly Poison, Crow Poison), Native Plants Database"
+    publisher: "Lady Bird Johnson Wildflower Center, University of Texas at Austin"
+    url: "https://www.wildflower.org/plants/result.php?id_plant=AMMU"
+    tier: T2
+  - title: "Meadow Deathcamas in the Pacific Northwest (PNW104; a western species, used here for what death camas looks like and does)"
+    publisher: "Washington State University, Oregon State University, University of Idaho Extension"
+    url: "https://wpcdn.web.wsu.edu/wp-ecommerce/uploads/sites/2/product-3886-sku-PNW104.pdf"
+    tier: T1
+  - title: "Foothill Deathcamas (a western species)"
+    publisher: "Utah State University Extension"
+    url: "https://extension.usu.edu/rangeplants/forbs-herbaceous/deathcamas"
+    tier: T1
+  - title: "Death Camus (Zigadenus species), Poisonous Plants"
+    publisher: "University of Utah Health, Poison Control"
+    url: "https://poisoncontrol.utah.edu/plant-guide/death-camus"
+    tier: T2
+  - title: "Use caution when foraging for wild plants, mushrooms (May 11, 2020)"
+    publisher: "Idaho Fish and Game"
+    url: "https://idfg.idaho.gov/press/use-caution-when-foraging-wild-plants-mushrooms"
+    tier: T1
+  - title: "Zigadenus poisoning treated with atropine and dopamine (West & Horowitz, J Med Toxicol 2009;5(4):214-217)"
+    publisher: "Oregon Health & Science University / Journal of Medical Toxicology (peer-reviewed case report)"
+    url: "https://ohsu.elsevierpure.com/en/publications/zigadenus-poisoning-treated-with-atropine-and-dopamine-2"
+    tier: T2
+  - title: "Ornithogalum umbellatum (Star of Bethlehem)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/ornithogalum-umbellatum/"
+    tier: T1
+  - title: "False Garlic (Nothoscordum bivalve), Field Guide"
+    publisher: "Missouri Department of Conservation"
+    url: "https://mdc.mo.gov/discover-nature/field-guide/false-garlic"
+    tier: T1
+  - title: "Colchicum autumnale (Autumn Crocus)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/colchicum-autumnale/"
+    tier: T1
+  - title: "Confusion between autumn crocus and wild garlic can lead to fatal poisoning (2020, updated 2023)"
+    publisher: "ANSES (French national food, environment and occupational health agency)"
+    url: "https://www.anses.fr/en/content/confusion-between-autumn-crocus-and-wild-garlic-can-lead-fatal-poisoning"
+    tier: T1
+  - title: "Veratrum viride (False Hellebore, Indian Poke)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/veratrum-viride/"
+    tier: T1
+  - title: "Convallaria majalis (Lily of the Valley)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/convallaria-majalis/"
+    tier: T1
+  - title: "Hyacinthus orientalis (Common Hyacinth)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/hyacinthus-orientalis/"
+    tier: T1
+  - title: "Anticlea glauca (Death Camas; Mountain Death Camas), Plant Atlas"
+    publisher: "University of South Florida, Tennessee-Kentucky Plant Atlas"
+    url: "https://tennessee-kentucky.plantatlas.usf.edu/plant/species/117"
+    tier: T2
+  - title: "First Aid for Poisonings"
+    publisher: "National Capital Poison Center (poison.org)"
+    url: "https://www.poison.org/first-aid-for-poisonings"
+    tier: T1
+  - title: "Collecting Plants and Mushrooms, Shenandoah National Park"
+    publisher: "National Park Service"
+    url: "https://www.nps.gov/shen/learn/management/collecting-plants.htm"
+    tier: T1
+  - title: "4VAC5-30-50. Flowers, plants, minerals, etc."
+    publisher: "Virginia Administrative Code (state parks)"
+    url: "https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/"
+    tier: T1
+  - title: "File:Allium canadense var. hyacinthoides.png (photo description)"
+    publisher: "Wikimedia Commons"
+    url: "https://commons.wikimedia.org/wiki/File:Allium_canadense_var._hyacinthoides.png"
+    tier: T3
+  - title: "Wild Garlic or Wild Onions"
+    publisher: "University of Maryland Extension"
+    url: "https://extension.umd.edu/resource/wild-garlic-or-wild-onions"
+    tier: T1
+  - title: "Wild Onion and Wild Garlic"
+    publisher: "Penn State Extension"
+    url: "https://extension.psu.edu/wild-onion-and-wild-garlic"
     tier: T1
 common_names:
   - Wild onion
+  - Meadow garlic
   - Wild garlic
-  - Spring onion
+  - Field garlic
   - Ramps (Allium tricoccum)
-scientific_name: "Allium canadense, Allium ursinum, Allium tricoccum, Allium stellatum (species variable by micro-habitat)"
+scientific_name: "Allium canadense, Allium vineale, Allium tricoccum"
 family: Amaryllidaceae
 parts_used:
-  - Entire plant (bulb, stem, leaves)
-  - Bulbs (raw or cooked)
-  - Leaves (raw or cooked)
-  - Flowers (raw or cooked)
-season: "Mar–Jun (emerging leaves and bulbs); Jun–Jul (flowers); Sep–Nov (bulb storage harvest)"
-habitat: "Woodlands, meadows, field edges, rocky slopes; well-drained soil"
-edibility_status: edible-when-prepared
+  - Leaves
+  - Bulbs
+  - Flowers (as listed by NC State)
+season: "Spring leaves; flowers late spring into summer (ramps flower as their leaves die back)"
+habitat: "Wild onion: meadows, thickets, fields, forests and lawns. Field garlic: weedy and urban sites. Ramps: rich, moist deciduous forest"
+edibility_status: conditionally-edible
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists
-preparation_required: true
-expert_id_required: false
+preparation_required: false
+expert_id_required: true
 field_id_not_appropriate: true
-legal_status: unrestricted
+legal_status: regulated
 last_reviewed: 2026-06-27
 review_status: reviewed
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
 
-> ⚠ **WILD ALLIUM vs. DEATH CAMAS — NO ONION SMELL = DO NOT EAT**
->
-> **THIS IS THE DEADLIEST FIELD IDENTIFICATION MISTAKE IN THIS BIOME.**
-> **Eastern death camas relatives (*Anticlea elegans/glauca*, *Amianthium muscitoxicum*, *Zigadenus glaberrimus*) can cause cardiac and respiratory failure within hours.**
-> **The only reliable field discriminator is SMELL: crush a leaf or bulb. Allium smells pungently of onion or garlic (under normal conditions). Death camas has NO onion smell.**
+> ⚠ **WILD ONION vs. DEATH CAMAS: an onion smell is necessary, never sufficient. A wrong call can kill.**
 >
 > **Positive-ID checklist (ALL must hold):**
-> - **CRUSH a leaf or dig the bulb. A STRONG onion or garlic odor must be present. No smell = DO NOT EAT.** (Note: sulfur-depleted soils can slightly weaken Allium odor, but under normal conditions all Allium species smell strongly of onion or garlic.)
-> - Leaves are narrow, grass-like, emerging in clusters from a visible bulb base.
-> - Bulb (if dug) is elongated, segmented, white to cream-colored, with papery outer layers; smells unmistakably of onion/garlic.
-> - Flowers (if present, May–Jul) are small, 6-petaled, ranging white/pink/purple depending on species. Allium flowers are in a rounded or loose cluster atop a leafless stem.
-> - When flower head is present, umbel (cluster) is clearly visible and distinct.
+> - **Crush one leaf from the single plant you mean to eat. A strong onion or garlic odor must come from that plant.** Death camas can grow in the same patch as wild onion, and the smell of the patch is not the smell of the plant in your hand [13]. Test plants one at a time and wash your hands between them (general practice).
+> - The leaf matches one of the Allium shapes below: flat, grass-like blades (wild onion) [1]; thin, hollow, round-in-cross-section blades (field garlic) [2]; or one to three broad, flat, elliptical leaves (ramps) [3].
+> - Flowers or bulblets, if present, sit in a rounded umbel (a cluster where the stalks all spring from one point at the tip of a bare stem) [1][2][3]. A long, dense spike or plume of flowers along the stem is not an Allium [4][5].
+> - If you dig a bulb, it smells of onion or garlic too (general practice). A bulb with no smell, or a rhizome, is a stop.
+> - A person who knows the local plants has confirmed it in person (this guide's judgment; Idaho Fish and Game says to learn from an expert [13]).
 >
 > **Do NOT use if ANY of these are present (disqualifying traits):**
-> - **NO ONION OR GARLIC SMELL when crushed. This is absolute. Do not proceed.**
-> - Bulb is white/translucent and round or oval, without papery segmentation (death camas bulb is smooth, not segmented).
-> - Habitat overlap is significant and is NOT a reliable safety discriminator (eastern death camas species occur in bogs and moist mountain meadows; *Allium canadense* also grows in moist ground). Do NOT rely on habitat alone.
-> - Leaves are thick and fleshy rather than thin and grass-like.
-> - Smell is described as "musty," "unpleasant," or "acrid" instead of onion/garlic.
+> - **No onion or garlic smell from the plant itself.** That is a stop, not a puzzle.
+> - Any doubt about the smell, or you cannot test each plant separately.
+> - Flowers in a dense upright spike or plume [4][5], or white with a green stripe on the back of each petal [15].
+> - Paired leaves and no bulb (lily of the valley) [20], or strongly pleated leaves clasping a downy stem (false hellebore) [19].
+> - A white stripe down the middle of a dark, succulent leaf [15][16].
+> - The plant is in a garden bed, or the ground has been treated with herbicide [1].
 >
-> **Confusable with:** **Eastern death camas relatives** (*Anticlea elegans/glauca*, *Amianthium muscitoxicum*, *Zigadenus glaberrimus*) — see section below.
+> **Confusable with:** Eastern death camas group (*Amianthium muscitoxicum*, *Stenanthium densum*, *Zigadenus glaberrimus*; possibly *Anticlea glauca*) → grass-like leaves, no reliable look difference in spring → vomiting, low blood pressure, slow heart rate; can be fatal [4][5][13][14]. Also star-of-Bethlehem, false garlic, autumn crocus, false hellebore and lily of the valley (below).
 >
-> **Verdict:** **If there is any doubt about the onion/garlic smell, DO NOT EAT.** Positive ID requires multiple concurrent traits (bulb morphology, habitat, season, and MANDATORY smell test). **This species must never be eaten on field identification alone.** Smell is the gate. No smell = no consumption.
+> **Verdict:** Positive ID on every checklist item, or do not consume. **This species must never be eaten on field identification alone.** A smell can rule a plant out. It cannot rule one in.
 
 ---
 
 ## Deadly / Toxic Look-Alikes
 
-### Eastern Death Camas Relatives
+### Eastern death camas group (the lethal twin)
 
-Eastern species present in or near this biome: ***Anticlea elegans* / *Anticlea glauca*** (formerly *Zigadenus elegans*; Appalachian mountains, disjunct in western VA/eastern WV/western NC), ***Amianthium muscitoxicum*** (fly poison / stagger grass; broadly eastern, VA to Carolinas), and ***Zigadenus glaberrimus*** (sandbog deathcamas; coastal-plain VA and Carolinas). Note: *Toxicoscordion venenosum* is a western species and does **not** occur in the Mid-Atlantic. True death camas is uncommon in MD/most of PA, but range-limited does not mean absent — the smell rule is the universal safeguard regardless.
+All have grass-like basal leaves in spring. Do not use bulb shape, leaf feel or flower color to clear a plant.
 
-**The deadliest confusion in the Mid-Atlantic biome.** These are bulbous plants that share geographic range and habitat with some Allium species; the visual similarity (small clustered flowers, bulbous habit) has been fatal.
+- ***Amianthium muscitoxicum* (fly poison).** High severity, "can be fatal if ingested," all parts poisonous [4]. Range includes DE, MD, NJ, NY, PA, VA, WV; moist woods (especially oak), bogs, meadows [4]. Leaves are grass-like, veined, with a center rib and blunt tips, 15 to 20 inches [4]. Flowers form a dense, cylindrical cluster of creamy white blossoms on a mostly leafless stem, turning green with age [4]. Among the first plants up in spring, common in Shenandoah National Park [8]. Bloom: April to June [4][9], mid-June through July in Shenandoah [8].
+- ***Stenanthium densum* (black death camas, also called crow-poison).** High severity; "onion-like bulbs may cause death in humans" [5]. Listed for VA and the Southeast; in NC the Coastal Plain [5]. White plume of flowers on a 3 to 5 foot stalk, April to June [5].
+- ***Zigadenus glaberrimus* (sandbog deathcamas).** High severity [6]. Grows from a thick rhizome, not a bulb [6]. In Virginia it is limited to the southeastern coastal plain, critically imperiled, five known locations [7]. Blooms June to September per NC State [6], July per Virginia [7].
+- ***Anticlea glauca*.** Listed as native on dry sandstone and dolostone in the Tennessee-Kentucky Plant Atlas, with grass-like leaves [22]. No Mid-Atlantic natural-heritage source is cited for it. Same rules apply.
 
-**Toxin & consequences:**
-- **Zygacine and related veratrum/cevanine-type steroidal alkaloids** concentrate in bulb and leaves (mechanism: sodium-channel disruption → hypotension, bradycardia, respiratory failure).
-- **Onset:** 30 minutes to 8+ hours after ingestion (occasionally up to 24 h).
-- **Symptoms:** Nausea, vomiting, profuse salivation, burning in mouth/throat, abdominal pain, hypotension (low blood pressure), **bradycardia, cardiac arrhythmia, and respiratory depression**. Death can occur within 6–24 hours from cardiac collapse or respiratory failure in severe cases.
-- **Treatment:** Supportive care (hospital ICU); no antidote. Prognosis depends on amount ingested and speed of medical intervention.
+**What the lethal twin looks like (western species, same warning).** WSU describes meadow deathcamas as an onion-like bulb covered with blackish scales, with grass-like, V-shaped basal leaves and a pointed cluster of greenish to yellowish-white flowers [10]. Utah State says its bulbs "can be mistaken for onions" [11]; a hospital case report calls them "onion-like" roots [14]. No source cited here describes the bulb of *Amianthium*, so no bulb check is offered.
 
-**Why the confusion:**
-- Both are bulbous, small, with clustered flowers appearing in late spring/early summer.
-- Both grow in open, sunny habitats in the biome.
-- Visually, at a distance, they look similar (small clustered flowers on a short stem).
+**The smell.** Pages for the western species say the bulbs lack an onion odor [10][11][12]; none of them says so for the eastern species. In Idaho a family smelled onions across a whole patch, yet a child who chewed and swallowed about an inch of a plant they took for wild onion was very ill a couple of hours later. The agency botanist said death camas may have been growing among the onions, explaining the odor, and that the two are nearly indistinguishable to an untrained eye in spring [13]. Smell is a way to reject, never to accept.
 
-### Discriminators (necessary, not sufficient)
+**What it does.** Toxic alkaloids [4]; in the western species they disrupt nerve-impulse conduction [10]. Poisoning is rare but happens when bulbs are mistaken for edible ones [10]. Listed symptoms include heavy salivation, persistent vomiting, weakness, low blood pressure, irregular heartbeat, trouble breathing, convulsions and coma, usually 1 to 8 hours after eating [10]. In a documented case a man who ate two "wild onion" bulbs had severe vomiting, marked low blood pressure and a slow heart rate, was treated in hospital, and was largely without symptoms within 24 hours [14]. An Idaho Fish and Game botanist says two bulbs can be fatal to a human [13]. Neither outcome is a promise.
 
-| Feature | **Wild Allium** | **Death Camas** | **Test / Observation** |
-|---------|-----------------|-----------------|------------------------|
-| **Smell (MOST CRITICAL)** | **Pungent onion or garlic odor when crushed** | **NO onion smell; musty or acrid** | **Crush a leaf. If no onion/garlic smell, STOP. Do not eat.** |
-| **Bulb morphology** | Elongated, segmented, papery outer layers | Round/oval, smooth, white/translucent, no segments | Dig bulb and compare structure. Allium bulb looks like a tiny onion. |
-| **Habitat preference** | Well-drained uplands, woodlands, dry to moderately moist meadows | Bogs, moist mountain meadows, coastal-plain wet areas (species-dependent) | Habitat overlaps significantly and is NOT a reliable sole discriminator. **The smell test is the only reliable gate.** |
-| **Leaf texture** | Thin, grass-like, hollow-ish | Thick, fleshy, waxy surface | Feel the leaf. Allium = thin grass. Death camas = thick, waxy. |
-| **Flower cluster form** | Loose or tight umbel (when present); colors range white–pink–purple | White or cream flowers in a more compact raceme; flowers often hanging downward | Flower form is a late-season test; use bulb + smell first. |
-| **Time of fruiting** | Flowers May–Jul, fruit by Aug | Flowers Apr–Jun, fruit by Jul | Timing partially overlaps; not a reliable sole discriminator. |
+### Other look-alikes
 
-### Why the Onion-Smell Test Is Absolute
+- **Star-of-Bethlehem (*Ornithogalum umbellatum*).** Introduced, east of the Mississippi, escapes gardens. Medium-severity poison (saponin): stomach upset if bulbs or flowers are eaten, skin irritation [15]. Narrow leaves with a white stripe down the middle; white flowers with a green stripe on the back, open near noon [15]. Missouri adds that the leaves are succulent, dark green and rolled inward [16].
+- **False garlic or crow poison (*Nothoscordum bivalve*).** Looks like wild garlic or onion but does not smell like one; whether it is poisonous is unknown, and it is not listed as edible [16]. Found across much of the eastern United States [16]. "Crow poison" is also a name for fly poison and black death camas [4][5], so never go by that name.
+- **Autumn crocus (*Colchicum autumnale*).** High severity; colchicine; "can be fatal if ingested" [17]. France's food-safety agency logged 28 cases in 2020 to 2022 of its spring leaves, picked before flowering, being eaten as wild garlic; two people died. Its spring leaves are stiff, fleshy and round-tipped [18]. NC State lists it as introduced to KY, NC, NH, OR and VT [17]. No cited source places it wild in VA, MD, WV, PA, DE or NJ, and the French cases involve a European garlic. Rule (this guide's judgment): any broad spring leaf you cannot match is not food.
+- **Garden hyacinth.** Confused with fly poison; medium-severity poison (stomach cramps, vomiting, diarrhea) [21][4]. Never take bulbs from gardens or old homesites.
 
-- **Allium spp. produce sulfur-containing compounds (dimethyl disulfide, etc.) responsible for the pungent onion/garlic odor.** This is a metabolic hallmark of the genus and is always present in living tissue.
-- **Death camas does not produce these compounds.** Its smell (when crushed) is musty, earthy, or unpleasant—never onion-like.
-- **There is no known Allium species in the Mid-Atlantic without a strong onion or garlic smell.**
-- **Therefore: no onion smell = not an Allium = do not eat.**
+### Ramp look-alikes (*Allium tricoccum*)
 
-This is not a probabilistic test. It is a gate. Pass the gate, or refuse the plant.
+NC State says ramps' strong garlic-onion smell separates them from lily of the valley and false hellebores [3]. Learn them by sight too.
 
-### Historical deaths
-
-Death camas poisonings in North America have occurred when:
-1. Harvesters confused it with wild onion (same geographic range, overlapping season).
-2. The smell test was skipped or the result misinterpreted ("faint smell" or "different smell").
-3. Multiple people ate the same plant from one collection, resulting in simultaneous poisoning.
-
-### Ramp-specific look-alikes (Allium tricoccum)
-
-Ramps are the spring Allium most heavily foraged in the Appalachian range, and two of their look-alikes have caused **documented hospitalizations** (the #1 ramp-foraging poisoning cause is false hellebore). Both are caught by the **same onion-smell gate** — neither smells of onion/garlic — but know them by sight:
-
-- ☠ **False hellebore (*Veratrum viride*)** — emerges in the same wet woods/floodplains at the same time as ramps. Leaves are **heavily pleated/ribbed (accordion-like), clasping a stout central stalk**; ramps have **smooth, flat leaves rising from a slender bulb**. *Veratrum* alkaloids cause severe vomiting, bradycardia, and hypotension — potentially lethal. **No onion smell.**
-- ☠ **Lily-of-the-valley (*Convallaria majalis*)** — smooth oval paired leaves, **no bulb, no onion smell**; cardiac glycosides (vomiting, arrhythmia). Often in gardens/edges.
-
-**Verdict for all of them:** crush a leaf — **no strong onion/garlic odor = do not eat**, regardless of how much it looks like a ramp.
+- ☠ **False hellebore (*Veratrum viride*).** High severity: burning mouth and throat, salivation, headache, stomach pain, vomiting, diarrhea, weakness, sweating, convulsions [19]. Leaves 6 to 12 inches, lance-shaped, strongly ribbed, clasping a stout, downy stem [19]. Listed for DE, MD, NJ, NC, PA, VA, WV [19].
+- ☠ **Lily of the valley (*Convallaria majalis*).** Cardiac glycosides and saponins; paired, smooth-edged leaves with parallel veins, leaf stalks wrapping a partly buried stalk [20]. NC State rates it low severity, toxic in large amounts: slow irregular pulse, abdominal pain, diarrhea, low blood pressure, disorientation, coma, seizures [20].
 
 ---
 
 ## Identification
 
-**Vegetative form (spring, pre-flower):**
-- **Bulb:** Subterranean, elongated, segmented, white to cream-colored, ~0.5–1 inch long, with papery outer layers. Dig to confirm.
-- **Leaves:** Emerge in clusters of 2–6 from bulb. Narrow, grass-like, thin, 4–12 inches tall, with a hollow center (squeezable). Blue-green to gray-green.
-- **Leaf arrangement:** Basal cluster; leaves emerge from the soil/bulb area, not along a stem.
-- **Smell:** Unmistakable pungent onion or garlic when crushed.
+**Wild onion or meadow garlic (*Allium canadense*).** Native; DE, MD, NJ, PA, VA, WV and DC listed [1]. Clumps 8 to 18 inches tall. Basal leaves 6 to 12 inches, linear, flat, semi-upright, with a poorly defined keel on the midvein and smooth margins [1]. Flower stalks are round in cross-section. An umbel of 6 to 12 pink or whitish star-shaped flowers, small bulblets, or both, emerges from a sack-like covering [1]. Crushed leaves smell strongly of onion; Penn State says foliage of either plant gives a strong odor when crushed [28]. NC State warns it is often confused with *Allium vineale* [1].
 
-**Flowering form (May–Jul):**
-- **Stem:** Leafless or nearly leafless, unbranched, 4–12 inches tall.
-- **Flower cluster:** Small (0.5–1 inch), umbel or loose cluster at the stem apex. Individual flowers are 6-petaled, small (~0.25 inch), and range in color: white, pink, or purple (species variable).
-- **Flower arrangement:** Umbel (flowers radiate from one point, like spokes) or loose cluster.
+**Field garlic (*Allium vineale*).** Introduced from Europe. Leaves thin, hollow, round in cross-section, up to 10 inches, pungent garlic when crushed [2][27][28]; wild onion leaves are flat and solid [27][28]. Flower cluster: flowers, bulbils, both, or neither. Stems round, 1 to 3 feet [2].
 
-**Species notes (Mid-Atlantic):**
-- ***Allium canadense* (wild onion):** Small pink/purple flowers in umbel; bulblets (small bulbs) form in flower head instead of seeds (variable). Common in woodlands.
-- ***Allium ursinum* (bear garlic):** White flowers; strong garlic smell. Less common; prefers woodlands.
-- ***Allium tricoccum* (ramps):** Two broad leaves per plant; white flowers; strong garlic smell. Prized spring edible; appears early (Mar–Apr).
+**Ramps (*Allium tricoccum*).** One to three broad, flat, elliptical leaves, 4 to 12 inches long, 1 to 3 inches wide, reddish stems near the base. Leaves unfurl in early spring; small white flowers appear on a bare stem just as the leaves die back [3].
 
 ---
 
 ## Habitat & Range (this biome)
 
-Allium species occur throughout Mid-Atlantic/Appalachian (7a) in:
-- Open woodlands, forest edges
-- Dry to moderately moist meadows
-- Rocky slopes and hillsides
-- Well-drained soils (sandstone, shale)
-
-**Seasonal timing:**
-- **Spring (Mar–May):** Leaves emerge; this is the peak foraging season. Bulbs are near surface and tender.
-- **Late spring/early summer (May–Jul):** Flowers appear; leaves toughen. Still harvestable but bitterness increases.
-- **Summer (Jul–Aug):** Plant begins senescence; above-ground parts wither. Bulbs are at maximum starch content but harder to find.
-- **Fall (Sep–Nov):** Bulbs can be dug with less damage (leaves are gone); good harvest season for storage.
-
-**Habitat note:** Allium species typically grow in upland, well-drained areas, but *Allium canadense* also occurs in moist ground. Habitat is NOT a reliable safety discriminator between Allium and eastern death camas relatives — both can appear in moist meadows. **The crush-and-smell test is the decisive rule.**
-
----
-
-## ⚠ MANDATORY PREPARATION
-
-Allium species are edible raw and cooked. Preparation is straightforward:
-
-**Raw consumption:**
-- Young leaves and bulbs can be eaten raw.
-- Flavor is pungent (strong onion/garlic); use sparingly as a flavoring or garnish.
-- No cooking required; smell test is mandatory before any consumption.
-
-**Cooked consumption:**
-- Bulbs: Boil or roast like small onions. Roasting mellows the flavor (20–30 min at 350 °F). Boil 10–15 min until tender.
-- Leaves: Chop and add to soups, stews, or sauté with butter/oil. No pre-boiling needed.
-- Flowers: Use as garnish raw, or add to dishes during the last minute of cooking.
-
-**Storage:**
-- Bulbs can be dried and stored in a cool, dry place for months (similar to garlic).
-- Leaves are best used fresh but can be dried for winter seasoning.
-
-No detoxification or leaching is required. The onion/garlic compounds are the edible (and safe) part.
+Wild onion and field garlic are weeds of fields, lawns and thickets [1][2]; ramps need rich, moist deciduous forest [3]. Habitat does not separate these from the death camas group: *Amianthium* also lives in moist woods, meadows and bogs [4]. Wild onion and field garlic leaves come up in spring [1][2]. Ramps and *Amianthium* are both early risers [3][8], and in early spring the telltale flowers are missing [13].
 
 ---
 
 ## Uses & Nutrition
 
-**Culinary uses:**
-- Bulbs as flavoring (substitute for cultivated garlic/onion in survival situations).
-- Leaves as a spring green and flavoring agent.
-- Flowers as garnish and mild flavoring.
+No ⚠ MANDATORY PREPARATION block: the safety work is the gate above.
 
-**Nutritional profile (per 100g raw bulb):**
-- ~61 calories
-- 2.2g protein
-- 13.8g carbohydrates
-- Fiber
-- Vitamins C, B6, folate
-- Minerals: manganese, selenium, potassium
+NC State lists wild onion for seasoning or salads (bulbs raw, boiled or pickled; flowers and stems also edible) [1], field garlic leaves, flowers and bulbs like chives or garlic [2], and ramp leaves, stems and bulbs [3].
 
-**Wild source advantage:** Allium bulbs are small but nutrient-dense. One handful of bulbs can flavor a large pot of stew and add micronutrients. The strong flavor means small quantities go a long way.
-
-**Traditional / medicinal use (not medical advice):**
-- Allium compounds (allicin, diallyl trisulfide) are noted in herbalism for antimicrobial and anti-inflammatory properties.
-- Historically used to season preserved foods and aid digestion.
+**NC State rates wild onion and field garlic as low-severity poisons for people**: all parts, sulfides, nausea, vomiting and diarrhea possible; harvest only plants with a distinct onion odor [1][2]. They harm cats and dogs [1][2]. Treat them as a seasoning, not a staple. Do not harvest where herbicides have been used [1].
 
 ---
 
 ## Cautions
 
-1. **SMELL TEST IS NON-NEGOTIABLE.** If you do not detect a clear onion or garlic odor when you crush a leaf or dig a bulb, do not eat. The cost of a false negative is cardiac arrest. The cost of refusing a plant is one meal. The asymmetry is absolute.
-
-2. **Habitat is not a safe discriminator:** Eastern death camas relatives (e.g., *Anticlea elegans/glauca*, *Amianthium muscitoxicum*) occur in bogs and moist mountain meadows; *Allium canadense* also grows in moist ground. Do NOT assume a plant is safe because the habitat looks "right." The smell test is the only gate.
-
-3. **Multiple discriminators:** Smell alone is the gate. Bulb morphology (segmented vs. smooth), habitat, and leaf texture all support the ID. Use all of them together.
-
-4. **First-time harvesting:** If you are new to foraging, find an experienced forager or a mycological/botanical society member to guide your first collection. Death camas is real, and the consequences are severe.
-
-5. **Universal Edibility Test:** Allium does not require it, but if you are testing an unknown plant and it fails the Universal Edibility Test (skin irritation, mouth burning), STOP immediately and do not consume. The test is a last resort only (and useless for fungi).
-
-6. **Over-harvesting:** Ramps (Allium tricoccum) are heavily over-harvested in the Appalachian region. If harvesting ramps, take only 1–2 leaves per plant and leave the bulb intact so it can regenerate. Many areas now restrict ramp harvest.
+1. **If anyone may have eaten death camas or any unknown plant:** call Poison Help at **1-800-222-1222** now, even with no symptoms, because symptoms can take hours [10][23]. Call **911** if the person collapses, has a seizure, has trouble breathing or cannot be awakened [23]. Do not make the person vomit; poison.org says not to induce vomiting [23]. One extension sheet for a western species says otherwise [10]; follow the poison center. Keep a piece of the plant and photograph the plants you picked [18]. This is commonly taught first aid, not medical advice.
+2. **Do not taste-test or use the Universal Edibility Test on anything that might be an onion, lily or camas.**
+3. **Do not pick by the armful or mix plants in one bag** [18]. Learn from a person who knows the plants [13].
+4. **Ramps are over-harvested.** NC State advises leaving the bulbs and one leaf [3].
+5. **Law.** Plants in Shenandoah National Park are protected and may not be collected, apart from small amounts of fruit, nuts and edible mushrooms [24]. Virginia state parks bar taking plants, with edible fruits, berries, fungi and nuts as the exceptions [25]. Other land managers differ; check the rule before you pick. Not legal advice.
 
 ---
 
 ## Reference Photos
 
-Local CC0 reference images (in [`_media/photos/`](../../../../_media/photos/), full attribution in
-[`_media/SOURCES.md`](../../../../_media/SOURCES.md)). **Supporting evidence only — a photo is NEVER
-sufficient for ID. The crush-and-smell test in the safety gate above is the decisive field check.**
+Local reference images in [`_media/photos/`](../../../../_media/photos/), with attribution in [`_media/SOURCES.md`](../../../../_media/SOURCES.md). **Supporting evidence only. A photo is never sufficient for ID, and neither is a smell.**
 
-- Wild onion (*Allium canadense*): `wild-onion_allium-canadense_CC0.png` — but appearance alone does
-  NOT confirm it: only a **strong onion/garlic smell when crushed** does.
-- ☠ Eastern death camas (*Anticlea elegans / Amianthium muscitoxicum*): `death-camas_anticlea-elegans_CC0.jpg` — the
-  lethal look-alike, which has **no onion smell**. No smell ⇒ do not eat.
+- Wild onion (*Allium canadense*): [`wild-onion_allium-canadense_CC0.png`](../../../../_media/photos/wild-onion_allium-canadense_CC0.png). Commons names it var. *hyacinthoides*, photographed in Oklahoma, so it is not a Mid-Atlantic plant [26]. Appearance alone does not confirm it.
+- ☠ Eastern death camas, fly poison (*Amianthium muscitoxicum*, Shenandoah NP, Virginia): [`death-camas_amianthium-muscitoxicum_PD.jpg`](../../../../_media/photos/death-camas_amianthium-muscitoxicum_PD.jpg). Death camas species differ by region. This is a lethal look-alike.
 
 ---
 
 ## Sources
 
-- Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Allium species ID pp. 240–242; death camas warning pp. 243–244.
-- USDA PLANTS Database: Allium canadense, Allium ursinum, Allium tricoccum. https://plants.usda.gov — Range, habitat, physiology.
-- North Carolina Poison Control Center. *Death Camas (Zigadenus / Anticlea / Amianthium) Poisoning.* https://www.ncpoisoncontrol.org — Clinical toxicology, symptoms, and prognosis for eastern death camas species.
-- Panter, K. E., et al. (1987). "Zygacine and Related Steroidal Alkaloids: Toxicology of Death Camas Species." *Veterinary and Human Toxicology*, 29(1), 56–63. — Alkaloid chemistry (zygacine/cevanine-type) and mechanism of action (sodium-channel disruption → hypotension, bradycardia, respiratory failure).
-- Kingsbury, J. M. (1964). *Poisonous Plants of the United States and Canada*. Prentice-Hall. — Allium/death-camas confusion and toxicology.
+1. NC State Extension Gardener Plant Toolbox. *Allium canadense*. https://plants.ces.ncsu.edu/plants/allium-canadense/ (T1)
+2. NC State Extension Gardener Plant Toolbox. *Allium vineale*. https://plants.ces.ncsu.edu/plants/allium-vineale/ (T1)
+3. NC State Extension Gardener Plant Toolbox. *Allium tricoccum*. https://plants.ces.ncsu.edu/plants/allium-tricoccum/ (T1)
+4. NC State Extension Gardener Plant Toolbox. *Amianthium muscitoxicum*. https://plants.ces.ncsu.edu/plants/amianthium-muscitoxicum/ (T1)
+5. NC State Extension Gardener Plant Toolbox. *Stenanthium densum*. https://plants.ces.ncsu.edu/plants/stenanthium-densum/ (T1)
+6. NC State Extension Gardener Plant Toolbox. *Zigadenus glaberrimus*. https://plants.ces.ncsu.edu/plants/zigadenus-glaberrimus/ (T1)
+7. Virginia DCR Division of Natural Heritage. *Species Highlight: Large death-camass*. https://dcr.am.virginia.gov/natural-heritage/document/zig-glab.pdf (T1)
+8. National Park Service, Shenandoah National Park. *Fly Poison*. https://www.nps.gov/shen/learn/nature/fly_poison.htm (T1)
+9. Lady Bird Johnson Wildflower Center, University of Texas at Austin. *Amianthium muscitoxicum*. https://www.wildflower.org/plants/result.php?id_plant=AMMU (T2)
+10. WSU, OSU, University of Idaho Extension. *Meadow Deathcamas in the Pacific Northwest* (PNW104; western species). https://wpcdn.web.wsu.edu/wp-ecommerce/uploads/sites/2/product-3886-sku-PNW104.pdf (T1)
+11. Utah State University Extension. *Foothill Deathcamas* (western species). https://extension.usu.edu/rangeplants/forbs-herbaceous/deathcamas (T1)
+12. University of Utah Health Poison Control. *Death Camus*. https://poisoncontrol.utah.edu/plant-guide/death-camus (T2)
+13. Idaho Fish and Game. *Use caution when foraging for wild plants, mushrooms* (May 11, 2020). https://idfg.idaho.gov/press/use-caution-when-foraging-wild-plants-mushrooms (T1)
+14. West P, Horowitz BZ. *Zigadenus poisoning treated with atropine and dopamine*. J Med Toxicol 2009;5(4):214-217. https://ohsu.elsevierpure.com/en/publications/zigadenus-poisoning-treated-with-atropine-and-dopamine-2 (T2)
+15. NC State Extension Gardener Plant Toolbox. *Ornithogalum umbellatum*. https://plants.ces.ncsu.edu/plants/ornithogalum-umbellatum/ (T1)
+16. Missouri Department of Conservation. *False Garlic (Nothoscordum bivalve)*. https://mdc.mo.gov/discover-nature/field-guide/false-garlic (T1)
+17. NC State Extension Gardener Plant Toolbox. *Colchicum autumnale*. https://plants.ces.ncsu.edu/plants/colchicum-autumnale/ (T1)
+18. ANSES (France). *Confusion between autumn crocus and wild garlic can lead to fatal poisoning*. https://www.anses.fr/en/content/confusion-between-autumn-crocus-and-wild-garlic-can-lead-fatal-poisoning (T1)
+19. NC State Extension Gardener Plant Toolbox. *Veratrum viride*. https://plants.ces.ncsu.edu/plants/veratrum-viride/ (T1)
+20. NC State Extension Gardener Plant Toolbox. *Convallaria majalis*. https://plants.ces.ncsu.edu/plants/convallaria-majalis/ (T1)
+21. NC State Extension Gardener Plant Toolbox. *Hyacinthus orientalis*. https://plants.ces.ncsu.edu/plants/hyacinthus-orientalis/ (T1)
+22. University of South Florida, Tennessee-Kentucky Plant Atlas. *Anticlea glauca*. https://tennessee-kentucky.plantatlas.usf.edu/plant/species/117 (T2)
+23. National Capital Poison Center. *First Aid for Poisonings*. https://www.poison.org/first-aid-for-poisonings (T1)
+24. National Park Service, Shenandoah National Park. *Collecting Plants and Mushrooms*. https://www.nps.gov/shen/learn/management/collecting-plants.htm (T1)
+25. Virginia Administrative Code. *4VAC5-30-50. Flowers, plants, minerals, etc.* https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/ (T1)
+26. Wikimedia Commons. *File:Allium canadense var. hyacinthoides.png* (photo description). https://commons.wikimedia.org/wiki/File:Allium_canadense_var._hyacinthoides.png (T3)
+27. University of Maryland Extension. *Wild Garlic or Wild Onions*. https://extension.umd.edu/resource/wild-garlic-or-wild-onions (T1)
+28. Penn State Extension. *Wild Onion and Wild Garlic*. https://extension.psu.edu/wild-onion-and-wild-garlic (T1)

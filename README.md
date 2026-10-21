@@ -40,8 +40,8 @@ people.
   photo, or the absence of a warning. Every consumable carries a positive-ID checklist of multiple
   concurrent traits plus disqualifying "do-NOT-use-if" traits.
 - **Mushrooms and toxic-plant look-alikes can kill you even if you're careful.** Anything with a
-  deadly look-alike must be confirmed by an expert or definitive multi-source ID — never field ID
-  alone. See the mushroom doctrine page in the substrate.
+  deadly look-alike must be confirmed by an expert who has examined it in hand, in addition to
+  multi-source ID — never field ID alone. See the mushroom doctrine page in the substrate.
 - **Know your local regulations.** Harvest/hunting rules are jurisdictional; emergency framing is
   not legal advice.
 - **First aid here is commonly-taught field response** for when EMS is unavailable — not a

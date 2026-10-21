@@ -87,8 +87,9 @@ The mushroom `_index.md` opens with this doctrine page. It is the single most im
 construct in the repo — fungal misidentification is the highest-consequence failure mode.
 
 **Doctrine (non-negotiable for a novice):**
-1. **No consumption without expert confirmation** — a regional mycological society, an expert, or
-   a definitive multi-source positive ID. Photo-only ID is never sufficient.
+1. **No consumption without expert confirmation** — a regional mycological society or an expert who has
+   examined the specimen in hand. Matching several sources is an additional requirement, never a
+   substitute for the expert. Photo-only ID is never sufficient.
 2. **No LBMs** — little brown mushrooms are not worth the risk; too many toxic look-alikes.
 3. **No white-gilled mushrooms with a volva or ring** — the *Amanita* pattern (destroying angel,
    death cap) is lethal and easy to misjudge.
@@ -98,6 +99,10 @@ construct in the repo — fungal misidentification is the highest-consequence fa
 7. **First-portion rule** — even a confirmed edible: small portion, no alcohol where relevant
    (e.g. inky caps), wait, never try two new species at once.
 8. **When in doubt, throw it out.** The downside is asymmetric: a missed meal vs. a destroyed liver.
+9. **If anyone may have eaten an unidentified or mis-identified mushroom:** call **Poison Control,
+   1-800-222-1222**, at the first suspicion and do not wait for symptoms; call **911** for collapse,
+   seizure or trouble breathing; do not make the person vomit unless Poison Control says to; save a
+   sample. Amatoxin and false-morel poisonings are delayed, so feeling fine is not a reason to wait.
 
 Every mushroom entry's facets must reflect this: `expert_id_required: true`, and
 `field_id_not_appropriate: true` for any species with a deadly look-alike.

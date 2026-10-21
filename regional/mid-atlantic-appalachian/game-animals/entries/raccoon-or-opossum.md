@@ -20,10 +20,6 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5327a2.htm"
     tier: T1
-  - title: "Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907)"
-    publisher: CDC
-    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
-    tier: T1
   - title: "Trichinella murrelli in scavenging mammals from south-central Wisconsin, USA (Hill et al., J Wildl Dis 2008)"
     publisher: US Geological Survey
     url: "https://www.usgs.gov/publications/trichinella-murrelli-scavenging-mammals-south-central-wisconsin-usa"
@@ -52,13 +48,61 @@ sources:
     publisher: Virginia Department of Wildlife Resources
     url: "https://dwr.virginia.gov/?p=8638"
     tier: T1
+  - title: "About Rabies"
+    publisher: CDC
+    url: "https://www.cdc.gov/rabies/about/index.html"
+    tier: T1
   - title: "Rabies Prevention"
     publisher: CDC
     url: "https://www.cdc.gov/rabies/prevention/index.html"
     tier: T1
-  - title: "About Rabies"
+  - title: "Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023 (MMWR 2024;73(40):906-907)"
     publisher: CDC
-    url: "https://www.cdc.gov/rabies/about/index.html"
+    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
+    tier: T1
+  - title: "About Raccoon Roundworm (Baylisascaris)"
+    publisher: CDC
+    url: "https://www.cdc.gov/baylisascaris/about/index.html"
+    tier: T1
+  - title: "Preventing Raccoon Roundworm (Baylisascaris)"
+    publisher: CDC
+    url: "https://www.cdc.gov/baylisascaris/prevention/index.html"
+    tier: T1
+  - title: "Clinical Overview of Baylisascariasis"
+    publisher: CDC
+    url: "https://www.cdc.gov/baylisascaris/hcp/clinical-overview/index.html"
+    tier: T1
+  - title: "Baylisascaris procyonis"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/agencies/pgc/wildlife/wildlife-health/wildlife-diseases/baylisascaris-procynis"
+    tier: T1
+  - title: "Hunting & Trapping Digest 2025-26 (license information)"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/law/2025-26%20hunttrap%20digest%206-4%20lr%20webmobile.pdf"
+    tier: T1
+  - title: "Final 2026-27 Hunting Seasons Approved"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/agencies/pgc/newsroom/final-2026-27-hunting-seasons-approved"
+    tier: T1
+  - title: "Who May Hunt Without a License"
+    publisher: Maryland Department of Natural Resources
+    url: "https://dnr.maryland.gov/wildlife/pages/hunt_trap/nolicenseneeded.aspx"
+    tier: T1
+  - title: "West Virginia Hunting and Trapping Regulations Summary, July 2026-June 2027"
+    publisher: West Virginia Division of Natural Resources
+    url: "https://wvdnr.gov/wp-content/uploads/2026/07/Pub_Regs_HuntTrap_202627_DNR_WILD_20260724.pdf"
+    tier: T1
+  - title: "Raccoon"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/wildlife/information/raccoon/"
+    tier: T1
+  - title: "Virginia Opossum"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/wildlife/information/virginia-opossum/"
+    tier: T1
+  - title: "Furbearer hunting regulations"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/hunting/regulations/furbearerhunting/"
     tier: T1
 common_names:
   - Raccoon
@@ -67,7 +111,7 @@ common_names:
   - Possum
 scientific_name: "Procyon lotor (raccoon); Didelphis virginiana (opossum)"
 legal_status: regulated
-season_normal: "Fall–winter (regulated furbearer season, typically Nov–Feb; check state for specifics and method restrictions)"
+season_normal: "Fall–winter (regulated furbearer seasons run from about mid-October or November to late February or early March, by state and method; Virginia hunting Oct 15–Mar 10, Virginia trapping Nov 15–Feb 28 (year round on private land with landowner permission), Pennsylvania Oct 24–Feb 21, West Virginia hunting Oct 17–Feb 28; seasons change, so check the state agency)"
 internal_cook_temp: "165°F (CDC MMWR 2024: cooking wild game to at least 165°F is necessary to kill Trichinella; the 2004 MMWR gave 160°F)"
 edibility_status: edible-when-prepared
 hazard_severity: high
@@ -81,24 +125,24 @@ review_status: reviewed
 
 ## Legal & Ethical Note
 
-Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harvest is often restricted to specific seasons and methods (shotgun, rifle, or trap). In Virginia, for example, trapping raccoon and opossum on private land requires the landowner's permission, traps must be visited once each day, and deadfall traps are prohibited [10]. **No source opened for this entry supports a survival or emergency exemption from these rules** (this guide's judgment); do not assume one. Opossum is less commonly harvested (less valuable fur, less palatable); raccoon is the more typical harvest. **Know your local furbearer regulations and method restrictions; this is not legal advice.** Both species are effort-heavy to dress and butcher for the meat they give (general practice).
+Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harvest is often restricted to specific seasons and methods (shotgun, rifle, or trap). In Virginia, for example, trapping raccoon and opossum on private land requires the landowner's permission, traps must be visited once each day, and deadfall traps are prohibited [10]. Seasons differ by state and change each year: Virginia's raccoon and opossum hunting season runs Oct 15 to Mar 10 statewide [24], while the trapping season runs Nov 15 to Feb 28, and trapping on private land with the landowner's permission is open year round [10]; Pennsylvania's 2026-27 raccoon season runs Oct 24 to Feb 21, with opossum open except during the firearms deer season [19]; West Virginia's 2026-27 raccoon hunting season runs Oct 17 to Feb 28 and trapping Nov 7 to Feb 28 [21]. Licences: Pennsylvania requires a furtaker license to hunt or trap furbearers, and raccoon and opossum are listed as furbearers [18]; Maryland's DNR says it is unlawful to hunt without a valid hunting license unless you fall under its listed exemptions [20]; West Virginia lists its few no-license cases (resident landowners on their own land, for example) in its regulations summary [21]. **None of the Maryland, Pennsylvania, West Virginia or Virginia pages opened for this entry lists a survival or emergency exemption** (Virginia lists only a landowner exception for damage or a threat to health or safety [10]); do not assume one. Opossum is less commonly harvested (less valuable fur, less palatable); raccoon is the more typical harvest. **Know your local furbearer regulations and method restrictions; this is not legal advice.** Both species are effort-heavy to dress and butcher for the meat they give (general practice).
 
 ---
 
 ## Identification & Behavior
 
 **Raccoon (Procyon lotor):**
-- Medium carnivore, 15–20 inches long, 10–20 lbs.
-- Distinctive "mask" (dark fur across eyes and face), gray-brown coat, black bushy tail with dark rings.
+- Medium carnivore; Virginia DWR gives adults as 10–25 lbs and about 28 inches long [22].
+- Distinctive black "mask" across the forehead, eyes and cheeks, gray-brown coat, bushy tail with 5–7 blackish rings and a black tip [22].
 - Stocky build, short legs, distinctive hand-like front paws.
 - Nocturnal; solitary except during mating season.
 - Intelligent, dexterous, opportunistic omnivore; inhabits forests, wetlands, and human settlements.
 
 **Virginia Opossum (Didelphis virginiana):**
-- Medium marsupial, 20–24 inches long (including tail), 8–14 lbs.
-- Pale gray-white coat, white face, pink nose, prehensile tail (not patterned like raccoon's).
+- Medium marsupial; Virginia DWR gives an average of 9–13 lbs, a body about 27 inches long (678 mm) plus a tail about 12 inches long (296 mm) [23].
+- Grizzled gray-white coat (long white hairs over black-tipped underfur), white face, pink nose, long prehensile tail (not ringed like the raccoon's) [23].
 - Smaller ears, pointed snout, corpulent body.
-- Nocturnal; solitary. Defensive behavior: "playing possum" (feigning death when threatened).
+- Nocturnal; solitary. Defensive behavior: "playing possum" (feigning death when facing a strong threat) [23].
 - Omnivorous; scavenges carrion, insects, plants.
 
 **Sign (both species):** Nocturnal feces (scat), claw marks on trees (raccoon), dens in hollow trees or burrows, foraging sign (overturned rocks, torn logs).
@@ -107,7 +151,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 ## Harvest
 
-**Trap method (primary):** Large body-grip trap, Conibear trap (lethal), or heavy snare set at den entrance or along well-used trail. Both species are strong and can escape weak snares; robust construction is essential. Trap must be sufficiently large to kill the animal quickly (no prolonged suffering). Check traps at least daily (Virginia requires a visit once each day [10]; know your state).
+**Trap method (primary):** Large body-grip trap, Conibear trap (lethal), or snare set at den entrance or along well-used trail, where your state allows that gear. Method rules differ by state: Virginia limits land snare loops to 12 inches in diameter and requires the landowner's written permission for land snares [10]. Both species are strong and can escape weak snares; robust construction is essential. Trap must be sufficiently large to kill the animal quickly (no prolonged suffering). Check traps at least daily (Virginia requires a visit once each day [10]; know your state).
 
 **Firearm method:** .22 rifle (head shot) or shotgun (close range, head shot). Raccoons can be aggressive if cornered or protecting young; extreme caution is needed.
 
@@ -117,6 +161,8 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 ## Field Dressing & Skinning
 
+**Before you touch the carcass, read the raccoon roundworm warning below (`## ⚠ RACCOON ROUNDWORM`).** Raccoon feces can carry *Baylisascaris procyonis* eggs, and you get it by swallowing them, so wear gloves and keep your hands away from your face for the whole job [14][17].
+
 **Immediate post-harvest (within 30 minutes):**
 
 1. **Separate the skin.** Raccoon and opossum hides are valuable and typically removed first. Make circular cuts around the hind legs and anus; make incisions up the inside of each hind leg. Pull the hide down from the legs toward the head—the hide separates in a continuous sheet. For commercial fur purposes, heads are removed with the hide; for meat harvest, separate the head.
@@ -125,7 +171,7 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 3. **Cool the carcass.** Remove to shade immediately; hang in cool environment if possible. Keep the carcass cold; warm weather speeds spoilage (general practice).
 
-**Handling note:** Wear disposable gloves when handling wild game [7]. *Trichinella* infection comes from eating infected meat, not from touching it [1]. Wash hands thoroughly with soap and water after field dressing (general practice).
+**Handling note:** Wear disposable gloves when handling wild game [7]. *Trichinella* infection comes from eating infected meat, not from touching it [1]; raccoon roundworm is different: it is caught from swallowed eggs, which is why gloves and hand washing matter here (see the roundworm warning). Wash hands thoroughly with soap and water after field dressing [15].
 
 **Rabies:** Raccoons are among the animals most often found with rabies in the US [11]. Never approach or handle a raccoon or opossum that appears sick, injured or is not acting normally; CDC says to keep your distance from wildlife [12]. Never handle one bare-handed (this guide's rule). After any bite or scratch, wash the wound with soap and water for 15 minutes and seek medical care urgently [12]; tell the clinician what animal it was [12]. If you may have been exposed, contact your health department [12].
 
@@ -161,8 +207,33 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 
 ---
 
+## ⚠ RACCOON ROUNDWORM (*Baylisascaris procyonis*) — LIFE-THREATENING
+
+> ⚠ **RACCOON ROUNDWORM (*Baylisascaris procyonis*) — Eggs in raccoon feces; swallowed eggs can send larvae into the nervous system and eyes. Death or permanent disability is a common outcome once larvae reach the nervous system [16].**
+>
+> **How you get it:** by swallowing infectious eggs, usually by accident [14]. Raccoons pass the eggs in their feces, and raccoons leave feces in latrines (places where raccoons defecate) [14]. Fresh eggs are not infectious at once; they need about 2 to 4 weeks in the environment [14][15]. Eggs reach your mouth on hands, tools, clothes and soil. In Pennsylvania, about 38 percent of raccoons carry the worm on average, and some counties reach 80 percent [17]. Hunters, trappers and wildlife rehabilitators are named as at risk, and so are children who put soil or animal waste in their mouths [17][14].
+>
+> **Precautions (ALL must hold every time you handle a raccoon or go near its den or latrine):**
+> - Wear disposable gloves for all handling, and throw them away afterward [15][17].
+> - Keep your hands, knife and clothes away from your mouth, nose and eyes while you work; do not eat or drink while dressing (this guide's precaution, because the route is swallowed eggs [14]).
+> - Wash your hands with soap and warm running water when you finish [15]. Wash knives, boards and tools too (this guide's precaution).
+> - Do not touch, sweep or dig in raccoon latrines or den litter, and do not camp, cook or shelter where raccoons defecate (this guide's precaution). If feces must be removed, use gloves and burn or bury it [15][17].
+> - Heat kills the eggs; most chemicals do not [15]. Use boiling water or flame on hard tools and surfaces (check fire rules first), not bleach or other cleaners [15].
+> - Keep children away from the carcass, the dressing area and any raccoon feces (this guide's precaution; children are the group most often infected [14]).
+> - Discard the intestines and their contents without handling them bare-handed (this guide's rule). The CDC and PGC pages opened for this entry do not address eating raccoon meat, so the danger here is hands-to-mouth, not the cooked meat.
+>
+> **If you may have swallowed raccoon feces or eggs, or handled a raccoon without gloves and then touched your mouth:** seek medical attention right away [14]. Symptoms appear 1 to 4 weeks after exposure and can include nausea, tiredness, loss of coordination, loss of muscle control, blindness and coma [14]. Do not wait for symptoms: by the time nerve symptoms show, significant damage is usually already present [16]. Early treatment might reduce serious damage [14]. Tell the clinician you were exposed to raccoon feces or raccoon roundworm. Children who may have put raccoon feces or dirt in their mouths need care the same way.
+>
+> **Opossum:** the pages opened for this entry describe raccoons and do not address opossums; handle both with the same precautions (this guide's precaution).
+>
+> **Verdict:** Treat every raccoon, den and latrine as contaminated with roundworm eggs. Gloves, no hands-to-face, hand washing, and prompt medical care after any possible exposure.
+
+---
+
 ## ⚠ DISEASE & PARASITE
 
+> **Raccoon roundworm is covered in the section above, and rabies in Field Dressing & Skinning. The block below covers *Trichinella* in the meat.**
+>
 > ⚠ **TRICHINELLA — Parasitic worm; causes trichinellosis in people who eat undercooked infected meat; killed by cooking, not reliably by freezing, drying, smoking or curing.**
 >
 > **Screening checklist (appearance does NOT rule out Trichinella; infected meat can look normal):**
@@ -227,3 +298,14 @@ Both raccoon and opossum are regulated furbearers in Mid-Atlantic states; harves
 11. **About Rabies** — CDC. https://www.cdc.gov/rabies/about/index.html
 12. **Rabies Prevention** — CDC. https://www.cdc.gov/rabies/prevention/index.html
 13. **Notes from the Field: Suspected Outbreak of Trichinellosis Associated with Undercooked Bear Meat, North Carolina, November 2023** (MMWR 2024;73(40):906-907; cooking wild game to 165°F; freezing might not be sufficient) — CDC. https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm
+14. **About Raccoon Roundworm (Baylisascaris)** (infection by swallowing eggs; latrines; eggs need 2 to 4 weeks to become infectious; incubation 1 to 4 weeks; symptoms; seek immediate medical attention if raccoon feces may have been swallowed) — CDC. https://www.cdc.gov/baylisascaris/about/index.html
+15. **Preventing Raccoon Roundworm (Baylisascaris)** (gloves, hand washing, heat kills eggs, most chemicals do not, remove and burn or bury feces) — CDC. https://www.cdc.gov/baylisascaris/prevention/index.html
+16. **Clinical Overview of Baylisascariasis** (death or permanent disability is a common outcome of neural larva migrans; significant pathology present once nerve symptoms appear) — CDC. https://www.cdc.gov/baylisascaris/hcp/clinical-overview/index.html
+17. **Baylisascaris procyonis** (about 38 percent of Pennsylvania raccoons infected, 0 to 80 percent by county; hunters and trappers at risk; gloves and hand washing; can be fatal) — Pennsylvania Game Commission. https://www.pa.gov/agencies/pgc/wildlife/wildlife-health/wildlife-diseases/baylisascaris-procynis
+18. **Hunting & Trapping Digest 2025-26, License Information** (hunting license required for non-furbearers; furtaker license required to hunt or trap furbearers; raccoon and opossum listed as furbearers) — Pennsylvania Game Commission. https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/law/2025-26%20hunttrap%20digest%206-4%20lr%20webmobile.pdf
+19. **Final 2026-27 Hunting Seasons Approved** (raccoon and opossum seasons) — Pennsylvania Game Commission. https://www.pa.gov/agencies/pgc/newsroom/final-2026-27-hunting-seasons-approved
+20. **Who May Hunt Without a License** (unlawful to hunt without a license unless exempt; no emergency exemption listed) — Maryland Department of Natural Resources. https://dnr.maryland.gov/wildlife/pages/hunt_trap/nolicenseneeded.aspx
+21. **West Virginia Hunting and Trapping Regulations Summary, July 2026-June 2027** (raccoon seasons; "When Licenses or Permits are not Required" list) — West Virginia Division of Natural Resources. https://wvdnr.gov/wp-content/uploads/2026/07/Pub_Regs_HuntTrap_202627_DNR_WILD_20260724.pdf
+22. **Raccoon** (weight, length, mask, tail rings) — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/wildlife/information/raccoon/
+23. **Virginia Opossum** (weight, body and tail length, coat, prehensile tail, feigning death) — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/wildlife/information/virginia-opossum/
+24. **Furbearer hunting regulations** (raccoon and opossum firearms season October 15 through March 10, statewide) — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/hunting/regulations/furbearerhunting/

@@ -60,13 +60,45 @@ sources:
     publisher: North Dakota State University Extension
     url: "https://www.ndsu.edu/agriculture/node/2050"
     tier: T1
+  - title: "Drying Jerky"
+    publisher: Penn State Extension
+    url: "https://extension.psu.edu/drying-jerky"
+    tier: T1
+  - title: "Chronic Wasting Disease (CWD) in Maryland"
+    publisher: Maryland Department of Natural Resources
+    url: "https://dnr.maryland.gov/wildlife/Pages/hunt_trap/CWD_in_Maryland.aspx"
+    tier: T1
+  - title: "CWD Areas Expand (June 25, 2020)"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/agencies/pgc/newsroom/cwd-areas-expand"
+    tier: T1
+  - title: "White-tailed Deer"
+    publisher: Virginia Department of Wildlife Resources
+    url: "https://dwr.virginia.gov/wildlife/information/white-tailed-deer/"
+    tier: T1
+  - title: "Who May Hunt Without a License"
+    publisher: Maryland Department of Natural Resources
+    url: "https://dnr.maryland.gov/wildlife/pages/hunt_trap/nolicenseneeded.aspx"
+    tier: T1
+  - title: "Hunting & Trapping Digest 2025-26 (license information)"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/law/2025-26%20hunttrap%20digest%206-4%20lr%20webmobile.pdf"
+    tier: T1
+  - title: "Final 2026-27 Hunting Seasons Approved"
+    publisher: Pennsylvania Game Commission
+    url: "https://www.pa.gov/agencies/pgc/newsroom/final-2026-27-hunting-seasons-approved"
+    tier: T1
+  - title: "West Virginia Hunting and Trapping Regulations Summary, July 2026-June 2027"
+    publisher: West Virginia Division of Natural Resources
+    url: "https://wvdnr.gov/wp-content/uploads/2026/07/Pub_Regs_HuntTrap_202627_DNR_WILD_20260724.pdf"
+    tier: T1
 common_names:
   - White-tailed deer
   - Virginia deer
   - Eastern whitetail
 scientific_name: Odocoileus virginianus
 legal_status: regulated
-season_normal: "Fall (regulated season typically Nov–early Jan, varies by state); spring archery season where permitted"
+season_normal: "Fall and early winter (archery opens as early as late September or early October, for example West Virginia Sept 26 and Pennsylvania Oct 3 in 2026; firearms seasons are mainly late November and December, for example West Virginia buck firearms Nov 23-Dec 6 in 2026; dates vary by state and county and change yearly, so check the state agency)"
 internal_cook_temp: "160°F, all venison cuts (USDA/FoodSafety.gov chart: rabbit and venison, wild or farm-raised, 160°F). Penn State Extension lists 145°F for whole cuts; use 160°F. Stews and casseroles 165°F."
 edibility_status: edible-when-prepared
 hazard_severity: high
@@ -80,17 +112,17 @@ review_status: reviewed
 
 ## Legal & Ethical Note
 
-White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal harvest occurs during controlled seasons (typically late fall / early winter) under state wildlife-agency permit and licensing. **No source opened for this entry supports a survival or emergency exemption from season, license or method rules** (this guide's judgment); do not assume one. Virginia's trapping page, for example, lists no general emergency exception [12]. **Know your local regulations; this is not legal advice.** Humane harvest (quick, minimal suffering) and full-carcass utilization (no waste) are ethical minimums.
+White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal harvest occurs during controlled seasons (archery from late September or October, firearms mainly in late November and December) under state wildlife-agency permit and licensing. In 2026, West Virginia's deer archery season opens September 26 and its buck firearms season runs November 23 to December 6 [21]; Pennsylvania's archery season opens October 3 statewide, with an earlier start in a few units [20]. Seasons, licences, stamps and tags change by state and year, so check the state agency. Licences: Pennsylvania requires a current hunting license for wildlife that is not a furbearer [19]; Maryland says it is unlawful to hunt without a valid hunting license unless you fall under its listed exemptions [18]; West Virginia lists its few no-license cases in its regulations summary [21]. **None of the Maryland, Pennsylvania, West Virginia or Virginia pages opened for this entry lists a survival or emergency exemption from season, license or method rules**; do not assume one. Virginia's trapping page, for example, lists no general emergency exception [12]. **Know your local regulations; this is not legal advice.** Humane harvest (quick, minimal suffering) and full-carcass utilization (no waste) are ethical minimums.
 
 ---
 
 ## Identification & Behavior
 
-**Appearance:** Medium-sized ungulate; males (bucks) 150–300 lbs, females (does) 100–200 lbs. Reddish-brown coat in summer, gray-brown in winter. White underside of tail (distinctive flag when alarmed). Males have antlers (branched, shed winter/early spring); females lack antlers but may have bumps on forehead.
+**Appearance:** Medium-sized ungulate; Virginia DWR gives adult males as 90–135 kg (about 200 to 300 lbs) and females as 67–112 kg (about 150 to 250 lbs) [17]. Reddish-brown coat in summer, gray-brown in winter. White underside of tail (distinctive flag when alarmed). Males have antlers (branched, shed winter/early spring); females lack antlers but may have bumps on forehead.
 
-**Sign:** Hoof prints (two-toed, pointed; fresh tracks show sinking in soft soil), pellets (dark brown, acorn-sized), rubs on saplings (bark stripped by antler velvet rubbing), beds (trampled grass circles), browse damage (ragged leaf edges from browsing without incisor-cutting).
+**Sign:** Hoof prints (two-toed, pointed; fresh tracks show sinking in soft soil), pellets (dark brown, acorn-sized), rubs on saplings (bark scraped by antlers), beds (trampled grass circles), browse damage (ragged leaf edges from browsing without incisor-cutting) (general practice; no source opened for this entry describes deer sign).
 
-**Behavior:** Crepuscular (active dawn/dusk); nocturnal in hunting pressure. Gregarious in small groups or solitary. Excellent hearing and smell; poor close-range vision. Will flee when startled; alarm call is foot-stomp + tail flag. Bucks can be aggressive during rut (autumn).
+**Behavior:** Most active in dim light at dawn and dusk [17]; more nocturnal under hunting pressure (general practice). Gregarious in small groups or solitary. Excellent hearing and smell; poor close-range vision. Will flee when startled; alarm call is foot-stomp + tail flag. Breeding runs from late September through February, with most in late November, and bucks with hardened antlers compete for does [17].
 
 ---
 
@@ -108,7 +140,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 
 **Immediate post-harvest (within minutes of death):**
 
-1. **Position the carcass** on its back, head downslope if possible (gravity aids drainage).
+1. **Position the carcass** on its back, elevate the front legs, and spread the hind legs [1].
 2. **Incision:** Using a sharp knife, open the belly from sternum to pelvis. Cut shallow into skin and muscle only—do NOT penetrate the paunch (stomach), intestines, or bladder. If you cut the paunch, gut contents spread bacteria onto the meat.
 3. **Wear rubber or latex gloves** during field dressing and butchering, and do not use household knives or utensils [7]. **Removal of viscera:** Reach into the body cavity and free the paunch, liver, kidneys, and intestines from the surrounding tissue. Pull toward the head to sever the esophagus. Pull toward the rear to sever the colon and bladder connection. Lift out the entire package onto the ground.
 4. **Minimize contact with the brain, spinal cord, spleen and lymph nodes** as you work [7]. Where CWD is present, CDC advises avoiding handling internal organs, especially the brain or spine [5].
@@ -122,7 +154,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 **Once field-dressed and cooled (or immediately in warm weather):**
 
 1. **Hang the carcass** by the hind legs from a rope or beam (head down, body suspended). This aids drainage and keeps the meat clean.
-2. **Make encircling cuts** around each hind leg at the knee joint, and make a cut up the inside of each hind leg to the anus (do not cut into the abdomen meat itself).
+2. **Make encircling cuts** around each hind leg at the hock (the backward-bending joint partway up the hind leg; general practice), and make a cut up the inside of each hind leg to the anus (do not cut into the abdomen meat itself).
 3. **Begin peeling:** Starting at the hind legs, pull the hide down toward the head. The hide separates from muscle in a continuous sheet if done with a sharp knife—minimal knife work needed. Some hunters use a vehicle or lever to speed the process.
 4. **Sever the head, legs, and tail** once the hide is removed and the body is fully exposed. Keep the hide away from the meat (contact causes hair/dirt contamination).
 5. **Clean the carcass** with a clean cloth or running water to remove any remaining hair or debris. Do not soak it (excess water delays drying).
@@ -149,7 +181,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 2. **Butchering:** Cut the cooled meat into portions (steaks, roasts, stewing chunks, grinding scraps).
 3. **Refrigeration:** Unfrozen venison goes in the refrigerator and is used within two to three days [1].
 4. **Freezing:** Wrap in multiple layers of freezer paper or plastic wrap. Properly wrapped game meat keeps 9 to 12 months in the freezer; do not refreeze thawed product [1]. Mark date and cut type on the package. Freezing is storage, not cooking, and it does not reliably kill wild-game *Trichinella* [11].
-5. **Drying (jerky):** Slice lean meat thin. Heat the strips to an internal 160°F first (in marinade, in an oven, or simmered), then dry at 140°F until a test strip cracks but does not break when bent [9][1]. Dried jerky keeps one to two months refrigerated below 40°F [1]. Unheated hanging or sun-drying of raw strips is not a method this guide gives; CDC says drying, smoking and curing alone do not consistently kill *Trichinella* worms [11].
+5. **Drying (jerky):** Slice lean meat thin. Heat the strips to an internal 160°F first (in marinade, in an oven, or simmered), then dry at 140°F until a test strip cracks but does not break when bent [9][1]. Eat jerky within one to three weeks, or freeze it for longer storage [14]. (Penn State's venison page says dried jerky keeps one to two months refrigerated below 40°F [1]; the game entries use the shorter Drying Jerky figure, while `05_food.md` gives the refrigerated figure and adds that jerky kept at room temperature in a sealed container should be eaten within about two weeks. The figures differ because the storage conditions differ.) Unheated hanging or sun-drying of raw strips is not a method this guide gives; CDC says drying, smoking and curing alone do not consistently kill *Trichinella* worms [11].
 6. **Canning (pressure canning only):** Pressure canning is the only recommended method for low-acid foods such as meat [10]. Use a tested pressure-canning recipe from an extension service for your altitude; this guide gives no pressures or times. If you are unsure how a jar was canned, throw it out [10].
 
 ---
@@ -165,6 +197,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 > - No signs of neurological distress (ataxia, excessive drooling, aggression)
 >
 > **Do NOT harvest or eat the animal if ANY of these are present (disqualifying traits):**
+> - Animal was found dead; CDC says not to touch or eat meat from animals found dead [5]
 > - Animal appears emaciated, staggering, or confused
 > - Excessive salivation or nasal discharge
 > - Pale, discolored, or lesioned liver
@@ -172,7 +205,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 > - Any lymph nodes visibly enlarged or discolored
 > - Spleen appears enlarged or abnormal
 >
-> **CWD is a prion disease. Cooking temperatures do not destroy prions [6]. The CDC says CWD infections in people have never been reported and it is not known whether people could be infected [5]. Where CWD is present, the CDC says to strongly consider having the animal tested before you eat the meat, and not to eat meat from an animal that tests positive [5]. A negative test does not guarantee the animal is uninfected [6]. A deer that looks healthy can still be infected (general practice). Avoiding the high-risk tissues below is the other control.**
+> **CWD is a prion disease. Cooking temperatures do not destroy prions [6]. The CDC says CWD infections in people have never been reported and it is not known whether people could be infected [5]. **The CDC adds that some studies in monkeys (primates) suggest they could get CWD by eating meat or brain tissues of infected deer or elk, and that if CWD could spread to people, it would most likely be by eating meat from an infected animal [5].** CDC says scientists believe CWD prions spread between animals through body fluids such as feces, saliva, blood or urine, and indirectly through contaminated soil, food or water [5]. Do not leave carcass remains where other deer feed (this guide's precaution). Where CWD is present, the CDC says to strongly consider having the animal tested before you eat the meat, and not to eat meat from an animal that tests positive [5]. A negative test does not guarantee the animal is uninfected [6]. A deer that looks healthy can still be infected (general practice). Avoiding the high-risk tissues below is the other control.**
 >
 > **MANDATORY AVOIDANCE (regardless of apparent health):**
 > - **Do not eat the brain, spinal cord, eyes, spleen, tonsils or lymph nodes** [6][7]. The CDC names the brain and spine [5]; Alberta Health names brain, spinal cord, spleen and lymph nodes [6]; Indiana DNR adds eyes and tonsils [7].
@@ -180,7 +213,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 > - Bone out the meat and remove fat and the weblike membranes (this removes lymph nodes) [7].
 > - Do not eat an animal that looks sick; discard the whole carcass if illness shows after death.
 >
-> **CWD in this region:** Virginia first detected CWD in 2009, and by 2026 it had been confirmed in 18 Virginia counties [8]. West Virginia's first detection was in 2005 [8]. Check your state wildlife agency for current testing rules where you are.
+> **CWD in this region:** Virginia first detected CWD in 2009, and by 2026 it had been confirmed in 18 Virginia counties [8]. West Virginia's first detection was in 2005 [8]. Maryland first found CWD in a hunter-taken deer in November 2010 and keeps a CWD Management Area covering seven counties (Allegany, Baltimore, Carroll, Frederick, Howard, Montgomery and Washington) [15]. Maryland's DNR says CWD has not been shown to be transmissible to humans and recommends not consuming venison from an infected deer [15]. Pennsylvania's Game Commission says CWD emerged in the state in 2012, kept three Disease Management Areas as of June 2020, and makes it illegal to move high-risk parts out of them [16]; its map has since changed, so check the current one. Check your state wildlife agency for current testing rules where you are.
 >
 > **Verdict:** Where CWD is present, test the animal and avoid the tissues above. Avoiding them lowers the risk; it does not remove it, because infection can only be confirmed by testing [5]. If the animal appeared sick at harvest, discard the entire carcass.
 
@@ -189,7 +222,7 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 ## ⚠ MANDATORY PREPARATION
 
 **Internal cook temperatures (venison, all cuts):**
-- **All venison (steaks, roasts, ground):** 160°F internal temperature, measured at the thickest point with a food thermometer [3][4]. The USDA/FoodSafety.gov chart lists rabbit and venison, wild or farm-raised, at 160°F [3][4].
+- **All venison (steaks, roasts, ground):** 160°F internal temperature, measured at the thickest point with a food thermometer [3][4]. The USDA/FoodSafety.gov chart lists rabbit and venison, wild or farm-raised, at 160°F [3][4]. (The 165°F figure in the raccoon, squirrel and bird entries is for wild meat-eaters and poultry; venison follows the USDA chart. Cooking does not remove CWD prions.)
 - Penn State Extension lists 145°F (medium rare) for whole cuts and 160°F for ground meat [1]. The sources differ; this guide's rule is **160°F for every cut**, the higher USDA figure.
 - **Stews, soups, casseroles and leftovers:** 165°F [1].
 - **Jerky:** heat strips to 160°F before drying, then dry at 140°F [1][9].
@@ -229,3 +262,11 @@ White-tailed deer is a regulated game species in the Mid-Atlantic states. Normal
 11. **Preventing Trichinellosis** — CDC. https://www.cdc.gov/trichinellosis/prevention/index.html
 12. **Trapping regulations** — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/?p=8638
 13. **A Pocket Guide to Care and Handling of Game Birds from Field to Table (FN537; "Do not use grass or snow as this will contaminate the carcass")** — North Dakota State University Extension. https://www.ndsu.edu/agriculture/node/2050
+14. **Drying Jerky** (jerky eaten within one to three weeks; freeze for longer storage; heat strips to 160°F before drying) — Penn State Extension. https://extension.psu.edu/drying-jerky
+15. **Chronic Wasting Disease (CWD) in Maryland** (first detection November 2010; seven-county management area; not shown transmissible to humans) — Maryland Department of Natural Resources. https://dnr.maryland.gov/wildlife/Pages/hunt_trap/CWD_in_Maryland.aspx
+16. **CWD Areas Expand** (June 25, 2020; emerged in Pennsylvania in 2012; three Disease Management Areas; illegal to move high-risk parts out) — Pennsylvania Game Commission. https://www.pa.gov/agencies/pgc/newsroom/cwd-areas-expand
+17. **White-tailed Deer** (adult weights, activity, breeding season) — Virginia Department of Wildlife Resources. https://dwr.virginia.gov/wildlife/information/white-tailed-deer/
+18. **Who May Hunt Without a License** (unlawful to hunt without a license unless exempt; no emergency exemption listed) — Maryland Department of Natural Resources. https://dnr.maryland.gov/wildlife/pages/hunt_trap/nolicenseneeded.aspx
+19. **Hunting & Trapping Digest 2025-26, License Information** (hunting license required for non-furbearers) — Pennsylvania Game Commission. https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/hunttrap/law/2025-26%20hunttrap%20digest%206-4%20lr%20webmobile.pdf
+20. **Final 2026-27 Hunting Seasons Approved** (deer archery start dates) — Pennsylvania Game Commission. https://www.pa.gov/agencies/pgc/newsroom/final-2026-27-hunting-seasons-approved
+21. **West Virginia Hunting and Trapping Regulations Summary, July 2026-June 2027** (deer archery and firearms dates; no-license cases) — West Virginia Division of Natural Resources. https://wvdnr.gov/wp-content/uploads/2026/07/Pub_Regs_HuntTrap_202627_DNR_WILD_20260724.pdf

@@ -1,37 +1,49 @@
 ---
 entry_id: corn-flint
-title: Flint Corn (Zea mays subsp. mays, flint varieties)
+title: Flint Corn (Zea mays, flint varieties)
 type: CROP
 domain: regional/mid-atlantic-appalachian/crops
 region_scope: mid-atlantic-appalachian
 usda_zone: 7a
-confidence: high
+confidence: medium
 source_tier: T1
 sources:
-  - title: "USDA PLANTS Database"
-    publisher: USDA
-    url: "https://plants.sc.egov.usda.gov/"
+  - title: "Pellagra and its prevention and control in major emergencies (WHO/NHD/00.10)"
+    publisher: World Health Organization (copy hosted by the U.S. Centers for Disease Control and Prevention)
+    url: "https://www.cdc.gov/immigrant-refugee-health/media/pdfs/Pellagra-WHO.pdf"
     tier: T1
-  - title: "University of Maryland Extension: Corn Production"
+  - title: "Mycotoxin FAQs (Archived), CPN-2002"
+    publisher: Crop Protection Network (university extension and research collaboration)
+    url: "https://cropprotectionnetwork.org/publications/mycotoxin-faqs-archive"
+    tier: T2
+  - title: "Grain Quality Fact Sheet #10: The 1992 Indiana Stored-Corn Quality Survey Preliminary Conclusions"
+    publisher: Purdue University Cooperative Extension Service
+    url: "https://www.extension.purdue.edu/extmedia/GQ/GQ-10.html"
+    tier: T1
+  - title: "Growing Sweet Corn in a Home Garden"
     publisher: University of Maryland Extension
-    url: "https://extension.umd.edu"
+    url: "https://extension.umd.edu/resource/growing-sweet-corn-home-garden"
     tier: T1
-  - title: "Penn State Extension: Corn Production"
-    publisher: Penn State Extension
-    url: "https://extension.psu.edu"
+  - title: "Virginia's Home Garden Vegetable Planting Guide: Recommended Planting Dates and Amounts to Plant (publication 426-331)"
+    publisher: Virginia Cooperative Extension, Virginia Tech
+    url: "https://www.pubs.ext.vt.edu/426/426-331/426-331.html"
     tier: T1
-  - title: "USDA Grains Post-Harvest Manual"
-    publisher: USDA
-    url: "https://www.usda.gov"
+  - title: "Planting Dates for Vegetable Crops in MD (HG 16)"
+    publisher: University of Maryland Extension (copy hosted by the Maryland Department of Agriculture)
+    url: "https://mda.maryland.gov/farm_to_school/School%20Gardens/UME-HG16%202001%20Planting%20Dates%20for%20Vegetable%20Crops%20in%20MD.pdf"
     tier: T1
-common_names: [flint corn, Indian corn, hard corn, dent corn (nearby)]
-scientific_name: "Zea mays subsp. mays (flint and dent varieties); flint = hard starch, dense"
-zone_fit: Good — warm-season crop; plant after frost (mid-May), mature September-October before hard frost. Dense carbs (stored kernel), stores for years dry. Single cob produces 1-2+ ears depending on variety and spacing. Flint corn is more drought-tolerant than dent or sweet corn.
-planting_window: "Plant late May (soil ≥60°F), when frost danger is past. Harvest September-October before hard frost (late October ≈ 28°F). Kernels dry on stalk before harvest for best storage."
-days_to_maturity: 90-120 (flint varieties tend toward longer maturity; some 110-120 days needed for 7a)
-seed_saving: "Open-pollinated flint varieties come true, BUT corn is wind-pollinated and cross-pollinates readily. Isolation distance ≥300 feet between different corn varieties, or separate planting times (silk emergence staggered by 2-3 weeks prevents overlap). Save seeds from multiple ears (10+) to maintain genetic diversity. Dry kernels, store cool/dry. Viability: 3-5 years."
+  - title: "How to Save Seeds"
+    publisher: University of Illinois Extension
+    url: "https://extension.illinois.edu/sites/default/files/how_to_save_seeds_062021.pdf"
+    tier: T1
+common_names: [flint corn, Indian corn, hard corn]
+scientific_name: "Zea mays (flint types have a hard, dense starch)"
+zone_fit: "Fair to good, with limits. Corn is a very tender warm-season annual that frost injures [4]. Flint corn is grown to hard, dry kernels, so it needs a long season; no Mid-Atlantic extension guide for flint corn was found. The planting and spacing figures below come from Maryland and Virginia sweet-corn guides."
+planting_window: "After the danger of frost is past [4]. For reference, sweet corn: Virginia zone 7a April 10 to July 20 [5], Maryland May 1 to June 15 [6]. Flint corn must dry on the plant before frost (zone 7a first fall frost averages October 15 to 25 [5]), so a late sowing is a risk (general practice)."
+days_to_maturity: "Varies by variety; read the seed packet. Maryland gives 63 to 100 days for sweet corn [4]; no extension figure for flint corn was found."
+seed_saving: "Corn is wind-pollinated and crosses readily. Illinois Extension says wind-pollinated crops such as corn should be a mile apart for pure seed, and lists staggered planting times or bagging the flowers as other ways to isolate [7]. Keep seed cool and dry in paper [7]."
 edibility_status: edible-when-prepared
-hazard_severity: low
+hazard_severity: moderate
 confusability_level: none
 preparation_required: true
 expert_id_required: false
@@ -43,59 +55,76 @@ review_status: reviewed
 
 ## Zone Fit & Why It Earns Space
 
-Flint corn is the **dry-storage starch crop** of survival gardening — whole kernels dried and stored for years, ground into cornmeal, or popped (popcorn varieties). A single plant yields 1-2+ ears; a 100 sq ft patch stores significant caloric reserves. Flint varieties are more drought-tolerant than sweet corn or dent varieties and mature reliably in 7a by October. Kernels are harder (dense starch), ideal for grinding into flour/cornmeal; storage is simple (dry, cool, sealed container).
+Flint corn is a dry-storage starch crop: ripe kernels are dried hard and kept for months or years, then boiled whole or ground into meal. It is a calorie crop, and it is the crop in this set with the biggest nutrition trap. **If corn becomes most of what you eat and it has not been treated with alkali, it causes pellagra** (see the preparation section below) [1].
+
+The sources opened for this entry are about sweet corn, not flint corn. Maryland calls corn a very tender warm-season annual that needs warm weather [4]. Treat the spacing and planting figures as a starting point and read your seed packet.
 
 ## Planting Windows (Zone 7a)
 
-**Plant:** Late May, when soil temperature ≥60°F and frost danger is past (last frost ≈ mid-April; wait 4-6 weeks for reliable warmth). Cold soil delays germination and risks seed rot.
+Plant after the danger of frost is past [4]. Virginia lists the 50 percent-chance last spring frost for zone 7a as April 15 to 25 and the first fall frost as October 15 to 25 [5].
 
-**Harvest:** September–early October (husks brown, kernels dry, silk dries and darkens). Flint varieties need 100-120 days to mature; planting May 25–June 1 targets late September harvest. If hard frost threatens before kernels fully dry, harvest ears and hang in a warm, dry room for 2-4 weeks to finish drying.
+| Source | Crop listed | Spring planting |
+|---|---|---|
+| Virginia Cooperative Extension, zone 7a [5] | sweet corn | April 10 to July 20 |
+| University of Maryland, central Maryland [6] | sweet corn | May 1 to June 15 |
+
+Sweet corn is picked young; flint corn has to ripen and dry on the plant. That is a reason to plant on the early side of these windows and to count days to maturity back from your first fall frost (general practice). Do not plant into cold soil. Maryland says pre-germinating seed may help in cool spring soil, and that super-sweet types want soil at 65 degrees F [4].
 
 ## Growing
 
-- **Spacing:** 8-12 inches apart in rows 24-36 inches apart. Wider spacing reduces pest pressure and improves air circulation; closer spacing maximizes yield per area. Corn is wind-pollinated (not bee); spacing affects pollination success (wider = fewer seeds set on ears; optimal is moderate density with 150-300+ plants per 1,000 sq ft).
-- **Soil:** Well-draining, fertile (nitrogen-loving). Work in compost before planting. Corn depletes soil nitrogen; rotate with legumes or fallow the next year.
-- **Water:** 1-1.5 inches per week during growth (May-August). Critical during tassel/silk emergence (late July-August) — water stress reduces kernel set.
-- **Support:** Corn is shallow-rooted and can lodge (fall over) in wind or heavy rain, especially if soil is wet. Hill up soil around base when plants are 12 inches tall to strengthen root anchorage. Varieties marketed for flint are often more robust than sweet corn.
-- **Pests (7a region):** Corn earworm (moths lay eggs on silk; larvae bore into ear and kernels), Japanese beetles (eat silks, reducing pollination), fall armyworm (late season, less severe). Early tassel-to-silk emergence in late July can escape peak armyworm pressure. Hand-pick beetles; remove infested tips of ears before storage.
-- **Diseases:** Rust (brown pustules on leaves; mostly cosmetic late season), smut (gray tumor-like growths on ears/stalks; rare in home gardens). Rotate planting areas yearly; practice good sanitation.
+- **Spacing.** Maryland (sweet corn): 9 to 12 inches apart in rows 24 to 36 inches apart [4].
+- **Plant in blocks.** Corn is wind-pollinated. Maryland says to plant at least three rows side by side, preferably four, rather than one or two long rows, for full pollination [4].
+- **Feeding.** High nutrient need. Maryland says to side-dress when plants are 12 to 18 inches high and again when tassels appear [4].
+- **Water.** Keep plants evenly supplied with moisture, especially during establishment, flowering, and ear development [4].
+- **Support.** Maryland suggests one or two strands of heavy string around the planting to stop plants falling over in storms [4].
+- **Problems Maryland lists:** corn earworm, corn smut, European corn borer, Japanese beetle, and lodging (plants falling over) [4]. Maryland advises varieties with tight husks at the ear tip, which helps against earworm [4].
 
 ## Harvest & Storage
 
-**Maturity:** Husks brown and papery, silk dark/dry, kernels hard (cannot dent with fingernail). Ears should be dry before harvest for best storage. In wet Octobers, wait for a dry spell or finish drying indoors.
+**Drying.** No extension guide for drying flint corn was found. The point of drying is to stop mold. The Crop Protection Network says to dry corn to below 15 percent moisture to greatly limit further mycotoxin buildup, and to 13 percent for long-term storage [2]. A grain moisture meter is the only way to know the number (general practice).
 
-**Drying (critical):** Husked ears can be stored on the cob or kernels removed. For cob storage, hang ears in a warm, dry, well-ventilated space (garage, attic, shed). Kernels should dry to ~12% moisture (several weeks to months). For kernel storage, shell dried ears and spread kernels on screens in a warm room for 1-2 weeks, stirring daily.
+**Mold and mycotoxins.** Molds that grow on stored corn can make toxins called mycotoxins, including aflatoxin, zearalenone, and fumonisin. High grain moisture and temperature let them develop [3]. The Crop Protection Network says heating, freezing, roasting, or treating with chemicals cannot reliably reduce mycotoxin levels inside kernels, and that mycotoxins can harm both humans and animals who eat contaminated food or feed [2]. It says removing broken kernels, foreign material, and light moldy kernels may lower the overall level [2]. It does not say that picking over a moldy lot makes it fit to eat.
 
-**Storage:** Dried kernels at 50-60°F in sealed containers (airtight jars, buckets with tight lids, Mylar bags with oxygen absorbers). Moisture must be <12% to prevent mold. Check monthly for weevils (small holes, fine powder). Viability: whole kernels 3-5+ years if kept dry and cool; ground cornmeal 3-6 months (degrades faster due to surface area/fat oxidation).
+- **Do not eat or feed corn that is visibly moldy, musty, or discolored.** Throw out the lot if mold is widespread (general practice).
+- Cooking does not fix it [2].
+- Keep stored corn dry. Do not store corn that has not dried.
 
-**Shelf-life:** 3-10+ years if properly dried and stored.
+**Whole kernels versus meal.** Ground meal goes rancid faster than whole kernels, so grind small batches (general practice). No extension source for storage temperatures or shelf life of flint kernels or meal was found, so this entry gives none.
 
 ## Seed Saving
 
-Flint corn is **wind-pollinated and cross-pollinates readily.** For pure seed lines, strict isolation is required.
+Corn is wind-pollinated and different varieties cross readily. Maryland says even sweet corn must be kept apart from field corn, and that white and yellow types cross and change kernel color [4].
 
-**For self-sufficiency:**
-1. Choose open-pollinated flint varieties (most heirloom corn is open-pollinated; check seed packets for "F1" or "hybrid" which do NOT come true).
-2. **Isolation:** 300+ feet between different corn varieties, or stagger planting times so silk emergence is 2-3+ weeks apart (prevents cross-pollination).
-   - **Easier method:** Plant only one variety per year; if neighbors also grow corn, coordinate timing so silks don't overlap.
-3. **Seed selection:** Allow plants to fully mature. Kernels should be hard and properly colored for the variety (flint varieties have distinctive colors — red, blue, purple, yellow, multi-color).
-4. **Harvest:** Select ears from healthy, vigorous plants (10+ ears minimum to preserve genetic diversity). Shell kernels from cob by hand (rubbing ears together or using a shelling tool).
-5. **Drying:** Spread kernels on screens in a warm, dry room for 2-4 weeks, stirring daily. Kernels should be hard, not denting with teeth.
-6. **Storage:** Cool/dry conditions (50-60°F, <50% humidity, sealed container). Check before planting next year for weevil damage. Viability: 3-5 years.
+Illinois Extension gives three ways to isolate varieties for pure seed [7]:
+1. **Distance.** Wind-pollinated plants such as corn should be a mile apart. If that is not possible, use another method.
+2. **Time.** Stagger planting so the varieties do not flower at the same time.
+3. **Containment.** Cover the flowers with bags to keep out foreign pollen, or hand-pollinate.
+
+Choose open-pollinated varieties; hybrids do not give seed like the parent [7]. Grow enough plants to eat some and still save seed [7]. Dry seed ears fully, then store the seed cool and dry in paper, or in paper in a glass jar [7]. Label it with the variety and date [7]. The sources give no germination life for corn seed, so test a few seeds before you plant old seed (general practice).
 
 ## ⚠ MANDATORY PREPARATION
 
-Flint corn kernels must be cooked or ground to be digestible.
+**1. If corn is more than a small part of what you eat, treat it with alkali first, or you risk pellagra.**
+- The World Health Organization says the niacin (a B vitamin) in maize is bound in complexes and is unavailable when eaten. Mild alkali releases it. WHO says the traditional Central American practice of soaking maize in lime-water effectively frees the bound niacin and appears to be what protects people from pellagra there [1].
+- WHO says there is no evidence of pellagra among the Indigenous peoples of the Americas, where maize has been the staple cereal for thousands of years. It credits the traditional practice of eating maize treated with lime or wood ashes [1].
+- WHO says maize has low tryptophan and only about 30 percent of its niacin is available. Milk and rice do not cause pellagra, because their protein has more tryptophan and their niacin is more available [1].
+- Pellagra shows as a rash on skin exposed to sun, often a band around the neck, with diarrhea and, less often, mental changes. WHO says it can lead to death [1]. WHO gives the example of the US South, where nearly 16,000 cases and a 39.1 percent death rate were recorded in eight states from 1907 through 1911 among people eating mainly maize, with salt pork, lard, and molasses [1].
+- Grinding the corn into meal does not fix this. The problem is the bound niacin, not the hard kernel [1].
 
-**Preparation rules:**
-1. **Whole kernels:** Boil in salted water for 45-60 minutes (until soft), or pressure-cook for 20-30 minutes. Dry, hard kernels require extended cooking. Can be added to soups/stews and cooked together.
-2. **Ground cornmeal:** Grind whole kernels in a mill, blender, or food processor. Coarse meal (polenta) can be boiled into porridge; fine meal makes corn bread, tortillas, etc. Traditional nixtamalization (soaking in slaked lime / calcium hydroxide) improves nutritional bioavailability but is optional for survival use.
-3. **Popcorn (if variety allows):** Small-kernel flint varieties can pop if sufficiently dry (usually not suitable for main flint varieties; specialty popcorn is better). Large flint kernels do not pop reliably.
-4. **Storage of ground meal:** Cornmeal oxidizes quickly (oils in the germ go rancid). Store in cool/dry conditions, sealed container, in freezer if possible (extends viability to 6-12 months). Whole kernels are much more shelf-stable (3-10+ years).
+**This is called nixtamalization.** WHO names the two traditional agents, lime (calcium hydroxide) and wood ashes. It gives no amounts or times [1]. Do not guess at them. Find a tested nixtamalization recipe before you rely on it, and take care with lime or ash lye, which are caustic and burn skin and eyes (general practice). No tested home nixtamalization recipe with amounts was found in the sources opened for this guide, so this guide cannot give you one.
+
+**2. Cook whole kernels or meal before eating.** No extension source gives a boiling time for dry flint kernels, so none is given here. Cook until the kernels are tender (general practice).
+
+**3. Discard moldy corn.** See Harvest & Storage. Mycotoxins survive cooking [2].
+
+**If someone has a long-running diet of mostly untreated corn** and develops a rash on sun-exposed skin, diarrhea, or confusion, get medical care (general practice). WHO notes that milk, which has little niacin, prevents pellagra because its protein supplies tryptophan [1].
 
 ## Sources
 
-- USDA PLANTS Database (corn variety maturity dates, cold-hardiness ratings for zone 7)
-- University of Maryland Extension: Corn Production (7a frost windows, pest/disease management specific to Baltimore region)
-- Penn State Extension: Corn Production (spacing, water needs, seed saving, cross-pollination isolation)
-- USDA Grains Post-Harvest Manual (drying, storage, viability testing)
+1. World Health Organization, *Pellagra and its prevention and control in major emergencies* (WHO/NHD/00.10, 2000). https://www.cdc.gov/immigrant-refugee-health/media/pdfs/Pellagra-WHO.pdf
+2. Crop Protection Network, "Mycotoxin FAQs (Archived)," CPN-2002 (2016). https://cropprotectionnetwork.org/publications/mycotoxin-faqs-archive
+3. Purdue University Cooperative Extension Service, Grain Quality Fact Sheet #10, "The 1992 Indiana Stored-Corn Quality Survey Preliminary Conclusions" (1993). https://www.extension.purdue.edu/extmedia/GQ/GQ-10.html
+4. University of Maryland Extension, "Growing Sweet Corn in a Home Garden." https://extension.umd.edu/resource/growing-sweet-corn-home-garden
+5. Virginia Cooperative Extension, "Virginia's Home Garden Vegetable Planting Guide," publication 426-331. https://www.pubs.ext.vt.edu/426/426-331/426-331.html
+6. University of Maryland Extension, "Planting Dates for Vegetable Crops in MD," HG 16 (2001). https://mda.maryland.gov/farm_to_school/School%20Gardens/UME-HG16%202001%20Planting%20Dates%20for%20Vegetable%20Crops%20in%20MD.pdf
+7. University of Illinois Extension, "How to Save Seeds." https://extension.illinois.edu/sites/default/files/how_to_save_seeds_062021.pdf

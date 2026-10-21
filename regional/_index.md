@@ -39,7 +39,7 @@ consumption/ID query resolves:
 
 | Biome | Status | Zone | Reference point | Pack |
 |-------|--------|------|-----------------|------|
-| **Mid-Atlantic / Appalachian** | **active (pass 1)** | USDA 7a | Baltimore, MD | [`mid-atlantic-appalachian/_index.md`](mid-atlantic-appalachian/_index.md) |
+| **Mid-Atlantic / Appalachian** | **active** | USDA 7a reference (region about 5b to 8a) | Baltimore, MD | [`mid-atlantic-appalachian/_index.md`](mid-atlantic-appalachian/_index.md) |
 
 **Mid-Atlantic / Appalachian is Victor's biome and the first pack built.** It is a temperate
 deciduous forest in USDA zone 7a. Enter it through its biome profile
@@ -47,12 +47,16 @@ deciduous forest in USDA zone 7a. Enter it through its biome profile
 straight through its decision hub
 ([`mid-atlantic-appalachian/food_hub.md`](mid-atlantic-appalachian/food_hub.md)).
 
+**Entry counts.** Mid-Atlantic / Appalachian: **34 entries** (edible plants 8, mushrooms 8, game animals 5,
+crops 7, hazards 6). Universal core in [`../substrate/`](../substrate/_index.md): **67 entries**.
+Grand total: **101 entries**.
+
 ## Future biomes (later passes)
 
 Additional biomes (e.g. desert Southwest, Pacific Northwest, northern boreal) will mirror this exact
 layout — a biome `_index.md` profile, a `food_hub.md` decision surface, a `seasonality.md` calendar,
 and the five biology subfolders (`edible-plants/`, `mushrooms/`, `game-animals/`, `crops/`,
-`hazards/`). They are deliberately **not** built in pass 1: region packs are hand-reviewed,
+`hazards/`). They are not built yet: region packs are hand-reviewed,
 in-the-loop, never auto-generated at scale (the look-alike data is life-safety-critical).
 
 ---

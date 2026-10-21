@@ -41,9 +41,9 @@ blocks per `../SCHEMAS.md`), never left to prose.
 | 11 | [`11_gear/_index.md`](11_gear/_index.md) | KIT-GEAR | 5 | Kit tiers — EDC (tier 1), bug-out (tier 2), home stockpile (tier 3), plus a vehicle kit and an individual first-aid kit; the survey guide groups them as carry daily, grab-and-go, car and home supply. |
 
 **Total universal entries: 67**, all written as files in each domain's `entries/` folder (sum of the count
-column above). Regional biology is counted separately: 23 entries are written in
-[`../regional/mid-atlantic-appalachian/`](../regional/_index.md) (edible-plants 5, mushrooms 5,
-game-animals 5, crops 5, hazards 3). **Repo total: 90 written entries** (67 universal + 23 regional).
+column above). Regional biology is counted separately: 34 entries are written in
+[`../regional/mid-atlantic-appalachian/`](../regional/_index.md) (edible-plants 8, mushrooms 8,
+game-animals 5, crops 7, hazards 6). **Repo total: 101 written entries** (67 universal + 34 regional).
 
 ---
 

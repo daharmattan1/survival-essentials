@@ -59,7 +59,7 @@ entry file.
 
 For any consumption/biology query, the load order is:
 
-1. **Doctrine** — for mushrooms, the 8-point doctrine that leads `mushrooms/_index.md`. Load it
+1. **Doctrine** — for mushrooms, the 9-point doctrine that leads `mushrooms/_index.md`. Load it
    before *any* fungal reasoning.
 2. **Deadly-look-alike matrix** — the table at the top of `mushrooms/_index.md` /
    `edible-plants/_index.md`. Read the "what could kill me" surface before the "what can I eat"
