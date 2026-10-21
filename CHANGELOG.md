@@ -1,18 +1,21 @@
 # CHANGELOG.md — Review Log & Sync Checklist
 
 > This file tracks (a) what changed and when, (b) the **survey↔substrate sync checklist** that keeps
-> Layer 1 and Layers 2–3 from drifting apart, and (c) the **Phase-11 human safety-read sign-off**
-> that is the life-safety backstop for this repo. This is life-safety content — review discipline is
-> not optional.
+> Layer 1 and Layers 2–3 from drifting apart, and (c) the **human safety-read sign-off** that is the
+> life-safety backstop for this repo. This is life-safety content — review discipline is not
+> optional. **As of 2026-10, no human safety read has been recorded.**
 
 ---
 
-## `last_reviewed` policy
+## `review_status` and `last_reviewed` policy
 
-- Every Layer-3 entry carries `last_reviewed:` (ISO date) and `review_status:` in its front-matter.
-- `review_status: draft` until a **human** completes the Phase-11 per-domain safety read
-  (`CONVENTIONS.md` §10) and flips it to `reviewed`. An AI never sets `reviewed`.
-- `last_reviewed: draft` is the placeholder value until that read happens.
+- Every Layer-3 entry carries `review_status:` in its front-matter. Three values (`SCHEMAS.md` §0):
+  - `draft`: written, not yet independently checked.
+  - `agent-verified`: AI agents that did not write the entry checked every claim against sources they
+    opened, in at least two rounds. `last_reviewed` stays `draft`. This is **not** a human read.
+  - `reviewed`: a **human** completed the per-domain safety read (`CONVENTIONS.md` §10) and ran
+    `scripts/mark_reviewed.py` themselves. An AI never sets `reviewed` and never runs that script.
+- `last_reviewed: draft` is the placeholder value until a human read happens.
 - Re-review cadence: any entry whose claims touch `hazard_severity: high|lethal` is re-read whenever
   its sources are updated, and at minimum on the annual repo review.
 - Triangulation: each mushroom/plant species **and each of its deadly look-alikes** is verified
@@ -53,40 +56,58 @@ relevant checks so they do not drift:
 
 ---
 
-## Phase-11 human safety-read sign-off
+## Human safety read — sign-off
 
-> **HARD GATE.** No entries ship (no PR to a release) until a human completes the per-domain safety
-> read in `CONVENTIONS.md` §10 and records the sign-off below. The `APPROVED-CONTRACT` marker on
-> `CONVENTIONS.md` covers the *contract*; this sign-off covers the *entries*.
+> **HARD GATE.** No entry is `reviewed` until a human completes the per-domain safety read in
+> `CONVENTIONS.md` §10 (how-to: [`review/SAFETY_READ_PACKET.md`](review/SAFETY_READ_PACKET.md)) and a
+> maintainer records the sign-off below. The `APPROVED-CONTRACT` marker on `CONVENTIONS.md` covers
+> the *contract*; this table covers the *entries*.
 
-```
-SAFETY-READ-PASSED: 2026-06-27
-  reviewer:        multi-agent web-sourced verification (NOT a personal domain read by the owner)
-  method:          3 independent verification rounds — adversarial fact-check agents triangulating
-                   every safety-critical claim against authoritative sources (CDC, EPA, USDA FSIS,
-                   WHO, Red Cross / Stop the Bleed, NAMA / mycological societies, university
-                   extension, poison control), PLUS the offline read-test (a fresh no-context AI
-                   answered the canonical oak/October mushroom query, led with the safety gate, and
-                   refused field-ID-only consumption for every field_id_not_appropriate species).
-  domains read:    mushrooms, edible-plants, game-animals, first-aid, water (+ crops, hazards, all
-                   universal-technique domains structurally)
-  triangulation:   Y — each mushroom/plant species + its deadly look-alike checked vs ≥2 authoritative
-                   refs. All CRITICAL + MAJOR findings across rounds were corrected and re-verified
-                   (full sourced trail: _media/ACCURACY_AUDIT_2026-06-27.md). Round 2 caught and fixed
-                   an introduced chanterelle spore-print critical; round 3 re-check returned SHIP.
-  notes:           This sign-off reflects AGENTIC verification, not the repo owner's personal
-                   mycological/medical read. Owner chose agentic verification as sufficient for
-                   pass-1 (he does not hold the domain expertise to hand-verify). Remaining items are
-                   MINOR/non-safety (logged in the audit). Still NOT medical, legal, or professional
-                   foraging advice — positive ID or do not consume.
-```
+**No human safety read has been done. The table is empty on purpose.**
 
-_Pass-1 entries flipped to `review_status: reviewed` on this basis. A future owner/expert hand-read
-remains welcome and would supersede this agentic sign-off._
+| Domain | Reviewer | Date | Result |
+|--------|----------|------|--------|
+|        |          |      |        |
+
+_The pass-1 note that appeared here (a 2026-06-27 "SAFETY-READ-PASSED" by multi-agent verification,
+with the entries flipped to `reviewed`) was withdrawn in pass 2. It was AI-only, and pass 2 found
+serious errors in entries it had passed. It was never a human sign-off._
 
 ---
 
 ## Change log
+
+### Pass 2 (2026-10)
+
+A rewrite and expansion, with every claim re-checked by AI agents that opened the sources. **No human
+has read any of it.** The human safety read is still open for every domain.
+
+- **Survey rewrite (11 guides).** All eleven numbered guides were rewritten as standalone reads, each
+  with a numbered `## Sources` list. Audits:
+  [wave 1: water, fire, urban](_media/ACCURACY_AUDIT_2026-10_survey-wave1.md) ·
+  [wave 2a: core principles, shelter, food, first aid](_media/ACCURACY_AUDIT_2026-10_survey-wave2a.md) ·
+  [wave 2b: navigation, communication, key resources, gear](_media/ACCURACY_AUDIT_2026-10_survey-wave2b.md).
+- **Universal substrate: 37 to 67 entries.** Thirty new entries, plus a line-by-line check of the 12
+  index files. Audit: [universal](_media/ACCURACY_AUDIT_2026-10_universal.md).
+- **Mid-Atlantic / Appalachian: 23 to 34 entries.** Eleven new entries. All 23 pass-1 entries were
+  re-checked line by line, and **23 critical errors were found and fixed**. Audit:
+  [Mid-Atlantic biology](_media/ACCURACY_AUDIT_2026-10_biology.md).
+- **Northeast / New England pack: 15 entries.** A second region (`regional/northeast-new-england/`)
+  with its own food hub, seasonality page, mushroom doctrine and hazards. Total is now 116 entries.
+- **Review status changed.** `review_status` is now `draft | agent-verified | reviewed`
+  (`SCHEMAS.md` §0). Every pass-1 `reviewed` label was replaced with `agent-verified`, because those
+  labels came from AI-only checks. `reviewed` now means a human did the read.
+- **Repo-wide rule changes.** Wild game is cooked to 165 F (CDC MMWR 2024). The mushroom doctrine now
+  requires an expert who has examined the specimen in hand; matching several sources is an addition,
+  never a substitute (`CONVENTIONS.md` §4).
+- **Human-read tooling.** Added [`review/SAFETY_READ_PACKET.md`](review/SAFETY_READ_PACKET.md) with
+  per-domain checklists in `review/`, and `scripts/mark_reviewed.py`. The script is human-only: it
+  needs an interactive terminal and a typed confirmation, and AI agents must never run it.
+- **Contribution paths.** Added [`CONTRIBUTING.md`](CONTRIBUTING.md) and two issue templates
+  (`.github/ISSUE_TEMPLATE/correction.yml`, `expert-review.yml`).
+- **License.** Replaced `LICENSE` with the canonical CC0 1.0 Universal text.
+- **Audit trail.** Pass 1: [`ACCURACY_AUDIT_2026-06-27.md`](_media/ACCURACY_AUDIT_2026-06-27.md). Pass 2:
+  the five audit files linked above.
 
 ### 2026-06-27 — Phases 3–8: entries + deadly-pair photos
 

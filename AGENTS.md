@@ -44,7 +44,7 @@ token `safe` reads as a green light. Instead, every consumable + hazard entry ca
 | `preparation_required` | `true` · `false` | `true` ⇒ a `## ⚠ MANDATORY PREPARATION` section exists and is **never** summarized away. |
 | `expert_id_required` | `true` · `false` | `true` ⇒ field ID alone is never sufficient. |
 | `field_id_not_appropriate` | `true` · `false` | `true` ⇒ must **never** be consumed on field ID alone, even by an experienced forager. |
-| `legal_status` | `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` · `emergency-exception` · `n/a` | For game/harvest. Distinguish normal regs from genuine emergency; never present as legal advice. |
+| `legal_status` | `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` · `emergency-exception` · `n/a` | For game/harvest. `emergency-exception` only where a specific statutory exception is cited; no general survival exemption has been found. Distinguish normal regs from genuine emergency; never present as legal advice. |
 
 These facets are **sortable and filterable.** Indexes float the highest `hazard_severity` /
 `confusability_level` items to the top. **The absence of a warning is never evidence of safety**
@@ -59,12 +59,17 @@ entry file.
 
 For any consumption/biology query, the load order is:
 
-1. **Doctrine** — for mushrooms, the 8-point doctrine that leads `mushrooms/_index.md`. Load it
+1. **Doctrine** — for mushrooms, the 9-point doctrine that leads `mushrooms/_index.md`. Load it
    before *any* fungal reasoning.
 2. **Deadly-look-alike matrix** — the table at the top of `mushrooms/_index.md` /
    `edible-plants/_index.md`. Read the "what could kill me" surface before the "what can I eat"
    surface. "What NOT to eat" comes before edible exemplars.
 3. **Index** — the manifest table, to find the right entry and read its facets without opening it.
+   `review_status` tells you who has checked an entry: `draft` (no independent check), `agent-verified`
+   (AI-checked against sources, not a human review) or `reviewed` (a human safety read). Say which when you
+   cite a consumption or first-aid entry, and never present `agent-verified` as expert-reviewed.
+   A row with `review_status: planned` has no file yet. Do not cite it; answer from the domain's
+   survey guide (`01_core_principles.md` … `11_essential_gear.md`) instead.
 4. **Entry** — the Layer-3 file, for the positive-ID gate, mandatory preparation, and sources.
 5. **Cross-check `hazards/`** — snakes, ticks, toxic plants that share the habitat.
 6. **Cite** — name the specific entries you loaded; cite their sources.

@@ -1,238 +1,236 @@
 ---
 entry_id: acorn-oak
-title: Acorn & Oak (Quercus spp.)
+title: "Acorn & Oak (Quercus spp.)"
 type: WILD-EDIBLE-PLANT
 domain: regional/mid-atlantic-appalachian/edible-plants
 region_scope: mid-atlantic-appalachian
-usda_zone: 7a
-confidence: high
-source_tier: T2
+usda_zone: "5b-8a"
+confidence: medium
+source_tier: T1
 sources:
-  - title: "Peterson Field Guide to Edible Wild Plants of Eastern and Central North America"
-    publisher: Houghton Mifflin
-    tier: T2
-  - title: "USDA PLANTS Database"
-    publisher: USDA
-    url: "https://plants.usda.gov"
+  - title: "Quercus alba (White Oak)"
+    publisher: "NC State Extension Plants Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/quercus-alba/"
     tier: T1
-  - title: "Ethnobotany of Acorn Processing in California Tribes"
-    publisher: "UC Davis Bancroft Library / Ethnobotany Archive"
+  - title: "Quercus rubra (Northern Red Oak)"
+    publisher: "NC State Extension Plants Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/quercus-rubra/"
+    tier: T1
+  - title: "Quercus montana (Chestnut Oak)"
+    publisher: "NC State Extension Plants Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/quercus-montana/"
+    tier: T1
+  - title: "Acorns Galore"
+    publisher: "University of Arkansas Cooperative Extension Service"
+    url: "https://www.uaex.uada.edu/environment-nature/musings-on-nature-blog/posts/acorns-galore.aspx"
+    tier: T1
+  - title: "Aesculus hippocastanum (Common Horsechestnut)"
+    publisher: "NC State Extension Plants Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/aesculus-hippocastanum/"
+    tier: T1
+  - title: "Aesculus flava (Yellow Buckeye)"
+    publisher: "NC State Extension Plants Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/aesculus-flava/"
+    tier: T1
+  - title: "Aesculus glabra (Ohio buckeye)"
+    publisher: "Oregon State University Landscape Plants"
+    url: "https://landscapeplants.oregonstate.edu/plants/aesculus-glabra"
+    tier: T1
+  - title: "Buckeye, Ohio"
+    publisher: "Nebraska Forest Service, University of Nebraska-Lincoln"
+    url: "https://nfs.unl.edu/buckeye-ohio/"
+    tier: T1
+  - title: "Acorns as Food: History, use, recipes, and bibliography (D. A. Bainbridge)"
+    publisher: "Sierra Nature Prints (author's reprint)"
+    url: "https://snakeroot.net/MTCA/wp-content/uploads/Acorns_as_Food_Text_and_Bibliography.pdf"
     tier: T2
+  - title: "Test of the Float Method of Assessing Northern Red Oak Acorn Condition (Gribko and Jones, Tree Planters' Notes 46(4):143-147, 1995)"
+    publisher: "USDA Forest Service, Tree Planters' Notes"
+    url: "https://npn.rngr.net/publications/tpn/46-4/46_4_143_147.PDF"
+    tier: T1
+  - title: "Should We Use the Float Test to Quantify Acorn Viability? (Morina et al., Wildlife Society Bulletin 41(4):776-779, 2017)"
+    publisher: "The Wildlife Society (peer-reviewed)"
+    url: "https://faculty.cnr.ncsu.edu/christophermoorman/wp-content/uploads/sites/9/2018/01/Morina-et-al.-2017-Should-We-Use-the-Float-Test-to-Quantify-Acorn-Viability_.pdf"
+    tier: T2
+  - title: "Food Dehydrators (from So Easy to Preserve, Bulletin 989)"
+    publisher: "National Center for Home Food Preservation, University of Georgia"
+    url: "https://nchfp.uga.edu/how/dry/drying-general/food-dehydrators/"
+    tier: T1
+  - title: "Packaging and Storing Dried Foods (from So Easy to Preserve, Bulletin 989)"
+    publisher: "National Center for Home Food Preservation, University of Georgia"
+    url: "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+    tier: T1
+  - title: "Sun Drying (from So Easy to Preserve, Bulletin 989)"
+    publisher: "National Center for Home Food Preservation, University of Georgia"
+    url: "https://nchfp.uga.edu/how/dry/drying-general/sun-drying/"
+    tier: T1
+  - title: "First Aid for Poisonings"
+    publisher: "National Capital Poison Center (poison.org)"
+    url: "https://www.poison.org/first-aid-for-poisonings"
+    tier: T1
+  - title: "Collecting Plants and Mushrooms, Shenandoah National Park"
+    publisher: "National Park Service"
+    url: "https://www.nps.gov/shen/learn/management/collecting-plants.htm"
+    tier: T1
+  - title: "4VAC5-30-50. Flowers, plants, minerals, etc."
+    publisher: "Virginia Administrative Code (state parks)"
+    url: "https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/"
+    tier: T1
+  - title: "Acorn Harvest (Jim Gormely, Master Gardener column)"
+    publisher: "University of California Master Gardener program, hosted by UC ANR"
+    url: "https://ucanr.edu/sites/default/files/2012-10/155313.pdf"
+    tier: T3
 common_names:
   - Acorn
   - Oak
   - White oak
   - Red oak
   - Chestnut oak
-scientific_name: "Quercus alba (white oak), Quercus rubra (red oak), Quercus prinus (chestnut oak), and other Quercus spp."
+scientific_name: "Quercus alba (white oak), Quercus rubra (northern red oak), Quercus montana (chestnut oak, also written Q. prinus), and other Quercus spp."
 family: Fagaceae
 parts_used:
-  - Acorns (processed into flour or meal)
-  - Inner bark (emergency use only, boiled)
-season: "Sep–Nov (peak acorn drop); harvest best 2–4 weeks after initial fall"
-habitat: "Woodlands, forests, open timber, mature oak stands; acorns on ground beneath tree"
+  - "Acorn kernels, leached (a mandatory step)"
+season: "Sep-Nov (acorn fall)"
+habitat: "Upland and mixed hardwood forests; white oak on dry slopes, valleys and ravines"
 edibility_status: edible-when-prepared
-hazard_severity: low
-confusability_level: low
+hazard_severity: high
+confusability_level: deadly-lookalike-exists
 preparation_required: true
 expert_id_required: false
-field_id_not_appropriate: false
-legal_status: unrestricted
-last_reviewed: 2026-06-27
-review_status: reviewed
+field_id_not_appropriate: true
+legal_status: regulated
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
 
-> ⚠ **ACORN — Identify tree first; low ID confusion; hazard is PREPARATION (tannin leaching)**
+> ⚠ **ACORN: the oak nut is edible only after leaching; buckeye and horse chestnut nuts look like it and can kill**
 >
 > **Positive-ID checklist (ALL must hold):**
-> - Tree is confirmed to be oak (*Quercus* spp.) by bark, leaf, and branching habit.
-> - Acorn cap (cupule) is present and fits snugly on the nut, with scales visible; varies by species.
-> - Acorn shell (kernel) is hard, smooth, ranging tan to dark brown. When cracked, interior is cream-colored (not moldy or black).
-> - Nut interior is firm and white/cream; no worm holes or insect damage.
-> - No mold, discoloration, or rancid smell (rancidity = fat spoilage; acorn is no longer safe).
+> - The tree is an oak: alternate leaves that are lobed or toothed [1][2][3]. Buckeye and horse chestnut have **opposite** leaves divided like a hand [5][6][7].
+> - The nut sits in or came out of a **cap** (cupule) with scales: lumpy and warty in white oak [1], a wide cap over the upper quarter of the nut in red oak [2], fused scales covering about a third of the nut in chestnut oak [3].
+> - You can see the tree the nut fell from, or you picked it from the branch. Do not collect loose nuts from the ground when you cannot say which tree dropped them.
+> - The kernel is firm and cream-white when you cut it open, with no mold, rot or holes [2][9].
+> - Season is September to November [1][3].
 >
 > **Do NOT use if ANY of these are present (disqualifying traits):**
-> - Acorn is cracked, split, or showing worm holes (insect larvae present).
-> - Interior is soft, mushy, dark, or moldy (fungal/bacterial decay).
-> - Acorn smells rancid, musty, or foul (chemical spoilage or mold toxins).
-> - Cap is loose or missing; acorn has been exposed to moisture and insects for extended time.
+> - The nut is shiny, mahogany-brown with a large pale scar and **no scaly cap**. That is a buckeye or horse chestnut [5][6].
+> - The husk is a **prickly or smooth leathery capsule**, not a cap [5][6].
+> - The tree has opposite, palmately compound leaves (5 or more leaflets from one point) [5][6][7].
+> - The kernel is moldy, rotten, dark or soft [9].
+> - You have not completed the leaching steps below.
 >
-> **Verdict:** Positive ID on every checklist item. Acorns are easy to identify by tree and nut morphology. No deadly look-alike. Hazard is preparation: raw acorns contain tannins that cause GI distress and can stress kidneys over time. Tannin leaching is MANDATORY; see section below.
+> **Confusable with:** Buckeye (*Aesculus* spp.) and horse chestnut (*Aesculus hippocastanum*) → nut with a pale scar from a leathery capsule, opposite hand-shaped leaves, no scaly cap → NC State rates poison severity **high**, says horse chestnut "may be fatal if eaten" and yellow buckeye "can cause death"; symptoms are muscle weakness and paralysis, dilated pupils, vomiting, diarrhea, depression and stupor [5][6].
+>
+> **Verdict:** Positive ID on every checklist item, or do not consume. This species has a potentially fatal look-alike nut, so it must never be eaten on a photo, a description or a loose nut from the ground. Have someone who knows local trees confirm the tree in person the first time.
 
 ---
 
-## Deadly / Toxic Look-Alikes
+## ☠ Deadly / Toxic Look-Alikes
 
-**None.** Acorns have no deadly look-alike in the Mid-Atlantic biome. The only confusion risk is harvesting already-spoiled or insect-damaged acorns, which are simply inedible (not toxic, but unpleasant).
+**Buckeye and horse chestnut (*Aesculus*).** Both grow in the same woods and yards as oaks, and their nuts are brown and roughly acorn-sized.
 
-Acorns are among the safest wild plant IDs: if it is an acorn from an oak tree, it is edible once processed.
+| | Oak acorn | Buckeye / horse chestnut |
+|---|---|---|
+| Fruit covering | Scaly **cap** that holds the nut at one end [1][2][3] | Leathery **capsule**: smooth in yellow buckeye [6], prickly in horse chestnut [5], prickly in Ohio buckeye [7] |
+| The nut | Tan to brown, with a cap scar; the kernel is white and bitter [2] | Large, shiny, dark brown nut with a **pale scar** [5][6] |
+| Leaves | Alternate, lobed or toothed [1][2][3] | **Opposite**, palmately compound: 5 to 7 leaflets from one point [5][6][7] |
+| Effect | Tannins: stomach pain, constipation, then diarrhea [1][3] | Aesculin and aescin: muscle weakness, paralysis, dilated pupils, vomiting, stupor; NC State says it can be fatal [5][6] |
+
+Nebraska Forest Service says all parts of Ohio buckeye (leaves, bark, fruit) are highly toxic if ingested [8]. Yellow buckeye grows mainly in the southern Appalachians [6]. NC State's yellow buckeye page adds a note that the seed's saponins are poorly absorbed and can be leached [6]. **Do not treat that as a how-to.** The same page rates the plant high for poison severity and says it can cause death [6], and no preparation method for buckeye is given here.
+
+Leaching, boiling or drying does not turn a buckeye into an acorn. If the nut has no scaly cap and the tree has opposite hand-shaped leaves, put it down.
 
 ---
 
 ## Identification
 
-**Tree identification (first step):**
+**Oak tree.** Leaves are alternate and lobed or toothed [1][2][3]. Two groups matter for sorting:
 
-The genus *Quercus* (oak) is large and variable, but oak trees share diagnostic features:
+| Group and species | Leaf | Acorn cap |
+|---|---|---|
+| White oaks: ***Q. alba*** | Rounded, fingerlike lobes, no bristles [1] | Shallow, lumpy, light tan or gray with warty scales, covering a quarter to a third of the nut [1] |
+| White oaks: ***Q. montana*** (chestnut oak) | Oval, coarsely toothed, 4 to 8 inches [3] | Reddish-brown, **fused scales**, covers about a third of the nut [3] |
+| Red oaks: ***Q. rubra*** | 7 to 11 pointed lobes with bristle tips [2] | A **wide cap** covers the upper quarter of the nut [2] |
 
-- **Leaves:** Lobed or toothed, alternate arrangement on branch. Leaves vary widely by species (some deeply lobed, others lightly lobed or entire).
-- **Bark:** Thick, furrowed, gray or dark gray-brown. Texture is distinctive: rough, not smooth.
-- **Buds:** Clustered at twig tips; spiraled arrangement.
-- **Wood:** Hard, heavy, distinctive grain.
+Arkansas Extension adds: in the white oak group the lobes are rounded, the inside of the cap is hairless and acorns ripen in one season. In the red oak group the lobes are pointed, the inside of the cap is hairy and acorns take two years to ripen [4].
 
-**Major oak species in Mid-Atlantic (edible acorns):**
+**Acorn.** About 0.75 to 1.5 inches long [2][3]. Red oak kernel is white and bitter [2]. NC State rates all three oaks as poisonous to humans at "low" severity, with leaves and seeds (acorns) as the poison parts [1][2][3].
 
-| Species | **Leaf shape** | **Acorn cap** | **Tannin level** | **Leaching time** |
-|---------|---|---|---|---|
-| ***Quercus alba* (white oak)** | Rounded lobes | Shallow cup; scales flat | Low | Shorter (fewer changes) |
-| ***Quercus rubra* (red oak)** | Pointed lobes; bristle tips | Deep cup; prominent scales | High | Longer (more changes) |
-| ***Quercus prinus* (chestnut oak)** | Rounded-toothed; large | Small, scaly cap | Moderate | Moderate |
-| ***Quercus velutina* (black oak)** | Lobed; bristle tips | Deep cup | High | Longer |
+**Quality check.** Cut one open. Cream-white and firm is sound. Dark, soft or moldy: discard. Bainbridge says to throw out spoiled acorns and not to use ones with mold or decay [9]. Holes are a sign of insects (general practice).
 
-**Acorn morphology:**
-
-- **Cap (cupule):** Scaly, variable depth by species. Fits snugly on the nut.
-- **Shell (kernel):** Hard, smooth, ranging tan to dark brown. Size ~0.5–1.5 inches depending on species.
-- **Interior:** Crack open a fresh acorn. The meat inside is cream-white and firm. Do not eat raw; taste is bitter from tannins.
-
-**Quality check (at harvest and processing):**
-
-- **Fresh acorns:** Feel heavy in hand; full of liquid/starch. Float test: acorns that float are *often* infested or moldy — use it as a rough screen, but note it has a high false-positive rate (~50% of floating acorns may be sound per NCSU/Morina 2017). Crack and inspect floaters before discarding; a cracked interior check is more reliable than floating alone.
-- **Cracked acorns:** White, creamy interior = good. Dark, mushy, or moldy interior = discard.
-- **Insect damage:** Small round holes = acorn weevil larvae. Discard (the nut is hollowed).
+**Float test: a rough screen only.** In West Virginia, 18,334 red oak acorns were floated and then cut open. Floating found damaged and insect-infested acorns well, but on average **half of the 4,257 sound acorns also floated** and would have been thrown out [10]. A separate study of 300 white oak and sawtooth oak acorns found a visual check predicted viability better than the float test [11]. So float to sort, then cut open and look. (Both studies tested whether acorns would sprout, not whether they are good to eat.)
 
 ---
 
 ## Habitat & Range (this biome)
 
-Oak is ubiquitous in Mid-Atlantic/Appalachian (7a):
+White oak is native to the eastern United States and usually grows in forests on dry slopes, valleys and ravines [1]. Chestnut oak is native to the eastern and central United States, including mountains and Piedmont of North Carolina, and grows on ridgetops in poor, dry, rocky soil; NC State gives acorns from September to November [3]. Red oak acorns display from August to October [2].
 
-- Upland forests and woodlands
-- Mixed deciduous forests
-- Oak-hickory forests
-- Some oak groves in open areas
-
-**Acorn production by year:**
-
-Oaks have variable mast years (heavy acorn production). A tree may produce few acorns one year and abundant acorns the next. This is normal. Mast years typically occur every 2–5 years depending on species and weather.
-
-**Harvest season:**
-
-- **Late Sep–Oct:** Acorns begin falling as they mature. Early-fall acorns may still be green or partially developed; skip these.
-- **Oct–Nov:** Peak acorn fall. Trees are still dropping mature nuts. This is the prime harvest window (2–4 weeks after acorns begin falling).
-- **Nov–Dec:** Late acorns falling; still harvestable, but insect damage and mold risk increases over time.
-
-**Collection tips:**
-
-- Collect acorns in the cool morning, before they become mushy from repeated wetting/drying.
-- Spread collected acorns in a thin layer in a cool, dry location to dry slightly before processing.
-- Float test: drop acorns in water. Floaters are usually hollow or infested; sink the good ones.
+Acorn crops swing from year to year. Arkansas Extension says heavy mast years run "two to five years apart" and that red and white oaks follow different timelines, so some acorns usually fall each year [4]. Plan for a poor year.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Raw acorns are NOT edible.** Tannins present in the kernel are astringent, bitter, and cause GI distress (stomach upset, diarrhea, constipation) and can stress kidneys if consumed in large amounts over time. Tannin leaching is the only method to make acorns safe and edible. This step is non-omissible.
+> **Raw acorns are not food.** NC State lists gallotannins as the toxic principle in oak, with abdominal pain, constipation then diarrhea (sometimes bloody), depression, frequent urination, discolored urine and jaundice, and says **acorns can obstruct the digestive tract** [1][3]. Bainbridge notes cases of acorn poisoning from people eating too many untreated bitter acorns in famine [9]. NC State says acorns are "edible after tannins are leached or boiled out" [1][2].
+>
+> **No source opened gives a tested number of hours or days.** The steps below say what the sources say. Taste is the endpoint, and the times are general practice.
 
-### Tannin Leaching (Cold-Water Method — Preferred)
-
-The cold-water method is slower but preserves more nutrients than hot leaching.
-
-**Process:**
-
-1. **Crack and shell:** Crack dried acorns with a hammer or vise. Extract the kernel (meat). Discard shell and cap.
-
-2. **Grind:** Using a mortar and pestle, or a grain mill, grind kernels into meal. Consistency should be coarse (not powdered fine; coarse cornmeal texture).
-
-3. **First soak:** Place ground meal in a muslin bag or fine mesh strainer. Submerge in a large pot of cold water (1 part meal to 4–5 parts water by volume). Stir occasionally.
-
-4. **Water change:** After 24 hours, drain the water (it will be tan/brown from tannins). Rinse the meal under running water or pour fresh cold water over it.
-
-5. **Repeat:** Soak → drain → rinse. Repeat this cycle **once per day for 5–7 days** (white oak may need only 3–4 days; red oak may need 7–10 days, and can run up to ~2 weeks for very tannic specimens).
-
-6. **Taste test:** After each 2–3 cycles, taste a small amount of the meal. When bitterness is mostly gone, leaching is complete.
-
-7. **Dry:** Spread the leached meal on a cloth or tray and dry in the sun or at low heat (~100 °F) for 2–3 days until completely dry. Break up clumps.
-
-8. **Storage:** Store dried meal in a cool, dry, sealed container. Will keep for months.
-
-**Yield:** 1 pound of acorns yields ~0.75 pounds of dried meal after leaching and drying.
-
-### Tannin Leaching (Hot-Water Method — Faster)
-
-If cold leaching is too slow, hot water accelerates tannin extraction but slightly reduces nutritional content (some B vitamins are heat-sensitive).
-
-**Process:**
-
-1. **Crack and grind:** Same as above.
-
-2. **Boil:** Bring a large pot of water to a rolling boil. Add ground acorn meal, stir, and maintain a gentle boil for 15–20 minutes.
-
-3. **First drain:** Carefully pour off the water (meal will sink). Add fresh boiling water.
-
-4. **Repeat boils:** Repeat the boil → drain cycle **3–4 times** (instead of daily soaking). The water gets less brown with each cycle. When water drains mostly clear and the meal tastes only slightly bitter, leaching is complete (usually 1–2 hours total).
-
-5. **Cool and dry:** Let meal cool; drain thoroughly. Dry as above.
-
-### Uses After Leaching
-
-**Acorn flour/meal:**
-
-- **Acorn porridge:** Mix dried meal with water (1:2 ratio) and simmer 20–30 min. Add salt, berries, or honey. Neutral, slightly nutty flavor.
-- **Acorn bread:** Blend leached acorn meal with 1 part wheat flour (or other flour) and bake normally. Acorn alone is dense and doesn't rise well; mix with wheat flour or other binders.
-- **Thickener:** Acorn flour is starchy; use to thicken soups or stews.
-- **Pancakes:** Mix acorn meal with wheat flour and proceed as normal.
-
-**Real calories:** Acorn is one of the highest-calorie wild plants in the biome. Full-fat leached acorn flour runs ~500 kcal/100g (USDA #170566) — ~55g carbohydrate, ~30g fat, ~7.5g protein — a genuine survival starch, unlike low-calorie greens.
+1. **Sort.** Throw out anything moldy, rotten, dark or soft inside [9]. Treat every wild acorn as bitter until you have tasted it after leaching (general practice). Bainbridge reports that some species are sweet enough to eat raw [9]; this guide does not rely on that.
+2. **Shell and grind.** Crack the shell, take out the kernel, grind it to a coarse meal. Bainbridge: ground acorns are the easiest to leach [9].
+3. **Leach with water until the bitterness is gone.** Two ways, both described in sources:
+   - **Cold water:** rinse the ground meal over and over with fresh water. A UC Master Gardener column describing a California tribal method describes rinsing the ground flour many times over 24 hours until the rinse water ran clear [18]. Cold leaching is slower.
+   - **Hot water:** Bainbridge says "hot water hastens the process" [9]. Arkansas Extension reports one cook who boiled the kernels through five water changes, until the water stopped darkening [4]. Use fresh water each change.
+   - Red oak acorns generally have more tannin than white oak acorns [4]; expect them to need more leaching (general practice).
+4. **Taste a pinch of the leached meal.** If it is still bitter or puckery, keep leaching. Bainbridge ties bitterness to tannin, which is why taste is the endpoint [9]. Do not use time alone.
+5. **Cook it.** Boil it into porridge or bake it; Bainbridge's recipes call for acorns that are "sweet" or have been leached [9]. Do not eat leached meal raw (general practice).
+6. **If you store it, dry it fully first, indoors.** NCHFP says home dehydrators are designed to dry foods fast at 140 °F [12]. NCHFP says cool dried food completely before packing, because warm food sweats and can grow mold, and that moldy food should be discarded [13]. NCHFP does not recommend drying low-sugar, low-acid foods out of doors, which is the case for starchy meal [14]. NCHFP has no page for acorn meal; applying these rules to it is this guide's judgment. Cook or dry wet leached meal the same day (general practice).
 
 ---
 
 ## Uses & Nutrition
 
-**Nutritional profile (per 100g dried acorn flour, leached — USDA #170566, full-fat acorn flour):**
-- ~500 kcal
-- ~7.5g protein
-- ~55g carbohydrates (mostly starch)
-- ~30g fat (includes beneficial unsaturated fats)
-- Minerals: potassium, phosphorus, magnesium
-- Fiber
+Acorns are among the larger wild food sources in this biome (this guide's judgment). Arkansas Extension says oaks produce more nut mass than all the other native nut species in that state combined [4]. Bainbridge reports wide differences by species in water, protein and fat, with acorn starch and a fat content that can reach about 30 percent in some species [9]. No calorie figure is given here because the sources opened give only a species range.
 
-Acorn is nutrient-dense and storage-stable. A winter supply of leached acorn flour can provide significant calories and carbohydrates in a survival scenario.
-
-**Traditional/historical use:**
-
-- California Native tribes relied on acorns as a staple carbohydrate; elaborate processing methods developed over millennia.
-- European peasantry relied on acorns as a famine food when grain crops failed.
-- Acorn "coffee" (roasted acorn meal brewed like coffee) is a caffeine-free substitute.
+Leached meal can replace corn meal in recipes, per Bainbridge, who also lists soups and stews [9]. Mixing it with wheat flour for bread is general practice.
 
 ---
 
 ## Cautions
 
-1. **Raw acorns are not edible.** Do not attempt to eat acorn without leaching. Bitterness and tannin-induced GI distress will result.
-
-2. **Tannin leaching is mandatory and non-negotiable.** If you skip leaching, the result is stomach upset, diarrhea, constipation, and over time (chronic high consumption), stress on the kidneys.
-
-3. **Spoilage risk:** Acorns can mold or become rancid, especially if stored damp. Dry thoroughly before storage. Any sign of mold, off-smell, or soft interior = discard.
-
-4. **Insect-damaged acorns:** Skip any acorn with worm holes or soft interior. Processing won't salvage them.
-
-5. **Allergies:** Oak pollen allergies are common. Some people react to tannins with itching in the mouth or throat. If you have oak pollen allergies, proceed cautiously with acorn consumption.
-
-6. **Leaching time varies:** White oak acorns are lower in tannins and leach faster (3–4 days cold-water). Red oak acorns are higher in tannins and may require 7–10 days or up to ~2 weeks. Always use taste as the endpoint — bitterness gone = done. Don't guess by time alone.
-
-7. **Horse chestnut co-occurrence:** Horse chestnut (*Aesculus hippocastanum*) and native buckeyes (*Aesculus* spp.) produce nuts that are NOT acorns — they lack a scaly cap (cupule) and are larger, with a smooth, leathery husk. All *Aesculus* nuts are toxic (saponins — aesculin; GI distress, possible neurological effects). They can co-occur in the same woodlands. Confirm you have an acorn with a scaly cupule from a true oak before processing.
-
-8. **Universal Edibility Test:** Acorns do not require it due to unmistakable ID and proven edibility once leached. The test is last-resort only (and useless for fungi).
+1. **Look-alike nuts.** See the Buckeye and horse chestnut section above. If any doubt about the tree remains, do not process the nuts.
+2. **Gut blockage.** NC State warns acorns can obstruct the digestive tract [1][3]. Do not eat acorns whole or in large amounts.
+3. **Tannin poisoning.** Symptoms are listed above [1][3]. Leaching is the control [9].
+4. **Mold.** Discard any moldy acorns or stored meal [9][13].
+5. **Allergy.** Anyone with a tree-nut allergy should not eat acorns unless a doctor says so (general practice).
+6. **If you feel ill.** Call Poison Help at 1-800-222-1222. Call 911 if the person collapses, has a seizure, has trouble breathing or cannot be woken. Do not induce vomiting [15]. Keep the nuts you ate and the tree's leaves for identification.
+7. **Public land.** Rules differ by land manager. Shenandoah National Park allows small amounts of fruit and "common nuts such as walnuts and hickory nuts" for personal use, up to about one quart per person per day, and points to the superintendent's compendium for the list [16]. Acorns are not named on that page, so check the compendium. Virginia state parks allow edible fruits, berries, fungi or nuts for personal use only [17]. Check the exact land manager before you pick (not legal advice). No survival exemption is claimed here.
+8. **Universal Edibility Test.** Last resort only, and not a green light. It cannot catch a slow tannin or aesculin effect.
 
 ---
 
 ## Sources
 
-- Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Acorn ID and leaching methods pp. 62–64.
-- USDA PLANTS Database: Quercus alba, Quercus rubra, Quercus prinus. https://plants.usda.gov — Range, habitat, physiology.
-- Bainbridge, D. A. (1986). *The Use of Acorns for Food in California: Past, Present, and Future.* USDA Forest Service, Gen. Tech. Rep. PSW-100. — Acorn processing, tannin leaching, and ethnobotanical history. [T2]
-- USDA FoodData Central, "Nuts, acorn flour, full fat" (FDC ID 170566). https://fdc.nal.usda.gov — Nutritional content (≈500 kcal / 30 g fat / 55 g carb / 7.5 g protein per 100 g). [T1]
-- Morina, J. L., et al. (2017). "Should we use the float test to quantify acorn viability?" *Wildlife Society Bulletin*, 41(1), 38–43. — Float-test false-positive rate (~50% of sound acorns rejected). [T2]
+1. NC State Extension Plants Toolbox. *Quercus alba (White Oak)*. https://plants.ces.ncsu.edu/plants/quercus-alba/ (T1)
+2. NC State Extension Plants Toolbox. *Quercus rubra (Northern Red Oak)*. https://plants.ces.ncsu.edu/plants/quercus-rubra/ (T1)
+3. NC State Extension Plants Toolbox. *Quercus montana (Chestnut Oak)*. https://plants.ces.ncsu.edu/plants/quercus-montana/ (T1)
+4. University of Arkansas Cooperative Extension Service. *Acorns Galore*. https://www.uaex.uada.edu/environment-nature/musings-on-nature-blog/posts/acorns-galore.aspx (T1)
+5. NC State Extension Plants Toolbox. *Aesculus hippocastanum (Common Horsechestnut)*. https://plants.ces.ncsu.edu/plants/aesculus-hippocastanum/ (T1)
+6. NC State Extension Plants Toolbox. *Aesculus flava (Yellow Buckeye)*. https://plants.ces.ncsu.edu/plants/aesculus-flava/ (T1)
+7. Oregon State University Landscape Plants. *Aesculus glabra (Ohio buckeye)*. https://landscapeplants.oregonstate.edu/plants/aesculus-glabra (T1)
+8. Nebraska Forest Service, University of Nebraska-Lincoln. *Buckeye, Ohio*. https://nfs.unl.edu/buckeye-ohio/ (T1)
+9. Bainbridge DA. *Acorns as Food: History, use, recipes, and bibliography*. Sierra Nature Prints. https://snakeroot.net/MTCA/wp-content/uploads/Acorns_as_Food_Text_and_Bibliography.pdf (T2)
+10. Gribko LS, Jones WE. *Test of the Float Method of Assessing Northern Red Oak Acorn Condition*. Tree Planters' Notes 1995;46(4):143-147. https://npn.rngr.net/publications/tpn/46-4/46_4_143_147.PDF (T1)
+11. Morina DL, Lashley MA, Chitwood MC, Moorman CE, DePerno CS. *Should We Use the Float Test to Quantify Acorn Viability?* Wildlife Society Bulletin 2017;41(4):776-779. https://faculty.cnr.ncsu.edu/christophermoorman/wp-content/uploads/sites/9/2018/01/Morina-et-al.-2017-Should-We-Use-the-Float-Test-to-Quantify-Acorn-Viability_.pdf (T2)
+12. National Center for Home Food Preservation. *Food Dehydrators*. https://nchfp.uga.edu/how/dry/drying-general/food-dehydrators/ (T1)
+13. National Center for Home Food Preservation. *Packaging and Storing Dried Foods*. https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/ (T1)
+14. National Center for Home Food Preservation. *Sun Drying*. https://nchfp.uga.edu/how/dry/drying-general/sun-drying/ (T1)
+15. National Capital Poison Center. *First Aid for Poisonings*. https://www.poison.org/first-aid-for-poisonings (T1)
+16. National Park Service. *Collecting Plants and Mushrooms*, Shenandoah National Park. https://www.nps.gov/shen/learn/management/collecting-plants.htm (T1)
+17. Virginia Administrative Code. *4VAC5-30-50. Flowers, plants, minerals, etc.* https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/ (T1)
+18. Gormely J. *Acorn Harvest* (Master Gardener column). University of California Master Gardener program, hosted by UC ANR. https://ucanr.edu/sites/default/files/2012-10/155313.pdf (T3)
+
+Related: [Food hub](../../food_hub.md) · [Edible-plants index and matrix](../_index.md) · [Black walnut](black-walnut-juglans.md)

@@ -4,260 +4,167 @@ title: "Violet & Chickweed (Viola & Stellaria spp.)"
 type: WILD-EDIBLE-PLANT
 domain: regional/mid-atlantic-appalachian/edible-plants
 region_scope: mid-atlantic-appalachian
-usda_zone: 7a
-confidence: high
-source_tier: T2
+usda_zone: "5b-8a"
+confidence: medium
+source_tier: T1
 sources:
-  - title: "Peterson Field Guide to Edible Wild Plants of Eastern and Central North America"
-    publisher: Houghton Mifflin
+  - title: "Viola sororia (Common Blue Violet)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/viola-sororia/"
+    tier: T1
+  - title: "Stellaria media (Chickweed)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/stellaria-media/"
+    tier: T1
+  - title: "Cerastium glomeratum (Sticky Mouse-ear Chickweed)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/cerastium-glomeratum/"
+    tier: T1
+  - title: "Ranunculus ficaria (Lesser Celandine, Fig Buttercup)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/ficaria-verna/"
+    tier: T1
+  - title: "Caltha palustris (Marsh Marigold)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/caltha-palustris/"
+    tier: T1
+  - title: "Scarlet pimpernel (Anagallis arvensis), Poisonous Plants Database"
+    publisher: "Massey University (New Zealand)"
+    url: "https://poisonousplants.massey.ac.nz/data/scarlet_pimp/scar_pimp.html"
     tier: T2
-  - title: "USDA PLANTS Database"
-    publisher: USDA
-    url: "https://plants.usda.gov"
+  - title: "Euphorbia maculata (Spotted Spurge)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/euphorbia-maculata/"
+    tier: T1
+  - title: "Euphorbia prostrata (Prostrate Spurge)"
+    publisher: "NC State Extension Gardener Plant Toolbox"
+    url: "https://plants.ces.ncsu.edu/plants/euphorbia-prostrata/"
+    tier: T1
+  - title: "First Aid for Poisonings"
+    publisher: "National Capital Poison Center (poison.org)"
+    url: "https://www.poison.org/first-aid-for-poisonings"
+    tier: T1
+  - title: "Collecting Plants and Mushrooms, Shenandoah National Park"
+    publisher: "National Park Service"
+    url: "https://www.nps.gov/shen/learn/management/collecting-plants.htm"
+    tier: T1
+  - title: "4VAC5-30-50. Flowers, plants, minerals, etc."
+    publisher: "Virginia Administrative Code (state parks)"
+    url: "https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/"
+    tier: T1
+  - title: "Lesser Celandine"
+    publisher: "University of Maryland Extension"
+    url: "https://extension.umd.edu/resource/lesser-celandine"
     tier: T1
 common_names:
-  - Violet
+  - Common blue violet
   - Wood violet
-  - Chickweed
-  - Mouse-ear chickweed
   - Common chickweed
-scientific_name: "Viola odorata, Viola sororia, Viola tricolor (violets); Stellaria media, Stellaria graminea (chickweed)"
-family: "Violaceae (violets), Caryophyllaceae (chickweed)"
+scientific_name: "Viola sororia (violet); Stellaria media (chickweed)"
+family: "Violaceae (violet), Caryophyllaceae (chickweed)"
 parts_used:
-  - Leaves (raw or cooked)
-  - Flowers (raw, garnish, candied)
-  - Stems (raw or cooked, chickweed)
-season: "Mar–Jun (peak growing); can appear year-round in mild winters"
-habitat: "Woodlands, meadow edges, disturbed ground, damp areas, gardens; partial shade to full sun"
+  - Violet leaves and flowers
+  - Chickweed leaves, stems and flowers
+season: "Late winter into spring (NC State: violet flowers February to May in NC; chickweed grows most in late winter and early spring)"
+habitat: "Violet: woods, thickets, streambeds, lawns. Chickweed: lawns and other weedy sites"
 edibility_status: edible-raw
 hazard_severity: low
 confusability_level: moderate
 preparation_required: false
 expert_id_required: false
 field_id_not_appropriate: false
-legal_status: unrestricted
-last_reviewed: 2026-06-27
-review_status: reviewed
+legal_status: regulated
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
 
-> ⚠ **VIOLET & CHICKWEED — Easy ID; confusable with harmless acrid weeds, no lethal look-alike**
+> ⚠ **VIOLET & CHICKWEED: heart-shaped leaves and small white flowers have toxic look-alikes. Never go by leaf shape, and never by taste.**
 >
 > **Positive-ID checklist for VIOLET (ALL must hold):**
-> - Heart-shaped leaves with rounded tips, growing from base or along short stems.
-> - 5-petaled flower; two petals point upward (top), two to the sides, one bottom petal points down.
-> - Flower colors range white, pale/dark purple, or blue-violet depending on species.
-> - Flowers emerge from leaf clusters (basal) or along low stems; no tall flower stalks.
-> - Leaf surface is smooth or slightly hairy; edges are smooth or slightly toothed.
-> - Leaves are NOT fleshy or thick; texture is tender.
+> - Leaves are basal and heart-shaped, with scalloped to finely toothed edges, hairy underneath [1].
+> - **The plant is in bloom, and the flower is a violet:** five unequal petals, the top pair upright, the side pair spreading with a tuft of hairs at the base, the bottom petal pale at its base with dark veins, and a short spur behind [1]. Colors run deep blue-violet to white [1].
+> - Flowers stand on slender stalks from the base [1]. A yellow flower is never a violet.
 >
 > **Positive-ID checklist for CHICKWEED (ALL must hold):**
-> - Small, opposite leaves (pairs along stem), oval or lance-shaped, 0.25–0.75 inch long.
-> - **Single line of fine hairs running down one side of the stem** (diagnostic for *Stellaria media*; mouse-ear chickweed has hairs all over).
-> - Stems are soft, bendable, NOT woody.
-> - **Inner stem core is stretchy** (pull apart gently; a thin string of plant tissue remains).
-> - Tiny white star-shaped flowers (5 petals, each petal deeply notched), or flower buds if early season.
-> - Texture is tender, succulent; entire plant is delicate.
+> - Small, smooth-edged, oval leaves in opposite pairs, under an inch long; the upper leaf surface is hairless [2].
+> - Soft, succulent, green or burgundy stems that often show lines of white hairs [2].
+> - Flowers with five white petals, each split so deeply that the flower looks like it has ten [2].
+> - **Snap the stem. Milky sap means stop.** Spurges, which share the habitat, bleed milky sap [7][8].
 >
-> **Do NOT use if ANY of these are present (disqualifying traits) — VIOLET:**
-> - Leaves are thick, fleshy, or waxy (indicates acrid weed lookalike).
-> - Flower has more or fewer than 5 petals.
-> - Leaf margins are sharply toothed or serrated (indicates buttercup or other acrid plant).
-> - Taste test of a leaf causes burning or acrid sensation (STOP immediately; spit out).
+> **Do NOT use if ANY of these are present (disqualifying traits):**
+> - **A yellow flower, or heart-shaped leaves that are glossy and fleshy.** Lesser celandine and marsh marigold have heart- to kidney-shaped leaves [4][5].
+> - Leaves picked with no flowers on the plant. Early-spring leaves of violet, lesser celandine and marsh marigold can all be heart-shaped [1][4][5] (this guide's judgment).
+> - Milky sap, a reddish mat of small opposite leaves, or a maroon spot on the leaf [7][8].
+> - A square (four-angled) stem, or brick-red or pink flowers [6].
+> - Stems and leaves sticky-hairy all over [3].
 >
-> **Do NOT use if ANY of these are present — CHICKWEED:**
-> - **Snap the stem — milky white sap appears (that is spurge / *Euphorbia*, toxic). Chickweed has CLEAR juice. Milky sap = discard immediately.**
-> - Stem is hairy all over (that's mouse-ear chickweed — still edible but tougher; requires cooking).
-> - No hair line on stem and no stretchy core (wrong plant).
-> - Leaves are thick or fleshy (indicates different plant).
-> - Taste test of a leaf causes burning or acrid sensation (STOP immediately).
+> **Confusable with:** Lesser celandine and marsh marigold (for violet leaves) → yellow flowers, glossy leaves → protoanemonin: vomiting, diarrhea, mouth ulcers [4][5]. Scarlet pimpernel and spurges (for chickweed) → square stem, red flowers, milky sap → saponin poisoning, or blistered lips and mouth [6][7].
 >
-> **Confusable with:** Buttercup (*Ranunculus*) and other acrid weeds; see section below.
->
-> **Verdict:** Positive ID on every checklist item. Taste test: chew a tiny leaf or stem. If any burning, bitterness, or acrid sensation, spit out and do not consume (indicates wrong plant). Violet and chickweed are mild, slightly sweet, or neutral in taste when raw.
+> **Verdict:** Positive ID on every checklist item, or do not consume. **Do not use a taste test as part of the ID**: buttercup relatives and spurge sap blister the mouth [4][7], and a mild taste clears nothing.
 
 ---
 
 ## Deadly / Toxic Look-Alikes
 
-**No deadly look-alikes, but acrid or mildly toxic weeds share the habitat.**
+No deadly look-alike is named by the sources opened. That is missing data, not a promise. The ones below can make you sick.
 
-### Buttercup (*Ranunculus* spp.)
+### For violet leaves
 
-**Toxin & effects:**
-- **Protoanemonin** (unstable acrid compound, becomes anemonin when dried).
-- **Effects:** Blistering and burning sensation in mouth/throat, GI irritation. Not lethal, but extremely unpleasant.
-- **Onset:** Immediate (burning sensation during chewing).
+- **Lesser celandine (*Ranunculus ficaria*, also *Ficaria verna*).** Introduced from Europe and established across the Mid-Atlantic, including Maryland, where University of Maryland Extension lists it as an invasive that favors moist, wooded floodplains [12]. NC State lists it for DE, NJ, PA, VA, WV, NC, KY and TN, among others [4]. It carpets moist, shady floodplains and dies back by early summer [4]. Glossy, fleshy, heart- to kidney-shaped leaves in a rosette; stems deeply grooved; a bright yellow flower, usually with eight petals, March to May [4]. Protoanemonin, an irritant: vomiting, diarrhea, mouth ulcers [4]. NC State rates it low severity.
+- **Marsh marigold (*Caltha palustris*).** Long-stalked, heart-shaped basal leaves, up to 4 inches, with toothed edges; shiny, deep yellow flowers with five to nine petal-like parts, April to June; hollow, branching stems; wet ground, native in the mountains [5]. Protoanemonin: burning throat, vomiting, bloody diarrhea, dizziness, fainting, convulsions from large amounts; "no part of this plant should ever be eaten raw" [5]. NC State's way to tell it from lesser celandine is petal count (eight versus five) and leaf edge (smooth versus toothed) [4]. Neither tells you it is not a violet. The violet's flower does.
 
-**Why confused with violet:**
-- Buttercup has 5 petals (like violet), but flowers are glossy yellow (not purple/white/violet).
-- Buttercup leaves are deeply lobed or toothed; violet leaves are heart-shaped with smooth edges.
-- Buttercup plants grow in wetter habitats (muddy meadows).
+### For chickweed
 
-**Discriminator:**
-- **Violet leaves are heart-shaped and smooth-edged; buttercup leaves are lobed or deeply toothed.**
-- **Taste test: buttercup causes immediate burning. Violet is mild.**
-
-### Spurge (*Euphorbia* spp.) — milky sap confusion
-
-Small spurge species can superficially resemble chickweed in low-growing disturbed ground.
-
-**Toxin & effects:**
-- Milky latex sap (diterpene esters) causes severe skin and mucous membrane irritation; ingestion causes GI distress.
-
-**Discriminator (decisive):**
-- **Snap the stem.** Chickweed has **clear juice**; spurge bleeds **milky white latex sap**. If you see milky sap, discard the plant immediately — it is not chickweed.
-
-This test is fast, reliable, and should be done before taste-testing any suspected chickweed.
-
-### Other acrid weeds (smartweed, sorrel with high oxalates, etc.)
-
-Various weeds share moist habitats with violet/chickweed. The key discriminators are sap color and taste:
-
-- **Violet:** Mild, slightly sweet, no burning; clear sap.
-- **Chickweed:** Mild, slightly sweet, tender texture; clear sap, stretchy stem core.
-- **Spurge:** Milky white sap → **discard immediately, do not taste.**
-- **Acrid weeds:** Burning, peppery, or sharp taste → spit out and do not consume.
-
-The sap check comes first; the taste test is the secondary gate. Milky sap or burning/acrid taste = not violet or chickweed.
+- **Scarlet pimpernel (*Anagallis arvensis*).** A low plant with four-angled, branching stems, opposite, stalkless, pointed oval leaves up to about 20 mm, and brick-red or pink (rarely blue) star flowers in mid to late summer that close at night [6]. Saponin-containing; Massey records poisoning in sheep, cattle and horses and skin irritation in people [6]. It "has similar leaves" to chickweed but its flowers are not small and white [6]. No source opened gives its Mid-Atlantic range; Massey calls it a weed in most countries [6].
+- **Spurges (*Euphorbia maculata*, *E. prostrata*).** Summer annual mats on sidewalk cracks, gravel, roadsides and gardens; opposite leaves, hairy, with a maroon to purple spot (spotted spurge) or a purple edge (prostrate spurge); stems often red; milky sap when broken [7][8]. The sap can cause mild to severe skin rash and damage the cornea of an eye; if eaten, lips and mouth can blister [7][8]. Chickweed is a cool-season plant, spurge a summer one [2][7].
+- **Mouse-ear chickweed (*Cerastium glomeratum*).** Often confused with common chickweed. Sticky hairs on both leaf sides and on stems, so it looks gray; five white two-lobed petals; NC State says the leaves are edible [3].
 
 ---
 
 ## Identification
 
-### Violet (*Viola* spp.)
+**Violet (*Viola sororia*, common blue violet).** Native, rhizomatous, 6 to 10 inches tall; listed for DE, MD, NJ, PA, VA, WV and DC [1]. Basal, heart-shaped leaves with scalloped to toothed edges, to about 4 inches across, hairy underneath [1]. In spring the flowers are showy; in summer it makes flowers that never open [1]. There are many violet species; this entry opened sources only for *V. sororia*, so another species is not covered here.
 
-**Vegetative form (pre-flower):**
-- **Leaves:** Heart-shaped, growing from base in a dense cluster. Leaf margins smooth or slightly toothed. Leaf surface is smooth or lightly hairy; never thick or fleshy.
-- **Leaf size:** ~1–2 inches long and wide, variable by species.
-- **Stems:** Short, emerging from base or along leaf petioles.
-- **Growth habit:** Low, spreading, 2–4 inches tall initially.
-
-**Flowering form (Mar–Jun):**
-- **Flower:** 5 petals. Two petals point upward (top), two sideways, one downward (bottom). Flowers on short stems arising from leaf clusters.
-- **Flower colors:** White, pale purple, dark purple, or blue-violet depending on species. Some species have distinctive fragrance (sweet).
-- **Flowers appear singly or in small clusters.**
-
-**Species notes (Mid-Atlantic):**
-- ***Viola odorata* (sweet violet):** Fragrant, dark purple flowers; cultivated and naturalized.
-- ***Viola sororia* (blue violet):** Blue-purple flowers, common in woodlands.
-- ***Viola tricolor* (wild pansy):** Tri-color flowers (yellow, purple, white), though not native to the biome; naturalized in some areas.
-
-### Chickweed (*Stellaria* spp.)
-
-**Vegetative form:**
-- **Leaves:** Opposite pairs along the stem, oval to lance-shaped, 0.25–0.75 inch long, smooth margins, tender.
-- **Stem:** Soft, bendable, NOT woody. **Key feature: *Stellaria media* (common chickweed) has a single line of fine hairs running down one side of the stem.** Mouse-ear chickweed (*Cerastium*) has hairs all over (edible but tougher; requires cooking).
-- **Inner core:** When you gently pull the stem apart, a thin string of tissue stretches (elastic tissue core).
-- **Growth habit:** Sprawling, low, forming loose mats. Typically 4–12 inches tall.
-- **Smell:** Fresh, neutral, slightly sweet.
-
-**Flowering form (Apr–Jun):**
-- **Flowers:** Tiny white star-shaped flowers, 5 petals (each petal is deeply notched / cleft, appearing as 10 petals from a distance).
-- **Flowers appear in loose clusters at stem tips or leaf nodes.**
-
-**Species notes:**
-- ***Stellaria media* (common chickweed):** Most common; hairs on one side of stem; tender; eaten raw.
-- ***Stellaria graminea* (grassleaf chickweed):** Narrower leaves; similar preparation.
-- ***Cerastium vulgatum* (mouse-ear chickweed):** Entire stem is hairy; requires cooking due to tougher texture.
+**Chickweed (*Stellaria media*).** A cool-season annual from Eurasia and North Africa, sprawling 4 to 20 inches; stems branch near the base; roots shallow and fibrous [2]. Opposite oval leaves, under an inch, smooth-edged; lower leaves have short, slightly hairy stalks, upper leaves none [2]. Flowers open in the morning and close in dull weather; leaves fold up at night [2].
 
 ---
 
 ## Habitat & Range (this biome)
 
-Both violet and chickweed are widespread in Mid-Atlantic/Appalachian (7a):
-
-**Violet:**
-- Woodlands, forest edges, shaded meadows, disturbed ground
-- Prefers partial shade; tolerates full sun in spring (before tree canopy fills)
-- Well-drained to slightly moist soil
-- Peak season: Mar–May (spring flowering); some species flower again in late summer
-
-**Chickweed:**
-- Open meadows, gardens, disturbed ground, field edges
-- Prefers moist, disturbed areas (weedy habitat)
-- More sun-tolerant than violet
-- Continuous cool-season growth (Mar–Jun, and often Sep–Nov); sparse in midsummer heat
-
-**Seasonal availability:**
-- **Spring (Mar–May):** Both peak; tender, succulent growth.
-- **Early summer (Jun–Jul):** Still present but toughen; violet flowers finish; chickweed slows in heat.
-- **Late summer–fall (Aug–Oct):** Violet rare; chickweed re-emerges in cool weather.
-- **Winter (in mild years):** Chickweed can persist; violet dormant.
-
----
-
-## ⚠ MANDATORY PREPARATION
-
-Neither violet nor chickweed requires preparation. Both are edible raw and cooked.
-
-**Raw consumption (preferred for maximum nutrition):**
-- Violet leaves: Tender, mild, slightly sweet. Eat as salad green or snack.
-- Violet flowers: Mild, slightly sweet, aromatic. Use as garnish, candied, or added to salads.
-- Chickweed leaves and stems: Tender, mild, slightly sweet. Eat raw in salads; entire plant above ground is edible.
-
-**Cooked consumption:**
-- Violet leaves: Sauté with butter/oil, or add to soups. Flavor is mild.
-- Chickweed: Blanch briefly (2–3 min) or sauté. Can be added to any cooked-green recipe. Texture becomes softer.
-- Flowers: Add at the end of cooking to preserve color and delicate flavor.
-
-**Storage:**
-- Both are best consumed fresh.
-- Violet flowers can be candied (coated with egg white and sugar) for long storage.
-- Dried violet or chickweed leaves can be stored in a sealed container for herbal tea; rehydrate in warm water.
+Violet grows in woods, thickets and along streams, in moist, rich soil, and tolerates many light conditions [1]. Chickweed grows in moist, neutral to acidic soil, sun or part shade, and is found across the United States [2]. NC State's bloom and growth dates come from North Carolina; the pages opened give no further Mid-Atlantic dates.
 
 ---
 
 ## Uses & Nutrition
 
-**Nutritional profile (per 100g raw violet leaves):**
-- ~43 calories
-- 3.1g protein
-- 7.6g carbohydrates
-- High in vitamins A, C, magnesium
-- Low oxalates (unlike spinach or sorrel)
-
-**Nutritional profile (per 100g raw chickweed):**
-- ~22 calories
-- 1.4g protein
-- 3.9g carbohydrates
-- Vitamins A, C; minerals calcium, potassium
-- Very tender texture; high water content
-
-**Culinary uses:**
-- Violet leaves: Spring salads, cooked greens (like spinach), soup bases.
-- Violet flowers: Garnish, candied for desserts, herbal tea.
-- Chickweed: Spring salads, sautéed greens, soups, sandwiches.
-
-**Traditional / nutritional use (not medical advice):**
-- Violets are noted in herbalism for respiratory/throat health (historically used in herbal teas).
-- Chickweed is noted as a mild diuretic and digestive aid.
-- Both are nutrient-dense spring greens; used traditionally as an early-season tonic after winter.
+Preparation is not a safety step for these plants, so there is no ⚠ MANDATORY PREPARATION block. **Edibility call from the sources:** NC State lists violet young leaves for salads or cooked greens and the flowers for salads or desserts [1]. It lists chickweed leaves, flowers, stems and seeds as edible, raw in salad or lightly cooked, tasting of spinach or corn silk [2]. So both are listed as edible raw. **One caveat:** chickweed leaves contain saponins; NC State says they are poorly absorbed and pass through, and that thorough cooking breaks them down [2]. The sources opened list only violet leaves and flowers; do not eat violet roots or seeds (general practice). No nutrition numbers were verified for this entry.
 
 ---
 
 ## Cautions
 
-1. **Sap test before tasting (chickweed):** Snap a stem before taste-testing. **Chickweed has clear juice; spurge (*Euphorbia*) bleeds milky white latex sap.** Milky sap = toxic spurge — discard immediately, do not taste.
-
-2. **Taste test before consuming:** If a leaf or stem causes burning, bitterness, or acrid sensation, immediately spit it out and do not consume. This indicates you've picked the wrong plant (likely buttercup or sorrel).
-
-3. **Buttercup confusion:** The only real risk is mistaking a buttercup for a violet flower. Buttercup has glossy yellow petals and deeply lobed leaves. Taste test will immediately reveal the mistake (acrid burning).
-
-4. **Oxalates:** Chickweed has lower oxalates than many wild greens, but high consumption (especially by people with kidney issues) should be moderated. Violet has minimal oxalates.
-
-5. **Allergies:** Violet flowers can trigger reactions in people with pollen allergies or sensitivities to certain flower compounds. If you have a history of flower allergies, proceed cautiously.
-
-6. **Over-harvesting:** Both plants are common, but local patches can be depleted if overharvested. Take only what you need; leave 50%+ of the plant to regenerate.
-
-7. **Universal Edibility Test:** Neither requires it due to unmistakable ID. The test is last-resort only (and useless for fungi).
+1. **If you or someone else ate a plant you cannot name:** call Poison Help at **1-800-222-1222**; call **911** for collapse, seizure, trouble breathing or if the person cannot be awakened. Do not induce vomiting [9]. Sap in the eye: rinse with room-temperature water for at least 15 to 20 minutes, then call [9]. Sap on skin: rinse for at least 15 minutes [9]. Keep a sample of the plant. This is commonly taught first aid, not medical advice.
+2. **No taste tests, no Universal Edibility Test.** Buttercup-type plants and spurge sap blister the mouth when eaten [4][7].
+3. **Pick only plants in bloom** where flowers are the check, and pick one plant at a time, never in a handful (this guide's judgment).
+4. **Sprayed ground.** Avoid lawns and roadsides that may have been treated (general practice).
+5. **Law.** Plants in Shenandoah National Park are protected and may not be collected, apart from small amounts of fruit, nuts and edible mushrooms [10]. Virginia state parks bar taking plants, with edible fruits, berries, fungi and nuts as the exceptions [11]. Other land managers differ; check the rule. Not legal advice.
 
 ---
 
 ## Sources
 
-- Peterson, L. A. (1978). *A Field Guide to Edible Wild Plants of Eastern and Central North America*. Houghton Mifflin. — Violet and chickweed ID and uses pp. 78–80, 118–120.
-- USDA PLANTS Database: Viola sororia, Viola tricolor, Stellaria media, Stellaria graminea, Cerastium vulgatum. https://plants.usda.gov — Range, habitat, taxonomy.
-- Ranunculus toxicity resources: "Protoanemonin and Ranunculin in Buttercup." — Phytochemistry documentation on acrid compounds.
-- Mabey, R. (1996). *Food for Free: A Guide to the Edible Plants of Britain*. Collins. — European wild greens identification and preparation.
+1. NC State Extension Gardener Plant Toolbox. *Viola sororia*. https://plants.ces.ncsu.edu/plants/viola-sororia/ (T1)
+2. NC State Extension Gardener Plant Toolbox. *Stellaria media*. https://plants.ces.ncsu.edu/plants/stellaria-media/ (T1)
+3. NC State Extension Gardener Plant Toolbox. *Cerastium glomeratum*. https://plants.ces.ncsu.edu/plants/cerastium-glomeratum/ (T1)
+4. NC State Extension Gardener Plant Toolbox. *Ranunculus ficaria* (lesser celandine). https://plants.ces.ncsu.edu/plants/ficaria-verna/ (T1)
+5. NC State Extension Gardener Plant Toolbox. *Caltha palustris* (marsh marigold). https://plants.ces.ncsu.edu/plants/caltha-palustris/ (T1)
+6. Massey University (New Zealand). *Scarlet pimpernel (Anagallis arvensis)*, Poisonous Plants Database. https://poisonousplants.massey.ac.nz/data/scarlet_pimp/scar_pimp.html (T2)
+7. NC State Extension Gardener Plant Toolbox. *Euphorbia maculata* (spotted spurge). https://plants.ces.ncsu.edu/plants/euphorbia-maculata/ (T1)
+8. NC State Extension Gardener Plant Toolbox. *Euphorbia prostrata* (prostrate spurge). https://plants.ces.ncsu.edu/plants/euphorbia-prostrata/ (T1)
+9. National Capital Poison Center. *First Aid for Poisonings*. https://www.poison.org/first-aid-for-poisonings (T1)
+10. National Park Service, Shenandoah National Park. *Collecting Plants and Mushrooms*. https://www.nps.gov/shen/learn/management/collecting-plants.htm (T1)
+11. Virginia Administrative Code. *4VAC5-30-50. Flowers, plants, minerals, etc.* https://law.lis.virginia.gov/admincode/title4/agency5/chapter30/section50/ (T1)
+12. University of Maryland Extension. *Lesser Celandine*. https://extension.umd.edu/resource/lesser-celandine (T1)

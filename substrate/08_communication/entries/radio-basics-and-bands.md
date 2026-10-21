@@ -5,147 +5,239 @@ type:                  METHOD
 domain:                substrate/08_communication
 region_scope:          universal
 usda_zone:             n/a
-confidence:            high
+confidence:            medium
 source_tier:           T1
 sources:
-  - title: "FCC Part 95: Personal Radio Services"
-    publisher: "Federal Communications Commission"
-    url: "https://www.fcc.gov/wireless-telecommunications/personal-radio-services"
+  - title: "47 CFR 95.305, Authorization to operate Personal Radio Services stations"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/section-95.305"
     tier: T1
-  - title: "National Weather Service Radio (NOAA Weather Radio)"
+  - title: "47 CFR Part 95 Subpart B, Family Radio Service (95.531, 95.563, 95.567, 95.587, 95.591)"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/subpart-B"
+    tier: T1
+  - title: "47 CFR 95.1705, GMRS individual licenses; who may operate"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/section-95.1705"
+    tier: T1
+  - title: "47 CFR Part 95 Subpart E, General Mobile Radio Service (95.1731, 95.1733, 95.1751, 95.1763, 95.1767)"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/subpart-E"
+    tier: T1
+  - title: "General Mobile Radio Service (GMRS)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-08-24)"
+    url: "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs"
+    tier: T1
+  - title: "Personal Service and Amateur Application Fees (Wireless Telecommunications Bureau Fee Filing Guide, effective May 23, 2025)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-06-01)"
+    url: "https://www.fcc.gov/personal-service-and-amateur-application-fees"
+    tier: T1
+  - title: "FCC 20-184, Report and Order on application fees (paragraph 41 on GMRS)"
+    publisher: "Federal Communications Commission"
+    url: "https://docs.fcc.gov/public/attachments/FCC-20-184A1.pdf"
+    tier: T1
+  - title: "47 CFR Part 95 Subpart D, CB Radio Service (95.905, 95.931, 95.963, 95.967)"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/subpart-D"
+    tier: T1
+  - title: "Citizens Band Radio Service (CBRS)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-09-10)"
+    url: "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/citizens-band-radio-service-cbrs"
+    tier: T1
+  - title: "47 CFR Part 95 Subpart J, Multi-Use Radio Service (95.2763, 95.2767)"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-95/subpart-J"
+    tier: T1
+  - title: "Multi-Use Radio Service (MURS)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-10-11)"
+    url: "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs"
+    tier: T1
+  - title: "Amateur Radio Service (licensing and examinations)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-10-09)"
+    url: "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service"
+    tier: T1
+  - title: "47 CFR 97.5, Station license required"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-97/section-97.5"
+    tier: T1
+  - title: "47 CFR 97.113, Prohibited transmissions"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-97/section-97.113"
+    tier: T1
+  - title: "47 CFR 97.403, Safety of life and protection of property"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-97/section-97.403"
+    tier: T1
+  - title: "47 CFR 97.301, Authorized frequency bands (2 m listed under VHF)"
+    publisher: "Federal Communications Commission (eCFR)"
+    url: "https://www.ecfr.gov/current/title-47/part-97/section-97.301"
+    tier: T1
+  - title: "Getting Licensed (Technician class)"
+    publisher: "American Radio Relay League (ARRL)"
+    url: "https://www.arrl.org/getting-licensed"
+    tier: T2
+  - title: "NOAA Weather Radio All Hazards"
     publisher: "NOAA / National Weather Service"
     url: "https://www.weather.gov/nwr/"
     tier: T1
-  - title: "Amateur Radio (Ham) Licensing and Frequencies"
-    publisher: "FCC and ARRL"
-    url: "https://www.fcc.gov/wireless-telecommunications/amateur-radio"
+  - title: "NWR coverage by county"
+    publisher: "NOAA / National Weather Service"
+    url: "https://www.weather.gov/nwr/counties"
     tier: T1
-  - title: "Citizens Band Radio Regulations"
-    publisher: "FCC Part 95, Subpart D"
-    url: "https://www.fcc.gov"
+  - title: "NWR Receivers"
+    publisher: "NOAA / National Weather Service"
+    url: "https://www.weather.gov/nwr/nwr_receivers"
     tier: T1
-last_reviewed:        draft
-review_status:        draft
-method_for:           "receive emergency information and transmit in emergencies using radio bands"
+  - title: "Enforcement Advisory No. 2018-03 (DA 18-980), Two-Way VHF/UHF Radios"
+    publisher: "FCC Enforcement Bureau"
+    url: "https://docs.fcc.gov/public/attachments/DA-18-980A1.pdf"
+    tier: T1
+  - title: "Emergency Communications Tips (FCC/FEMA)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-10-15)"
+    url: "https://www.fcc.gov/emergency"
+    tier: T1
+  - title: "Family Radio Service (FRS)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot, 2026-10-21)"
+    url: "https://www.fcc.gov/general/family-radio-service-frs"
+    tier: T1
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
+method_for:           "receive emergency information and know what each radio service lets you transmit"
 materials:
-  - battery-powered or hand-crank AM/FM/NOAA receiver
-  - FRS/GMRS transceiver (handheld two-way radio)
-  - amateur (ham) radio transceiver (if licensed)
-  - CB radio (license-free but regulated)
+  - battery-powered or hand-crank NOAA Weather Radio receiver (SAME and battery backup)
+  - battery-powered or hand-crank AM/FM radio
+  - FRS handheld (no license)
+  - GMRS radio (only with a GMRS license in the household)
+  - CB radio (no license)
+  - MURS radio (no license)
+  - amateur (ham) transceiver (only with an amateur license)
   - spare batteries
-  - reference card listing emergency frequencies
+  - paper card with your group's channels and check-in times
 difficulty:           easy
 ---
 
 ## Goal & When To Use
 
-Radio is the only communication tool that works when cell and internet are down. The goal is to **receive weather alerts and emergency broadcasts** (receive-only, no license needed) and **transmit in emergency or critical situations** (normally requires a license). Use radio when:
+A radio can reach family, neighbors or travelers when phones fail, and it can bring you a weather warning when the internet is down. A radio **cannot call 911**, and no rule guarantees anyone is listening (this guide's judgment). Use this entry to:
 
-- **Infrastructure is down** (cell towers destroyed, internet out, phone network congested).
-- **You need to stay informed** (NOAA weather radio gives alerts; AM/FM broadcast carries emergency information).
-- **You need to request help** (FRS/GMRS in range, ham radio over longer distance, CB as fallback).
+- **Receive** weather alerts and emergency information (NOAA Weather Radio, AM/FM news radio).
+- **Choose a transmitting service you are allowed to use**, and know what each one forbids.
 
-**Key rule**: receiving information from radio stations requires no license. Transmitting on most bands requires a license. **Emergency exception**: most jurisdictions permit unlicensed emergency transmissions when life safety is at stake, but you must transmit truthfully and cease when the emergency ends.
+Radio law is federal, and rules and fees change. What follows was read from the FCC's rules and pages in October 2026. Check fcc.gov before you buy or transmit.
+
+**Who may transmit, at a glance**
+
+| Service | License to transmit | Channels | Power |
+|---|---|---|---|
+| FRS (Family Radio Service) | None; no individual license [1][2] | 22 [2] | 2 W on channels 1-7 and 15-22; 0.5 W on 8-14 (effective radiated power) [2] |
+| GMRS (General Mobile Radio Service) | Individual FCC license; applicant 18 or older [3] | 30 [4] | Up to 50 W (mobile, base, repeater); 5 W on 462 MHz interstitial channels; 0.5 W for handhelds on 467 MHz interstitial channels [4] |
+| CB (Citizens Band) | None at all [9] | 40 [9] | 4 W carrier (AM or FM); 12 W peak (single sideband) [8] |
+| MURS (Multi-Use Radio Service) | None; licensed by rule [11] | 5 [10] | 2 W [10] |
+| Amateur ("ham") | License after an exam [12] | Bands across the spectrum | Set by license class and band (not stated here) |
+
+**There is no "unlicensed emergency exception" that lets an unlicensed person transmit on amateur or GMRS frequencies.** The only emergency allowances are the ones quoted below. With no license, use 911, FRS, CB or MURS.
 
 ---
 
 ## Steps
 
-### Receive-Only (No License Required)
+### Receive only
 
-**1. NOAA Weather Radio**
-- Frequency: 162.400–162.550 MHz (seven NOAA channels; varies by region).
-- Equipment: battery-powered or hand-crank weather radio (~$20–50, available before emergency).
-- Information: continuous weather alerts, tornado/flood warnings, and emergency broadcast messages.
-- Activation: most weather radios have an "alert" mode that activates the radio automatically when a watch/warning is issued.
-- **Get one before the emergency.** A weather radio with alert mode is the single cheapest insurance against undetected fast-moving threats (tornadoes, flash floods).
+**1. NOAA Weather Radio All Hazards** [18]
+- A nationwide network of stations broadcasting weather and other hazard information. It uses seven frequencies, the same seven everywhere: 162.400, 162.425, 162.450, 162.475, 162.500, 162.525 and 162.550 MHz. Which station you hear depends on where you are [18].
+- You need a special receiver or scanner [18]. A plain AM/FM radio does not pick it up.
+- Choose a receiver with SAME (Specific Area Message Encoding), so it alerts only for the area you pick, and with battery backup, because outages come with storms. NWS sends a 1050 Hz tone before most warnings and many watches [20].
+- Service typically extends about a 40 mile radius from the transmitter on level ground. Some counties, especially in mountains, may not get reliable reception [19].
 
-**2. AM/FM Broadcast Radio**
-- Frequency: AM 540–1700 kHz, FM 88–108 MHz.
-- Information: news, emergency broadcasts, shelter information, evacuation routes.
-- Reach: commercial stations broadcast from towers; if towers are up, you receive news.
-- Equipment: simple hand-crank or battery-powered AM/FM radio.
-- Range: 50–200 miles depending on tower height and terrain; long-wave AM penetrates buildings better than FM.
+**2. AM/FM broadcast radio**
+- The FCC and FEMA suggest a battery-powered, solar or hand-crank radio to monitor news and emergency broadcasts during a power outage. Check the manual before using one to charge a phone [22].
+- If a station's tower or power is down, you will hear nothing from it. Try other stations (general practice).
 
-**3. Shortwave Radio (long-range receive)**
-- Frequency: 3–30 MHz bands (requires a dedicated shortwave receiver).
-- Information: distant broadcasts, international news, amateur repeater nets (if you monitor).
-- Equipment: dedicated shortwave receiver or ham radio in receive mode.
-- Use: monitoring international broadcasts or amateur emergency nets if you have a receiver.
+### Transmit: what each service allows
 
----
+**3. FRS (Family Radio Service): no individual license** [1][2]
+- Under 47 CFR 95.305, the FCC does not require or accept an application for an individual license to operate a Personal Radio Service station, unless the rules for that service say otherwise [1]. The FRS rules in Subpart B contain no license requirement [2].
+- 22 channels. Channels 1-7 and 15-22 are limited to 2 W effective radiated power; channels 8-14 to 0.5 W. The antenna must be built in [2].
+- It is a short-distance voice service. FRS units may also send one-way emergency messages and traveler-assistance messages [2].
+- **Range.** The FCC says the usual range of an FRS device on channels 8-14 is less than one-half mile, and longer range can be achieved on channels 1-7 and 15-22 depending on conditions [23].
+- FRS shares its channels with GMRS, so you may hear licensed users [2].
+- Since September 30, 2019, radios that combine FRS with other licensed services may not be sold or offered for sale [2]. An older "FRS/GMRS" radio that exceeds FRS limits is a GMRS radio and needs a GMRS license [3]. Read the label and the manual (this guide's judgment from [2][5]).
 
-### Transmit (Licensed or Emergency-Only)
+**4. GMRS (General Mobile Radio Service): individual license required** [3][4][5][6]
+- **License.** A valid individual license is required to operate a GMRS station. Only a person at least 18 years old is eligible for a new one [3]. The rule sets age, a fee and the usual FCC filing. It names no exam, and the FCC GMRS page lists none [3][5]. (FCC 20-184 quotes a commenter saying no testing is involved [7].)
+- **Fee.** The FCC fee guide effective May 23, 2025 lists a $35 application fee for a new GMRS license and no regulatory fee. The license term is ten years [3][6]. Fees change; check the current guide.
+- **Family.** A licensee may allow immediate family members to operate the licensee's station. The rule lists spouse, children, grandchildren, stepchildren, parents, grandparents, stepparents, brothers, sisters, aunts, uncles, nieces, nephews and in-laws [3]. The FCC says any family member, regardless of age, can operate stations in the licensed system [5].
+- **Emergency messages.** 47 CFR 95.1705(c)(3) reads: "Any individual who holds an individual license may allow anyone to operate his or her GMRS station if necessary to communicate an emergency message." [3] That is the licensee's permission. It does not let an unlicensed person transmit on GMRS with their own radio.
+- **Channels and power.** 30 channels. On the main channels: up to 50 W for mobile, repeater and base stations, 15 W for fixed stations. On the 462 MHz interstitial channels: 5 W effective radiated power. On the 467 MHz interstitial channels (handhelds): 0.5 W [4].
+- **Range.** The FCC says a user can expect one to twenty-five miles, depending on station class, terrain and repeater use [5].
+- **On the air.** Give your call sign at the end of transmissions and at least every 15 minutes during a long series. Use plain language: coded messages and messages with hidden meanings are banned ("10 codes" are allowed). Only a ship, aircraft or other vehicle in immediate danger may use "Mayday" [4].
 
-**1. FRS (Family Radio Service) — No License, Low Power**
-- Frequency: 14 channels on 462–467 MHz (UHF).
-- License: **None required** (FCC regulation change 2017).
-- Power: 2 watts maximum (very short range).
-- Range: 1–2 miles in open terrain; 1/2 mile in forest/urban (line-of-sight only).
-- Use: local team coordination, staying in contact with companions during dispersal.
-- Equipment: FRS-only or FRS/GMRS combo handheld (important: verify it is FRS-only or GMRS-licensed model).
+**5. CB (Citizens Band): no license at all** [8][9]
+- 40 channels between 26.965 and 27.405 MHz [9]. Anyone may operate a CB station except a foreign government or its representative, a federal agency, or a person under a standing FCC cease-and-desist order [9].
+- The FCC does not require an individual license for CB [9]. The CB rules (which call the service CBRS) treat its stations as operating without an individual license under 95.305 [8]. That holds for every use inside the rules, not only emergencies. Violating an operating rule voids the authority to operate [8].
+- Power: 4 W carrier on AM or FM; 12 W peak on single sideband [8].
+- **Channel 9 may be used only for emergency communications or traveler assistance.** Any CB channel may be used for an emergency or traveler assistance, and operators must give priority to emergency communications on every channel [8].
+- Plain-language voice only [8]. Channel 19 is a trucker habit; the rules name only channel 9.
 
-**2. GMRS (General Mobile Radio Service) — License Required (normally)**
-- Frequency: 8 channels + FRS channels; transmit on 462–467 MHz (overlaps FRS).
-- License: normally requires an **FCC license** (~$85 for 10 years; application online).
-- Power: 5 watts (repeater access allowed; can reach 10+ miles via repeater).
-- Range: 5–10 miles line-of-sight (handheld); farther if using a repeater.
-- Use: family coordination, emergency relay, longer-distance team comms.
-- **Emergency exception**: many jurisdictions recognize GMRS emergency use without a license if life safety is at stake.
-- Equipment: GMRS-capable transceiver (must have GMRS license or emergency-authorization before transmitting).
+**6. MURS (Multi-Use Radio Service): no license** [10][11]
+- 5 VHF channels (151.820, 151.880, 151.940, 154.570 and 154.600 MHz), 2 W maximum transmitter power [10].
+- Licensed by rule: no individual license and no age limit. The radio must be FCC-certified [11].
+- The FCC says the usual range is less than a few miles, and an external antenna can extend it to ten miles or more [11].
 
-**3. MURS (Multi-Use Radio Service) — No License**
-- Frequency: 5 channels at 151–154 MHz (VHF, better range than FRS).
-- License: **None required**.
-- Power: 2 watts.
-- Range: 2–5 miles line-of-sight (better than FRS due to lower frequency).
-- Use: local coordination, less congested than FRS in urban areas.
-- Equipment: MURS-capable transceiver (less common than FRS/GMRS).
+**7. Amateur ("ham") radio: license and exam required** [12]-[17]
+- An amateur operator license grant requires passing an examination given by volunteer examiners [12]. The Technician license takes one 35-question exam and gives access to all amateur frequencies above 30 MHz plus limited HF (long-distance) privileges [17]. The 2 meter band (144-148 MHz in the U.S.) is VHF (very high frequency), not UHF [16].
+- **A person named in an amateur license grant must have physical control of the station before it transmits on any amateur frequency** (47 CFR 97.5(a)) [13].
+- **Emergency rule, stated narrowly.** 47 CFR 97.403: "No provision of these rules prevents the use by an amateur station of any means of radiocommunication at its disposal to provide essential communication needs in connection with the immediate safety of human life and immediate protection of property when normal communication systems are not available." [15] This lets an amateur station use whatever means it has in a true emergency. It does not license an unlicensed person.
+- **No coded messages.** An amateur station may not transmit messages encoded for the purpose of obscuring their meaning, or false or deceptive messages (47 CFR 97.113(a)(4)) [14].
+- Get licensed before you need it.
 
-**4. CB Radio (Citizens Band) — License-Free but Regulated**
-- Frequency: 40 channels at 27 MHz (AM or SSB).
-- License: **None required** for emergency use; normally a violation to transmit without authorization, but emergency exception applies.
-- Power: regulated (~4 watts AM, 12 watts SSB).
-- Range: 1–10+ miles depending on propagation and antenna (CB can skip long distances at night).
-- Use: distress calling on Channel 9 or Channel 19 (trucker network); longer-distance emergency relay.
-- Equipment: CB radio (car-mounted or portable handheld).
-- Note: CB channels are often congested; Channel 9 is monitored as emergency.
-
-**5. Amateur (Ham) Radio — License Required (normally)**
-- Frequency: multiple bands (2-meter, 70-cm, and longer-wave bands; 146–148 MHz for 2-meter).
-- License: **FCC license required** (Technician class minimum, covers 2-meter UHF + some HF).
-- Power: varies (typically 5–100 watts depending on equipment and band).
-- Range: 10–50+ miles line-of-sight with handheld; much farther via repeater or skywave on HF (long-distance).
-- Use: emergency coordination nets, long-distance relay, most reliable comms for regional disaster.
-- **Emergency exception**: most jurisdictions permit unlicensed emergency transmissions on ham frequencies if life safety is at stake.
-- Equipment: ham radio transceiver (more expensive; ~$100–1000+ for capable units).
-- Network: amateur repeater nets often activate during regional disasters and maintain a "net" of available operators.
+**Imported low-cost handhelds.** Two-way VHF/UHF radios must be FCC-authorized before being imported, advertised, sold or operated, except radios that operate only on amateur frequencies. Many cheap radios also transmit outside the ham bands, and such radios are illegal to sell or use in the U.S. [21]
 
 ---
 
 ## Failure Modes & Fixes
 
-**Radio won't power on.** Batteries dead. **Solution**: keep spare batteries in your kit or use a hand-crank radio (works even dead). Test batteries monthly.
+**Radio won't power on.** Dead batteries. Keep spare batteries in the kit, or use a hand-crank radio for receive only (general practice).
 
-**Can't reach anyone on FRS/GMRS.** Out of range (farther than 1–5 miles, or line-of-sight blocked). **Solution**: move to higher ground, use a repeater (GMRS), or switch to a longer-range band (MURS, CB, or ham if licensed). If close to a town, try CB Channel 9 or local emergency frequency (research before the emergency).
+**Can't reach anyone on FRS.** Out of range or blocked by terrain. Move to higher, open ground. Agree on a channel and a check-in time with your group beforehand (general practice). Radios are not private, so do not announce what you have or give your address (general practice).
 
-**Receive stations aren't broadcasting.** Towers down or power out. **Solution**: switch to battery/hand-crank radio and monitor multiple stations (AM/FM, shortwave if available). Long-wave AM often survives local power outages. If regional blackout, shortwave international broadcasts are your best bet for information.
+**Weather radio is silent.** You may be outside the transmitter's coverage (about 40 miles on level ground, less in mountains) [19], the receiver may lack battery backup [20], or the station may be down. Try the other six frequencies, then AM/FM news.
 
-**Forgot emergency frequencies.** **Solution**: print or write down emergency frequencies *before* the emergency. Key frequencies:
-  - NOAA Weather Radio (seven channels; find your region at weather.gov/nwr).
-  - CB Channel 9 (emergency).
-  - Local police/fire non-emergency (listed in phone book or county emergency plan).
-  - 2-meter ham repeater (if you hold a license; look up via RepeaterBook app).
+**Forgot the frequencies.** Write them on a card before the emergency: the seven NOAA frequencies, CB channel 9, and your group's FRS channel.
 
-**Can't transmit legally because unlicensed.** Use FRS only (no license), or trigger emergency exception if life safety is at stake (transmit briefly and truthfully; cease after emergency ends). Don't rely on a legal gray area; get licensed (GMRS, ham) before the emergency if you plan to transmit.
+**Tempted to transmit on a service you are not licensed for.** Do not use GMRS or amateur frequencies on your own authority. The only GMRS allowance is the licensee's permission in 95.1705(c)(3) [3]. Use 911 by phone, or FRS or CB.
 
-**Battery dead and no charging.** Use hand-crank radio for receive-only. Preserve battery power: receive only when expecting alerts or news, not continuously. Dim the display if possible.
+**Imported handheld "works" but may not be legal.** Look for an FCC compliance label, or a radio limited to amateur frequencies [21].
 
 ---
 
 ## Sources
 
-- **FCC Part 95: Personal Radio Services.** The authoritative regulatory source for FRS, GMRS, MURS, and CB. Defines power limits, channels, licensing requirements, and emergency exceptions.
-- **NOAA National Weather Service Radio (NWR).** Official source for weather radio channels, alert protocols, and emergency broadcast procedures; includes regional frequency finder.
-- **FCC Part 97: Amateur Radio Service.** Defines ham radio licensing, bands, power limits, repeater coordination, and emergency use. Coordinated through ARRL (American Radio Relay League).
-- **RepeaterBook** (app / online). Crowdsourced directory of FRS/GMRS/MURS/ham repeaters by region; invaluable for knowing local relay frequencies before emergency.
+All pages opened 2026-10-21. FCC web pages that block automated access were opened from Internet Archive snapshots (dates given). Rule text was read from the eCFR.
+
+1. 47 CFR 95.305, Authorization to operate Personal Radio Services stations. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/section-95.305
+2. 47 CFR Part 95 Subpart B, Family Radio Service (95.531, 95.563, 95.567, 95.587, 95.591). FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/subpart-B
+3. 47 CFR 95.1705, GMRS individual licenses; who may operate. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/section-95.1705
+4. 47 CFR Part 95 Subpart E, GMRS (95.1731, 95.1733, 95.1751, 95.1763, 95.1767). FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/subpart-E
+5. General Mobile Radio Service (GMRS). FCC (Internet Archive snapshot 2026-08-24). https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs
+6. Personal Service and Amateur Application Fees, Wireless Telecommunications Bureau Fee Filing Guide, effective May 23, 2025. FCC (Internet Archive snapshot 2026-06-01). https://www.fcc.gov/personal-service-and-amateur-application-fees
+7. FCC 20-184, Report and Order, paragraph 41. FCC. https://docs.fcc.gov/public/attachments/FCC-20-184A1.pdf
+8. 47 CFR Part 95 Subpart D, CB Radio Service (95.905, 95.931, 95.963, 95.967). FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/subpart-D
+9. Citizens Band Radio Service (CBRS). FCC (Internet Archive snapshot 2026-09-10). https://www.fcc.gov/wireless/bureau-divisions/mobility-division/citizens-band-radio-service-cbrs
+10. 47 CFR Part 95 Subpart J, Multi-Use Radio Service (95.2763, 95.2767). FCC / eCFR. https://www.ecfr.gov/current/title-47/part-95/subpart-J
+11. Multi-Use Radio Service (MURS). FCC (Internet Archive snapshot 2026-10-11). https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs
+12. Amateur Radio Service. FCC (Internet Archive snapshot 2026-10-09). https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service
+13. 47 CFR 97.5, Station license required. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-97/section-97.5
+14. 47 CFR 97.113, Prohibited transmissions. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-97/section-97.113
+15. 47 CFR 97.403, Safety of life and protection of property. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-97/section-97.403
+16. 47 CFR 97.301, Authorized frequency bands. FCC / eCFR. https://www.ecfr.gov/current/title-47/part-97/section-97.301
+17. Getting Licensed. American Radio Relay League (ARRL). https://www.arrl.org/getting-licensed
+18. NOAA Weather Radio All Hazards. NWS. https://www.weather.gov/nwr/
+19. NWR coverage by county. NWS. https://www.weather.gov/nwr/counties
+20. NWR Receivers. NWS. https://www.weather.gov/nwr/nwr_receivers
+21. Enforcement Advisory No. 2018-03 (DA 18-980), Two-Way VHF/UHF Radios. FCC Enforcement Bureau. https://docs.fcc.gov/public/attachments/DA-18-980A1.pdf
+22. Emergency Communications Tips (FCC/FEMA). FCC (Internet Archive snapshot 2026-10-15). https://www.fcc.gov/emergency
+23. Family Radio Service (FRS). FCC (Internet Archive snapshot 2026-10-21). https://www.fcc.gov/general/family-radio-service-frs
+
+Not sourced, so not stated: range figures for CB and amateur radio; amateur power limits by band; AM/FM and shortwave frequency ranges; prices; any "unlicensed emergency exception."

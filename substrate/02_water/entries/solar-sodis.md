@@ -6,105 +6,89 @@ domain:                substrate/02_water
 region_scope:          universal
 usda_zone:             n/a
 method_for:            "disinfect water via solar UV-A radiation"
-materials:             ["clear PET bottle (plastic bottle, not glass; Coca-Cola/Pepsi type bottles work)", "sunny location (>30°N or >30°S latitude requires at least 6 hours direct sun)", "clean, cloth or cloth bag for transport (optional)"]
+materials:             ["clean, clear (colorless, transparent) PET plastic bottle with a cap, 2 liters or smaller", "relatively clear water (strain cloudy water first)", "full sun, or two consecutive days if cloudy", "cloth, paper towel or coffee filter (pre-strain)"]
 difficulty:            easy
 confidence:            high
 source_tier:           T1
 sources:
-  - title:             "SODIS Method for Household Water Treatment"
-    publisher:         "WHO"
-    url:               "https://www.who.int/water_sanitation_health/emergencies/fs2_37.pdf"
+  - title:             "Household Water Treatment and Safe Storage Following Emergencies and Disasters"
+    publisher:         "World Health Organization"
+    url:               "https://www.who.int/docs/default-source/wash-documents/wash-in-emergencies/household-water-treatment-and-safe-storage-after-emergencies.pdf"
     tier:              T1
-  - title:             "Solar Disinfection of Drinking Water"
+  - title:             "How to Make Water Safe in an Emergency"
     publisher:         "CDC"
-    url:               "https://www.cdc.gov/healthywater/emergency/making-water-safe.html"
+    url:               "https://www.cdc.gov/water-emergency/about/index.html"
     tier:              T1
-  - title:             "SODIS Global Initiative"
-    publisher:         "SODIS.ch (Swiss Tropical Institute)"
-    url:               "https://www.sodis.ch/en/"
+  - title:             "SODIS: How does it work?"
+    publisher:         "Eawag (Swiss Federal Institute of Aquatic Science and Technology), SODIS"
+    url:               "https://www.sodis.ch/methode/anwendung/index_EN.html"
     tier:              T2
-  - title:             "FM 21-76: Survival Manual"
-    publisher:         "U.S. Army"
-    url:               "https://www.survivalmanual.army.mil/"
+  - title:             "H.12 Solar Disinfection (SODIS)"
+    publisher:         "Emergency WASH (Eawag/Sandec)"
+    url:               "https://www.emergency-wash.org/water/en/technologies/technology/solar-disinfection-sodis"
     tier:              T2
-last_reviewed:         draft
-review_status:         draft
+  - title:             "Wilderness Medical Society Clinical Practice Guidelines on Water Treatment for Wilderness, International Travel, and Austere Situations (2024)"
+    publisher:         "Wilderness Medical Society / Wilderness & Environmental Medicine (CDC Stacks copy)"
+    url:               "https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf"
+    tier:              T2
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 preparation_required:  true
 ---
 
 ## Goal & When To Use
 
-Solar SODIS (Solar Disinfection) uses UV-A radiation from sunlight to inactivate waterborne pathogens. Use this method when:
+SODIS (solar disinfection) uses sunlight to inactivate germs in water in a clear plastic bottle. WHO and CDC both describe it as a fallback for when no chemical disinfectant is available. Use it when:
 
-- You have no heat source, no chemicals, no filter — only sun and a clear plastic bottle.
-- Water is **crystal clear** (no visible turbidity; cloudy water fails SODIS).
-- You have at least 6 hours of direct sun exposure (tropical/subtropical latitudes or strong midday sun).
-- You need a truly no-resource fallback.
+- You cannot boil, cannot filter, and have no bleach, iodine or other disinfectant.
+- You have a clean, clear plastic bottle and relatively clear water.
+- You have strong sun for 6 hours, or can leave the bottle out for 2 consecutive days if the sky is cloudy.
 
-**Limitations:** SODIS is slow (6 hours to 2+ days depending on conditions), requires very clear water, and is weather-dependent. It is best used as a last resort or for storage in advance of expected need.
+**Limitations:** it is slow, depends on weather, and fails on cloudy water, in lengthy rain, and in no sun. It does not treat chemicals. **Do not count on it for *Cryptosporidium*.** It is a fallback, not a plan.
 
 ---
 
 ## ⚠ CONTAMINATION — what this method does and does NOT handle
 
-> ⚠ **SODIS (solar UV-A): inactivates bacteria, viruses, protozoa. Strict water-clarity requirement (>98% transmission required). Does NOT remove chemical/heavy-metal contamination; does NOT reliably kill *Cryptosporidium*. Fallback only.**
+> ⚠ **SODIS (sunlight in a clear bottle): inactivates bacteria, viruses and protozoan cysts under the stated sun and clarity conditions. Does NOT remove chemicals. Do NOT rely on it for *Cryptosporidium*. Fallback only.**
 >
-> - **Threats eliminated:** Bacteria (*E. coli*, *Salmonella*), most viruses (norovirus, hepatitis A, rotavirus — UV-A inactivates by DNA/RNA damage).
+> - **Threats handled (when water is relatively clear and the sun conditions are met):** bacteria, viruses and protozoan cysts (WMS 2024).
 > - **Threats that REMAIN:**
->   - *Cryptosporidium parvum*: oocysts are UV-resistant compared to bacteria/viruses; SODIS is unreliable for Crypto. If Crypto risk is high, do NOT use SODIS alone.
->   - Heavy metals, chemicals, pesticides, salt: not addressed.
-> - **Water-clarity requirement:** Water must be crystal clear (bottled water clarity or better). Any visible cloudiness, sediment, or color reduces UV penetration and dramatically extends treatment time or makes it fail entirely. Cloudy water SODIS does not work.
-> - **Sunlight intensity matters:**
->   - Full tropical/subtropical sun (latitude <30°) at midday: 6 hours effective.
->   - Weaker sun (higher latitude, winter) or overcast: 2+ days or ineffective.
->   - Cloudy days: SODIS fails or requires days; unreliable.
->
-> - **Residue:** None. UV-treated water has no protective residue (unlike chlorine), so recontamination is possible if bottle is opened or mishandled.
+>   - ***Cryptosporidium*:** do not count on SODIS for it. One source reports *Cryptosporidium* and *Giardia* needing more than 10 hours of sun (Emergency WASH). If *Cryptosporidium* is possible, boil or use a filter rated absolute 1 micron or smaller.
+>   - Chemicals, fuel, toxins, heavy metals, pesticides, nitrate: not removed (CDC; Emergency WASH).
+> - **Clarity requirement:** the water must be relatively clear. Particles block the light (WHO; CDC). Eawag's field test: put the filled bottle on a newspaper headline and look down through the water from the neck. If the letters are readable, the water can be used (this corresponds to about 30 NTU). If not, filter it first. Strain cloudy water through a cloth, paper towel or coffee filter first.
+> - **Sun requirement:** 6 hours in sun, or 2 consecutive days if the sky is cloudy (WHO; CDC; Eawag). SODIS does not work satisfactorily in lengthy rain (Eawag).
+> - **Residue:** none. There is no protective residual, so the water can be recontaminated. Drink straight from the bottle or pour it into a clean cup right before drinking (WHO; Eawag).
 
 ---
 
 ## Steps
 
-1. **Find a clear PET plastic bottle.** Use a clear, colorless plastic bottle (Coca-Cola, Pepsi, water bottle type). Capacity: 1–2 liters is standard.
-   - Do NOT use glass (does not transmit UV-A effectively).
-   - Do NOT use opaque or tinted plastic.
-   - Do NOT use UV-blocking bottles (some sport bottles are UV-blocked).
+1. **Pick the bottle.** Use a clean, **clear, colorless plastic (PET) bottle** with a cap, **2 liters or smaller** (smaller bottles work better; Eawag's stated ceiling is 3 liters). Do not use brown or green bottles, which absorb part of the UV (Emergency WASH). Replace badly scratched bottles (Eawag).
 
-2. **Verify water is crystal clear.** Hold the bottle up to strong light and look through it.
-   - If you can see through to the other side without any haziness, it is clear enough.
-   - If water is cloudy, brown, or has any color tint, pre-filter or pre-settle it first. Cloudy water SODIS will NOT work.
+2. **Check the water.** If you cannot read a newspaper headline through it (see CONTAMINATION), strain it first through a cloth, paper towel or coffee filter (CDC). If it is still cloudy or colored, do not use SODIS.
 
-3. **Fill the bottle completely.** Pour treated water into the bottle until full (air pockets reduce UV exposure). Cap loosely or leave open during exposure.
+3. **Fill and shake.** Fill the bottle about three quarters full. Shake it hard about 20 times. Then fill it completely and **cap it** (WHO; CDC).
 
-4. **Place in direct sunlight.** Position the bottle in a location with continuous direct solar exposure for the duration:
-   - Avoid shadows, trees, or overhangs.
-   - Place on a sunny roof, open ground, or white surface (white reflects and concentrates heat).
-   - Optimal: bottle lies horizontally or tilted so water is exposed on all sides.
+4. **Lay it in full sun.** Put the bottle on its side in direct sun. A dark surface can help (CDC). Keep it out of shade.
 
-5. **Maintain sun exposure for required time:**
-   - **Tropical/subtropical (latitude <30°) with clear sky and strong sun:** 6 hours minimum.
-   - **Temperate zones (30–50° latitude) with clear sky:** 8–12 hours (full midday to late afternoon).
-   - **Cloudy day or weak sun (winter, high latitude):** 2 days (48 hours) minimum; may not be effective at all.
-   - **When in doubt, extend to a full sunny day (8–12 hours) or overnight plus morning sun.**
+5. **Expose it.** Leave it **6 hours** in strong sun, or **2 consecutive days** if the sky is cloudy (WHO; CDC; Eawag). If there is lengthy rain or no sun, SODIS will not work: use another method.
 
-6. **Remove from sun and cool (optional).** After the required sun time, bring the bottle indoors. Water may be warm (UV-A + direct sun = heat effect); allow to cool before drinking if desired.
-
-7. **Drink or store treated water.** Pour into a clean cup or drink directly from bottle. Store bottle capped if possible (exposure to air after treatment risks recontamination). Consume treated water within 24 hours.
+6. **Drink it.** Drink straight from the bottle, or pour it into a clean cup right before drinking. Keep the bottle capped until then (WHO; Eawag).
 
 ---
 
 ## ⚠ MANDATORY PREPARATION
 
-**Water clarity and sun exposure cannot be shortened or compromised.** Insufficient sun time or cloudy water leaves pathogens viable:
+**Clarity and sun time cannot be shortened or summarized away.**
 
-- **Water must be crystal clear (>98% light transmission).** Any visible turbidity, sediment, or color makes SODIS fail.
-- **Minimum sun exposure times are non-negotiable:**
-  - **Clear tropical/subtropical sun (latitude <30°):** 6 hours minimum
-  - **Clear temperate sun (latitude 30–50°):** 8–12 hours minimum
-  - **Cloudy, weak sun, or high latitude:** 2 days (48 hours) minimum; reliability questionable
-- **Bottle type matters:** Only clear, colorless PET plastic. Glass and opaque plastic fail.
-
-If any of these conditions cannot be met (water is cloudy, sun is insufficient, bottle is wrong type), do NOT use SODIS. Switch to boiling, filtration, or chemical treatment.
+- **Bottle:** clear, colorless PET plastic, capped, 2 liters or smaller.
+- **Water:** relatively clear. Strain cloudy water first. Still cloudy or colored: do not use SODIS.
+- **Sun time:** **6 hours** in strong sun, or **2 consecutive days** if cloudy (WHO; CDC; Eawag).
+- **Not enough sun, or lengthy rain:** switch to boiling, a filter plus a disinfectant, or a chemical disinfectant.
+- **Cryptosporidium risk (livestock upstream, sewage, a camp nearby):** do not rely on SODIS. Boil or use a filter rated absolute 1 micron or smaller.
+- **Chemical risk (fuel or chemical smell, oily sheen, bloom, floodwater):** SODIS does not help. Find another source.
 
 ---
 
@@ -112,19 +96,20 @@ If any of these conditions cannot be met (water is cloudy, sun is insufficient, 
 
 | Failure | Cause | Recovery |
 |---------|-------|----------|
-| Water is cloudy after SODIS treatment | Water was turbid at start (SODIS cannot penetrate cloudy water) | Pre-filter or pre-settle water for 30–60 min before SODIS. Cloudiness blocks UV. Do not repeat SODIS on same cloudy water; it will not work. |
-| No change in water clarity or color | Insufficient sun time or cloudy day | Extend exposure: if <6 hours elapsed, continue in sun for full time or move to next day. If sky is cloudy/overcast, extend to 2+ days or switch methods. SODIS is weather-dependent. |
-| Bottle is tinted or opaque | Wrong bottle chosen (sports bottle, colored plastic) | Discard treatment and start over with a clear, colorless bottle (Coca-Cola type). Tinted plastic blocks UV-A. |
-| Bottle is glass or unknown plastic | Chose glass by accident | UV-A penetration is poor in glass. Switch to clear PET plastic. For glass water (from a found container), pre-filter and use chemical/boiling instead. |
-| Water still tastes or smells questionable | UV-A killed pathogens but did not remove chemical/organic taste | This is acceptable — UV does not remove taste/odor. If taste is very bad (fuel-like, chemical), water may have chemical contamination; do not drink. Seek a new source. |
-| No sun available (night, deep jungle, underground) | Cannot perform SODIS | Use boiling (if fuel available) or chemical treatment (if available) or filtration (if available). SODIS requires sun; no alternative if sun is unavailable. |
-| Bottle is recontaminated after treatment | Opened bottle or placed on contaminated surface after treatment | Drink immediately or cap tightly after treatment. Do not reopen a treated bottle multiple times. Treat only the volume you will consume within hours. |
+| Water is cloudy or the headline test fails | Particles block the light | Strain it (cloth, paper towel, coffee filter). If it is still cloudy, do not use SODIS (WHO; CDC). |
+| Cloudy sky or weak sun | Not enough light | Leave the bottle out for 2 consecutive days (WHO; CDC). If there is lengthy rain, SODIS will not work satisfactorily (Eawag). Use another method. |
+| Bottle is brown, green, opaque or heavily scratched | Light is absorbed or scattered | Start over with a clear, colorless PET bottle (Emergency WASH; Eawag). |
+| Bottle left open or opened before drinking | Recontamination | Keep it capped until drinking. Treat again if it was open or touched dirty surfaces (WHO; Eawag). |
+| Water tastes or smells of fuel or chemicals | Chemical contamination | Do not drink it. SODIS does not remove chemicals. Find another source (CDC). |
+| *Cryptosporidium* risk | SODIS not reliable for it | Boil, or use a filter rated absolute 1 micron or smaller. |
+| No sun (night, deep shade, indoors) | SODIS needs sunlight | Use boiling, a filter plus a disinfectant, or a chemical disinfectant. |
 
 ---
 
 ## Sources
 
-- **WHO SODIS Method:** https://www.who.int/water_sanitation_health/emergencies/fs2_37.pdf — WHO-backed solar disinfection guidance; effectiveness thresholds and clarity requirements.
-- **CDC Solar Disinfection:** https://www.cdc.gov/healthywater/emergency/making-water-safe.html — emergency method section; 6-hour tropical sun guidance.
-- **SODIS Global Initiative:** https://www.sodis.ch/en/ — international SODIS database; clarity testing, effectiveness data, real-world field use.
-- **FM 21-76 Survival Manual:** — field water treatment; no-resource methods; solar UV as last-resort technique.
+- **WHO, Household Water Treatment and Safe Storage Following Emergencies and Disasters:** https://www.who.int/docs/default-source/wash-documents/wash-in-emergencies/household-water-treatment-and-safe-storage-after-emergencies.pdf (clear plastic bottles; clean the bottle, fill three quarters, shake 20 times, fill completely; 6 hours of sun or 2 days if clouds obscure the sun; relatively clear water; drink from the bottle or a clean glass).
+- **CDC, How to Make Water Safe in an Emergency:** https://www.cdc.gov/water-emergency/about/index.html (clean clear plastic bottles with clear water; lay on their side in the sun for 6 hours if sunny or 2 days if cloudy; a dark surface can help; filter cloudy water first; fuel and toxic chemicals not fixed by disinfection).
+- **Eawag SODIS, How does it work?:** https://www.sodis.ch/methode/anwendung/index_EN.html (transparent, colorless bottles, replace heavily scratched ones, not more than 3 liters; newspaper-headline test, about 30 NTU; at least 6 hours in full sunlight, 2 consecutive days under cloud; not satisfactory in lengthy rain; keep treated water in the bottle or pour it into a cup immediately before drinking).
+- **Emergency WASH, H.12 Solar Disinfection (SODIS):** https://www.emergency-wash.org/water/en/technologies/technology/solar-disinfection-sodis (avoid brown, green and PVC bottles; smaller bottles preferred; turbidity up to 30 NTU; no residual protection; *Giardia* and *Cryptosporidium* need more than 10 hours of sun; non-biological contaminants need additional treatment).
+- **Wilderness Medical Society water treatment guideline (2024):** https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf (solar UV can inactivate bacteria, viruses and protozoan cysts; transparent bottles; 4 to 6 hours with intermittent agitation, or 2 days under cloudy conditions; water must be free of particles that shield germs).

@@ -16,7 +16,10 @@ For *how those images are used in identification* (and why a single photo is nev
 
 **Key sources at a glance** (full table in [`_media/SOURCES.md`](_media/SOURCES.md)): Biodiversity
 Heritage Library, USDA PLANTS, USDA Weed Images, USDA Pomological Watercolors, Peterson *Field Guide
-to Edible Wild Plants* (E/Central NA), Wikimedia Commons (**CC0/PD only**). All public-domain.
+to Edible Wild Plants* (E/Central NA), Wikimedia Commons (**CC0/PD only**). Licenses differ by source and
+are not all public domain: the Peterson guide is copyrighted (link only, never copy), and USDA Weed Images
+points to images hosted elsewhere, so check each image. See the License column in
+[`_media/SOURCES.md`](_media/SOURCES.md) before copying anything.
 
 Real deadly-look-alike photos are pulled local into [`_media/photos/`](_media/photos/) in a later
 phase, each logged in `_media/SOURCES.md` with attribution.

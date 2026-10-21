@@ -26,24 +26,25 @@
 
 ## Source catalog (image & reference sources)
 
-These are the vetted public-domain / open sources the substrate draws from. Local photos and
+These are the sources the substrate draws from. Licenses vary by source and often by image, so check each one. Local photos and
 diagrams (pulled in later phases) will be added as individual rows beneath, each citing the source
 row it came from.
 
 | Source | URL | License | Use |
 |--------|-----|---------|-----|
-| **Biodiversity Heritage Library (BHL)** | https://www.biodiversitylibrary.org/ | Public domain | Detailed botanical illustrations for plant ID (150k+ images); search by binomial. |
-| **USDA PLANTS Database** | https://plants.usda.gov/ | U.S. Public Domain (gov work) | North American plant photos in natural habitat; distribution data. |
-| **USDA Weed Images** | https://data.nal.usda.gov/dataset/weed-images-source-images-weeds-and-weed-management-agriculture | U.S. Public Domain | Common "weedy" edible plants (dandelion, plantain, clover). |
+| **Biodiversity Heritage Library (BHL)** | https://www.biodiversitylibrary.org/ | **Varies by item.** BHL lists public domain, no known copyright, and in copyright (usually CC BY-NC-SA 4.0). Check each item's Copyright Status ([BHL copyright and reuse](https://about.biodiversitylibrary.org/help/copyright-and-reuse/)). This repo takes public-domain items only. | Historical botanical and mycological illustrations; search by binomial. Plates can be outdated: reference only. |
+| **USDA PLANTS Database** | https://plants.usda.gov/ (redirects to plants.sc.egov.usda.gov) | **Varies by image.** PLANTS marks each image as copyrighted or non-copyrighted (see its [image search](https://plants.sc.egov.usda.gov/image-search) Copyright Status filter). Use only non-copyrighted ones, and give credit. | North American plant photos in natural habitat; distribution data. |
+| **USDA Weed Images** | https://agdatacommons.nal.usda.gov/articles/Weed_Images_The_Source_for_Images_of_Weeds_and_Weed_Management_in_Agriculture/24661503 | The Ag Data Commons record says **U.S. Public Domain**, but it only points to images hosted at https://www.weedimages.org/ ("Linked content is NOT stored on Ag Data Commons"). Check the license on weedimages.org for each image before copying (record checked 2026-10-21). | Photos of common weeds (dandelion, plantain, clover) in several growth stages. |
 | **USDA Pomological Watercolor Collection** | https://agdatacommons.nal.usda.gov/articles/dataset/U_S_Department_of_Agriculture_USDA_Pomological_Watercolor_Collection/24660282 | U.S. Public Domain | Watercolors of fruits/nuts (acorns, hickory, berries), 1886–1942. |
-| **Peterson — Field Guide to Edible Wild Plants (E/Central NA)** | https://archive.org/details/fieldguidetoedib0000pete_h5c3 | Public domain (out of copyright) | Complete plant profiles + illustrations; Eastern/Central North America. |
-| **Wikimedia Commons — Edible plants** | https://commons.wikimedia.org/wiki/Category:Edible_plants | Varies — **use CC0 / Public Domain only** | Modern photos across growth stages; verify each image's license before use. |
+| **Peterson — A Field Guide to Edible Wild Plants of Eastern and Central North America (Lee Peterson)** | https://archive.org/details/fieldguidetoedib0000pete_h5c3 | **Copyrighted (Houghton Mifflin, 1978). Not public domain.** The Internet Archive copy is restricted and borrow-only. Link only; never copy text or illustrations into this repo. | Print field guide to buy or borrow. A reference book, not a substitute for an expert on look-alike species. |
+| **Wikimedia Commons** | https://commons.wikimedia.org/wiki/Category:Edible_plants | Varies by file — **use CC0 / Public Domain only** | Community-contributed photos across growth stages; verify each image's license and species label before use. |
 | **FM 21-76 — U.S. Army Survival Manual** | https://archive.org/details/FM2176USARMYSURVIVALMANUAL | U.S. Public Domain (gov work) | Field technique + processing line art (fish/game dressing, traps, weirs, knots). |
-| **FM 21-76 — direct PDF** | https://dn790002.ca.archive.org/0/items/Fm21-76SurvivalManual/FM21-76_SurvivalManual.pdf | U.S. Public Domain | Same as above (direct download). |
-| **FM 3-05.70 — Survival (updated)** | https://irp.fas.org/doddir/army/fm3-05-70.pdf | U.S. Public Domain | Updated survival field manual; trapping, fish procurement, cooking/storage. |
-| **FAO — Preliminary Processing of Freshwater Fish** | https://www.fao.org/4/w0495e/w0495E03.htm | FAO open access (PD/CC) | Illustrated fish gutting/cleaning/filleting technique. |
-| **FAO — Notes on Fish Handling and Processing** | https://www.fao.org/4/x5927e/x5927e01.htm | FAO open access (PD/CC) | Fish handling, preservation methods. |
-| **Rawpixel — Public Domain collections** | https://rawpixel.com/search/public%20domain%20fish | Public domain (CC0) | Vintage scientific/instructional illustrations (fish anatomy, processing). |
+| **FM 21-76 — direct PDF** | https://dn790002.ca.archive.org/0/items/Fm21-76SurvivalManual/FM21-76_SurvivalManual.pdf | U.S. Public Domain | Same as above (direct download). The hostname is a per-server archive.org address that can change; prefer the item page above. |
+| **ATP 3-50.21 — Survival (U.S. Army, 2018)** | https://archive.org/details/survival-atp-3-50-21 | U.S. Public Domain (gov work); the Internet Archive copy carries a Public Domain Mark 1.0 | Current Army survival manual; revises FM 3-05.70. Includes a plant edibility test that this repo does not endorse. |
+| **FM 3-05.70 — Survival** | https://irp.fas.org/doddir/army/fm3-05-70.pdf | U.S. Public Domain (gov work) | Older survival field manual (revised by ATP 3-50.21); trapping, fish procurement, cooking/storage. The PDF opens in a browser (checked 2026-10-21). |
+| **FAO — Preliminary Processing of Freshwater Fish** | https://www.fao.org/4/w0495e/w0495E03.htm | **Not stated on the page.** FAO says its website content is protected by copyright and may be copied for non-commercial use with credit ([FAO terms](https://www.fao.org/contact-us/terms/en/)). Link only; do not copy text or art. | Illustrated fish gutting/cleaning/filleting technique. |
+| **FAO — Notes on Fish Handling and Processing** | https://www.fao.org/4/x5927e/x5927e01.htm | **Not stated on the page.** Same FAO terms as above. Link only; do not copy text or art. | Fish handling, preservation methods. |
+| **Rawpixel — Public Domain collections** | https://rawpixel.com/search/public%20domain%20fish | Varies by item; not verified (the site blocked script access when checked). Check each item. | Vintage scientific/instructional illustrations (fish anatomy, processing). |
 | **CDC** | https://www.cdc.gov/ | U.S. Public Domain (gov work) | T1 source for first-aid, disease, water treatment, tick-borne illness. |
 | **EPA — drinking water** | https://www.epa.gov/ground-water-and-drinking-water | U.S. Public Domain | T1 source for water disinfection / filtration guidance. |
 | **American Red Cross — first aid** | https://www.redcross.org/ | © Red Cross (cite, do not embed) | T1 reference for first-aid response (text reference, not image source). |
@@ -55,22 +56,30 @@ row it came from.
 
 ### Photos (`photos/`) — Phase 8, real PD/CC0 deadly-pair photos
 
-Pulled 2026-06-27. **Every file below is CC0 (public-domain dedication)** verified against the
-Wikimedia Commons file metadata (`LicenseShortName`) at download time. Images are **supporting
+Pulled 2026-06-27, extended 2026-10-21. **Every file below is CC0 or Public domain**, verified against the
+Wikimedia Commons file metadata (`LicenseShortName`) before download. Images are **supporting
 evidence, never sufficient for ID** (`CONVENTIONS.md` §8) — the entries that link them say so.
 
 | Local file | Depicts | Role in pair | License | Author (via Wikimedia Commons) | Source page |
 |------------|---------|--------------|---------|--------------------------------|-------------|
-| `photos/morel-true_morchella-americana_CC0.jpg` | True morel (*Morchella americana*) — pitted/honeycombed cap, hollow | **Edible** half of morel pair | CC0 | Erik Erbes (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Morchella_americana_69515346.jpg) |
-| `photos/false-morel_gyromitra-esculenta_CC0.jpg` | False morel (*Gyromitra esculenta*) — wrinkled/brain-like, chambered | **☠ Deadly** half of morel pair | CC0 | Kruczy89 | [Commons](https://commons.wikimedia.org/wiki/File:Gyromitra_esculenta01.jpg) |
-| `photos/wild-onion_allium-canadense_CC0.png` | Wild onion (*Allium canadense*) | **Edible** half of allium pair (smell test) | CC0 | Cleome Serrulata | [Commons](https://commons.wikimedia.org/wiki/File:Allium_canadense_var._hyacinthoides.png) |
-| `photos/death-camas_toxicoscordion-venenosum_CC0.jpg` | Death camas (*Toxicoscordion venenosum*) | **☠ Deadly** half of allium pair | CC0 | Craig Martin (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Toxicoscordion_venenosum_-_Craig_Martin_01.jpg) |
+| `photos/morel-true_morchella-americana_CC0.jpg` | Morel (*Morchella americana*) — pitted/honeycombed cap | The look-alike half of the morel / false-morel pair (reference only; never sufficient for ID) | CC0 | Erik Erbes (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Morchella_americana_69515346.jpg) |
+| `photos/false-morel_gyromitra-esculenta_CC0.jpg` | False morel (*Gyromitra esculenta*) — wrinkled/brain-like cap | **☠ Poisonous** half of the morel / false-morel pair | CC0 | Kruczy89 | [Commons](https://commons.wikimedia.org/wiki/File:Gyromitra_esculenta01.jpg) |
+| `photos/wild-onion_allium-canadense_CC0.png` | Wild onion (*Allium canadense* var. *hyacinthoides*), Wichita Mountains, southwest Oklahoma, per the Commons description; not a Mid-Atlantic plant. Confused with death camas | The look-alike half of the wild onion / death camas pair. The onion smell is one of several required traits and is never sufficient alone; see the species entry. | CC0 | Cleome Serrulata | [Commons](https://commons.wikimedia.org/wiki/File:Allium_canadense_var._hyacinthoides.png) |
 | `photos/destroying-angel_amanita-bisporigera_CC0.jpg` | Destroying angel (*Amanita bisporigera*) | **☠ Deadly** — the Amanita "egg"/button puffball mistake | CC0 | "Louis" (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_97861769.jpg) |
+| `photos/death-camas_amianthium-muscitoxicum_PD.jpg` | Fly poison, an eastern death camas (*Amianthium muscitoxicum*), flowering raceme, Shenandoah NP, Virginia. Death camas species differ by region; this replaces the earlier western *Toxicoscordion venenosum* photo. | **☠ Deadly** half of the wild onion / death camas pair | Public domain (PD-USGov-NPS: a work of a US National Park Service employee, which US law places in the public domain. The NPS Flickr upload also shows a CC BY 2.0 tag; credit to Shenandoah National Park is given either way) | Shenandoah National Park (NPS), via Flickr | [Commons](https://commons.wikimedia.org/wiki/File:Amianthium_muscitoxicum_(9597220209).jpg) |
+| `photos/wild-carrot_daucus-carota_CC0.jpg` | Wild carrot / Queen Anne's lace (*Daucus carota*), flower head | Look-alike half of the carrot-family / hemlock pairs (flower head only; hairy stem and carrot smell are not shown) | CC0 | Miscellaneous contributor | [Commons](https://commons.wikimedia.org/wiki/File:Wild_carrot_flower_(Daucus_carota).jpg) |
+| `photos/water-hemlock_cicuta-maculata_CC0.jpg` | Spotted water hemlock (*Cicuta maculata*), umbels and leaves, New Mexico | **☠ Deadly** half of the wild carrot / water hemlock pair | CC0 | Patrick Alexander (Flickr: aspidoscelis) | [Commons](https://commons.wikimedia.org/wiki/File:Cicuta_maculata_-_Flickr_-_aspidoscelis_(1).jpg) |
+| `photos/poison-hemlock_conium-maculatum_CC0.jpg` | Poison hemlock (*Conium maculatum*) in bloom, Pittsburgh, Pennsylvania | **☠ Deadly** half of the wild carrot / poison hemlock pair | CC0 | Cbaile19 | [Commons](https://commons.wikimedia.org/wiki/File:Conium_maculatum,_2023-05-30,_South_Side_Park,_01.jpg) |
+| `photos/honey-mushroom_armillaria-gallica_CC0.jpg` | Bulbous honey fungus (*Armillaria gallica*), cluster with ring on stem, lawn, United States | Edible-with-caution wood-lover half of the honey mushroom / *Galerina* pair | CC0 | wearethechampignons (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Armillaria_gallica_100773450.jpg) |
+| `photos/funeral-bell_galerina-marginata_CC0.jpg` | Funeral bell (*Galerina marginata*), United States | **☠ Deadly** (amatoxin) half of the honey mushroom / *Galerina* pair | CC0 | peakaytea (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Galerina_marginata_238872482.jpg) |
+| `photos/common-puffball_lycoperdon-perlatum_CC0.jpg` | Common puffball (*Lycoperdon perlatum*), Michigan | Edible half of the puffball / destroying-angel egg pair; cut every specimen top to bottom, a gilled shape inside means discard | CC0 | megachile (iNaturalist) | [Commons](https://commons.wikimedia.org/wiki/File:Lycoperdon_perlatum_97777217.jpg) |
 
-> **Coverage:** 3 of the highest-stakes pairs from the matrices — morel/false-morel,
-> wild-onion/death-camas, and the destroying-angel (puffball-button mistake). Remaining priority
-> pairs (edible umbel vs. hemlock; chanterelle/oyster vs. jack-o'-lantern) are link-only for now and
-> are candidates for a later photo pass.
+> **Coverage:** morel/false-morel, wild-onion/death-camas (eastern species), puffball/destroying-angel,
+> chanterelle/jack-o'-lantern, wild-carrot/water-hemlock and poison-hemlock, honey-mushroom/*Galerina*.
+> Single photos only: none shows every angle or habitat, so each is reference, never an ID.
+> **Chanterelle / jack-o'-lantern pair: not included (2026-10).** The only CC0 jack-o'-lantern photo on
+> Commons has an uploader colour filter, and no CC0/PD golden chanterelle from eastern North America was
+> found. A colour-altered pair would mislead, so the pair is left out until unaltered files exist.
 > **Reminder:** a photo confirms nothing on its own. Positive ID requires the entry's
 > `## ⚠ POSITIVE-ID SAFETY GATE` (multiple concurrent traits + spore print where relevant) and, for
 > `field_id_not_appropriate` species, expert confirmation.

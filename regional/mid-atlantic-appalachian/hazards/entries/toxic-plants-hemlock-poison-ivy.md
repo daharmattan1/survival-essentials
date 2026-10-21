@@ -1,6 +1,6 @@
 ---
 entry_id: toxic-plants-hemlock-poison-ivy
-title: Toxic Plants — Water Hemlock, Poison Hemlock & Poison Ivy
+title: Toxic Plants — Poison Hemlock, Sap-Burn Umbels & Poison Ivy (Water Hemlock Has Its Own Entry)
 type: HAZARD
 domain: regional/mid-atlantic-appalachian/hazards
 region_scope: mid-atlantic-appalachian
@@ -8,161 +8,143 @@ usda_zone: 7a
 confidence: high
 source_tier: T1
 sources:
-  - title: "Poisonous Plants of the United States — USDA"
-    publisher: USDA Plant Hardiness & Toxicology
-    url: https://www.usda.gov/
+  - title: "Conium maculatum (Poison Hemlock), Plant Toolbox"
+    publisher: North Carolina State Extension
+    url: https://plants.ces.ncsu.edu/plants/conium-maculatum/
     tier: T1
-  - title: "Water Hemlock — Virginia Cooperative Extension"
-    publisher: Virginia Tech Cooperative Extension
-    url: https://www.ext.vt.edu/
+  - title: "Weed to Watch: Poison Hemlock"
+    publisher: University of Maryland Extension, Agronomy News
+    url: https://blog.umd.edu/agronomynews/?p=476
     tier: T1
-  - title: "Poison Ivy, Oak & Sumac — CDC"
-    publisher: CDC
-    url: https://www.cdc.gov/
+  - title: "Water Hemlock Poisoning - Maine, 1992"
+    publisher: CDC, MMWR 43(13)
+    url: https://www.cdc.gov/mmwr/PDF/wk/mm4313.pdf
     tier: T1
-  - title: "Emergency Toxicology — American Poison Control Centers"
-    publisher: American Association of Poison Control Centers
-    url: https://www.aapcc.org/
+  - title: "Pokeweed poisoning (general poison-exposure home care)"
+    publisher: NIH MedlinePlus
+    url: https://medlineplus.gov/ency/article/002874.htm
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+  - title: "Poisonous Plants and Work (poison ivy, oak, sumac)"
+    publisher: CDC NIOSH
+    url: https://www.cdc.gov/niosh/outdoor-workers/about/poisonous-plants.html
+    tier: T1
+  - title: "Toxicodendron radicans (Poison Ivy), Plant Toolbox"
+    publisher: North Carolina State Extension
+    url: https://plants.ces.ncsu.edu/plants/toxicodendron-radicans/
+    tier: T1
+  - title: "Beauty and the Burn: Wild Parsnip (New York State Conservationist, June 2008)"
+    publisher: New York State Department of Environmental Conservation
+    url: https://extapps.dec.ny.gov/docs/administration_pdf/0608hogweed.pdf
+    tier: T1
+  - title: "Don't touch these plants! Six lookalikes you want to avoid"
+    publisher: U.S. Fish and Wildlife Service
+    url: https://fws.gov/story/dont-touch-these-plants
+    tier: T1
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 edibility_status: deadly-toxic
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists
 preparation_required: false
-expert_id_required: false
-field_id_not_appropriate: false
+expert_id_required: true
+field_id_not_appropriate: true
 legal_status: n/a
 hazard_type: plant
 ---
 
+## ⚠ POSITIVE-ID SAFETY GATE
+
+> ⚠ **POISON HEMLOCK: every part is poisonous, and it looks like edible plants**
+>
+> NC State lists wild carrot, parsnip, parsley, anise and angelica among the plants poison hemlock is "often confused with" [1]. The water hemlock entry covers the other deadly umbel.
+>
+> - **No feature on this page clears a plant.** Stem color, hairs, smell, height and habitat are listed so you can recognize danger. They never make a wild white umbel fit to eat. Water hemlock stem color ranges from solid green or purple to green with purple spots, so purple spots on a stem do not separate the two hemlocks, and a green stem does not clear a plant ([water hemlock entry](water-hemlock-cicuta.md)).
+> - **Do not dig, taste or eat any wild member of the carrot family** unless an expert has identified the exact plant in person.
+>
+> **Verdict:** Positive ID by an expert, or do not consume. Never on field identification alone.
+
 ## Identify
 
-### Water Hemlock (*Cicuta douglasii*, *Cicuta maculata*)
+### Poison hemlock (*Conium maculatum*)
 
-**The most violently poisonous plant in North America.** Even a small amount of the root or stem causes death. All parts are toxic; the roots are the most concentrated source of cicutoxin.
+NC State's plant guide says all parts are poisonous, listing the roots, leaves, stems, flowers, fruits, seeds, sap and bark. The main toxins are alkaloids, including coniine [1]. Eating it may be fatal [1]. Touching it is a smaller risk: NC State says only people with highly sensitive skin may get a rash from handling it [1].
 
-**Key traits:**
-- **Height:** 2–5 feet, hairless, smooth stem.
-- **Stem signature:** Chambered (hollow interior divided into compartments), often with **purple or reddish streaking or blotching**.
-- **Root:** Chambered rhizome (the deadliest part), small hollow chambers visible when cut.
-- **Leaves:** Finely dissected, triangular outline, fern-like appearance.
-- **Flowers:** Tiny white flowers in umbrella-shaped clusters (*umbels*).
-- **Smell:** Musty, parsnip-like (unpleasant).
-- **Habitat:** Stream banks, ditches, wet meadows, standing water edges — **always at wet margins**.
+- **Height:** NC State says it grows 6 to 10 feet tall [1]. The University of Maryland's agronomy blog says 4 to 6 feet when mature [2]. First-year plants are low and leafy (general practice). Height does not settle it.
+- **Stem:** hollow, smooth and hairless, with small purple spots [1][2]. Purple spots are not unique to poison hemlock (see the gate above).
+- **Leaves:** finely divided and parsley-like. They clasp the stem at enlarged nodes [1].
+- **Flowers:** small white flowers in umbrella-shaped clusters, in summer to late summer [1].
+- **Smell:** NC State says the roots, leaves and stems have a foul odor when crushed [1]. Do not crush or sniff a plant to identify it.
+- **Where:** disturbed ground, roadsides, fences, streambanks and ditches, in sun to part shade with moist soil [1]. It also grows in wet places, so a wet habitat does not make a plant water hemlock, and a dry one does not clear it.
 
-### Poison Hemlock (*Conium maculatum*)
+**Water hemlock** (*Cicuta maculata*) is a separate, more violent poison with its own full entry: [Water Hemlock](water-hemlock-cicuta.md). CDC's *MMWR* says the root holds the most cicutoxin, that a 2 to 3 cm piece of root can be fatal in an adult, and that cicutoxin is in all parts of the plant and at every stage of growth [3].
 
-**Lethal if ingested; severe contact dermatitis if touched.** Contains alkaloid toxins (coniine, gamma-coniceine).
+### Wild parsnip and giant hogweed (sap that burns in sunlight)
 
-**Key traits:**
-- **Height:** 2–5 feet, **hairless**, smooth stem.
-- **Stem signature:** **Purple-red blotches or streaking** (distinctive), hollow but NOT chambered.
-- **Leaves:** Finely dissected, triangular, fern-like, milder smell than water hemlock.
-- **Flowers:** Tiny white flowers in umbrella clusters (*umbels*).
-- **Smell:** Musty, mousy, unpleasant (all parts).
-- **Habitat:** Roadsides, fields, waste areas, drier locations than water hemlock (but can colonize wet areas).
+These two carrot-family plants cause burns more than poisonings, and they deserve a warning of their own. New York's environment department says that sap from wild parsnip, in sunlight on the skin, causes phytophotodermatitis, a toxic skin reaction like a sunburn that ranges from discolored skin to large, painful blisters [7]. Giant hogweed does the same, with effects that can be much worse, wounds like third-degree burns, permanent scarring, and blindness if the sap gets in the eyes [7]. The U.S. Fish and Wildlife Service also warns of blistering rashes and, for giant hogweed, permanent scarring and blindness [8].
 
-### Poison Ivy (*Toxicodendron radicans*)
+- **Wild parsnip:** up to 5 feet tall, flat-topped clusters of yellowish-green flowers, a hairless green stem with vertical grooves, leaves like large celery leaves [7].
+- **Giant hogweed:** more than 12 to 15 feet tall, with large clusters of white flowers, coarse white hairs and purple blotches on a green stem [7]. New York's department lists it as established in Pennsylvania, Maryland and Virginia [7].
 
-**Contact with any part triggers severe allergic dermatitis.** Contains urushiol oil, which causes blistering rash. Burning or inhaling smoke from burning poison ivy causes airway emergency.
+This reaction comes from sap and sunlight, not from urushiol. Wild parsnip and giant hogweed burn anyone. Poison ivy usually needs a person to be sensitized by an earlier exposure [7].
 
-**Key traits:**
-- **Leaf arrangement:** **"Leaves of three, let it be."** Three leaflets on a single leaf stalk. Center leaflet has a longer stem; side leaflets are nearly stemless.
-- **Leaflet shape:** Oval, pointed tip, variable margins (smooth, toothed, or wavy).
-- **Stem color:** Green (summer), reddish or burgundy (fall/spring).
-- **Growth form:** Vine, shrub, or groundcover (highly variable).
-- **Berries (fall/winter):** Waxy white or cream-colored berries (on female plants).
-- **Habitat:** Woodlands, field edges, disturbed areas, sunny and shaded sites.
+### Poison ivy (*Toxicodendron radicans*)
 
----
+All parts contain urushiol, an oil that irritates the skin of most people [6]. CDC NIOSH says the oil is released when the plant is damaged or burned, and that you can pick it up from contaminated tools, livestock or clothing [5].
 
-## Cross-Link: Deadly-Twin Matrix
-
-The **hemlocks (water hemlock and poison hemlock) are the deadly twins of edible wild umbels** (wild carrot, wild parsnip, and other white-flowered members of the carrot family). See the deadly-twin matrix in [`../edible-plants/_index.md`](../../edible-plants/_index.md): the critical discriminators are stem appearance (purple blotching + hairlessness + musty smell) and habitat (wet margins for water hemlock, fields for poison hemlock). **No wild umbel should ever be eaten on field ID alone.** Consult an expert or do not touch.
-
----
+- **Leaves:** groups of three leaflets, the middle one longer than the outer two. The edges vary from smooth to toothed to shallowly lobed. Leaves are shiny bright green and turn red or reddish-yellow in fall [6].
+- **Vines:** climbing vines have aerial rootlets that cling to bark and fences [6]. NIOSH calls eastern poison ivy usually a hairy vine [5].
+- **Berries:** dull white, about 1/4 inch, from fall and often through winter [6].
+- **Where:** dry or wet woodlands, thickets, clearings, fence rows, roadsides and waste ground [6].
+- **Look-alikes:** NC State names box elder and Virginia creeper among plants it is confused with. Check every leaf [6].
+- **Poison oak and poison sumac** cause the same rash. "Leaves of three" fits poison ivy and poison oak but not poison sumac, a woody shrub with clusters of 7 to 13 leaflets [5].
 
 ## Avoid
 
-### Water Hemlock & Poison Hemlock
-
-- **Never touch or dig wild umbels** (plants with umbrella-shaped flower clusters and finely dissected leaves) unless an expert has confirmed the ID. All white-flowered umbels in this biome carry a lethal twin.
-- **Do not graze or harvest any plant from wet ditches or stream banks** that has an umbel-like appearance.
-- **Avoid walking through thick patches** of suspected hemlock in wet areas — contact dermatitis from poison hemlock can occur; inhaling pollen is dangerous.
-- **Never attempt to clear or remove hemlock** with bare hands. If you must clear it, wear gloves, long sleeves, and eye protection. Dispose of the plant in sealed bags.
-
-### Poison Ivy
-
-- **"Leaves of three, let it be."** Any plant with three leaflets should be assumed to be poison ivy until proven otherwise.
-- **Avoid touching vines climbing trees** in wooded areas — these are frequently poison ivy.
-- **Never burn brush or dead plant material** that might contain poison ivy — smoke inhalation causes severe airway swelling.
-- **Wash skin immediately** after potential exposure (within 15 minutes if possible); urushiol oil spreads if not removed.
-
----
+- **Do not dig or taste wild umbels** (flat or umbrella-shaped clusters of small white flowers). Both hemlocks have look-alikes that people eat.
+- **Wear gloves, long sleeves and long pants** around wild parsnip and giant hogweed [7], and add eye protection around any hemlock you must clear (general practice). Do not touch your face. For giant hogweed, New York's department adds face protection. Sap can come from brushing the plant, breaking the stem and its bristles [7].
+- **Never use a hollow hemlock stem for a whistle or pipe.** CDC links water hemlock stem whistles to child deaths [3].
+- **Never burn brush that might contain poison ivy.** NIOSH says inhaling the smoke can cause severe allergic breathing problems [5].
+- **Treat tools and clothes** that touched poison ivy as contaminated until washed [5].
 
 ## If Exposed / Bitten / Stung
 
-### Water Hemlock or Poison Hemlock Ingestion
+### Hemlock eaten or suspected
 
-**This is a medical emergency requiring immediate evacuation and hospital care.**
+1. **Call Poison Help, 1-800-222-1222,** now, even if the person feels fine. **Call 911** for seizures, collapse or trouble breathing [4].
+2. **Do not make the person vomit** unless poison control or a health care provider tells you to [4].
+3. Have ready: the person's age, weight and condition, the time the plant was swallowed, how much, and the plant's name and part eaten if known [4]. Bring the plant or photos if you can without more handling (general practice).
+4. For water hemlock CDC says there is no antidote and treatment is supportive [3]. Treat poison hemlock the same way until a poison center says otherwise.
+5. **Any part of either hemlock counts,** including leaves, seeds, flowers, roots and stems [1][3].
+6. **Handled it and have a rash?** NC State says only people with highly sensitive skin may react to handling poison hemlock [1]. Wash with soap and water (general practice).
 
-- **Any ingestion of hemlock root or stem material** = call 911 or get to an ER immediately.
-- **Onset of symptoms (seizures, tremors, respiratory distress)** can be rapid (within 15–30 minutes of ingestion of a small amount).
-- **There is no antidote for cicutoxin; treatment is supportive** (airway management, seizure control, ICU monitoring).
-- **Do not induce vomiting.** Activated charcoal may help if given very early; go to the ER.
+### Sap on skin or in eyes (wild parsnip, giant hogweed)
 
-### Poison Hemlock Skin/Eye Contact
+- **Wash the area as soon as possible with soap and cold water. Keep it out of sunlight for at least 48 hours. If you have a reaction, see a physician** [7].
+- Get medical care for eye contact (general practice, because the sources say sap can blind [7][8]).
 
-- **Immediately wash with soap and water** (copious amounts).
-- **Remove contaminated clothing** and wash separately.
-- **If eyes are affected, flush with water for at least 15 minutes** and seek medical attention.
-- **Phytophotodermatitis may result:** the combination of urushiol + UV exposure causes severe blistering (worse than contact alone). Keep the area covered and avoid sun for 24–48 hours.
+### Poison ivy, oak or sumac
 
-### Poison Ivy Exposure
-
-- **Wash skin with soap and lukewarm water immediately** (within 15 minutes if possible). Urushiol oil is fat-soluble; regular soap and water break down the oil.
-- **Do NOT use hot water** — it opens pores and allows urushiol to penetrate deeper.
-- **Wash clothing and any gear** that may have contacted the plant.
-- **Avoid scratching** — scratching spreads the oil and introduces infection risk.
-- **Cool compresses, calamine lotion, or hydrocortisone cream** can ease itching. Over-the-counter antihistamines may help if itching is severe.
-- **Severe reactions (widespread rash, facial swelling, respiratory involvement)** require medical attention.
-
----
+- **Rinse skin immediately** with rubbing alcohol, a poison-plant wash, or dish soap and plenty of water. Rinse often so the wash does not dry on the skin and spread the oil [5].
+- Do not scratch broken skin (general practice). For itching, over-the-counter creams may help (general practice).
 
 ## ⚠ WHEN IT'S AN EMERGENCY
 
-### Water Hemlock / Poison Hemlock
+**Hemlock.** Call Poison Help (1-800-222-1222) and 911 for any suspected eating of any part of either hemlock. NC State lists salivation, vomiting, diarrhea, muscle weakness, paralysis, tremors, dilated pupils, convulsions and coma as poison hemlock symptoms [1]. Do not wait for symptoms.
 
-**Seek emergency care (call 911) immediately if:**
-- Any ingestion of hemlock root or stem has occurred, or is suspected.
-- Seizures, tremors, rapid heartbeat, difficulty breathing, or severe abdominal pain develops after potential ingestion.
-- Respiratory distress, throat swelling, or difficulty swallowing develops after handling or inhaling hemlock smoke.
+**Sap burns.** Get medical care for sap in the eyes, severe blistering, or blistering with fever (see a physician if you have a reaction [7]).
 
-**Time is critical:** Cicutoxin acts fast. Do not delay.
-
-### Poison Ivy
-
-**Seek medical care if:**
-- Rash covers a large area of the body (>25% of skin).
-- Rash involves the face, genitals, or eyes.
-- Signs of infection appear (yellow/green fluid, increasing warmth, swelling).
-- Severe swelling or difficulty breathing develops (rare; suggests anaphylaxis or airway involvement).
-- Symptoms persist beyond 2–3 weeks or worsen despite home care.
-
-### Poison Ivy Smoke Inhalation
-
-**Seek emergency care immediately (call 911) if:**
-- Difficulty breathing, throat tightness, or wheezing develops after exposure to burning poison ivy smoke.
-- Facial or throat swelling occurs.
-- This is an airway emergency.
-
----
+**Poison ivy, oak or sumac.** CDC NIOSH says to get medical help for severe cases or a rash on the face or genitals. Call 911 or go to an emergency room for swelling or trouble breathing, or for a past severe reaction [5]. Breathing trouble after smoke from burning plants is an emergency too [5].
 
 ## Sources
 
-- USDA: *Poisonous Plants of the United States* (T1)
-- CDC: *Poison Ivy, Oak & Sumac*, https://www.cdc.gov/ (T1)
-- Virginia Tech Cooperative Extension: *Water Hemlock — Identification & Toxicology*, https://www.ext.vt.edu/ (T1)
-- American Association of Poison Control Centers: Emergency Toxicology Database, https://www.aapcc.org/ (T1)
-- Peterson Field Guide to Edible Wild Plants (Eastern/Central North America) — used for hemlock-vs-edible-umbel triangulation (T2)
+1. North Carolina State Extension, *Conium maculatum (Poison Hemlock), Plant Toolbox*, https://plants.ces.ncsu.edu/plants/conium-maculatum/ (T1; opened)
+2. University of Maryland Extension, Agronomy News, *Weed to Watch: Poison Hemlock*, https://blog.umd.edu/agronomynews/?p=476 (T1; opened)
+3. CDC, *Water Hemlock Poisoning - Maine, 1992*, MMWR 43(13), https://www.cdc.gov/mmwr/PDF/wk/mm4313.pdf (T1; opened)
+4. NIH MedlinePlus, *Pokeweed poisoning* (general poison-exposure home care), https://medlineplus.gov/ency/article/002874.htm (T1; opened)
+5. CDC NIOSH, *Poisonous Plants and Work*, https://www.cdc.gov/niosh/outdoor-workers/about/poisonous-plants.html (T1; opened)
+6. North Carolina State Extension, *Toxicodendron radicans (Poison Ivy), Plant Toolbox*, https://plants.ces.ncsu.edu/plants/toxicodendron-radicans/ (T1; opened)
+7. New York State Department of Environmental Conservation, *Beauty and the Burn: Wild Parsnip*, New York State Conservationist, June 2008, https://extapps.dec.ny.gov/docs/administration_pdf/0608hogweed.pdf (T1; opened as PDF text)
+8. U.S. Fish and Wildlife Service, *Don't touch these plants! Six lookalikes you want to avoid*, https://fws.gov/story/dont-touch-these-plants (T1; opened)
+
+Related: [water hemlock](water-hemlock-cicuta.md), [deadly-look-alike matrix](../../edible-plants/_index.md), [hazards index](../_index.md), [wound infection management](../../../../substrate/06_first_aid/entries/wound-infection-management.md).

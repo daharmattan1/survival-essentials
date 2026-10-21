@@ -8,24 +8,73 @@ usda_zone: n/a
 confidence: high
 source_tier: T1
 sources:
-  - title: "Carbon Monoxide (CO) Poisoning Prevention"
+  - title: "What to Do to Protect Yourself During a Power Outage"
     publisher: CDC
-    url: "https://www.cdc.gov/niosh/topics/emg/carbonmonoxide.html"
+    url: "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html"
     tier: T1
-  - title: "Staying Safe During Power Outages"
-    publisher: FEMA
-    url: "https://www.fema.gov/disaster/hurricane/recovery/power-outages"
+  - title: "Carbon Monoxide Poisoning (About)"
+    publisher: CDC
+    url: "https://www.cdc.gov/carbon-monoxide/about/index.html"
     tier: T1
-  - title: "Food Safety During Power Outages"
+  - title: "Safety Guidelines: During & After a Winter Storm"
+    publisher: CDC
+    url: "https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html"
+    tier: T1
+  - title: "Drinking Water Advisories: An Overview"
+    publisher: CDC
+    url: "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html"
+    tier: T1
+  - title: "Preparing for Hurricanes or Other Tropical Storms"
+    publisher: CDC
+    url: "https://www.cdc.gov/hurricanes/safety/index.html"
+    tier: T1
+  - title: "Power Outages"
+    publisher: Ready.gov / FEMA
+    url: "https://www.ready.gov/power-outages"
+    tier: T1
+  - title: "Winter Weather"
+    publisher: Ready.gov / FEMA
+    url: "https://www.ready.gov/winter-weather"
+    tier: T1
+  - title: "Get Tech Ready"
+    publisher: Ready.gov / FEMA
+    url: "https://www.ready.gov/get-tech-ready"
+    tier: T1
+  - title: "Keep Your Food Safe During Emergencies: Power Outages, Floods & Fires"
     publisher: USDA Food Safety and Inspection Service
-    url: "https://www.fsis.usda.gov/our-offices/headquarters-offices/assistant-administrator-public-health-programs"
+    url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/keep-your-food-safe-during-emergencies"
     tier: T1
-  - title: "American Red Cross: Power Outage Safety"
-    publisher: American Red Cross
-    url: "https://www.redcross.org/"
+  - title: "Food and Water Safety During Power Outages and Floods"
+    publisher: FDA
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+  - title: "As Winter Storms Threaten Millions in the U.S., CPSC Issues Safety Tips to Help Families Prevent Carbon Monoxide Poisoning and Fires"
+    publisher: U.S. Consumer Product Safety Commission
+    url: "https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires"
+    tier: T1
+  - title: "Carbon Monoxide Information Center"
+    publisher: U.S. Consumer Product Safety Commission
+    url: "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center"
+    tier: T1
+  - title: "Carbon Monoxide Fact Sheet"
+    publisher: U.S. Consumer Product Safety Commission
+    url: "https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet"
+    tier: T1
+  - title: "Hypothermia: A cold weather hazard"
+    publisher: National Institute on Aging / NIH
+    url: "https://www.nia.nih.gov/news/hypothermia-cold-weather-hazard"
+    tier: T1
+  - title: "Safety Standard for Portable Generators (proposed rule)"
+    publisher: U.S. Consumer Product Safety Commission, via Federal Register
+    url: "https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators"
+    tier: T1
+  - title: "Safe Drug Use After a Natural Disaster"
+    publisher: FDA
+    url: "https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster"
+    tier: T1
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Surviving a multi-day power outage by maintaining heat or cold, managing food safety, securing lighting, and avoiding carbon monoxide poisoning
 materials:
   - Blankets, sleeping bags, or layered clothing (for warmth without power)
@@ -40,30 +89,29 @@ difficulty: moderate
 
 ## Goal & When To Use
 
-When the electrical grid fails (storm, infrastructure damage, grid collapse), most people shelter in place indoors — the safest strategy. This method addresses the three-part challenge: maintaining body temperature without HVAC, preserving food safely as refrigeration fails, providing emergency lighting, and critically, **preventing carbon monoxide poisoning** from fuel combustion indoors. This entry is for multi-day outages (24–72+ hours).
+When the electrical grid fails (storm, equipment damage, grid failure), the usual plan is to stay home. This method covers four jobs in a multi-day outage (24-72+ hours): keeping warm (or cool) without heating or cooling equipment, keeping food cold and knowing when to discard it, lighting without flame, and avoiding carbon monoxide (CO) poisoning from fuel burned in the wrong place. It is general safety information from CDC, CPSC, FDA, USDA, and FEMA pages. It is not medical advice. If anyone is ill or in danger, call 911.
 
 ---
 
 ## ⚠ MANDATORY PREPARATION — CARBON MONOXIDE DANGER
 
-**CARBON MONOXIDE (CO) is the leading poisoning risk in power outages. It is colorless, odorless, and lethal in minutes at high concentrations.**
+> ⚠ **CARBON MONOXIDE (CO) — colorless, odorless, and deadly. It kills people during power outages.**
+>
+> CPSC counts roughly 85 to 100 deaths a year from portable generators alone (an average of 85 a year for 2017-2019 in its generator rulemaking; "about 100" a year in its December 2025 winter-storm release). CDC counts more than 400 U.S. deaths a year from CO that is not linked to fires. People who are sleeping or drunk can die before they have symptoms.
 
-**⚠ NEVER run these indoors (including garages, basements, crawlspaces, or sealed rooms):**
-- Generators (the most common mistake — kills 75+ people annually in the US alone)
-- Grills or charcoal BBQs
-- Camp stoves or propane heaters
-- Kerosene heaters (unless specifically rated for indoor use WITH a vent)
-- Furnaces or boilers (if they come on without ventilation)
-- Car engines (even briefly)
+**Rules that do not bend:**
+1. **Run a generator outdoors only, at least 20 feet from windows, doors, vents, and attached garages, with the exhaust pointing away from the house.** Never run one in a garage, basement, crawlspace, shed, or other enclosed or partly enclosed space. Opening doors or windows does not give enough ventilation to prevent lethal CO levels (CPSC; CDC; Ready.gov).
+2. **Never run a car or truck in an attached garage**, even with the garage door open (CDC; CPSC).
+3. **Never use a gas range or oven to heat the home** (CDC; CPSC; Ready.gov).
+4. **Never grill or burn charcoal inside the home or in a garage**, even with the garage door open (CDC; CPSC). Grills stay outdoors.
+5. **Have CO alarms that are battery-operated or have battery backup on every level and outside sleeping areas**, and use one whenever a generator is running. Test them monthly and replace batteries as needed. CPSC does not recommend mounting them in kitchens or above fuel-burning appliances.
 
-**Why:** CO binds to hemoglobin 200× more readily than oxygen, starving your cells. Symptoms (headache, dizziness, nausea, confusion) mimic flu and can progress to loss of consciousness and death within minutes at high exposures.
+**If a CO alarm sounds, or anyone has headache, dizziness, weakness, upset stomach, vomiting, chest pain, or confusion while fuel is burning nearby:** get everyone outside to fresh air immediately, then call 911 or the fire department from outside or from a neighbor's home. Do not go back in until responders say you may. See a doctor and say you suspect CO.
 
-**Before any outage:**
-1. Install battery-backed CO detectors on every level of your home (especially near bedrooms).
-2. Ensure any backup generators are tested **outside, at least 20 feet away from windows, doors, and air intakes.**
-3. Have a hand-crank or battery-powered radio and flashlights — no combustion needed.
-
-**If you suspect CO exposure:** evacuate immediately to fresh air, call 911, seek medical attention (CO can cause delayed cardiac injury even after you feel better).
+**Before an outage:**
+1. Buy and test CO alarms with battery backup.
+2. Keep one flashlight per person, a battery or hand-crank radio, and spare batteries so that nothing needs to burn.
+3. If you plan to use a generator, decide now where it will sit outdoors, 20 feet or more from the house.
 
 ---
 
@@ -71,36 +119,38 @@ When the electrical grid fails (storm, infrastructure damage, grid collapse), mo
 
 ### Part 1: Heat Without Power
 
-1. **Reduce the space you're heating.** Close off unused rooms; concentrate people in one room (a bedroom, interior hallway, or bathroom — usually the smallest).
-2. **Seal gaps around doors and windows.** Stuff towels or blankets in cracks; this keeps body heat in.
-3. **Layer clothing:** wool, synthetics, or fleece (cotton loses insulation when damp). Avoid going barefoot.
-4. **Use body heat.** Sleep near others, huddle under blankets. Shared body warmth in a small, sealed room can raise temperature 10–15°F above outdoor air.
-5. **Use non-combustion heat sources:**
-   - Hand-warmers (chemical or reusable packs) in pockets or sleeping bags.
-   - Seal the room tightly and allow body heat to accumulate — do NOT crack windows "for fresh air" if it's very cold; instead, open briefly to prevent CO buildup from any unvented fuel source (see section below).
-6. **Avoid alcohol, sedatives, and exhaustion** — hypothermia risk is highest when judgment is impaired or when you fall asleep in the cold.
+Burn nothing for heat indoors. Warmth comes from insulation, layers, and body heat.
 
-### Part 2: Cold Without Power (Food Safety)
+1. **Shrink the space you heat.** Close off unneeded rooms and stuff towels or rags in the cracks under doors (CDC).
+2. **Cover windows at night** with drapes or blankets (CDC).
+3. **Have blankets, sleeping bags, and warm coats on hand**, and wear layers (CDC; Ready.gov).
+4. **Do not drink alcoholic or caffeinated drinks to warm up.** They make the body lose heat faster (CDC).
+5. **Know the signs of hypothermia:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness. A body temperature below 95 °F is an emergency; get medical attention immediately (CDC; Ready.gov). If a person in a cold house is drowsy or confused, call 911 (NIA).
+6. **If heat or cold becomes extreme, go to a community location that has power** and check with local officials about what is open (Ready.gov).
 
-1. **Do NOT open the refrigerator or freezer.** A closed fridge keeps food at safe temps (~40°F) for 4 hours if unopened; a freezer for 48 hours.
-2. **Temperature check:** If you have a thermometer, measure the temp inside the fridge. Below 40°F = safe for consumption. Above 40°F for >2 hours = bacteria multiply; discard.
-3. **Freezer protocol:** If the freezer stays below 32°F (ice crystals still visible), food is still safe to refreeze once power returns. If it reaches 40°F, thawed meat and dairy spoil; discard unless you recooked/canned it immediately.
-4. **Move perishables to a cooler.** If power will be out >4 hours and you have ice packs or ice from the freezer, pack perishable items (meat, dairy, cooked foods) into a cooler with ice.
-5. **First foods to discard if power fails > 4 hours:** raw/cooked meat, poultry, seafood, dairy, eggs, opened condiments (mayo, sour cream), leftovers.
-6. **Safe for longer (>4 hours without power):** butter, hard cheese, cured meats (if kept cool), bread, fruit, vegetables, condiments like ketchup and mustard, oils.
+### Part 2: Keeping Food Cold
+
+1. **Keep refrigerator and freezer doors closed.** An unopened refrigerator keeps food cold for about 4 hours. A full freezer holds its temperature about 48 hours (24 hours if half full) (FSIS; FDA; CDC).
+2. **Use an appliance thermometer** in the refrigerator and freezer. Refrigerator target: 40 °F or below. Freezer target: 0 °F or below (FSIS).
+3. **If the outage will last longer than 4 hours,** move perishable food into a cooler with ice (FSIS).
+4. **When power returns, check temperatures.** A closed fridge keeps food cold about 4 hours. If the power has been out longer than that and you have no thermometer, throw out perishables (FDA; CDC; FSIS). If a thermometer shows the food has been at 40 °F or higher for 2 hours or more, throw it out (Ready.gov).
+5. **Frozen food that still has ice crystals, or is at 40 °F or below, can be refrozen or cooked** (FDA; FSIS).
+6. **Discard after 4 hours without power:** raw and cooked meat, poultry, fish, and eggs; luncheon meat and hot dogs; casseroles, soups, and stews; pizza; milk, soft cheeses, and yogurt; cut fruits and vegetables; cooked vegetables; creamy dressings (FSIS).
+7. **Foods that can be kept:** whole fresh fruits and vegetables, hard and processed cheeses, butter, mustard, ketchup, jams, nuts, and unopened juices (FSIS).
+8. **Never taste food to decide whether to keep it. When in doubt, throw it out** (FSIS). Appearance and smell do not tell you (FDA).
 
 ### Part 3: Lighting
 
-1. **Use battery-powered flashlights or LED lanterns.** Incandescent bulbs waste energy and generate heat (fine in winter, dangerous in closed, already-warm rooms).
-2. **Hand-crank or battery radios** — critical for emergency information without draining precious batteries.
-3. **Avoid candles indoors** in a sealed room — fire risk, and if the room is very sealed, CO from the candle flame can accumulate.
-4. **Preserve batteries.** Turn off lights during daylight hours; use one central lantern rather than multiple flashlights.
+1. **Use flashlights and battery lanterns, not candles.** CPSC says to use flashlights or battery-operated candles, and never to leave a burning candle unattended (CDC; CPSC).
+2. **Keep a hand-crank or battery radio** for official information (Ready.gov).
+3. **Keep a way to charge phones.** Text instead of calling when networks are crowded (Ready.gov Get Tech Ready).
 
-### Part 4: Water (If Water System Fails)
+### Part 4: Water and Medicines
 
-1. **Fill bathtubs and containers** immediately if you know the grid is down and water pressure may fail.
-2. **Do NOT assume tap water is safe** after a grid failure — pressure loss can draw contamination into lines. Boil or treat any water you didn't collect before the outage.
-3. **For drinking and cooking:** boil for ≥1 minute (or use bottled water if stored).
+1. **If you have warning, fill clean containers with drinking water** before the outage (CDC hurricane guidance; Ready.gov).
+2. **If officials issue a boil advisory,** bring water to a full rolling boil for 1 minute (3 minutes above 5,000 feet or if you are unsure of your elevation; CDC uses 6,500 feet, EPA 5,000), let it cool before use, or use commercially bottled water (CDC).
+3. **Medicines that need refrigeration:** Ready.gov says that if the power is out for more than a day, discard refrigerated medicine unless the drug's label says otherwise, and consult your doctor or pharmacist for a new supply. If a life depends on a refrigerated drug that has already warmed, do not decide alone whether to use it: call a pharmacist or the prescriber right away (FDA, Safe Drug Use After a Natural Disaster), and if you cannot reach one, call 911 or go to an emergency department (this repo's rule, matching 09_urban_survival.md). Insulin has its own FDA and manufacturer storage limits; see the `chronic-med-continuity` entry. Do not change or ration a prescription dose on your own.
+4. **Check on family, older adults, and neighbors,** especially in extreme cold or heat (Ready.gov).
 
 ---
 
@@ -108,29 +158,42 @@ When the electrical grid fails (storm, infrastructure damage, grid collapse), mo
 
 | Failure | What Goes Wrong | Fix |
 |---------|-----------------|-----|
-| **Running generator indoors** | Carbon monoxide accumulates; loss of consciousness and death in 1–3 hours. | Evacuate immediately. Always run generators outside, ≥20 feet from windows/doors. |
-| **Fridge stays open** | Temperature rises above 40°F in < 2 hours; food spoils fast. | Close immediately. If unsure about temp, discard perishables that have been warm >2 hours. |
-| **Room too cold** | Hypothermia risk, especially if wet or if you stop moving. | Layer clothing, huddle with others, avoid sleeping alone in cold. Mild hypothermia: gradual rewarm in blankets; do NOT reheat too quickly (afterdrop). |
-| **Sealed room, CO from stove** | Headaches, confusion, death. | Never run fuel-burning appliances indoors. Open windows if you must vent fuel appliances (defeats the heating goal; do NOT do this). |
-| **Running out of batteries** | Loss of light and emergency radio. | Ration use; use daylight; hand-crank or solar chargers if available. Stock extra batteries before outages. |
-| **Freezer thaws, then refreezes** | Ice crystals reform, but quality/safety may be compromised; some bacteria survive freeze-thaw cycles. | If food was above 40°F, discard unless you immediately cooked it through. If it stayed below 32°F the whole time (ice still present), it's safe to refreeze. |
+| **Generator too close, or in a garage, basement, or other enclosed space** | CO builds up inside the home, even with doors or windows open. | Move it outdoors, 20+ feet away, exhaust pointing away. If anyone feels sick or an alarm sounds, get outside and call 911. |
+| **Refrigerator door opened often** | Food warms faster than the 4-hour estimate. | Keep it shut; use a cooler with ice for items you need; check temperatures with a thermometer. |
+| **Room too cold** | Hypothermia risk, especially for older adults or anyone wet. | Close off rooms, add layers and blankets, avoid alcohol. Below 95 °F, or drowsy and confused: 911. |
+| **Tempted to use a gas range, oven, or grill for heat** | CO poisoning and fire. | Do not. Go to a warming location or a relative's home that has power. |
+| **Batteries run out** | No light or radio. | Keep spares; use daylight; keep one lantern in the room you use. |
+| **Freezer thawed** | Spoilage risk. | Check for ice crystals or 40 °F or below; if neither, discard. |
 
 ---
 
 ## ⚠ DO NOT
 
-- **Do NOT run any fuel-burning device indoors**, even in a garage or basement with a door open.
-- **Do NOT assume CO "won't happen to me"** — it's the leading cause of non-fire-related poisoning deaths in winter outages.
-- **Do NOT ignore early CO symptoms** (headache, nausea, dizziness). Evacuate and seek fresh air immediately.
-- **Do NOT keep perishables at room temperature** if the fridge fails; use a cooler with ice or discard after 2 hours at >40°F.
-- **Do NOT assume leftovers are safe just because they taste fine** — bacterial growth is invisible.
-- **Do NOT rely on appearance alone** for food safety; when in doubt, throw it out.
+- **Do NOT run a generator in a garage, basement, or other enclosed or partly enclosed space, or within 20 feet of windows, doors, or vents.** Open doors and windows do not make it acceptable.
+- **Do NOT run a car in an attached garage, or grill or burn charcoal indoors or in a garage.**
+- **Do NOT use a gas range or oven to heat the home.**
+- **Do NOT ignore a CO alarm or early symptoms** (headache, dizziness, nausea). Get outside and call 911.
+- **Do NOT use candles** for light. Use flashlights.
+- **Do NOT taste food to test it.** If the power has been out longer than 4 hours with no thermometer, or a thermometer shows 40 °F or higher for 2 hours or more, discard it.
+- **Do NOT change or ration a prescription dose on your own** because of the outage. Ask a pharmacist or doctor, or call 911 for symptoms.
 
 ---
 
 ## Sources
 
-- CDC: Carbon Monoxide Poisoning — https://www.cdc.gov/niosh/topics/emg/carbonmonoxide.html
-- FEMA: Staying Safe During Power Outages — https://www.fema.gov/disaster/hurricane/recovery/power-outages
-- USDA FSIS: Food Safety During Power Outages — https://www.fsis.usda.gov/
-- American Red Cross: Power Outage Safety — https://www.redcross.org/
+- CDC: What to Do to Protect Yourself During a Power Outage - https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+- CDC: Carbon Monoxide Poisoning (About) - https://www.cdc.gov/carbon-monoxide/about/index.html
+- CDC: Safety Guidelines: During & After a Winter Storm - https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html
+- CDC: Drinking Water Advisories: An Overview - https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html
+- CDC: Preparing for Hurricanes or Other Tropical Storms - https://www.cdc.gov/hurricanes/safety/index.html
+- Ready.gov / FEMA: Power Outages - https://www.ready.gov/power-outages
+- Ready.gov / FEMA: Winter Weather - https://www.ready.gov/winter-weather
+- Ready.gov / FEMA: Get Tech Ready - https://www.ready.gov/get-tech-ready
+- USDA FSIS: Keep Your Food Safe During Emergencies - https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/keep-your-food-safe-during-emergencies
+- FDA: Food and Water Safety During Power Outages and Floods - https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods
+- CPSC: As Winter Storms Threaten Millions in the U.S. (Dec 2025 release) - https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires
+- CPSC: Carbon Monoxide Information Center - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+- CPSC: Carbon Monoxide Fact Sheet - https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet
+- NIA / NIH: Hypothermia: A cold weather hazard - https://www.nia.nih.gov/news/hypothermia-cold-weather-hazard
+- CPSC via Federal Register: Safety Standard for Portable Generators (proposed rule) - https://www.federalregister.gov/documents/2023/04/20/2023-07870/safety-standard-for-portable-generators
+- FDA: Safe Drug Use After a Natural Disaster - https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster

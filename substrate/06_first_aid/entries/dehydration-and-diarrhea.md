@@ -8,24 +8,29 @@ usda_zone: n/a
 confidence: high
 source_tier: T1
 sources:
-  - title: "Oral Rehydration Therapy (ORT) — WHO Technical Guidelines"
+  - title: "Cholera outbreaks: Questions and answers"
     publisher: WHO
-    url: "https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing"
+    url: "https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks"
     tier: T1
-  - title: "Diarrhea and Dehydration — Emergency Medical Treatment"
-    publisher: CDC
-    url: "https://www.cdc.gov/infectious-disease/"
+  - title: "Dehydration"
+    publisher: NIH MedlinePlus
+    url: "https://medlineplus.gov/dehydration.html"
     tier: T1
-  - title: "Dehydration and Electrolyte Management"
+  - title: "Loperamide"
+    publisher: NIH MedlinePlus Drug Information
+    url: "https://medlineplus.gov/druginfo/meds/a682280.html"
+    tier: T1
+  - title: "Diarrhea"
     publisher: American Red Cross
-    url: "https://www.redcross.org"
+    url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/diarrhea"
     tier: T1
-  - title: "FM 21-76 — U.S. Army Survival Manual"
-    publisher: US Army
-    url: "https://www.army.mil"
-    tier: T2
-last_reviewed: 2026-06-27
-review_status: reviewed
+  - title: "How to Make Water Safe in an Emergency"
+    publisher: CDC
+    url: "https://www.cdc.gov/water-emergency/about/index.html"
+    tier: T1
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "dehydration and diarrhea, from mild fluid loss to hypovolemic shock"
 severity_range: "thirst and mild dehydration → moderate dehydration with dizziness → severe dehydration / hypovolemic shock"
 ---
@@ -38,180 +43,170 @@ severity_range: "thirst and mild dehydration → moderate dehydration with dizzi
 
 ## Recognize
 
-### Dehydration signs (by severity)
+### Dehydration signs (by how bad it looks)
 
-**Mild dehydration (loss of 3–5% of body weight / ~2–3 L for a 70 kg adult):**
-- Thirst (often the first sign)
-- Dry mouth and lips
-- Slightly decreased urination (urine is yellow/amber)
-- Mild fatigue or irritability
+You cannot weigh yourself in the field, so watch the signs (MedlinePlus). This entry gives no percentage-of-body-weight cutoffs.
 
-**Moderate dehydration (5–8% loss / ~3.5–5.6 L):**
-- Intense thirst
-- Dry mucous membranes (mouth, throat)
-- Reduced urination (dark yellow urine) or absent
-- Dizziness or lightheadedness, especially when standing
-- Weakness, reduced physical performance
+**Early:**
+- Strong thirst (often the first sign)
+- Dry mouth
+- Urinating and sweating less than usual
+- Dark-colored urine
+- Tiredness
+
+**Getting worse:**
+- Dizziness or lightheadedness
 - Headache
-- Skin loses turgor (pinched skin does not spring back immediately)
+- Weakness
+- Fast heartbeat
+- Very little urine
 
-**Severe dehydration (>8% loss / >5.6 L) — medical emergency:**
-- Extreme thirst (or paradoxically, no thirst if critically dehydrated)
-- Severe dizziness, confusion, disorientation
-- Rapid weak pulse (>120 bpm)
-- Rapid shallow breathing
-- Severe weakness, inability to stand
-- Cold, clammy skin (vasoconstriction)
-- Little or no urination; urine may be brown/dark
-- Sunken eyes
-- Possible loss of consciousness (hypovolemic shock)
+**Severe — a medical emergency:**
+- Confusion or drowsiness
+- Fainting
+- No urine
+- Rapid heartbeat and rapid breathing
+- Shock
+
+**Babies and small children (MedlinePlus):** dry mouth and tongue, crying without tears, no wet diaper for 3 hours or more, sunken-looking eyes, high fever, unusual sleepiness or drowsiness, irritability.
+
+**Older adults** may not feel thirsty (MedlinePlus). Do not wait for thirst.
 
 ---
 
-### Diarrhea (fluid loss mechanism)
+### Diarrhea (how the fluid loss happens)
 
-**Acute diarrhea (hours to days):**
-- Loose or liquid stools (≥3 per day, more frequent than normal)
-- Abdominal cramping or pain
+**Acute diarrhea:**
+- Loose or watery stools, more often than normal
+- Belly cramps or pain
 - Possible nausea or vomiting
-- Fever (suggests bacterial or viral cause)
-- Blood in stool (suggests bacterial dysentery or invasive infection)
+- Fever (suggests an infection)
+- Blood in the stool (suggests a more serious bacterial infection)
 
-**Persistent diarrhea (>7 days):**
-- Malabsorption (stools are pale, fatty, floating)
-- Weight loss
-- Dehydration that outpaces rehydration
-- Fever may be absent or intermittent
-
-**Severe diarrhea (profuse, >10 stools/day or severe fluid loss):**
-- Rapid onset (cholera-like diarrhea can cause >1 L/hour loss)
-- Risk of severe dehydration and electrolyte loss within hours
-- Shock (if not rehydrated quickly)
+**Severe diarrhea (watery stools that keep coming):**
+- Fluid and salt are lost quickly, and dehydration can set in fast.
+- WHO: severe diarrhea can lead to weakness and even death if not treated rapidly (this includes cholera).
+- Treat it as an emergency: start oral rehydration solution (ORS) at once and get urgent care (see below).
 
 ---
 
 ## ⚠ RED FLAGS / EVACUATE
 
-- **Severe dehydration signs:** dizziness, weakness, confusion, rapid pulse (>120), rapid breathing, cold/clammy skin
-- **No urination for >8 hours** with signs of dehydration
-- **Blood in stool** with fever and abdominal pain (suggests bacterial dysentery; risk of sepsis)
-- **Persistent high fever (>39°C / 102°F)** with diarrhea (suggests systemic infection)
-- **Diarrhea + inability to keep fluids down** (persistent vomiting; suggests severe gastroenteritis)
-- **Severe abdominal pain** (suggests appendicitis, diverticulitis, or other surgical emergency)
-- **Signs of hypovolemic shock:** extreme weakness, unable to stand, pulse barely detectable, confusion, loss of consciousness
-- **Profuse diarrhea (>1 L/hour):** fluid loss outpaces rehydration; cannot be managed in field
+Seek help immediately, and keep giving ORS while you arrange it, if any of these are present:
 
-**Severe dehydration and shock require IV fluids (EMS/hospital). Profuse diarrhea (cholera-like) requires hospital care and IV rehydration.**
+- **The person cannot take enough fluids because of vomiting** (WHO).
+- **Confusion or drowsiness** (WHO; MedlinePlus).
+- **Muscle cramps, weakness or dizziness** with diarrhea (WHO).
+- **Fainting, no urine, rapid heartbeat, rapid breathing, or signs of shock** (MedlinePlus).
+- **Severe or profuse watery diarrhea** (WHO). This includes cholera-like illness.
+- **Babies and small children:** no tears, no wet diaper for 3 hours or more, sunken eyes, unusual sleepiness (MedlinePlus).
+- **Black or bloody stool,** by itself (Red Cross; MedlinePlus loperamide page says call a doctor immediately or get emergency care for bloody stools).
+- **Persistent high fever** with diarrhea.
+- **Sharp or lasting belly pain** (Red Cross).
+
+**Severe dehydration and shock need intravenous (IV) fluids from EMS or a hospital** (MedlinePlus). WHO: people with more severe cholera may need IV rehydration and antibiotics in addition to ORS. **ORS is not withheld from the sickest person. Start it right away, and also get urgent care.**
 
 ---
 
 ## Respond
 
-### Step 1: Assess fluid loss (diarrhea volume and duration)
-- Count stools: how many per day? How long has diarrhea lasted?
-- Assess stool: loose, watery, bloody?
-- **Watery stools × high frequency = rapid fluid loss.** Higher urgency.
+### Step 1: Assess
 
-### Step 2: Oral rehydration (mild to moderate dehydration, or prevention)
+- How many loose stools, and for how long?
+- Is the stool watery, bloody?
+- Is the person vomiting, confused, drowsy, or passing little or no urine?
+- **Many watery stools plus any red flag = high urgency.**
 
-**WHO Oral Rehydration Solution (ORS) recipe:**
+### Step 2: Oral rehydration (start early, including in severe diarrhea)
 
-For mild to moderate dehydration, mix:
-- **6 teaspoons (~18–20 grams) sugar** (or honey, or any carbohydrate)
-- **1/2 teaspoon (2.5 grams) salt** (sodium chloride)
-- **1 liter of clean water** (boiled and cooled, or safest available water)
+**Rehydration drink (WHO ORS home recipe):** mix
 
-**Stir well. Give in small, frequent sips.**
+- **1 liter of treated or boiled-and-cooled water** (use one of the methods in the water entries; do not mix ORS with untreated water)
+- **6 teaspoons of sugar** (level)
+- **1/2 teaspoon of salt**
 
-**Why this ratio works:**
-- Sugar provides calories and aids sodium absorption (glucose-sodium cotransport in the small intestine).
-- Salt replaces electrolyte losses (sodium is lost in diarrhea and sweat).
-- This ratio approximates the glucose-sodium co-transport ratio (the WHO formulation is molar ~1.5:1 glucose:sodium).
-- WHO studies show ORS is as effective as IV fluids for mild-moderate dehydration if the person can tolerate oral intake.
-
-**Alternative if no scale available:**
-- A handful of sugar (≈2 tablespoons) + a three-finger pinch of salt per liter.
+Stir until dissolved. Give it in **small, frequent sips.** WHO: the most important way to prevent death from cholera is to drink oral rehydration solution as soon as symptoms begin.
 
 **How to give:**
-- Start with **small, frequent sips** (5–10 mL / 1–2 teaspoons) every 5–10 minutes.
-- Increase sip size gradually if vomiting is absent (aim for 50–100 mL / ~2–3 oz every 15–20 min).
-- **Target:** 75–100 mL/kg over 4 hours for moderate dehydration (example: 70 kg person = 5.25–7 L over 4 hours, or ~1.3–1.75 L/hour, given in small frequent sips).
-- **Do NOT force large amounts** — vomiting wastes fluid and worsens loss.
+- Use small sips from a cup or spoon, again and again, rather than large gulps.
+- If the person vomits, wait a few minutes, then start again with smaller sips.
+- Keep giving it as long as the diarrhea continues.
+- **Do not force large amounts.**
 
-**If vomiting is severe:**
-- Give smaller, more frequent sips.
-- Wait 10 minutes after vomiting before resuming fluids (allows stomach to settle).
-- If vomiting persists, reduce ORS volume and increase frequency (1–2 teaspoons every 2–3 minutes).
+**Use the measures as written.** Do not substitute a pinch, a handful or a guess.
 
-### Step 3: Manage diarrhea (while rehydrating)
+### Step 3: Manage diarrhea while rehydrating
 
-**Dietary measures:**
-- **Continue oral intake** (avoid complete fasting; it prolongs diarrhea recovery).
-- **Bland foods:** rice, bread, crackers, boiled potatoes, plain meat, cooked vegetables (after acute phase improves).
-- **Avoid:** dairy (lactose intolerance with diarrhea), high-fat foods, high-fiber foods initially, alcohol, caffeine.
-- **Reintroduce normal diet gradually** after 2–3 days of improvement.
+**Food:**
+- Keep eating when the person can (avoid complete fasting).
+- Bland foods such as rice, bread, crackers and boiled potatoes are usually tolerated.
+- Avoid alcohol and caffeine.
 
-**Diarrheal medications (if available):**
-- **Loperamide (Imodium):** slows gut motility. Dose: 2 mg after each loose stool, max 8 mg/day. **Caution:** do NOT use if fever, blood in stool, or possible bacterial dysentery (can worsen the infection by trapping bacteria). Use only for simple viral/traveler's diarrhea with no red flags.
-- **Bismuth subsalicylate (Pepto-Bismol):** reduces stool frequency and inflammation. Standard dose: 2 tablets (30 mL) every 30 min–1 hour, max 8 doses/day for 2 days.
-- **Antibiotics (if available and blood/fever present):** suggest bacterial dysentery. If you have fluoroquinolone (levofloxacin, ciprofloxacin) or other broad-spectrum oral antibiotics and fever + blood in stool is present, start treatment (cipro example: 500 mg twice daily for 3 days). This is field empiric therapy; professional diagnosis is better.
+**Diarrheal medicines (if available).** *Not medical advice. Follow the product label exactly, and ask a pharmacist or clinician where you can reach one.*
+- **Loperamide (Imodium)** and **bismuth subsalicylate (Pepto-Bismol)** are over-the-counter options for simple, watery diarrhea with no red flags. Use the label dose only.
+- **Stop after 48 hours.** MedlinePlus: if diarrhea lasts longer than 48 hours, stop taking loperamide and call a doctor. Adults whose symptoms last past 2 days should contact a clinician (Red Cross).
+- **Do not use loperamide** with fever, blood or mucus in the stool, or severe belly pain. Never give it to a child younger than 2. Never take more than the label dose: too much can cause serious, even life-threatening heart rhythm problems (MedlinePlus).
+- **Bismuth subsalicylate** is related to aspirin. Read the label warnings, and ask a pharmacist before giving it to children or teens or using it with blood thinners (general caution; label-based).
+- **Do not self-start a prescription antibiotic.** Blood in the stool or a high fever is a red flag: seek care (see ⚠ RED FLAGS / EVACUATE). Antibiotic choice and dose are a clinician's decision.
 
-### Step 4: Monitor hydration status
+### Step 4: Monitor hydration
 
-**Every 2–4 hours, assess:**
-- Thirst level (improving?)
-- Urine output (color, frequency) — goal is pale yellow urine at least every 4–6 hours
-- Skin turgor (pinch forearm skin; it should return to normal quickly, not stay tented)
-- Mucous membranes (moist or dry?)
-- Pulse (returning to normal rate?)
-- Mental status (alert and oriented?)
+**Every few hours, check:**
+- Thirst (easing?)
+- Urine (more of it, and lighter in color?)
+- Mouth (moist or dry?)
+- Heartbeat (settling?)
+- Alertness (awake, oriented?)
 
-**If improving:** continue ORS. Reduce frequency once stools decrease to <3/day or hydration is restored.
+**If improving:** keep giving ORS and food. Cut back as the stools slow and the person passes urine normally.
 
-**If stable:** rehydration is working. Continue ORS as long as diarrhea persists (replace each stool loss with ~200 mL ORS).
+**If not improving, or any red flag appears:** go to Step 6.
 
-### Step 5: Rest and electrolyte replacement
+### Step 5: Rest
 
-- **Minimize exertion** (physical activity worsens dehydration and fluid loss).
-- **Elevation:** if available, add a pinch of potassium chloride (salt substitute) or a banana (potassium source) to the ORS. Diarrhea drains potassium as well as sodium.
-- **Monitor for complications:** if fever spikes, abdominal pain worsens, or bloody diarrhea becomes profuse → escalate to evacuation.
+- Minimize exertion (activity worsens fluid loss).
+- Watch for complications: rising fever, worsening belly pain, bloody diarrhea becoming profuse, or any red flag. Escalate to evacuation.
 
-### Step 6: Severe dehydration / unable to rehydrate orally
+### Step 6: Severe dehydration, or cannot rehydrate by mouth
 
-- **If the person cannot keep fluids down** (persistent vomiting), or
-- **If urine output remains nil after 6–8 hours of ORS**, or
-- **If mental status changes or shock signs appear:**
-  - **This exceeds field care. Evacuate for IV fluids.**
-  - Continue small frequent ORS sips during evacuation if tolerated.
+If the person:
+- cannot keep fluids down because of vomiting, or
+- passes no urine despite ORS, or
+- becomes confused or drowsy, faints, or shows shock signs,
+
+then **this exceeds field care. Get urgent medical care for IV fluids** (WHO; MedlinePlus). Keep giving small sips of ORS on the way if the person can swallow them.
 
 ---
 
 ## ⚠ DO NOT
 
-- **Do NOT give plain water alone for diarrhea.** Water dilutes remaining electrolytes and can worsen hyponatremia (low blood sodium). Sugar + salt are essential.
-- **Do NOT force large fluid boluses.** Small, frequent sips prevent vomiting and allow maximal absorption.
-- **Do NOT use loperamide (Imodium) if fever, bloody stools, or abdominal pain is severe.** Slowing gut motility in bacterial dysentery can trap bacteria and worsen infection.
-- **Do NOT use ORS for profuse, cholera-like diarrhea (>1 L/hour).** Oral rehydration cannot keep up; this requires IV fluids and hospital care.
-- **Do NOT skip electrolytes.** Pure water or juice-only rehydration fails; the glucose:sodium ratio must be present.
-- **Do NOT delay evacuation for blood in stool, high fever, or severe abdominal pain.** These suggest a bacterial infection or surgical emergency (appendicitis, etc.) that field care cannot manage.
-- **Do NOT assume diarrhea-only is mild.** Dehydration can progress to shock even without other symptoms; monitor vital signs closely.
+- **Do NOT withhold ORS from someone with profuse, cholera-like diarrhea.** WHO: cholera treatment is simple, oral rehydration solution, and early ORS is the most important way to prevent death. Severe cases also need urgent care and may need IV fluids and antibiotics, so **start ORS AND seek urgent care.** Do not wait to see whether it passes.
+- **Do NOT rely on plain water alone for vomiting or diarrhea.** The salt and sugar in ORS matter. Mild cases may need only extra water (MedlinePlus), but a person with ongoing diarrhea or vomiting should get ORS.
+- **Do NOT force large amounts.** Small, frequent sips are better tolerated than large gulps.
+- **Do NOT change the ORS recipe** (more or less sugar or salt, a guessed "handful" or "pinch").
+- **Do NOT mix ORS with untreated water.** Use water treated or boiled by a method in the water entries.
+- **Do NOT use loperamide (Imodium) with fever, bloody stools, or severe belly pain.** Slowing the gut in a bacterial infection can worsen it.
+- **Do NOT delay getting care** for black or bloody stool, high fever, severe belly pain, confusion, or inability to keep fluids down.
+- **Do NOT assume diarrhea alone is mild.** Dehydration can progress to shock; keep watching the signs.
 
 ---
 
 ## Med Continuity
 
 **Chronic medications + diarrhea:**
-- **Diabetes meds (insulin, metformin, sulfonylureas):** diarrhea impairs food intake and increases hypoglycemia risk. Monitor blood glucose if possible; reduce insulin dose if eating is reduced.
-- **Antacids/bismuth subsalicylate:** do NOT combine with prescription antibiotics without checking (drug interactions).
-- **Anticoagulants (warfarin, apixaban):** diarrhea affecting vitamin K absorption can alter warfarin effect; close monitoring (INR) is ideal but unavailable in field. Maintain consistent diet/fluid intake.
+- **Diabetes medicines (insulin, metformin, sulfonylureas):** vomiting, diarrhea and not eating raise the risk of both low and high blood sugar. Check blood sugar more often if you can. Do not change a dose on your own: call a clinician, pharmacist or 911 for dosing questions or for signs of very low or very high blood sugar.
+- **Other regular medicines:** the sources opened for this entry do not cover interactions, so none are listed here. Tell a pharmacist or clinician about every medicine you take before starting an over-the-counter diarrhea medicine (MedlinePlus loperamide page says to tell your doctor about all medicines).
 
-**Immunosuppression (HIV/AIDS, chemotherapy, chronic steroids):** diarrhea is a major threat and can herald opportunistic infection. Lower threshold for evacuation and aggressive antibiotic therapy if fever + blood in stool is present.
+**Weakened immune system (HIV, chemotherapy, long-term steroids, transplant):** diarrhea is a bigger threat and can signal a serious infection. Seek care early, especially with fever or blood in the stool.
+
+*These medication-continuity notes were not re-verified in the 2026-10 source pass. Check with a clinician or pharmacist where you can.*
 
 ---
 
 ## Sources
 
-- WHO. (n.d.). *Oral Rehydration Therapy (ORT) — Technical Guidelines.* Retrieved from https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing
-- CDC. (n.d.). *Diarrhea and Dehydration — Emergency Medical Treatment.* Retrieved from https://www.cdc.gov/infectious-disease/
-- American Red Cross. (n.d.). *Dehydration and Electrolyte Management.* Retrieved from https://www.redcross.org
-- U.S. Army. (n.d.). *FM 21-76 — U.S. Army Survival Manual.* Retrieved from https://www.army.mil
+- WHO. *Cholera outbreaks: Questions and answers.* https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks (ORS home recipe: 1 liter of water, 6 teaspoons of sugar, half a teaspoon of salt; ORS is the treatment and early ORS prevents death; more severe cases may need IV rehydration and antibiotics; seek help immediately if the person cannot take enough fluids because of vomiting, or has confusion or drowsiness, muscle cramps, weakness or dizziness).
+- NIH MedlinePlus. *Loperamide.* https://medlineplus.gov/druginfo/meds/a682280.html (not for children under 2; overdose can cause life-threatening heart rhythm changes; tell your doctor about fever, blood or mucus in stool, black stools; stop and call a doctor if diarrhea lasts longer than 48 hours; call a doctor immediately or get emergency care for bloody stools while taking it; tell your doctor about all medicines).
+- American Red Cross. *Diarrhea.* https://shop.redcross.org/take-a-class/resources/learn-first-aid/diarrhea (black or bloody stool, sharp or persistent abdominal pain and signs of dehydration or shock need immediate emergency care; adults with symptoms beyond 2 days see a provider; no over-the-counter antidiarrheals for young children or infants; opened 2026-10-21).
+- NIH MedlinePlus. *Dehydration.* https://medlineplus.gov/dehydration.html (signs in adults and in infants and young children; older adults may lose their sense of thirst; get medical help right away for confusion, fainting, lack of urination, rapid heartbeat, rapid breathing, or shock; severe cases may be treated with IV fluids in a hospital).
+- CDC. *How to Make Water Safe in an Emergency.* https://www.cdc.gov/water-emergency/about/index.html (ways to treat water for the ORS: boiling, disinfection).

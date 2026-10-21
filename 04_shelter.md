@@ -1,450 +1,344 @@
-# Shelter - Emergency Shelter, Insulation, Location
+# Shelter - Getting Through a Night Outside
 
-**Priority**: Shelter comes before water in harsh conditions. Hypothermia kills in hours.
+Use this guide when you will spend a night away from a heated building: lost on a trail, stuck in a car, caught by weather, or in a house that has lost heat. Cold and wet kill first. Hypothermia (a dangerously low body temperature) can start above 40 F when rain, sweat or cold water has you chilled [2]. Heat comes second [11]. Then the spot you pick can hurt you: dead trees and limbs that fall [15], flash floods [9][10], avalanche slopes [19][20], lightning [7][9]. Last, carbon monoxide (CO, a gas you cannot see or smell, made whenever fuel burns) has killed people asleep in tents [23][24].
 
-**Rule of 3s Reminder**: You can survive 3 hours without shelter in harsh conditions. In cold, wet, or windy weather, shelter is your #1 priority after addressing immediate injuries.
+First aid here is the commonly taught field response for when help is far away. It is not medical advice. If you can reach 911, call.
 
----
+**Start here**
 
-## Core Shelter Principles
+- **Cold, wet, night coming:** [decide first](#decide-first-stay-move-or-build), [stop heat loss](#stop-heat-loss-ground-wet-and-wind), then [Scenario A](#worked-scenario-a-lost-day-hiker-at-dusk-in-cold-rain).
+- **Someone is shivering, confused or drowsy:** [hypothermia and frostbite](#someone-is-too-cold-hypothermia-and-frostbite).
+- **Stuck in a car in snow:** [vehicle as shelter](#vehicle-as-shelter) and [Scenario B](#worked-scenario-b-car-stuck-in-a-snowstorm-overnight).
+- **Thunder, rising water, wind, or steep snow above you:** [check the site](#check-the-site-before-you-build).
+- **Hot:** [shade and airflow](#heat-shade-and-airflow).
+- **Home, no heat:** [`09_urban_survival.md`](09_urban_survival.md#warm-or-cool).
+- **Building something:** [tarp](#tarp-or-poncho-shelter), [lean-to](#lean-to-from-natural-materials), [debris hut](#debris-hut), [snow shelter](#snow-shelter).
+- **Short version:** the [quick-reference card](#quick-reference-card-print-on-one-page).
 
-### The Three Critical Functions
+**Call 911 first if you can:**
 
-1. **Insulation from Ground** - Most heat loss occurs through conduction to cold ground
-   - ALWAYS create a barrier between you and the ground
-   - Use leaves, pine needles, clothing, backpack, anything
-   - Minimum 6" of compressed material (12" loose)
-
-2. **Wind Protection** - Wind chill accelerates hypothermia
-   - Even light breeze dramatically increases heat loss
-   - Shelter must block wind from all sides you'll be exposed to
-   - Small, enclosed spaces retain heat better than large ones
-
-3. **Waterproofing** - Staying dry = staying alive
-   - Wet clothing loses 90% of insulating value
-   - Waterproof roof is critical in rain/snow
-   - Angle shelters for drainage, avoid low spots
-
-### Size Matters
-
-**Smaller = Warmer**
-- Build shelter just big enough to fit your body
-- Excess space requires excess heat to warm
-- You want barely enough room to lie down/sit
-- "Coffin-sized" is ideal for solo survival shelter
+- Someone is confused, drowsy, slurring words, fumbling, or has a body temperature below 95 F. Below 95 F, CDC says get medical attention immediately [2]; Ready.gov calls it an emergency [3]. Call 911 for any suspected hypothermia, and right away if confusion or drowsiness is present [26].
+- Anyone has a headache, dizziness, nausea or chest pain near a stove, heater, generator, grill or running vehicle. These are CO symptoms [23]. Get everyone into fresh air first, then call (this guide's rule, as in [`03_fire.md`](03_fire.md#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule)).
+- Someone in the heat is confused, has slurred speech, faints, has hot skin or a fast strong pulse, or a temperature above 103 F. That is heat stroke [11][13].
+- You are lost or hurt and your phone has any signal. Give your coordinates, trail or area name and last known location, then stay put [17].
 
 ---
 
-## Location Selection (Critical First Step)
+## Decide first: stay, move, or build
 
-**BEFORE building anything, spend 15 minutes finding the right spot:**
+Work down this list and stop at the first line that fits.
 
-### Good Location Indicators ✅
-- **Elevated but protected** - High enough to avoid flooding, low enough to avoid wind
-- **Near resources** - Water source within 5-10 min walk (not right next to - insects/animals)
-- **Dry ground** - Check for drainage patterns, avoid depressions
-- **Natural windbreak** - Behind rocks, in tree clusters, on leeward side of ridges
-- **Building materials nearby** - Branches, leaves, moss, debris
-- **Visible to rescuers** - If rescue is likely, don't hide completely
-- **Solid ground** - Avoid loose soil, rocks, or roots
-
-### Location Red Flags ❌
-- **Dead trees nearby** - "Widow-makers" fall in wind
-- **Low-lying areas** - Flash flood risk, cold air sinks here
-- **Right next to water** - Flooding, insects, animal traffic
-- **Avalanche/rockfall zones** - Check upslope for hazards
-- **Insect nests** - Check trees, ground, logs for bees/wasps/ants
-- **Animal trails** - You don't want nighttime visitors
-- **Completely exposed ridgelines** - Wind will destroy you
-- **Under single large tree** - Lightning risk in storms
-
-**Time Investment**: 15 minutes scouting location saves hours of misery in bad spot.
+1. **Is something about to hurt you right now?** Lightning, rising water, a cracking tree, sliding snow. Move away from that. Otherwise do not move, because moving makes you harder to find [17].
+2. **Are you lost?** Stop, stay calm, stay put [16]. Stay at nightfall, if injured, or if near exhaustion [16].
+3. **Are you in a vehicle?** Stay in it [3][4]. See [vehicle as shelter](#vehicle-as-shelter).
+4. **Is a full building or a metal-topped vehicle near?** In a thunderstorm only those count, and a building must have plumbing and electricity [7][8].
+5. **Is there natural cover?** Overhanging ledges, fallen logs, caves, rocky crevices, big rocks on the downwind side of a hill, thick brush, and fallen trees with heavy branches all save time and energy [1]. Check overhead and underfoot first. In lightning, stay out of cave entrances and small overhangs [7].
+6. **Whiteout or storm stopping travel?** Camp and wait for clearing weather. Pushing on risks getting lost [19].
+7. **Otherwise, build.** Start looking as soon as you accept a night out [1], and while there is daylight left (general practice).
 
 ---
 
-## Wilderness Shelter Types
+## Check the site before you build
 
-### 1. Debris Hut (Best All-Around Wilderness Shelter)
+A good shelter on a bad site can kill you. The Army manual's checklist: enough materials; level and big enough to lie down with your gear; protection from sun, wind, rain and snow; free of dead trees that may fall; clear of avalanche, rockslide, mudslide and flash-flood areas and high-water marks; not a cold sump (a hollow where cold air pools); and suitable for signaling [1].
 
-**When to use**: Cold/wet conditions, overnight+ stays, you have time (2-4 hours)
+Check in this order, fastest killer first: lightning, flood and avalanche, then falling trees, then cold and wind.
 
-**Why it's best**: Excellent insulation, windproof, waterproof if built correctly, retains body heat
+**Lightning.**
 
-**Difficulty**: Moderate | **Time**: 2-4 hours | **Capacity**: 1 person
+- A tent gives no protection. Open picnic shelters, dugouts and small buildings without plumbing or electricity do not either [7][8].
+- With no building or metal-topped vehicle near, you can only lower the risk. Stay off hilltops, ridges and open fields. Avoid tall isolated objects; in a forest stay near a lower stand of trees [7][9][18]. Spread a group out. Keep away from water, wet ropes and metal [7].
+- The NWS suggests low ground for lightning [7], but ravines flood [9]. This guide's judgment: pick flat ground a little above the bottom of the valley, out of any channel or dry wash (a dry stream bed).
+- Wait 30 minutes after the last thunder [7].
 
-#### Materials Needed
-- Ridge pole: 1 strong branch, 7-10 ft long, diameter of your wrist
-- Ribs: 6-10 branches, 5-7 ft long
-- Debris: LOTS - leaves, pine needles, grass, bark (garbage bag sized pile = not enough)
-- Support: 2 forked sticks or a tree/rock to anchor ridge pole
+**Water.**
 
-#### Step-by-Step Construction
+- Do not camp on banks of fast streams or in narrow valleys. Distant rain is channeled into gullies, canyons, ravines and burn scars (burned-over ground), and debris flows can bury a campsite in minutes [9].
+- At even a slight rise in water, go to higher ground immediately [9]. Do not wait for water to reach you [10].
+- Six inches of fast-moving water can knock you off your feet [9][10].
 
-1. **Create the frame**
-   - Find or create a forked stick (shoulder height) to support ridge pole
-   - Lean ridge pole against support at 30-45° angle
-   - Other end should rest on ground, creating a low tunnel
+**Snow.** Most slab avalanches start on slopes of 30 to 50 degrees and run into the lower ground below [20]. Never camp in an avalanche zone [19]. They are most common during or right after a storm [19]. This guide's judgment: do not shelter at the foot of a steep slope.
 
-2. **Add ribs**
-   - Lean branches on both sides of ridge pole at 45° angle
-   - Space them 12-18" apart
-   - Should create a triangular cross-section
-   - Stop ribs 2-3 ft from the top end (creates entrance)
+**Look up for falling trees.**
 
-3. **Layer small sticks crosswise**
-   - Add smaller branches perpendicular to ribs
-   - Creates lattice to hold debris
-   - Gaps should be smaller than your debris material
+- Dead trees and limbs fall without warning, and wind and snow-loaded branches raise the risk. Keep well away from dead trees [15].
+- Warning signs: no needles, bark or limbs; conks (shelf-like fungus), broken tops, scars at the base, many fallen limbs, ants, or woodpecker holes [15].
+- If wind picks up in the forest, move to a clearing out of reach of anything that could fall [15].
 
-4. **Add debris - THE CRITICAL STEP**
-   - Start at bottom, work upward (like roofing shingles)
-   - Minimum 2-3 feet thick (seriously - pile it on)
-   - Pack debris loosely - air pockets insulate
-   - Cover entire structure except small entrance
-   - Test: Should look like a huge leaf pile, not a neat structure
+**Wind and cold.** Use rocks, fallen trees, thick brush, the downwind side of a hill. Avoid the lowest hollow. Do not hide: choose a spot rescuers can reach [1].
 
-5. **Create entrance plug**
-   - Make a debris-stuffed bag or pile
-   - Must block entrance once you're inside
-   - Critical for heat retention
-
-6. **Ground insulation**
-   - Fill interior floor with 12"+ of leaves/pine needles
-   - Compress to 6" by lying on it
-   - This is your mattress - don't skip it
-
-#### Common Mistakes
-- ❌ Not enough debris (if you can see the frame, you need more)
-- ❌ Debris too thin (minimum 2 feet, 3 feet better)
-- ❌ No ground insulation (you'll freeze from below)
-- ❌ Entrance too large (can't retain heat)
-- ❌ Building too big (wastes time, harder to heat)
-
-#### Testing Your Debris Hut
-- Crawl inside - it should be dark (light = cold air gaps)
-- Should feel snug, almost claustrophobic
-- After 10 minutes inside, it should feel noticeably warmer
-- In true emergency, your breath should fog inside
+**What goes wrong:** building by the one good source of wood and water, often a streambed or valley bottom.
 
 ---
 
-### 2. Lean-To (Quick Emergency Shelter)
+## Stop heat loss: ground, wet and wind
 
-**When to use**: Need shelter fast (1-2 hours), moderate conditions, may have tarp/poncho
+Three things take your heat. Deal with them in this order.
 
-**Why use it**: Faster than debris hut, good with tarp, easier to build fire in front
+**1. Wet.** Per the Army manual, wet clothing can pull heat from your body up to 25 times faster than dry, depending on fabric, and wet cotton (its example is socks) loses about 90 percent of its insulation [1].
 
-**Drawbacks**: Less insulation, open on one side, harder to heat
+- Wear loose layers and adjust them so you do not sweat [1]. Slow down while building; sweat soaks the layers you need later [4].
+- Get out of wind and rain first. Take off wet clothing only once you are in a warm, sheltered place and can put on dry layers. In the open, wrap dry insulation and a waterproof layer over wet clothes instead [14].
+- Dry damp clothes against your body or in wind and sun. Near a fire, keep them where you can hold the back of your hand for three seconds; synthetics melt [1]. See [`03_fire.md`](03_fire.md).
+- Eat and drink [24].
 
-**Difficulty**: Easy | **Time**: 1-2 hours | **Capacity**: 1-2 people
+**2. Ground.** Put insulation between you and the ground before anything else. The Wilderness Medical Society calls insulation and a vapor barrier (a waterproof layer) between the person and both ground and weather key to hypothermia care [14].
 
-#### Materials Needed
-- Ridge pole: 1 strong branch, 8-12 ft long
-- Support: 2 trees (ideal) or forked sticks
-- Ribs: 8-12 branches, 6-8 ft long
-- Covering: Tarp, poncho, or LOTS of debris/bark
+- Best: a sleeping pad. Next: vehicle seat cushions or extra clothing [1].
+- From nature: ferns, grass, boughs, leaves. Make the bed at least 12 inches thick because it compresses. Fluff it and add more as it flattens [1].
+- On wet ground, put a waterproof layer under the bed and another over you if you have them (general practice). Keep rain off the bed.
 
-#### Step-by-Step Construction
+**3. Wind.** Put your back to the wind and seal every opening except ventilation holes [1]. Stuff gaps with debris or gear (general practice).
 
-1. **Position ridge pole**
-   - Secure horizontally between two trees (chest-shoulder height)
-   - Or use forked sticks driven into ground
-   - Test for stability - should hold your weight
+**Make it small:** just big enough to lie down with your gear [1]. It is easier to warm (general practice).
 
-2. **Add angled ribs**
-   - Lean branches from ground to ridge pole at 45-60° angle
-   - Space 12-18" apart
-   - Longer ribs = more floor space but harder to cover
-
-3. **Cover the structure**
-   - **With tarp**: Drape over ribs, stake bottom edge, angle for rain runoff
-   - **Without tarp**: Layer debris 2+ feet thick, bottom-to-top
-   - **Bark option**: Layer large bark sheets like shingles (very effective)
-
-4. **Create wind walls**
-   - Build debris walls on sides perpendicular to opening
-   - Critical for warmth - open side faces fire, walls block wind
-
-5. **Ground insulation**
-   - Same as debris hut - 12" loose material, compresses to 6"
-
-6. **Optional reflector fire**
-   - Build fire 4-6 ft from opening
-   - Stack rocks/logs behind fire to reflect heat into shelter
-   - NEVER sleep with fire unattended
-
-#### Lean-To + Fire Configuration
-```
-[Rock reflector]
-      🔥 Fire
-         \  (heat reflection)
-          \
-    [Lean-to shelter]
-       /you/
-    [ground insulation]
-```
+**What goes wrong:** a thin bed that compresses by midnight; wet cotton under a good roof.
 
 ---
 
-### 3. A-Frame Shelter (Intermediate Option)
+## Someone is too cold: hypothermia and frostbite
 
-**When to use**: Longer-term stay (several days), want more space, have tarp/paracord
+**Signs:** shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech, drowsiness [2]. Hypothermia is a body temperature below 95 F, and CDC says to get medical attention immediately [2]. You will not have a thermometer, so go by the signs. **Call 911 whenever you suspect hypothermia. Sleepiness or confusion means call right away** [26], as in [`06_first_aid.md`](06_first_aid.md#cold-hypothermia-and-frostbite). If you cannot reach help, or it is not coming:
 
-**Why use it**: More headroom than debris hut, easier to organize gear, can accommodate 2 people
+1. **Get out of wind and rain.** Handle the person gently, lying flat [14]. Wet clothes come off only once you are somewhere warm and sheltered. Otherwise put dry layers and a waterproof layer over them [14].
+2. **Body heat and dry blankets first.** Warm the chest, neck, head and groin, skin to skin under dry blankets if you can [2]. If you have heat packs, wrap them and put them on the chest, armpits and back, never on bare skin [14].
+3. **A warm, sweet drink, only if the person is alert, shivering and can swallow normally.** High-calorie, no alcohol [14]. If they are confused, drowsy or not shivering, give nothing by mouth [14].
 
-**Difficulty**: Moderate | **Time**: 2-3 hours | **Capacity**: 1-2 people
-
-#### Materials Needed
-- Ridge pole: 1 branch, 10-12 ft long, thick as your arm
-- A-frame supports: 4 strong branches, 5-6 ft long
-- Side ribs: 12-16 branches, 6-8 ft long
-- Covering: Tarp or extensive debris
-- Cordage: Paracord or natural cordage (if available)
-
-#### Step-by-Step Construction
-
-1. **Create A-frame supports**
-   - Lash or prop 2 pairs of branches into "A" shapes
-   - Position 6-8 ft apart
-   - Height: 3-4 ft at peak
-
-2. **Install ridge pole**
-   - Rest ridge pole in the V of both A-frames
-   - Secure with lashings if you have cordage
-   - Should be very stable
-
-3. **Add ribs on both sides**
-   - Lean branches from ground to ridge pole on both sides
-   - Creates triangular cross-section
-   - Space 12-18" apart
-
-4. **Cover completely**
-   - If using tarp: Drape over ridge, stake corners, create rain runoff
-   - If using debris: 2-3 ft thick layers on all sides
-   - Leave small entrance at one end
-
-5. **Seal ends**
-   - Front end: Small entrance, create plug
-   - Back end: Fully sealed with debris or tarp
-
-6. **Interior setup**
-   - Ground insulation: 12" of debris
-   - Gear storage area at back
-   - Sleeping area near entrance (easier to regulate ventilation)
+**Frostbite only:** do not rub or massage the skin or use a heating pad [2][3]. Full protocol and frostbite rewarming: [`06_first_aid.md`](06_first_aid.md#cold-hypothermia-and-frostbite).
 
 ---
 
-### 4. Snow Shelters (Winter Survival)
+## Tarp or poncho shelter
 
-**CRITICAL**: Snow shelters require knowledge and practice. Mistakes can be fatal (burial, suffocation, CO2 buildup). Practice in safe conditions first.
+The fastest roof. From the Army manual [1], a poncho lean-to needs a poncho, 7 to 10 ft of rope, three stakes about 1 ft long, and two trees or poles 7 to 10 ft apart.
 
-#### Snow Cave (Best Winter Shelter)
+1. Put the back of the lean-to into the wind.
+2. Tie a rope to each top corner and to the trees about waist high.
+3. Stake the bottom edge. Sharpened sticks 1 inch thick and 12 inches long, driven in at about 45 degrees, work. On frozen or rocky ground, tie to a heavy branch or rock.
+4. Tie a drip stick (about 4 inches long) to each rope so rain does not run down it into the shelter.
+5. Block the sides with brush or a pack. Put leaves or boughs on the floor.
 
-**When to use**: Deep snow (5+ ft), sub-freezing temps, overnight+ stay
+**Pitch.** The Army says that porous material (a parachute, for example) will not shed water unless it is stretched tightly at a steep enough angle. It recommends 40 to 60 degrees, wrinkle-free and tight, and says not to touch the material while water runs over it, because that lets water drip through [1]. That angle is for porous cloth. For a waterproof tarp, keep it tight and sloped so water runs off instead of pooling (general practice).
 
-**Difficulty**: Moderate-Hard | **Time**: 3-5 hours | **Capacity**: 1-2 people
-
-**Step-by-Step Construction**
-
-1. **Find appropriate snowbank**
-   - Minimum 5-6 ft deep, consolidated snow (not powder)
-   - Test with stick to confirm depth
-   - Avoid avalanche terrain
-
-2. **Dig entrance tunnel**
-   - Start on downwind side
-   - Dig horizontal tunnel 3-4 ft into bank
-   - Entrance should be lower than sleeping platform (cold air sinks)
-
-3. **Excavate sleeping chamber**
-   - From end of tunnel, dig upward and outward
-   - Create dome-shaped ceiling (prevents drips, stronger)
-   - Sleeping platform should be 1-2 ft higher than entrance
-
-4. **Critical safety features**
-   - **Ventilation hole**: Punch ski pole/stick through ceiling (fist-sized hole)
-   - Check hole every few hours - can get blocked by snow
-   - **Smooth ceiling**: Rough = drips on you
-   - **Mark entrance**: From outside with branch/gear
-
-5. **Interior setup**
-   - Pack sleeping platform smooth and flat
-   - Insulation beneath you (pad, branches, anything)
-   - Small shelf carved in wall for candle/light
-
-**Safety warnings**:
-- ⚠️ ALWAYS maintain ventilation hole
-- ⚠️ Never seal entrance completely
-- ⚠️ Tell someone your location
-- ⚠️ Keep digging tool inside with you
-- ⚠️ Interior temp should stay around 32°F (feels warm compared to outside)
-
-#### Quinzhee (Snow Pile Shelter - No Snowbank Needed)
-
-**When to use**: Open terrain, no snowbanks, deep powder snow
-
-**Difficulty**: Hard (very labor-intensive) | **Time**: 4-6 hours | **Capacity**: 1-2 people
-
-**Step-by-Step Construction**
-
-1. **Pile snow**
-   - Create mound 8-10 ft diameter, 6+ ft high
-   - Pile loosely - don't pack yet
-   - Let consolidate for 1-2 hours (critical - don't skip)
-
-2. **Insert depth markers**
-   - Push 12" sticks into pile from outside, all around
-   - These tell you when to stop digging (prevents breakthrough)
-
-3. **Dig it out**
-   - After snow consolidates, dig entrance tunnel
-   - Hollow out interior until you hit stick ends
-   - Create dome ceiling
-
-4. **Same safety features as snow cave**
-
-**Energy warning**: Quinzhee building is exhausting. Only attempt if you have calories to burn.
+**What goes wrong:** slack cover; the open side to the wind; a tarp near a fire (plastic and nylon melt and burn); bare ground under a good roof; burning anything inside (see [the carbon monoxide rule](#the-carbon-monoxide-rule-for-shelters)).
 
 ---
 
-## Urban/Home Shelter (Power Outages, Winter Storms)
+## Lean-to from natural materials
 
-**Context**: Power out, no heat, temperatures dropping. Most likely survival scenario for many people.
+Slower than a tarp. Army manual [1]: two trees about 7 ft apart, a 7 ft pole 1 inch thick tied between them at waist to chest height, and five to eight 10 ft poles leaned against it with the back to the wind. Crisscross saplings or vines across them. Cover with brush, leaves or grass, bottom to top like shingles. Add bedding.
 
-### The "Room Within a Room" Method
-
-**Concept**: Heat one small space instead of entire house
-
-1. **Choose smallest room** - Bathroom, closet, interior bedroom (no windows ideal)
-
-2. **Seal it off**
-   - Hang blankets over doorway
-   - Towels under door gap
-   - Cover windows with blankets + cardboard (insulation + block drafts)
-   - Tape gaps if you have it
-
-3. **Create the shelter layer**
-   - Build tent inside the room using blankets/sheets over furniture
-   - Creates second insulation layer
-   - Sleep inside this tent
-
-4. **Ground insulation**
-   - Layer blankets, sleeping bags, coats on floor
-   - Mattress is good, but ground padding matters more
-   - Cardboard, yoga mats, anything to stop conduction
-
-5. **Body heat management**
-   - Multiple people = more warmth (all sleep in same space)
-   - Dress in layers but not so much you sweat
-   - Swap wet clothes for dry immediately
-
-6. **Heat sources (BE CAREFUL)**
-   - ✅ Body heat (safest)
-   - ✅ Hot water bottles (boil water on camp stove, fill bottles)
-   - ⚠️ Candles (1-2 tea candles add warmth, MONITOR ALWAYS)
-   - ❌ Never use propane heater indoors without ventilation (CO poisoning)
-   - ❌ Never use charcoal indoors (CO death sentence)
-   - ❌ Never leave candles unattended
-
-### Vehicle Shelter (Stranded in Car)
-
-**If stuck in car during winter storm:**
-
-1. **Stay with vehicle** - More visible than you are on foot
-2. **Run engine sparingly** - 10 min/hour max, keep exhaust clear of snow
-3. **Crack window** - Carbon monoxide prevention
-4. **Create insulation** - Floor mats, cardboard from trunk, seats as barriers
-5. **Move around** - Prevents frostbite, generates heat
-6. **Stay visible** - Tie bright cloth to antenna, dome light on at night
+It is open on one side and holds less heat than a debris hut (general practice). Keep any fire at least 15 ft from tents and shelters ([`03_fire.md`](03_fire.md)).
 
 ---
 
-## Emergency Shelter Materials Guide
+## Debris hut
 
-### Natural Materials (Wilderness)
+The Army manual calls it one of the best shelters for warmth and ease of construction [1]. It is a low tunnel under a very thick pile of insulation. It takes hours and a lot of material; natural shelters usually take the most time and energy [1].
 
-**Insulation (in order of effectiveness)**
-1. **Dead leaves** - Excellent, usually abundant
-2. **Pine needles** - Very good, doesn't compress as much
-3. **Grass/hay** - Good when dry, compresses easily
-4. **Bark** - Excellent for waterproofing layers
-5. **Moss** - Good insulation, can be damp
-6. **Cattail fluff** - Excellent but labor-intensive to gather
+1. **Frame.** Rest a long ridgepole (the pole running the length of the shelter) on a tripod of two short stakes, or tie it to a tree at about waist height [1]. A bit longer than your body (general practice).
+2. **Ribs.** Prop large sticks along both sides, wide enough for your body and steep enough to shed water [1].
+3. **Lattice.** Lay finer sticks and brush crosswise so debris cannot fall through [1].
+4. **Debris.** Pile light, dry, soft material until it is at least 3 feet thick. Thicker is better. Work bottom to top like shingles. You should not be able to see through it from inside [1].
+5. **Floor.** A 2-foot layer of insulation inside [1].
+6. **Door.** A pile of insulation you can drag in behind you [1].
+7. **Hold it down.** Lay branches over the debris so wind does not blow it off [1].
 
-**Structural**
-1. **Dead standing branches** - Ideal (dry, strong)
-2. **Fallen branches** - Check for rot
-3. **Bamboo** - Excellent if available
-4. **Saplings** - Use sparingly (live trees = resource depletion)
-
-### Modern Materials (Urban/Vehicle)
-
-**Insulation**
-- Newspaper (crumpled - 2" layer = decent insulation)
-- Cardboard (corrugated is best)
-- Styrofoam/packing materials
-- Clothing (even if not wearing it)
-- Car seat foam
-
-**Barriers**
-- Trash bags (waterproof layer)
-- Tarp (if you have it)
-- Emergency blanket (more for wind than warmth)
-- Plastic sheeting
+**What goes wrong:** debris too thin (if you can see the frame, add more); too big; wet debris; no floor layer or door; a weak frame that cannot carry rain or snow [1]; building under a dead tree or in a drainage; burning anything inside.
 
 ---
 
-## Shelter Building Tips & Tricks
+## Snow shelter
 
-### Time Management
-- Don't wait until dark to start - you'll fail
-- Start building 2-3 hours before dark
-- Better to have "good enough" shelter in daylight than perfect shelter built in dark
+A last choice. It needs a digging tool, daylight, strength and the right snow. Mistakes can bury you, drop a roof on you, or poison you. In winter backcountry, carry a shovel and an emergency bivy sack (a waterproof sleeping bag cover) so you are not forced to dig [19][21].
 
-### Energy Conservation
-- Build smallest shelter that works
-- Use natural features (rock overhangs, fallen trees, downed logs)
-- Don't reinvent the wheel - natural shelter + improvements often best
+**Where not to dig.** Not in avalanche terrain [19][20]. Not in or around a tree well, the hollow of loose snow around a trunk. People who fall in can be trapped upside down and suffocate, and most could not rescue themselves in tests [22]. The Army manual describes a tree-pit shelter [1]; this guide does not teach it because of this hazard (this guide's judgment).
 
-### Testing Your Shelter
-- Lie down in it before committing
-- Check for drafts, water drainage, overhead hazards
-- Better to rebuild now than freeze tonight
+**Snow cave, from the Army manual [1].**
 
-### The "Good Enough" Principle
-- Perfect shelter takes 6 hours
-- Good enough shelter takes 2 hours
-- 2 hours of adequate shelter + 4 hours gathering firewood/water = better survival
-- Don't let perfect be the enemy of warm and alive
+1. Find a drift about 10 ft (3 m) deep to dig into.
+2. Hollow a chamber with an arched roof. Arching is stronger and sheds melt down the walls.
+3. Make the sleeping platform higher than the entrance, separated from the walls or with a trench between, so melt does not wet you. The roof should let you sit up.
+4. Keep walls and ceiling at least 1 ft (30 cm) thick.
+5. Block the entrance with a snow block.
+6. Put a ventilation shaft through the roof.
+
+No drift: pile snow into a mound big enough to dig out [1]. Let it settle first (general practice).
+
+**Keep it breathable and findable.** Keep the vent open and check it often, because in snowy, windy weather you may have to go out and dig out the vents [19]. Mark the entrance with something bright [19]. Keep your shovel inside (general practice). When you leave, collapse the shelter so no hidden pit remains [19].
+
+**What goes wrong:** you sweat while digging and get wet (the manual warns you will) [1], so dig slowly and strip layers; a blocked vent; a rough or flat ceiling that drips or collapses; building where snow slides; burning something inside.
 
 ---
 
-## Shelter Priority Checklist
+## The carbon monoxide rule for shelters
 
-Before sleeping, verify:
-- [ ] Ground insulation in place (can't feel cold through material)
-- [ ] No drafts at entrance/sides
-- [ ] Overhead cover is waterproof (or won't matter if it rains)
-- [ ] No widow-makers overhead
-- [ ] Entrance can be sealed
-- [ ] You can exit quickly if needed (animals, flooding, fire)
-- [ ] Visible to rescuers if rescue is likely
+Full rule: [`03_fire.md`](03_fire.md#fire-indoors-in-tents-and-in-vehicles-the-carbon-monoxide-rule) and [`09_urban_survival.md`](09_urban_survival.md#carbon-monoxide-and-fire-heat-light-and-cook-without-hurting-anyone). For shelters:
 
----
-
-## Key Takeaways
-
-1. **Location matters more than construction** - 15 min scouting > 3 hours in bad spot
-2. **Ground insulation is non-negotiable** - More heat loss below than above
-3. **Smaller = warmer** - Build just big enough
-4. **Layer debris thicker than you think** - If you can see frame, add more
-5. **Test before dark** - Lie down, check for drafts and cold spots
-
-**Remember**: The best shelter is the one that keeps you alive tonight. Don't overthink it - build it, test it, improve it.
+- **Burn nothing inside a tent, vehicle, tarp shelter, debris hut or snow shelter.** No camp stove, lantern, charcoal grill, heater, candle, fuel gel or oil lamp [24][1]. In a house, the one exception is a stove or fireplace built to vent and kept in working order (see [`03_fire.md`](03_fire.md)).
+- **A vent or open flap is not a fix.** In Georgia in 1999, six people died in two zipped tents. One had a propane stove inside, the other a charcoal grill brought in for warmth [24]. Opening flaps, doors or windows does not prevent dangerous CO buildup [24].
+- **Sleepers die before symptoms.** Symptoms are headache, dizziness, weakness, upset stomach, vomiting, chest pain and confusion, but sleeping or intoxicated people can die before they appear [23].
+- **Sources disagree on snow shelters.** The Army manual says candles, fuel gel and oil lamps make CO, tells you to keep vent holes open if you use heat sources, and puts cooking in a snow cave's lower entrance [1]. Mount Rainier National Park says to ventilate while cooking in a shelter [19]. The CDC says opening up does not prevent CO buildup [24]. This guide follows the safer rule: cook and heat outdoors, and treat a snow-shelter vent as for breathing only.
+- **Dress and bed for the cold instead.** The CDC recommends bedding, clothing, extra food and fluids over fuel-burning heat [24].
 
 ---
 
-**Further Reading**: See [10_key_resources.md](10_key_resources.md) for detailed external guides and video tutorials.
+## Vehicle as shelter
+
+A car is a windproof, waterproof room that rescuers can see. Stay in it [3][4]. Before winter, keep the tank full and carry blankets, warm clothes, water, snacks and a flashlight [3].
+
+1. **Be seen.** Tie a bright cloth, preferably red, to the antenna or door. Use the dome light at night while the engine runs. After the snow stops, raise the hood [4][5].
+2. **Heat in short runs.** Run the engine about 10 minutes each hour [4][5].
+3. **Keep the exhaust pipe clear of snow** whenever the engine runs [4]. Check it before each start: a blocked tailpipe lets CO build up quickly inside and poison everyone in the vehicle [6].
+4. **Crack a window slightly** while the engine runs [4]. A cracked window and a clear pipe lower the risk. They do not remove it (this guide's judgment).
+5. **Never sleep with the engine running** (this guide's rule). Sleepers can die from CO before they feel anything [23]. Set a phone alarm and shut the engine off before anyone dozes. If drifting snow keeps covering the pipe and you cannot clear it, leave the engine off (this guide's judgment).
+6. **Burn nothing in the car** [24].
+7. **Stay warm between runs.** Move arms, legs, fingers and toes now and then [5]. Eat and drink; avoid sweating from effort (general practice). Use seat cushions and spare clothing as insulation [1].
+8. **Do not leave the vehicle.** You will become disoriented quickly in wind-driven snow and cold [4][5].
+
+**In the heat:** never stay in a closed parked car, and never leave a child, a person who cannot get out, or a pet in one [11][25]. Children can die in a hot car within 10 minutes [25].
+
+**In lightning:** a car with a metal roof and closed windows is a shelter [8].
+
+**What goes wrong:** running the engine all night; a tailpipe buried by drifting snow; walking out in a whiteout (snow so thick you cannot see); a stove inside "just for a bit".
+
+---
+
+## Be found from the shelter
+
+Stay near the shelter and make it easy to spot. Blow a whistle often instead of shouting. Flash a mirror at aircraft, and flash a flashlight in the SOS pattern (three quick, three slow, three quick) while saving batteries. Lay out shelter materials or rocks in a shape visible from above [17]. Any signal done three times in a series is a universal distress call [18]. No fire in high fire risk or wildland fire season [17]; see [`03_fire.md`](03_fire.md).
+
+---
+
+## Heat: shade and airflow
+
+Extreme heat means above 90 F for two to three days [11]. A heat shelter is shade plus air.
+
+- **Timing and clothing.** Avoid the hottest part of the day, usually 1 to 5 PM. Rest in shade, slow down, drink plenty of water [9] (see [`02_water.md`](02_water.md)). Wear lightweight, loose, light-colored clothes [9][11].
+- **Airflow.** Pitch a tarp high with the sides open (general practice). The Army manual says to use wind for cooling [1].
+- **Not a fan.** A fan does not reduce body temperature [11]. At a heat index (how hot it feels with humidity) above the high 90s, a fan can make you hotter [13].
+- **Desert shelter [1].** Build in the cooler part of the day. A roof with a 12 to 18 inch air gap between two layers can lower the temperature underneath by 20 to 40 F. Digging 18 inches below the surface, or raising the bed off hot ground, can lower it by up to 40 F. Light color outside, dark inside.
+- **Storms.** Thunderstorms typically build in the afternoon [9].
+
+**Heat exhaustion:** headache, nausea, dizziness, weakness, thirst, heavy sweating [12], cool pale clammy skin, fast weak pulse, cramps, fainting [13]. Move to a cooler place, loosen clothing, use cool wet cloths, sip water. Get medical care if they vomit, get worse, or last more than 1 hour [13].
+
+**Heat stroke:** confusion, slurred speech, fainting, hot skin (dry or damp), a fast strong pulse, or a body temperature above 103 F [13]. Call 911 [11][13]. Move the person to shade, remove outer clothing, and cool fast with cold water, wet cloths or ice on the head, neck, armpits and groin [11][12]. Do not give fluids [13]. Body temperature can reach 106 F within 10 to 15 minutes [12].
+
+---
+
+## At home, no heat
+
+Do not build a hut indoors. Shrink the space, layer up, and keep burning outside. Follow [`09_urban_survival.md`](09_urban_survival.md#warm-or-cool). Never heat a home with a gas stovetop or oven [3], and never run a generator inside [23].
+
+---
+
+## Worked scenario A: lost day-hiker at dusk in cold rain
+
+You went out in jeans and a rain shell. It is cold, wet and dim. You are off the trail. Your phone has 25 percent battery and no bars.
+
+1. **Stop. Stay put** [16]. If the phone finds any signal, call 911 and give your coordinates, trail and last known location [17]. Switch it off between tries (general practice).
+2. **Scan the site.** Look up for dead trees and broken limbs [15]. Stay out of dry stream channels and off stream banks [9]. Avoid lone trees. Pick flat ground a little above the valley bottom, out of any channel or dry wash, near a fallen log, rock or thick brush on the downwind side [1].
+3. **Insulation first.** Make a bed at least 12 inches thick from ferns, boughs, leaves or grass before the roof [1].
+4. **Roof.** With a poncho, tarp or trash bag, rig a lean-to with the back to the wind [1]. Without, build a small debris hut with at least 3 feet of debris and a door [1].
+5. **If light or energy runs out before the roof is done, stop building.** Keep the bed, put on every dry layer, and put a waterproof layer over you (poncho, tarp or trash bag, if you have one), back to the wind. Stay put. Do not sweat for a finished roof (general practice).
+6. **Wet jeans.** Wet cotton loses most of its insulation [1]. In a warm, sheltered place, change into anything dry. Until then, add dry layers and the rain shell over the jeans.
+7. **Do not sweat.** Strip layers while you build, put them on before you stop [1]. Eat and drink what you have [24].
+8. **Signal** (see [be found](#be-found-from-the-shelter)).
+9. **Overnight.** Watch for hypothermia signs [2]. Add bedding as it compresses [1]. If anyone is confused, drowsy or fumbling, treat it as an emergency: get help if you can reach it; dry, insulate, warm the chest, neck, head and groin [2].
+10. **Morning.** Stay near the shelter and signal. Move only for an immediate threat [17].
+
+**What went wrong:** cotton, no whistle, and no one knew the route. Tell someone your plan before you go [18].
+
+---
+
+## Worked scenario B: car stuck in a snowstorm overnight
+
+Three of you are stuck in a drift on a back road at dusk. Snow is falling, the tank is three-quarters full, and you have a thin blanket and your coats. There is one bar of signal.
+
+1. **Stay in the car** [3][4]. Call 911 with your location while you have signal.
+2. **Clear the tailpipe** first, then tie a bright cloth to the antenna [6][4][5].
+3. **Plan the engine.** About 10 minutes each hour, window cracked, pipe checked each time [4][5][6]. Set a phone alarm.
+4. **Between runs, insulate.** Seat cushions and extra clothing between you and cold metal and glass [1]. Coats on, blanket over the two coldest people (general practice). Move arms and legs now and then [5]. Eat and drink (general practice).
+5. **Nobody sleeps while the engine runs.** Shut it off before anyone dozes (this guide's rule) [23].
+6. **At night and when the snow stops:** dome light on while the engine runs; then raise the hood and check the tailpipe again [4].
+7. **Headache, dizziness or nausea:** open the doors, get everyone into fresh air, call 911 [23] (this guide's rule).
+8. **Do not walk out.** Wind-driven snow disorients people quickly [4].
+
+**What goes wrong:** running the engine all night with a drift behind the car.
+
+---
+
+## Common mistakes
+
+- **Building before checking the site.** See [check the site](#check-the-site-before-you-build).
+- **Skipping ground insulation.** See [stop heat loss](#stop-heat-loss-ground-wet-and-wind).
+- **Burning anything in a tent, car or snow shelter.** See [the carbon monoxide rule](#the-carbon-monoxide-rule-for-shelters).
+- **Sweating, or wet cotton** [1].
+- **Leaving the car, or leaving the spot where searchers expect you** [4][16].
+- **Hiding.** See [be found](#be-found-from-the-shelter).
+- **Standing under a lone tree in lightning** [9][18].
+- **A fan as the only cooling in extreme heat** [11].
+
+---
+
+## Quick-reference card (print on one page)
+
+- **Cold kills first.** Hypothermia can start above 40 F when you are wet.
+- **Call 911 if you suspect hypothermia: right away if someone is confused or drowsy; also for slurring, fumbling, or a body temperature below 95 F.**
+- **Too cold:** get out of wind and rain. Body heat and dry blankets first. Wet clothes come off only once you are somewhere warm and sheltered.
+- **Warm, sweet drink only if the person is alert, shivering and can swallow.** Otherwise nothing by mouth.
+- **Lost?** Stop and stay put. Leave only for an immediate threat.
+- **Be found:** if your phone has any signal, call 911 and give your coordinates, trail or area name and last known location. Then stay put. Blow a whistle often instead of shouting. Any signal done three times in a series is a universal distress call [18].
+- **Headache, dizziness or nausea near a stove, heater, generator, grill or running vehicle:** get everyone into fresh air now, then call 911.
+- **Never burn anything in a tent, car, tarp shelter, debris hut or snow shelter.** A vent does not make it acceptable.
+- **In a car?** Stay in it. Run the engine about 10 minutes each hour with the exhaust pipe clear of snow and a window cracked.
+- **Never sleep with the car engine running.**
+- **Ground bed:** at least 12 inches thick. It compresses.
+- **Debris hut:** at least 3 feet of debris on top, a 2-foot layer inside, a door.
+- **Tarp pitch:** porous cloth (a parachute) needs 40 to 60 degrees, tight, no wrinkles. A waterproof tarp: tight and sloped so water runs off.
+- **Poncho lean-to:** two trees 7 to 10 ft apart, back to the wind.
+- **Fire:** at least 15 ft from tents and shelters.
+- **Snow cave:** a drift about 10 ft deep, walls and ceiling at least 1 ft thick, arched roof, sleeping platform higher than the entrance, a vent shaft.
+- **Snow cave site:** not on or below slopes of 30 to 50 degrees (the ground a slide runs into counts), and not in a tree well.
+- **Lightning:** only a full building (with plumbing and electricity) or a metal-topped vehicle with the windows up counts. A tent does not. Wait 30 minutes after the last thunder.
+- **Flash flood:** higher ground at the first rise. Six inches of fast-moving water can knock you off your feet.
+- **Wet is the enemy.** Wet clothing can pull heat away up to 25 times faster. Wet cotton loses about 90 percent of its insulation (Army figures).
+- **Heat:** avoid 1 to 5 PM. Use shade with open sides. A roof air gap of 12 to 18 inches can lower the temperature underneath by 20 to 40 F.
+- **Heat stroke:** confusion, slurred speech, fainting, hot skin, a fast strong pulse, or a body temperature above 103 F. Call 911.
+- **Heat exhaustion lasting more than 1 hour** needs medical care.
+
+---
+
+## Sources
+
+All pages opened 2026-10-21.
+
+1. ATP 3-50.21 Survival (2018), Chapter 6 "Shelter and Clothing" and Chapter 7. US Army. https://archive.org/details/survival-atp-3-50-21
+2. Preventing Hypothermia. CDC. https://www.cdc.gov/winter-weather/prevention/index.html
+3. Winter Weather. Ready.gov / FEMA. https://www.ready.gov/winter-weather
+4. Winter Storms: During. National Weather Service. https://www.weather.gov/safety/winter-during
+5. Winter Weather Safety (Amarillo). National Weather Service. https://www.weather.gov/ama/winterwxsafety
+6. Clear Snow from Tailpipes. CDC. https://www.cdc.gov/natural-disasters/psa-toolkit/clear-snow-from-tailpipes.html
+7. Lightning Safety Outdoors. National Weather Service. https://www.weather.gov/safety/lightning-outdoors
+8. Lightning Safety Indoors. National Weather Service. https://www.weather.gov/safety/lightning-indoors
+9. Camping Safety Tips (brochure). National Weather Service, Blacksburg. https://www.weather.gov/media/rnk/outdoors/Camping%20Safety%20Tips.pdf
+10. Flood Safety: During a Flood. National Weather Service. https://www.weather.gov/safety/flood-during
+11. Extreme Heat. Ready.gov / FEMA. https://www.ready.gov/heat
+12. Heat-related Illnesses. CDC / NIOSH. https://www.cdc.gov/niosh/heat-stress/about/illnesses.html
+13. Heat Illness. National Weather Service. https://www.weather.gov/safety/heat-illness
+14. Accidental Hypothermia: Guidelines from the Wilderness Medical Society (summary). American Family Physician. https://www.aafp.org/pubs/afp/issues/2020/1101/p571.html
+15. Hazard Trees. USDA Forest Service. https://www.fs.usda.gov/visit/know-before-you-go/hazard-trees
+16. If You Get Lost. USDA Forest Service. https://www.fs.usda.gov/visit/know-before-you-go/if-you-get-lost
+17. Outdoor Emergency Plan. National Park Service. https://www.nps.gov/articles/gtgemergencyplan.htm
+18. Wilderness Safety, Yosemite National Park. National Park Service. https://www.nps.gov/yose/planyourvisit/wilderness_safety.htm
+19. Winter Safety, Mount Rainier National Park. National Park Service. https://www.nps.gov/mora/planyourvisit/winter-safety.htm
+20. Slope Angle. Avalanche.org. https://avalanche.org/avalanche-encyclopedia/terrain/slope-angle/
+21. Emergency Shelter. Avalanche.org. https://avalanche.org/avalanche-encyclopedia/gear/emergency-shelter/
+22. What Is a Snow Immersion Suffocation. Deep Snow Safety (specialist non-profit, used only for tree wells). https://deepsnowsafety.org/what-is-a-snow-immersion-suffocation/
+23. Carbon Monoxide Poisoning (About). CDC. https://www.cdc.gov/carbon-monoxide/about/index.html
+24. Carbon Monoxide Poisoning Deaths Associated with Camping, Georgia, March 1999. CDC MMWR. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4832a1.htm
+25. Heat Safety. National Weather Service. https://www.weather.gov/safety/heat
+26. Hypothermia. NIH MedlinePlus. https://medlineplus.gov/ency/article/000038.htm
 
 ---
 
@@ -454,3 +348,7 @@ For an AI reasoning offline, the structured layer for this domain is
 [`substrate/04_shelter/_index.md`](substrate/04_shelter/_index.md) — METHOD entries (site selection
 & hazards, ground/insulation barrier, shelter types) with a load order and manifest. Start at
 [`AGENTS.md`](AGENTS.md) for retrieval recipes.
+
+- [`substrate/04_shelter/entries/emergency-shelter-types.md`](substrate/04_shelter/entries/emergency-shelter-types.md)
+- [`substrate/04_shelter/entries/insulation-and-ground-barrier.md`](substrate/04_shelter/entries/insulation-and-ground-barrier.md)
+- [`substrate/04_shelter/entries/site-selection-and-hazards.md`](substrate/04_shelter/entries/site-selection-and-hazards.md)

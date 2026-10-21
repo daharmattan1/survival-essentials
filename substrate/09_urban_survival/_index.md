@@ -2,10 +2,10 @@
 
 > Universal technique: surviving the *most likely* real scenario — a disruption where you shelter in
 > place (power outage, storm, civil disruption) rather than head to the wilderness. Mixed METHOD /
-> PROTOCOL. Includes the **sanitation / human-waste** entry, because in a prolonged urban outage,
-> fecal-borne disease is a leading and underestimated killer.
+> PROTOCOL. Includes the **sanitation / human-waste** entry, because when plumbing fails, waste can
+> reach hands, food and water and spread stomach illness.
 >
-> Survey doorway: [`../../09_urban_survival.md`](../../09_urban_survival.md). Retrieval recipe D/E in
+> Survey doorway: [`../../09_urban_survival.md`](../../09_urban_survival.md). Retrieval recipe D in
 > [`../../AGENTS.md`](../../AGENTS.md).
 
 ---
@@ -13,38 +13,55 @@
 ## Synthesis
 
 For most people the realistic emergency is **urban and indoors**: the grid drops, water pressure
-fails, stores empty, and the safest move is usually to **bug in** with what you have. Three problems
-dominate. **Power-outage bug-in**: heat/cold without HVAC, food safety as the fridge warms, lighting,
-and the silent killer — carbon monoxide from generators/grills run indoors. **Civil-disruption
-safety**: situational awareness, avoidance over confrontation, securing the home, movement decisions.
-And the one people forget until it is a crisis — **sanitation and human-waste**: once plumbing fails,
-improper waste handling spreads dysentery and hepatitis fast; the fixes (contain, separate from water
-and food, a twin-bucket system, disinfection) are simple but must be set up early. This is a
-disease-vector problem as much as a comfort problem.
+fails, stores empty, and staying home is the usual plan, unless officials order evacuation or the home
+becomes hazardous (CO alarm, gas smell, cannot stay warm or cool, a medical device cannot run). Several
+problems dominate. **Power-outage bug-in** is the overview: heat/cold without HVAC, lighting, water,
+and the silent killer, carbon monoxide. **Generator and heater CO prevention** goes deeper: nothing
+burns inside a home except a vented fireplace or stove in working order, no gas oven or stove for heat,
+generators outdoors at least 20 ft from windows, doors and vents, and CO alarms first. **Food safety
+during outages** is clocks and thermometers: you cannot tell spoiled food by looking or smelling, and
+tasting it is the test agencies rule out. **Extreme heat at home** and **winter storm at home** cover
+the two ways a house without power turns dangerous (heat stroke and hypothermia), and the cold-house
+mistake of burning something inside to get warm. **Civil-disruption safety**: follow officials' alerts,
+shelter in place or evacuate as they direct, know more than one way out. And the one people forget until
+it is a crisis — **sanitation and human-waste**: improper waste handling spreads stomach illness
+(diarrhea and vomiting) through hands, food and water; the fixes (a lined bucket or bag toilet with an
+absorbent, stored away from water, food and children, plus handwashing with soap) are simple but must be
+set up early. This is a disease-vector problem as much as a comfort problem.
 
 ## Load order (this domain)
 
 ```
-Grid down at home?         → power-outage-bug-in (heat/cold, food safety, lighting; ⚠ CO = never burn fuel indoors)
-Unrest / threat outside?   → civil-disruption-safety (awareness, avoid > confront, secure & decide to move)
-Plumbing failed (>24-48h)? → sanitation-and-human-waste (contain waste, separate from water/food; disease vector)
+Grid down at home?         → power-outage-bug-in (heat/cold, lighting, water; the overview)
+  ⚠ CO: nothing burns inside a home except a vented fireplace or stove in working order; no gas oven or stove for heat; generators outdoors, at least 20 ft from windows, doors and vents → generator-and-heater-co-prevention
+  Cooking with no power?   → ../05_food/entries/cooking-without-power.md (grill, camp stove and charcoal outdoors only; a gas range is for cooking only, never for heat)
+  Fridge or freezer warming, or flooded? → food-safety-during-outages (clocks and thermometers, not looks or smell)
+  Hot house, no AC?        → extreme-heat-at-home (heat stroke: call 911, cool the person, give nothing by mouth)
+  Cold house, no heat?     → winter-storm-at-home (hypothermia and CO are the two killers; call 911 for any suspected hypothermia, right away for sleepiness or confusion)
+Unrest / threat outside?   → civil-disruption-safety (follow officials, shelter in place or evacuate when told, plan two exits)
+Toilets will not flush, or plumbing may fail soon? → sanitation-and-human-waste (set up the bucket toilet and handwashing on day one)
 Set up sanitation EARLY — it's a disease problem, not a comfort problem.
 ```
 
-## Manifest (planned entries)
+## Manifest
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 4 | reviewed |
-| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T2 | 4 | reviewed |
-| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | reviewed |
+| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 16 | agent-verified |
+| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T1 | 8 | agent-verified |
+| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | agent-verified |
+| generator-and-heater-co-prevention | entries/generator-and-heater-co-prevention.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 13 | agent-verified |
+| food-safety-during-outages | entries/food-safety-during-outages.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 11 | agent-verified |
+| extreme-heat-at-home | entries/extreme-heat-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 12 | agent-verified |
+| winter-storm-at-home | entries/winter-storm-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 17 | agent-verified |
 
-`power-outage-bug-in` (`high`) carries the carbon-monoxide warning; `sanitation-and-human-waste`
-(`high`) is a disease-vector protocol citing CDC (T1).
+`power-outage-bug-in` (`high`) carries the carbon-monoxide warning, and `generator-and-heater-co-prevention`
+(`lethal`) goes deeper; `extreme-heat-at-home` and `winter-storm-at-home` are `lethal`;
+`sanitation-and-human-waste` (`high`) is a disease-vector protocol citing CDC (T1).
 
 ## `check_manifests`
 
-- [ ] Every row maps to an existing file in `entries/` (none yet — Phase 2 writes no entries).
+- [x] Every row maps to an existing file in `entries/`.
 - [ ] Every entry file has a row (no orphans).
 - [ ] Required columns filled.
 - [ ] `power-outage-bug-in` carries the ⚠ carbon-monoxide warning; `sanitation-and-human-waste`

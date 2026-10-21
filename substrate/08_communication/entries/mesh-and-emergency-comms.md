@@ -6,123 +6,110 @@ domain:                substrate/08_communication
 region_scope:          universal
 usda_zone:             n/a
 confidence:            medium
-source_tier:           T3
+source_tier:           T1
 sources:
-  - title: "Meshtastic Documentation"
-    publisher: "Meshtastic project (open-source community)"
-    url: "https://meshtastic.org"
+  - title: "Family Communication Plan (Ready Campaign brochure; copy hosted by NJ Office of Emergency Management)"
+    publisher: "FEMA / Ready.gov"
+    url: "https://www.nj.gov/njoem/plan-prepare/pdf/FEMA_family_communication_plan.pdf"
+    tier: T1
+  - title: "Make a Plan"
+    publisher: "FEMA / Ready.gov"
+    url: "https://www.ready.gov/plan"
+    tier: T1
+  - title: "Emergency Communications Tips (FCC/FEMA)"
+    publisher: "Federal Communications Commission (opened via Internet Archive snapshot of 2026-10-15)"
+    url: "https://www.fcc.gov/emergency"
+    tier: T1
+  - title: "Meshtastic overview (community project documentation, not a government source)"
+    publisher: "Meshtastic project"
+    url: "https://meshtastic.org/docs/overview/"
     tier: T3
-  - title: "goTenna User Guide"
-    publisher: "goTenna Inc."
-    url: "https://www.gotenna.com"
-    tier: T3
-  - title: "LoRa Technology Overview"
-    publisher: "LoRa Alliance"
-    url: "https://www.loraalliance.org"
-    tier: T3
-  - title: "Mesh Networking for Emergency Communications"
-    publisher: "Practitioner consensus / DIY comms community"
-    url: null
-    tier: T3
-last_reviewed:        draft
-review_status:        draft
-method_for:           "establish off-grid, local communication when cell networks are unavailable"
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
+method_for:           "keep a family or small group in touch by text when cell networks are jammed or down, and plan how the family reconnects"
 materials:
-  - Meshtastic radio device (open-source LoRa, ~$50–150)
-  - goTenna Mesh (proprietary, ~$100–200 for pair)
-  - or amateur LoRa setup (experimental, requires amateur license)
-  - smartphone or device running Meshtastic/goTenna app
-  - USB charging cable or hand-crank charger
-  - mesh network pre-tested with neighbors/team before emergency
+  - paper family communication plan (out-of-area contact, meeting places, phone numbers)
+  - charged phones, spare batteries, solar or car charger
+  - optional - a small off-grid mesh radio for each person in the group, tested together beforehand
 difficulty:           moderate
 ---
 
 ## Goal & When To Use
 
-Mesh radios create a local, off-grid communication network **without cell towers or internet**. Unlike a traditional radio that broadcasts to repeaters, a mesh radio relays messages peer-to-peer, with each device re-broadcasting to extend range and redundancy. Use mesh comms when:
+The core of emergency communication is a **family plan** that works with ordinary phones. A mesh radio is an optional extra for a group that is close together. Read the plan part first.
 
-- **Cell towers are down or congested** (disaster aftermath, regional power loss).
-- **Your team is dispersed** over 1–5 miles (too far for FRS, but local enough for mesh).
-- **You need persistent, low-latency messaging** (not just voice; text is often available).
-- **You want to stay off traditional licensed frequencies** (mesh operates in license-free ISM bands like 2.4 GHz, LoRa sub-GHz).
+A mesh radio is a small device that passes short text messages from node to node by radio, with no cell tower or internet. The Meshtastic documentation calls the mesh "the set of nodes that relay each other's messages" and says it works without internet or cellular service [4].
 
-**Limitations**: mesh is slower than cell (message latency of minutes in poor topology), has lower range per device than ham radio (1–3 miles typical, up to 10+ miles if conditions align), and depends on a pre-established network of mesh devices in your area. **Pre-arrange before the emergency**: identify 3+ neighbors or team members willing to carry mesh radios; test the network; agree on check-in protocols.
+**A mesh network cannot reach 911.** It has no connection to a 911 call center or the phone network (this guide's judgment, from [4]). If someone is hurt or in danger, use a phone to call 911 (see `08_communication.md`), or leave the area to find coverage.
+
+Use mesh only when:
+- Phones are jammed or down, **and**
+- everyone you want to reach carries a compatible, charged mesh node, **and**
+- you tested the group together before the emergency.
+
+No government source gives a dependable range, battery life or price for mesh devices, so this entry gives none. Treat a mesh as a short-range extra that may or may not work on the day (this guide's judgment).
 
 ---
 
 ## Steps
 
-### Pre-Emergency Setup
+### 1. Make the family plan (before anything happens) [1][2][3]
 
-**1. Inventory Mesh Devices**
-- **Meshtastic**: open-source LoRa radio boards (Heltec, Lilygo, RAK, ~$50–150 each). Runs on AA batteries or USB. Pairs with a smartphone app (iOS/Android, free). Relies on mesh—each device passes messages onward.
-- **goTenna Mesh**: proprietary LoRa radio (~$100–200 per unit), app-based, proprietary mesh. No smartphone pairing model; a pair of goTenna Mesh units communicate directly (not dependent on a larger network).
-- **DIY amateur LoRa**: requires an amateur (ham) license; uses open LoRa bands; can inter-operate with Meshtastic but adds legal and technical complexity.
+1. **Pick one out-of-town (out-of-state) contact,** and have every family member contact the same person. It might be easier to reach someone who is out of town [1].
+2. **Choose two meeting places:** one in your neighborhood and one in your town or region [1]. Ready.gov asks for a meeting place that is familiar and easy to find [2].
+3. **Write it down.** Fill in the contact, meeting places, medical and insurance information. Keep a copy in your purse or briefcase, your car, your office and your disaster kit. Look it over every year and keep it up to date [1].
+4. **Make sure everyone can text,** including the out-of-town contact [3].
+5. **Put an "In Case of Emergency" contact in every phone,** and write down phone numbers for emergency services, utilities, medical providers and insurance [3].
 
-**2. Test Network Coverage**
-- Distribute mesh devices to 3+ team members or neighborhood contacts.
-- Test connectivity over 1–3 miles in typical terrain (through trees, over hills, in urban canyons).
-- Note dead zones: areas where the mesh degrades or fails.
-- Establish a "mesh check-in" protocol (once daily, same time, simple message) so failures are obvious pre-emergency.
+### 2. Use the phone network the right way in an emergency [1][3]
 
-**3. Agree on an Out-of-Area Contact**
-- Designate one person outside your local area (different city, different state, different country if possible).
-- This person receives status updates via traditional means (phone calls during cell recovery, email if internet returns, or direct message later).
-- The rule: your local mesh team updates the out-of-area contact at a set time (daily, if possible) with one sentence: "All safe, supplies holding" or "Need urgent help, person injured."
-- The out-of-area contact notifies authorities or family if no update arrives in 48 hours.
+- **Text, do not talk,** unless you are in danger; if you are, call 911 first. Texts may get through when calls do not, and you do not tie up lines emergency workers need [1][3]. Texts to other wireless devices may be delayed during congestion [3].
+- Keep calls short and limit non-emergency calls [3].
+- Send one short message to your out-of-town contact, for example "I'm OK. At the library." (general practice). They pass word to the rest of the family [1].
+- Call 911 only for emergencies [3].
 
-**4. Charge Devices Before Emergency**
-- Meshtastic devices: run on 2–4 AA batteries (12–48 hour life depending on message frequency) or USB power bank.
-- goTenna Mesh: rechargeable internal battery (12–48 hour life).
-- Pre-charge all devices and power banks; keep spares.
-- Hand-crank chargers (solar or mechanical) extend battery life in prolonged outages.
+### 3. If you add mesh radios (optional)
 
-### Emergency Use
+**Set up and test beforehand.**
+- Give a node to each person in the group, and keep spare batteries or a charger. Keep a solar or car charger on hand for phones and other devices [3].
+- All nodes must share the same channel name and key to read each other's messages. Radio settings (frequency, bandwidth, spreading factor) must also match [4]. Write the settings on your plan card.
+- Test the group on a normal day: send a message from one end of your usual area to the other, in the places you would really be (this guide's judgment). Note where it fails.
+- Agree on a short check-in schedule for the test, so a dead node is noticed early (this guide's judgment).
 
-**1. Activate Mesh Network**
-- Power on all team mesh devices; they automatically form a mesh on the same channel.
-- Meshtastic nodes appear as participants in the app; goTenna devices appear as contacts.
-- Initial mesh formation takes 5–30 minutes (nodes discover each other and establish links).
-
-**2. Send Status Message**
-- Compose a brief text message (mesh bandwidth is low; keep to 1–2 sentences).
-- Example: "Safe at home. Water supplies good. No injuries. Standing by."
-- Send to the "mesh" channel (everyone receives it) or to a specific person.
-- Message propagates through relays; delivery may take minutes in a sparse mesh.
-
-**3. Receive Information**
-- Team members share updates (supplies, hazard warnings, movement plans).
-- Messages stay in the app's chat history; review for coordination.
-- Avoid congestion: check for updates every 2–4 hours, not continuously.
-
-**4. Update Out-of-Area Contact**
-- If cellular or internet becomes available (even briefly), send a single summary message to your out-of-area contact.
-- Example: "Team of 4 at 123 Main St. All safe. No urgent needs. Will update in 12 hours if comms available."
-- If networks remain down, the out-of-area contact waits 48 hours, then notifies authorities.
+**In an emergency.**
+1. Power the nodes on. A mesh needs other nodes within reach of each other. Other nodes in range may relay your message even if they cannot read it [4].
+2. Send short text messages: who you are, where you are, what you need. Keep them brief (general practice).
+3. Check for replies at set times instead of constantly, to save the battery (general practice).
+4. **When any cell or internet service comes back, even briefly, send one text to your out-of-town contact.** Do not call. Wait about 10 seconds before redialing if you must call [3].
 
 ---
 
 ## Failure Modes & Fixes
 
-**Mesh won't form (nodes not finding each other).** Likely causes: devices on different channels, out of range, or power off. **Solution**: verify all devices are on the same channel and frequency; bring one device closer as a test; ensure batteries are charged; check manufacturer documentation for default settings.
+**Nodes do not see each other.** A different channel name, key or radio setting [4]; a node switched off or dead; or the nodes are too far apart or blocked by terrain or buildings (general practice). Check the settings against your plan card, then move closer and try again.
 
-**Messages delayed 10+ minutes or not arriving.** Sparse mesh topology (not enough relays) or terrain blocking signals. **Solution**: move to higher ground or an elevated location; ask a team member to position themselves halfway between sender and receiver to act as relay; reduce message frequency to avoid congestion.
+**Messages are slow or never arrive.** Not enough nodes between sender and receiver (general practice). Move to higher or more open ground, or place a group member between you.
 
-**Battery depleted rapidly.** High message frequency drains batteries faster. **Solution**: limit messages to 1–2 per hour per device; turn off devices during quiet periods (sleep, shelter); use AA-battery Meshtastic devices for easy swaps.
+**The phone app will not connect to the node.** Restart the phone and the node, and pair them again (general practice).
 
-**Meshtastic app crashes or won't connect to radio.** Bluetooth or USB connection issue. **Solution**: restart phone and radio; forget/re-pair the Bluetooth device in phone settings; check USB cable; try a different USB port.
+**Dead batteries.** Carry spare batteries or a charger. Dim the phone screen and turn off apps you do not need [3].
 
-**Forgot out-of-area contact number/email.** **Solution**: write it down now (before emergency) on paper in your kit. Memorize it or store in an offline contact list.
+**Out-of-town contact number forgotten.** It is on the paper plan in your kit and wallet [1]. Write it down now.
 
-**Out-of-area contact hasn't heard from you in 48 hours.** They may notify authorities (which is the plan—it triggers help). **Solution**: make best effort to re-establish contact once any internet/phone becomes available. A delayed update is still valuable.
+**Nobody answers, and you are worried.** A mesh failing is common and tells you little. Do not assume the worst, and do not tie up phone lines. Text your out-of-town contact when service returns [3]. This guide does not set a fixed time after which anyone should alert authorities. If you believe someone is in danger, call 911 (this guide's judgment).
 
-**Mesh device lost or damaged.** It's a backup redundancy tool, not primary. **Solution**: team members with devices continue relaying; fall back to FRS/GMRS radios if available; use the out-of-area contact plan (someone reaches them via traditional means once networks recover).
+**Mesh does not work at all.** You have the phone plan, the paper plan, the meeting places, and any FRS or CB radios (see `radio-basics-and-bands.md`).
 
 ---
 
 ## Sources
 
-- **Meshtastic Documentation.** Open-source LoRa mesh radio project; covers hardware setup, app configuration, and range testing. Maintained by a volunteer community; start at https://meshtastic.org.
-- **goTenna Mesh User Guide.** Proprietary LoRa mesh; official setup and troubleshooting.
-- **LoRa Alliance Technology Overview.** Background on LoRa (long-range, low-power radio technology) and ecosystem.
-- **Practitioner Consensus / DIY Emergency Comms Community.** Mesh radios are relatively new for civilian emergencies; recommendations come from people actively testing them in field conditions (forums, Reddit r/Meshtastic, emergency comms communities). T3 source—useful for field knowledge but not regulatory or medical authority.
+All pages opened 2026-10-21.
+
+1. Family Communication Plan (Ready Campaign brochure). FEMA / Ready.gov; copy hosted by NJ Office of Emergency Management. https://www.nj.gov/njoem/plan-prepare/pdf/FEMA_family_communication_plan.pdf
+2. Make a Plan. FEMA / Ready.gov. https://www.ready.gov/plan (meeting place and reconnect wording only; it does not cover the out-of-town contact)
+3. Emergency Communications Tips (FCC/FEMA). FCC (Internet Archive snapshot 2026-10-15). https://www.fcc.gov/emergency
+4. Meshtastic overview (community project documentation, not a government source). https://meshtastic.org/docs/overview/
+
+Not sourced, so not stated: device prices, battery life, range, mesh formation time, license-free band claims, any brand-specific feature, any "notify authorities after 48 hours" rule.

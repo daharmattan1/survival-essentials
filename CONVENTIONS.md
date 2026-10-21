@@ -42,6 +42,9 @@ These are the **only** permitted values for the danger facets. Do not invent syn
 - `field_id_not_appropriate`: `true` · `false`
 - `legal_status`: `unrestricted` · `regulated` · `seasonal-permit` · `prohibited` ·
   `emergency-exception` · `n/a`
+  - Use `emergency-exception` only when the entry cites a specific statutory exception. No general
+    "survival exemption" has been found for hunting, trapping or fishing; default to `regulated` or
+    `seasonal-permit` and say "know your regulations" in the body.
 
 **Banned:** the `danger_class` facet (lossy — collapsed severity + legality + ID-uncertainty into
 one enum). If you ever see `danger_class` in an entry, it is a contract violation. The orthogonal
@@ -84,8 +87,9 @@ The mushroom `_index.md` opens with this doctrine page. It is the single most im
 construct in the repo — fungal misidentification is the highest-consequence failure mode.
 
 **Doctrine (non-negotiable for a novice):**
-1. **No consumption without expert confirmation** — a regional mycological society, an expert, or
-   a definitive multi-source positive ID. Photo-only ID is never sufficient.
+1. **No consumption without expert confirmation** — a regional mycological society or an expert who has
+   examined the specimen in hand. Matching several sources is an additional requirement, never a
+   substitute for the expert. Photo-only ID is never sufficient.
 2. **No LBMs** — little brown mushrooms are not worth the risk; too many toxic look-alikes.
 3. **No white-gilled mushrooms with a volva or ring** — the *Amanita* pattern (destroying angel,
    death cap) is lethal and easy to misjudge.
@@ -95,6 +99,10 @@ construct in the repo — fungal misidentification is the highest-consequence fa
 7. **First-portion rule** — even a confirmed edible: small portion, no alcohol where relevant
    (e.g. inky caps), wait, never try two new species at once.
 8. **When in doubt, throw it out.** The downside is asymmetric: a missed meal vs. a destroyed liver.
+9. **If anyone may have eaten an unidentified or mis-identified mushroom:** call **Poison Control,
+   1-800-222-1222**, at the first suspicion and do not wait for symptoms; call **911** for collapse,
+   seizure or trouble breathing; do not make the person vomit unless Poison Control says to; save a
+   sample. Amatoxin and false-morel poisonings are delayed, so feeling fine is not a reason to wait.
 
 Every mushroom entry's facets must reflect this: `expert_id_required: true`, and
 `field_id_not_appropriate: true` for any species with a deadly look-alike.
@@ -108,7 +116,8 @@ Waterborne pathogens kill faster than starvation. Every water method/entry carri
 ```
 > ⚠ **CONTAMINATION — what this method does and does NOT handle**
 >
-> - **Boil:** rolling boil ≥1 min (≥3 min above 6,500 ft / 2,000 m). Kills bacteria, viruses,
+> - **Boil:** rolling boil ≥1 min (CDC: ≥3 min above 6,500 ft / 2,000 m; EPA: ≥3 min above
+>   5,000 ft; if elevation is unknown, 3 min). Kills bacteria, viruses,
 >   protozoa (incl. *Cryptosporidium*, *Giardia*). Does NOT remove chemical/heavy-metal contamination.
 > - **Filter:** state the micron rating. ≤1 µm absolute removes *Crypto*/*Giardia*. Most filters
 >   do NOT remove viruses (too small) — pair with chemical/UV in virus-risk water.
@@ -156,9 +165,10 @@ Rules:
   external image in `_media/SOURCES.md` (URL + license + attribution).
 
 **Seed source library (from the repo's existing resource files):** USDA PLANTS, USDA Weed Images,
-USDA Pomological Watercolors, Biodiversity Heritage Library, Peterson *Field Guide to Edible Wild
-Plants* (Eastern/Central NA), Wikimedia Commons (PD/CC0 only); FM 21-76 / FM 3-05.70, FAO fish
-manuals, Rawpixel (CC0). CDC / Red Cross / EPA / state extension for medical + water.
+USDA Pomological Watercolors, Biodiversity Heritage Library (license varies by item), Wikimedia
+Commons (PD/CC0 only); FM 21-76 / FM 3-05.70 / ATP 3-50.21, FAO fish manuals, Rawpixel (verify per
+item). Peterson *Field Guide to Edible Wild Plants* (Eastern/Central NA) is a copyrighted reference:
+cite it, never copy it. CDC / Red Cross / EPA / state extension for medical + water.
 
 ---
 
@@ -199,8 +209,10 @@ This policy lives here and in `AGENTS.md`; it governs how a reasoning AI uses th
 
 ## 10. Per-domain safety-read checklists (Phase 11, human gate)
 
-Victor runs these against the written entries before any PR. Pass ⇒ write `SAFETY-READ-PASSED` +
-sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
+A human reviewer runs these against the written entries, using the packet in [`review/`](review/SAFETY_READ_PACKET.md).
+Pass ⇒ write `SAFETY-READ-PASSED` + sign-off into `CHANGELOG.md` and run `scripts/mark_reviewed.py`, which
+sets `review_status: reviewed` for that domain. **Only a human sets `reviewed`.** An AI agent's fact-check,
+however thorough, earns `agent-verified` at most (see §11).
 
 ### Mushrooms & edible-plants
 - [ ] Every entry opens with the POSITIVE-ID SAFETY GATE (checklist + disqualifying traits), not a
@@ -216,7 +228,7 @@ sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
 - [ ] CWD-prion / trichinella / tularemia block present and correct where applicable.
 - [ ] Internal cook temps match USDA; deer entry has the full field-dress→skin→butcher→preserve
       flow.
-- [ ] `legal_status` distinguishes normal season vs. emergency-exception; framed as "know your
+- [ ] `legal_status` is `regulated`/`seasonal-permit` unless a statutory exception is cited; the body distinguishes normal season vs. emergency and is framed as "know your
       regs," not legal advice.
 
 ### First-aid & water
@@ -245,8 +257,12 @@ sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
   `regional/_index.md` **registry**; the AI resolves food/consumption queries by pivoting through
   the active region's `food_hub.md`.
 - **Windows/OS:** use `cp` + `rm` for renames, never `git mv`.
-- **`last_reviewed` / `review_status`:** `draft` until the Phase-11 human safety read flips it to
-  `reviewed`. The survey↔substrate sync checklist lives in `CHANGELOG.md`.
+- **`review_status`:** `draft` (written, not yet independently checked) → `agent-verified` (AI agents that
+  did not write it checked every claim against opened sources in at least two rounds; `sources_checked`
+  gives the date) → `reviewed` (a human completed the §10 safety read; `last_reviewed` gives the date).
+  Pass 1 (June 2026) labelled AI-only checks `reviewed`; pass 2 found serious errors in many of those entries,
+  so every pass-1 `reviewed` label was replaced. Treat `agent-verified` as a first pass, not a review.
+  The survey↔substrate sync checklist lives in `CHANGELOG.md`.
 - This is a **standalone repo** (not part of any parent knowledge base) — entries do not carry the
   parent repo's frontmatter taxonomy; they carry the facets defined in `SCHEMAS.md`.
 

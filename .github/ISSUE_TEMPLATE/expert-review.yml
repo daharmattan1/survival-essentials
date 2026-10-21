@@ -1,0 +1,63 @@
+name: Expert review
+description: Report the result of a domain expert's safety read (CONVENTIONS.md section 10).
+title: "Expert review: "
+labels: ["expert-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form after you read one domain against the checklist in CONVENTIONS.md section 10.
+        See CONTRIBUTING.md for how the read works. A maintainer applies the sign-off. You do not edit files.
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain reviewed
+      options:
+        - regional/mid-atlantic-appalachian/mushrooms
+        - regional/mid-atlantic-appalachian/edible-plants
+        - regional/mid-atlantic-appalachian/game-animals
+        - regional/mid-atlantic-appalachian/crops
+        - regional/mid-atlantic-appalachian/hazards
+        - substrate/01_core_principles
+        - substrate/02_water
+        - substrate/03_fire
+        - substrate/04_shelter
+        - substrate/05_food
+        - substrate/06_first_aid
+        - substrate/07_navigation
+        - substrate/08_communication
+        - substrate/09_urban_survival
+        - substrate/10_key_resources
+        - substrate/11_gear
+    validations:
+      required: true
+  - type: textarea
+    id: expertise
+    attributes:
+      label: Your relevant expertise
+      description: Training, credentials, or years of field experience. Name any society or body you belong to.
+    validations:
+      required: true
+  - type: textarea
+    id: entries_read
+    attributes:
+      label: Entries read
+      description: List every entry file you read. If you did not read the whole domain, say so.
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings
+      description: Errors, missing warnings, or doubts. For each one give the file, the claim, and a Tier-1 or Tier-2 source. Write "none" if you found nothing.
+    validations:
+      required: true
+  - type: checkboxes
+    id: signoff
+    attributes:
+      label: Sign-off
+      options:
+        - label: I read every entry listed above against the CONVENTIONS.md section 10 checklist. I found no unresolved safety problem, or I listed each one under Findings.
+          required: true
+        - label: I understand my review is dedicated to the public domain under CC0 1.0.
+          required: true
