@@ -32,8 +32,9 @@ method_for: Hold a compass bearing and estimate distance traveled using pace cou
 materials: [compass (needed for a bearing), a measured stretch of ground similar to the ground you will cross, map optional, pebbles or a notebook to keep count]
 difficulty: moderate
 hazard_severity: low
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

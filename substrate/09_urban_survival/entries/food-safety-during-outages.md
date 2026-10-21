@@ -53,7 +53,8 @@ sources:
     url: "https://www.cdc.gov/natural-disasters/safety/how-to-safely-clean-and-sanitize-with-bleach.html"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "deciding what food, infant formula and refrigerated medicine to keep or throw out after a power outage or floodwater contact"
 severity_range: "short outage with a closed fridge → outage past 4 hours → floodwater contact and foodborne illness"
 hazard_severity: high

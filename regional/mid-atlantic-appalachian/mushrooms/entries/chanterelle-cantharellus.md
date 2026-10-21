@@ -64,6 +64,14 @@ sources:
     publisher: Pennsylvania Department of Conservation and Natural Resources
     url: https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations
     tier: T1
+  - title: Turbinellus floccosus (scaly vase; formerly Gomphus floccosus)
+    publisher: MushroomExpert.Com (Michael Kuo); identification only, the site disclaims toxicity
+    url: https://www.mushroomexpert.com/turbinellus_floccosus.html
+    tier: T2
+  - title: Thirty-Plus Years of Mushroom Poisoning, Summary of the Approximately 2,000 Reports in the NAMA Case Registry (Beug, Shaw and Cochran), McIlvainea 16(2), Fall 2006
+    publisher: North American Mycological Association
+    url: https://namyco.org/wp-content/uploads/2023/08/Poisonings30year.pdf
+    tier: T2
 common_names:
   - Chanterelle
   - Golden chanterelle
@@ -80,8 +88,9 @@ preparation_required: true
 expert_id_required: true
 field_id_not_appropriate: true
 legal_status: regulated
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE
@@ -91,6 +100,7 @@ review_status: reviewed
 > **Positive-ID checklist (ALL must hold):**
 > - **False gills, not true gills.** The underside is nearly smooth, or has wrinkles and gill-like ridges running down the stem. The ridges are always blunt-edged [1][2][3].
 > - **White to pale yellow flesh inside. Cut the stem lengthwise on every mushroom.** Chanterelle flesh is white and unchanging (*C. lateritius*) or whitish to yellowish and unchanging (*C. appalachiensis*) [2][3]. Jack-o'-lantern flesh is pale orange [5].
+> - **A cap that is bald (smooth) or nearly so, on a stem that stays equal or tapers downward, a distinct column under the cap** [2][3]. Not a deep vase of soft, flattened scales whose stem flares straight into the cap: that is the scaly vase [15].
 > - **On the ground, in grass or leaf litter, never on decaying wood** [1]. Kuo's *C. lateritius* grows alone, scattered or in groups, sometimes densely [2]. Fused clusters rising from a stump, tree base or buried wood are jack-o'-lantern, not chanterelle [4][5].
 > - **Cap yellow to orange, or brown with yellow undertones** (*C. appalachiensis*) [2][3].
 > - **Fruiting in summer** [1][2][3].
@@ -100,8 +110,9 @@ review_status: reviewed
 > - **Orange flesh** anywhere inside the stem [5]
 > - Growing in a dense cluster on a stump, the base of a tree, or buried wood [4][5][6]
 > - Soft, flimsy flesh with thin, repeatedly forked gills, on litter or woody debris under conifers [7]
+> - A deep vase-shaped mushroom with a dark orange to reddish-orange cap covered in soft, flattened scales, shallow forked folds running deep down a stem that flares into the cap, usually under conifers (scaly vase, *Turbinellus floccosus*, formerly *Gomphus floccosus*) [15]. The NAMA registry lists 3 adults with stomach distress, 2 of them with severe cramps, in Colorado, Maine and West Virginia [16]
 >
-> **Confusable with:** Jack-o'-lantern (*Omphalotus illudens*) → true, sharp-edged gills, dense clusters on wood, orange flesh → severe vomiting, cramps and diarrhea that can last days [4][5][9]. False chanterelle (*Hygrophoropsis aurantiaca*) → true thin forked gills, soft flesh → sources disagree on how toxic it is [7][8].
+> **Confusable with:** Jack-o'-lantern (*Omphalotus illudens*) → true, sharp-edged gills, dense clusters on wood, orange flesh → severe vomiting, cramps and diarrhea that can last days [4][5][9]. False chanterelle (*Hygrophoropsis aurantiaca*) → true thin forked gills, soft flesh → sources disagree on how toxic it is [7][8]. Scaly vase (*Turbinellus floccosus*) → scaly vase-shaped cap, stem flaring into the cap, with conifers → stomach distress and cramps in the NAMA registry [15][16].
 >
 > **Spore print does NOT separate these.** Chanterelles print white to cream or pale pinkish yellow [2][3]. Jack-o'-lantern prints white to creamy or pale yellow [5]. False chanterelle prints white [7]. A white print clears nothing.
 >
@@ -134,6 +145,12 @@ Do not use the glow. Jack-o'-lantern gills are luminescent when fresh [5], but C
 - Spore print is white [7], so it does not help.
 - Toxicity is disputed. The conflict rests on a Tier 3 summary [8] that cites books; no Tier 1 or Tier 2 source opened states whether it is toxic (Kuo gives identification only [7]). That summary says one source calls it poisonous with possible serious digestive problems, that it was sometimes called edible but not tasty until 1999, and that an Italian author (Sitta 2021) judged the one attributed poisoning case possibly idiosyncratic (one of three diners ill) and concluded it is harmless, though Italy does not recommend it [8]. Treat it as not for eating.
 
+### Scaly vase (*Turbinellus floccosus*, formerly *Gomphus floccosus*)
+
+- Kuo: vase-shaped and fleshy, 6 to 14 cm high, with a shallow to deep central depression; the upper surface is scaly with soft, flattened scales, dark orange to reddish orange; the undersurface runs deeply down the stem with shallow folds that are often forked or cross-veined, creamy when fresh; the stem flares into the cap and is not distinctly separate from it; flesh white to whitish; grows with conifers (pines, spruces, firs and hemlocks), summer and fall; originally described from Pennsylvania and widely distributed in northern and montane North America [15].
+- It passes the false-gill, white-flesh, on-the-ground and orange-colour checks, so those checks alone do not exclude it. The scaly cap and the stem that flares into the cap are what differ from a chanterelle.
+- The NAMA registry lists *Gomphus floccosus* (the older name) with 3 adults, stomach distress in all three and severe cramps in two, onset 3.5 to 9 hours (average 5.5), in Colorado, Maine and West Virginia [16]. Kuo's page gives no edibility or toxicity information [15]. No source opened calls it deadly. Do not eat it. The black trumpet entry covers the same mushroom from the other direction: [scaly vase in the black trumpet entry](black-trumpet-craterellus.md).
+
 ---
 
 ## Identification
@@ -148,7 +165,7 @@ Do not use the glow. Jack-o'-lantern gills are luminescent when fresh [5], but C
 
 **Smell, color, insect damage:** NAMA says color, insect damage, smell and folklore are not reliable tests of edibility [10].
 
-**Similar chanterelles:** *Cantharellus confluens* is nearly identical, and *Craterellus odoratus* is thin-fleshed and fragile [2]. MDC also lists smooth, golden, cinnabar and black trumpet chanterelles as similar species [1]. This entry covers only the two species above. For any other chanterelle-like mushroom, this entry gives no basis to eat it.
+**Similar chanterelles:** *Cantharellus confluens* is nearly identical, and *Craterellus odoratus* is thin-fleshed and fragile [2]. MDC also lists smooth, golden, cinnabar and black trumpet chanterelles as similar species [1]. This entry covers only the two species above. For any other chanterelle-like mushroom, this entry gives no basis to eat it. The scaly vase (above) is the one with a registry record in the East.
 
 ---
 
@@ -222,3 +239,5 @@ Picking is regulated on public land and the rule differs by manager. Shenandoah 
 12. Poisonous mushrooms pose danger as more people forage. Rutgers University. https://www.rutgers.edu/news/poisonous-mushrooms-pose-danger-more-people-forage-locally-grown-food-rutgers-experts-say [T1]
 13. Collecting Plants and Mushrooms. National Park Service, Shenandoah National Park. https://www.nps.gov/shen/learn/management/collecting-plants.htm [T1]
 14. Pennsylvania State Forests Rules and Regulations. Pennsylvania DCNR. https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/rules-and-regulations [T1]
+15. Turbinellus floccosus. MushroomExpert.Com (Michael Kuo). https://www.mushroomexpert.com/turbinellus_floccosus.html [T2, identification only]
+16. Thirty-Plus Years of Mushroom Poisoning (Beug, Shaw, Cochran). McIlvainea 16(2), 2006. North American Mycological Association. https://namyco.org/wp-content/uploads/2023/08/Poisonings30year.pdf [T2]

@@ -72,8 +72,9 @@ sources:
     publisher: FDA
     url: "https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Surviving a multi-day power outage by maintaining heat or cold, managing food safety, securing lighting, and avoiding carbon monoxide poisoning
 materials:
   - Blankets, sleeping bags, or layered clothing (for warmth without power)

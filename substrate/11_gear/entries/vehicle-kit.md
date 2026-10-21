@@ -81,7 +81,8 @@ sources:
     url: "https://www3.erie.gov/health/sites/www3.erie.gov.health/files/2024-07/firstaidkitlist.pdf"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 item_class: [shelter, signaling, medical, water, communication]
 weight_oz: n/a
 multi_use: [warmth layer, ground signal, traction under a wheel, digging out wheels and the tailpipe, phone charging for light and map and radio]

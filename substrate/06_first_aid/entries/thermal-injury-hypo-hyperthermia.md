@@ -56,8 +56,9 @@ sources:
     publisher: World Health Organization
     url: "https://www.who.int/news-room/questions-and-answers/item/cholera-outbreaks"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "hypothermia and frostbite (body temperature below 95 F) and heat illness"
 severity_range: "mild shivering → severe hypothermia with cardiac arrest; heat cramps → heat stroke (life-threatening)"
 ---

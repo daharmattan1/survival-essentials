@@ -31,8 +31,9 @@ sources:
     publisher:         "World Health Organization"
     url:               "https://www.who.int/docs/default-source/wash-documents/wash-in-emergencies/household-water-treatment-and-safe-storage-after-emergencies.pdf"
     tier:              T1
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 preparation_required:  true
 ---
 

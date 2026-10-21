@@ -30,8 +30,14 @@ usda_zone:       # e.g. 7a  (use "n/a" for universal-technique entries)
 confidence:      # high | medium | low  — author's confidence in the entry's correctness
 source_tier:     # T1 | T2 | T3 (see CONVENTIONS.md §Source Tiers) — the HIGHEST tier required by this entry's claims
 sources:         # list of {title, publisher, url, tier} — see CONVENTIONS.md
-last_reviewed:   # ISO date the content was last human safety-read; "draft" until reviewed
-review_status:   # draft | reviewed   (set "reviewed" only after the Phase-11 human safety-read)
+last_reviewed:   # ISO date of the last HUMAN safety read; "draft" until a human has read it
+review_status:   # draft | agent-verified | reviewed
+                 #   draft          = written, not yet independently checked
+                 #   agent-verified = AI agents that did not write it checked every claim against sources
+                 #                    they opened, in at least two rounds; NOT a human review
+                 #   reviewed       = a human completed the CONVENTIONS.md §10 safety read; set only by
+                 #                    scripts/mark_reviewed.py, which only a human runs
+sources_checked: # ISO date of the last agent source check (agent-verified entries)
 ---
 ```
 

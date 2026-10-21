@@ -28,8 +28,9 @@ sources:
     publisher: Penn State Extension
     url: "https://extension.psu.edu/proper-field-dressing-and-handling-of-wild-game-and-fish"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Understand the mechanics, legal limits and handling risks of snares and trap lines for small game (rabbits, squirrels, hares, ground fowl)"
 materials:
   - "Wire (salvaged, fencing wire) or cordage (plant fiber, rawhide strips, paracord)"

@@ -52,8 +52,9 @@ sources:
     publisher: Deep Snow Safety (specialist non-profit, used only for tree wells)
     url: "https://deepsnowsafety.org/what-is-a-snow-immersion-suffocation/"
     tier: T3
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Build emergency shelter matching conditions and available materials"
 materials:
   - "Dead wood (branches, saplings, driftwood)"

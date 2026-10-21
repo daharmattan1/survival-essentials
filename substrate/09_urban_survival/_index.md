@@ -34,6 +34,7 @@ set up early. This is a disease-vector problem as much as a comfort problem.
 ```
 Grid down at home?         → power-outage-bug-in (heat/cold, lighting, water; the overview)
   ⚠ CO: nothing burns inside a home except a vented fireplace or stove in working order; no gas oven or stove for heat; generators outdoors, at least 20 ft from windows, doors and vents → generator-and-heater-co-prevention
+  Cooking with no power?   → ../05_food/entries/cooking-without-power.md (grill, camp stove and charcoal outdoors only; a gas range is for cooking only, never for heat)
   Fridge or freezer warming, or flooded? → food-safety-during-outages (clocks and thermometers, not looks or smell)
   Hot house, no AC?        → extreme-heat-at-home (heat stroke: call 911, cool the person, give nothing by mouth)
   Cold house, no heat?     → winter-storm-at-home (hypothermia and CO are the two killers; call 911 for any suspected hypothermia, right away for sleepiness or confusion)
@@ -46,13 +47,13 @@ Set up sanitation EARLY — it's a disease problem, not a comfort problem.
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 16 | reviewed |
-| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T1 | 8 | reviewed |
-| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | reviewed |
-| generator-and-heater-co-prevention | entries/generator-and-heater-co-prevention.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 13 | draft |
-| food-safety-during-outages | entries/food-safety-during-outages.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 11 | draft |
-| extreme-heat-at-home | entries/extreme-heat-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 12 | draft |
-| winter-storm-at-home | entries/winter-storm-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 17 | draft |
+| power-outage-bug-in | entries/power-outage-bug-in.md | METHOD | universal | n/a | n/a | high | n/a | n/a | T1 | 16 | agent-verified |
+| civil-disruption-safety | entries/civil-disruption-safety.md | PROTOCOL | universal | n/a | n/a | moderate | n/a | n/a | T1 | 8 | agent-verified |
+| sanitation-and-human-waste | entries/sanitation-and-human-waste.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | agent-verified |
+| generator-and-heater-co-prevention | entries/generator-and-heater-co-prevention.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 13 | agent-verified |
+| food-safety-during-outages | entries/food-safety-during-outages.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 11 | agent-verified |
+| extreme-heat-at-home | entries/extreme-heat-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 12 | agent-verified |
+| winter-storm-at-home | entries/winter-storm-at-home.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 17 | agent-verified |
 
 `power-outage-bug-in` (`high`) carries the carbon-monoxide warning, and `generator-and-heater-co-prevention`
 (`lethal`) goes deeper; `extreme-heat-at-home` and `winter-storm-at-home` are `lethal`;

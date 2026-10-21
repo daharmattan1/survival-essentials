@@ -65,6 +65,9 @@ For any consumption/biology query, the load order is:
    `edible-plants/_index.md`. Read the "what could kill me" surface before the "what can I eat"
    surface. "What NOT to eat" comes before edible exemplars.
 3. **Index** — the manifest table, to find the right entry and read its facets without opening it.
+   `review_status` tells you who has checked an entry: `draft` (no independent check), `agent-verified`
+   (AI-checked against sources, not a human review) or `reviewed` (a human safety read). Say which when you
+   cite a consumption or first-aid entry, and never present `agent-verified` as expert-reviewed.
    A row with `review_status: planned` has no file yet. Do not cite it; answer from the domain's
    survey guide (`01_core_principles.md` … `11_essential_gear.md`) instead.
 4. **Entry** — the Layer-3 file, for the positive-ID gate, mandatory preparation, and sources.

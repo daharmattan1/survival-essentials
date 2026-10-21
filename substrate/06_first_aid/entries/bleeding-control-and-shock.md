@@ -40,8 +40,9 @@ sources:
     publisher: Ready.gov / FEMA
     url: "https://www.ready.gov/sites/default/files/2020-07/until-help-arrives-web-tutorial.pdf"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "severe external bleeding and hemorrhagic shock"
 severity_range: "minor bleeding → bleeding that will not stop with pressure → life-threatening hemorrhage and shock"
 ---

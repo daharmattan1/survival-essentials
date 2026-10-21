@@ -28,8 +28,9 @@ sources:
     publisher: "National Park Service"
     url: "https://www.nps.gov/yose/planyourvisit/wilderness_safety.htm"
     tier: T1
-last_reviewed:        draft
-review_status:        draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for:           "be found when lost or in distress"
 materials:
   - whistle

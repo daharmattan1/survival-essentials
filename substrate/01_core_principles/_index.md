@@ -39,11 +39,11 @@ Apply BEFORE diving into any technique domain — it tells you which domain to u
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| rule-of-threes | entries/rule-of-threes.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 9 | reviewed |
-| survival-priorities-stop | entries/survival-priorities-stop.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 5 | reviewed |
-| psychology-and-will-to-live | entries/psychology-and-will-to-live.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 6 | reviewed |
-| stay-or-go-decision | entries/stay-or-go-decision.md | PRINCIPLE | universal | n/a | n/a | high | n/a | false | T1 | 13 | draft |
-| group-survival-and-roles | entries/group-survival-and-roles.md | PRINCIPLE | universal | n/a | n/a | low | n/a | false | T2 | 9 | draft |
+| rule-of-threes | entries/rule-of-threes.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 9 | agent-verified |
+| survival-priorities-stop | entries/survival-priorities-stop.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 5 | agent-verified |
+| psychology-and-will-to-live | entries/psychology-and-will-to-live.md | PRINCIPLE | universal | n/a | n/a | n/a | n/a | n/a | T2 | 6 | agent-verified |
+| stay-or-go-decision | entries/stay-or-go-decision.md | PRINCIPLE | universal | n/a | n/a | high | n/a | false | T1 | 13 | agent-verified |
+| group-survival-and-roles | entries/group-survival-and-roles.md | PRINCIPLE | universal | n/a | n/a | low | n/a | false | T2 | 9 | agent-verified |
 
 Biology danger facets are `n/a` (PRINCIPLE entries are doctrine, not consumables). Each entry cites its
 sources: FAA CAMI, NPS, USFS, Army FM 21-76 (superseded; unofficial reprint), NIMH, CDC, MedlinePlus and

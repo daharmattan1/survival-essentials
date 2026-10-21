@@ -57,7 +57,8 @@ sources:
     url: "https://www.ready.gov/power-outages"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "heat exhaustion, heat stroke and keeping a household cool when the power or air conditioning is out"
 severity_range: "uncomfortable heat → heat cramps and heat exhaustion → heat stroke (life-threatening)"
 hazard_severity: lethal

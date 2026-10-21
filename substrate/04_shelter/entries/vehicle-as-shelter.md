@@ -61,7 +61,8 @@ sources:
     url: "https://irp.fas.org/doddir/army/atp3-50-21.pdf"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Survive a night stranded in a vehicle in winter weather"
 materials:
   - "The vehicle, with fuel"

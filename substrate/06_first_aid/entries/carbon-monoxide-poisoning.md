@@ -47,7 +47,8 @@ sources:
     url: "https://www.poisoncenters.org/"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "carbon monoxide (CO) poisoning from burning fuel, generators, engines and heaters"
 severity_range: "headache and flu-like symptoms → confusion, fainting and unconsciousness → death, with no warning in sleeping or intoxicated people"
 ---

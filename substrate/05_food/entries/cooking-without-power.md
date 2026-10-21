@@ -105,8 +105,9 @@ sources:
     publisher:         "EPA"
     url:               "https://www.epa.gov/indoor-air-quality-iaq/strategies-improving-indoor-air-quality-while-cooking-infographic"
     tier:              T1
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

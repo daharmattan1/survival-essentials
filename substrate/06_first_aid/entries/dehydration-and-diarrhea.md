@@ -28,8 +28,9 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/water-emergency/about/index.html"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "dehydration and diarrhea, from mild fluid loss to hypovolemic shock"
 severity_range: "thirst and mild dehydration → moderate dehydration with dizziness → severe dehydration / hypovolemic shock"
 ---

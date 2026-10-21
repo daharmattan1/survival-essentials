@@ -9,7 +9,7 @@ confidence: medium
 source_tier: T1
 sources:
   - title: "FM 21-76 Survival (1992), Chapters 5 and 15 (cold weather principles, shelters)"
-    publisher: US Army (mirror: bits.de)
+    publisher: "US Army (mirror: bits.de)"
     url: "https://www.bits.de/NRANEU/others/amd-us-archive/FM21-76(92).pdf"
     tier: T2
   - title: "What to Bring - Camping"
@@ -57,7 +57,8 @@ sources:
     url: "https://irp.fas.org/doddir/army/atp3-50-21.pdf"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Sleep through a cold night without losing dangerous amounts of body heat"
 materials:
   - "Ground insulation (sleeping pad, seat cushions, clothing, or a thick bed of dry natural material)"

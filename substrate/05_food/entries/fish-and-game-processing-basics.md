@@ -88,8 +88,9 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Clean, cool and cook fish and small/medium game from field kill, and know the limits of preserving it without tested equipment"
 materials:
   - "Sharp knife or improvised blade"

@@ -44,8 +44,9 @@ sources:
     publisher: USDA Forest Service
     url: https://www.fs.usda.gov/r06/okanogan-wenatchee/fire/prevention
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Build a fire lay that maximizes airflow and fuel-to-flame transfer
 materials:
   - Tinder (dry fibers, leaves, char cloth, bark)

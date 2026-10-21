@@ -53,7 +53,8 @@ sources:
     url: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5703a1.htm
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 edibility_status: n/a
 hazard_severity: lethal
 confusability_level: none

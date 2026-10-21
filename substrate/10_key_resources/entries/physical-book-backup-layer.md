@@ -9,12 +9,12 @@ confidence: high
 source_tier: T2
 method_for: keep critical reference knowledge on paper for when all devices are dead or unavailable
 materials:
-  - ATP 3-50.21, Survival (U.S. Army, 2018) — printed copy (public domain)
-  - FM 21-76 (U.S. Army Survival Manual, older) and/or FM 3-05.70 — optional printed copies (public domain)
-  - SAS Survival Handbook by John "Lofty" Wiseman — purchased copy
-  - A regional field guide you bought (for example Peterson, A Field Guide to Edible Wild Plants of Eastern and Central North America — buy it or borrow it)
-  - Red Cross or equivalent first-aid manual (printed edition)
-  - "Where There Is No Doctor" by David Werner (Hesperian) — for remote/austere scenarios
+  - "ATP 3-50.21, Survival (U.S. Army, 2018) — printed copy (public domain)"
+  - "FM 21-76 (U.S. Army Survival Manual, older) and/or FM 3-05.70 — optional printed copies (public domain)"
+  - "SAS Survival Handbook by John \"Lofty\" Wiseman — purchased copy"
+  - "A regional field guide you bought (for example Peterson, A Field Guide to Edible Wild Plants of Eastern and Central North America — buy it or borrow it)"
+  - "Red Cross or equivalent first-aid manual (printed edition)"
+  - "\"Where There Is No Doctor\" by David Werner (Hesperian) — for remote/austere scenarios"
 difficulty: easy
 sources:
   - title: "Survival (ATP 3-50.21), September 2018"
@@ -45,8 +45,9 @@ sources:
     publisher: "Hesperian Health Guides"
     url: "https://hesperian.org/open-copyright-policy/"
     tier: T2
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

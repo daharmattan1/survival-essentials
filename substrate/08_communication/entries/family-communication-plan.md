@@ -49,7 +49,8 @@ sources:
     url: "https://www.ready.gov/power-outages"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "agree before a disaster how a family finds each other, reports it is OK, and reunites when phones are jammed"
 materials: 
   - paper family communication plan card (Ready.gov / FEMA fillable card)

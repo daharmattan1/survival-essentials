@@ -44,12 +44,12 @@ Clear the area (wildfire). Never leave a fire unattended.
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| fire-lays-and-structure | entries/fire-lays-and-structure.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 9 | reviewed |
-| ignition-methods | entries/ignition-methods.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 3 | reviewed |
-| tinder-and-fuel-progression | entries/tinder-and-fuel-progression.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | reviewed |
-| wet-weather-fire | entries/wet-weather-fire.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 11 | draft |
-| extinguishing-and-fire-safety | entries/extinguishing-and-fire-safety.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 21 | draft |
-| overnight-fire-maintenance | entries/overnight-fire-maintenance.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 13 | draft |
+| fire-lays-and-structure | entries/fire-lays-and-structure.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 9 | agent-verified |
+| ignition-methods | entries/ignition-methods.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 3 | agent-verified |
+| tinder-and-fuel-progression | entries/tinder-and-fuel-progression.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 2 | agent-verified |
+| wet-weather-fire | entries/wet-weather-fire.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 11 | agent-verified |
+| extinguishing-and-fire-safety | entries/extinguishing-and-fire-safety.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 21 | agent-verified |
+| overnight-fire-maintenance | entries/overnight-fire-maintenance.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 13 | agent-verified |
 
 `hazard_severity: moderate` on the lay + ignition entries (burns / CO / wildfire boundary). Sources:
 ATP 3-50.21 (primary) with FM 21-76, Forest Service, NPS, CDC and CPSC pages (T2).

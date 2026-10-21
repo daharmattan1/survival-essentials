@@ -28,8 +28,9 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/food-safety/signs-symptoms/index.html"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: Containing human waste and keeping hands clean to limit the spread of stomach illness when plumbing or sewer service fails
 severity_range: minor sanitation disruption (short outage, toilets will not flush) → prolonged sewer or water failure
 ---

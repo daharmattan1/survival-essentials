@@ -47,7 +47,8 @@ sources:
     url: "https://www.cdc.gov/school-health-conditions/media/pdfs/20_316712-G_FA_teachers_508tagged.pdf"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "severe allergic reaction (anaphylaxis) after a sting, food, medicine or an unknown cause"
 severity_range: "mild allergic reaction (itch, hives, runny nose) → anaphylaxis with breathing trouble, collapse or shock"
 ---

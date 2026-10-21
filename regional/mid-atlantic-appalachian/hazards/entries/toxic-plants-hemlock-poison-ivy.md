@@ -40,8 +40,9 @@ sources:
     publisher: U.S. Fish and Wildlife Service
     url: https://fws.gov/story/dont-touch-these-plants
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 edibility_status: deadly-toxic
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists

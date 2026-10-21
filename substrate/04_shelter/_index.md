@@ -40,12 +40,12 @@ Principle: a small space you can heat > a large space you can't. Don't sweat bui
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| site-selection-and-hazards | entries/site-selection-and-hazards.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 10 | reviewed |
-| insulation-and-ground-barrier | entries/insulation-and-ground-barrier.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 4 | reviewed |
-| emergency-shelter-types | entries/emergency-shelter-types.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 11 | reviewed |
-| tarp-configurations | entries/tarp-configurations.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 12 | draft |
-| vehicle-as-shelter | entries/vehicle-as-shelter.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 13 | draft |
-| cold-weather-sleep-system | entries/cold-weather-sleep-system.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 12 | draft |
+| site-selection-and-hazards | entries/site-selection-and-hazards.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 10 | agent-verified |
+| insulation-and-ground-barrier | entries/insulation-and-ground-barrier.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 4 | agent-verified |
+| emergency-shelter-types | entries/emergency-shelter-types.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T2 | 11 | agent-verified |
+| tarp-configurations | entries/tarp-configurations.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 12 | agent-verified |
+| vehicle-as-shelter | entries/vehicle-as-shelter.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 13 | agent-verified |
+| cold-weather-sleep-system | entries/cold-weather-sleep-system.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 12 | agent-verified |
 
 `site-selection-and-hazards` carries `hazard_severity: moderate` (the site itself can kill);
 `vehicle-as-shelter` is `lethal` (carbon monoxide in a stranded vehicle). Sources: ATP 3-50.21

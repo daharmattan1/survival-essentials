@@ -105,7 +105,8 @@ sources:
     url: "https://www.ready.gov/thunderstorms-lightning"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "receive official emergency warnings by phone and by NOAA Weather Radio, and know what watch and warning mean"
 materials: 
   - phone with Wireless Emergency Alerts turned on

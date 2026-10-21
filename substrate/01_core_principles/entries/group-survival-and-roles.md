@@ -47,7 +47,8 @@ sources:
     url: "https://www.ready.gov/disability"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 principle_for: running-a-group-in-an-emergency
 ---
 

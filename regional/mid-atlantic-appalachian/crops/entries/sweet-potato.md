@@ -54,7 +54,8 @@ expert_id_required: false
 field_id_not_appropriate: false
 legal_status: n/a
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 # Sweet Potato (Ipomoea batatas)

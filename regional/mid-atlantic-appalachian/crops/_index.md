@@ -45,13 +45,13 @@ Calendar context: ../seasonality.md (cool-season crops before the last frost; wa
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| potato | entries/potato.md | CROP | mid-atlantic-appalachian | plant mid-Mar–Apr (before last frost), harvest Jul–Sep | edible-when-prepared | low | none | false | T1 | 7 | reviewed |
-| beans-dry | entries/beans-dry.md | CROP | mid-atlantic-appalachian | plant after last frost (May), harvest when pods are dry, before first fall frost | edible-when-prepared | moderate | none | false | T1 | 9 | reviewed |
-| winter-squash | entries/winter-squash.md | CROP | mid-atlantic-appalachian | plant May–Jun, harvest Sep–Oct | edible-when-prepared | moderate | low | false | T1 | 6 | reviewed |
-| kale-collards | entries/kale-collards.md | CROP | mid-atlantic-appalachian | plant Mar–Apr & Jul–Aug (before last frost in spring), harvest into the fall (longer under row cover or in a cold frame; kale may re-sprout in spring if winter is not too severe) | edible-raw | none | none | false | T1 | 6 | reviewed |
-| corn-flint | entries/corn-flint.md | CROP | mid-atlantic-appalachian | plant after last frost (May), harvest dry Sep–Oct | edible-when-prepared | moderate | none | false | T1 | 7 | reviewed |
-| garlic | entries/garlic.md | CROP | mid-atlantic-appalachian | plant Oct (fall), harvest Jun–Jul | edible-raw | lethal | none | false | T1 | 17 | draft |
-| sweet-potato | entries/sweet-potato.md | CROP | mid-atlantic-appalachian | plant May–early Jul (soil ≥65°F), harvest Sep–Oct | edible-raw | low | low | false | T1 | 8 | draft |
+| potato | entries/potato.md | CROP | mid-atlantic-appalachian | plant mid-Mar–Apr (before last frost), harvest Jul–Sep | edible-when-prepared | low | none | false | T1 | 7 | agent-verified |
+| beans-dry | entries/beans-dry.md | CROP | mid-atlantic-appalachian | plant after last frost (May), harvest when pods are dry, before first fall frost | edible-when-prepared | moderate | none | false | T1 | 9 | agent-verified |
+| winter-squash | entries/winter-squash.md | CROP | mid-atlantic-appalachian | plant May–Jun, harvest Sep–Oct | edible-when-prepared | moderate | low | false | T1 | 6 | agent-verified |
+| kale-collards | entries/kale-collards.md | CROP | mid-atlantic-appalachian | plant Mar–Apr & Jul–Aug (before last frost in spring), harvest into the fall (longer under row cover or in a cold frame; kale may re-sprout in spring if winter is not too severe) | edible-raw | none | none | false | T1 | 6 | agent-verified |
+| corn-flint | entries/corn-flint.md | CROP | mid-atlantic-appalachian | plant after last frost (May), harvest dry Sep–Oct | edible-when-prepared | moderate | none | false | T1 | 7 | agent-verified |
+| garlic | entries/garlic.md | CROP | mid-atlantic-appalachian | plant Oct (fall), harvest Jun–Jul | edible-raw | lethal | none | false | T1 | 17 | agent-verified |
+| sweet-potato | entries/sweet-potato.md | CROP | mid-atlantic-appalachian | plant May–early Jul (soil ≥65°F), harvest Sep–Oct | edible-raw | low | low | false | T1 | 8 | agent-verified |
 
 `beans-dry` is `hazard_severity: moderate` + `preparation_required: true` (raw/undercooked dry beans
 contain a lectin; FDA rule for kidney beans: soak at least 5 hours, pour the water away, boil in fresh

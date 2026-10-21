@@ -20,8 +20,9 @@ sources:
     publisher: City of Colorado Springs Fire Department
     url: https://coloradosprings.gov/fire-department/page/9-volt-battery-fire-safety
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Create an ignition source using tools available in survival kits or the field
 materials:
   - Lighter, ferro rod, waterproof matches, or friction method components

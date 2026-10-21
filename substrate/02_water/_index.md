@@ -33,6 +33,7 @@ this method** so a reasoning AI never implies one method made water fully drinka
 Always read the ⚠ CONTAMINATION block of the chosen method FIRST, then the steps.
 Decision:
   Flood, fuel/chemical smell, oily sheen, "do not drink" notice? → STOP: floodwater-and-chemical-contamination (no home method fixes it; use bottled or stored water that stayed out of the floodwater)
+  Creek, river or pond?     → ask what is upstream (livestock, farms, roads, mines): Cryptosporidium and chemical risk → water-sourcing-and-storage
   Cloudy/turbid water?      → pretreatment-settling-and-prefiltering before ANY method (chemicals & UV fail on turbidity)
   Fuel available?           → BOIL (broadest single method; rolling boil 1 min; 3 min above 5,000 ft or if elevation unknown)
   No fuel, have a filter?   → FILTER (read the ABSOLUTE micron rating), then add a disinfectant; viruses pass most filters
@@ -47,14 +48,14 @@ Decision:
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 6 | draft |
-| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
-| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
-| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | draft |
-| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 9 | draft |
-| uv-treatment | entries/uv-treatment.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 7 | draft |
-| pretreatment-settling-and-prefiltering | entries/pretreatment-settling-and-prefiltering.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 6 | draft |
-| floodwater-and-chemical-contamination | entries/floodwater-and-chemical-contamination.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 14 | draft |
+| boil-disinfection | entries/boil-disinfection.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 6 | agent-verified |
+| filtration-micron-guide | entries/filtration-micron-guide.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | agent-verified |
+| chemical-treatment-chlorine-iodine | entries/chemical-treatment-chlorine-iodine.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | agent-verified |
+| solar-sodis | entries/solar-sodis.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 5 | agent-verified |
+| water-sourcing-and-storage | entries/water-sourcing-and-storage.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 9 | agent-verified |
+| uv-treatment | entries/uv-treatment.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 7 | agent-verified |
+| pretreatment-settling-and-prefiltering | entries/pretreatment-settling-and-prefiltering.md | METHOD | universal | n/a | n/a | moderate | n/a | false | T1 | 6 | agent-verified |
+| floodwater-and-chemical-contamination | entries/floodwater-and-chemical-contamination.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 14 | agent-verified |
 
 Every row carries `hazard_severity: moderate|high` because untreated or chemically contaminated water
 can make you sick or dehydrate you. Each entry cites T1 sources (CDC, EPA, WHO, state extension) and

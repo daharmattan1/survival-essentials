@@ -55,7 +55,7 @@ common_names:
   - Blonde morel
 scientific_name: Morchella spp.
 spore_print_color: unknown/variable (no source opened gives one; the print is not used for ID here)
-fruiting_season: spring (Kuo: March through June depending on latitude and altitude; Missouri: late March through April; no Mid-Atlantic agency dates opened)
+fruiting_season: "spring (Kuo: March through June depending on latitude and altitude; Missouri: late March through April; no Mid-Atlantic agency dates opened)"
 fruiting_substrate: ground under or near dead or dying American elm, living ash, old apple orchards and other hardwoods (Kuo, Missouri)
 cook_required: true
 edibility_status: edible-when-prepared
@@ -65,8 +65,9 @@ preparation_required: true
 expert_id_required: true
 field_id_not_appropriate: true
 legal_status: regulated
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## ⚠ POSITIVE-ID SAFETY GATE

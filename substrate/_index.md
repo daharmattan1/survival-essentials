@@ -43,7 +43,9 @@ blocks per `../SCHEMAS.md`), never left to prose.
 **Total universal entries: 67**, all written as files in each domain's `entries/` folder (sum of the count
 column above). Regional biology is counted separately: 34 entries are written in
 [`../regional/mid-atlantic-appalachian/`](../regional/_index.md) (edible-plants 8, mushrooms 8,
-game-animals 5, crops 7, hazards 6). **Repo total: 101 written entries** (67 universal + 34 regional).
+game-animals 5, crops 7, hazards 6) and 15 in [`../regional/northeast-new-england/`](../regional/_index.md)
+(edible-plants 3, mushrooms 3, game-animals 3, crops 3, hazards 3), for 49 regional entries. **Repo total: 116
+written entries** (67 universal + 49 regional).
 
 ---
 

@@ -53,8 +53,9 @@ sources:
     publisher:         "U.S. Department of Health and Human Services and U.S. Department of Agriculture"
     url:               "https://cdn.realfood.gov/DGA.pdf"
     tier:              T1
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

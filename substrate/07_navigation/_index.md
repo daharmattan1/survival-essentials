@@ -41,11 +41,11 @@ fix your position BEFORE moving; aim for a feature you can't overshoot; don't mo
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| celestial-navigation | entries/celestial-navigation.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | reviewed |
-| terrain-and-map-reading | entries/terrain-and-map-reading.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
-| dead-reckoning-and-pace | entries/dead-reckoning-and-pace.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | reviewed |
-| compass-and-declination | entries/compass-and-declination.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | draft |
-| river-and-stream-crossing | entries/river-and-stream-crossing.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 10 | draft |
+| celestial-navigation | entries/celestial-navigation.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 3 | agent-verified |
+| terrain-and-map-reading | entries/terrain-and-map-reading.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | agent-verified |
+| dead-reckoning-and-pace | entries/dead-reckoning-and-pace.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T2 | 5 | agent-verified |
+| compass-and-declination | entries/compass-and-declination.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | agent-verified |
+| river-and-stream-crossing | entries/river-and-stream-crossing.md | METHOD | universal | n/a | n/a | lethal | n/a | false | T1 | 10 | agent-verified |
 
 `river-and-stream-crossing` is `lethal`. Sources: ATP 3-50.21 and TC 3-25.26 (map reading) with Forest
 Service, NPS, NOAA and USGS pages (T2).

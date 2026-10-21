@@ -41,8 +41,9 @@ sources:
     publisher: "This repo"
     url: "../../10_key_resources.md"
     tier: T3
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

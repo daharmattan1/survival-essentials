@@ -77,8 +77,9 @@ sources:
     publisher:         "CDC"
     url:               "https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a4.htm"
     tier:              T1
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

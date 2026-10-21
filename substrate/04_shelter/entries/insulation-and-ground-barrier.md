@@ -24,8 +24,9 @@ sources:
     publisher: CDC MMWR
     url: "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4832a1.htm"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Insulate shelter from ground conduction and trap dead air"
 materials:
   - "Debris (leaves, pine needles, bark, grass)"

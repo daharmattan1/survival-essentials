@@ -77,7 +77,8 @@ sources:
     url: "https://www.aafp.org/pubs/afp/issues/2020/1101/p571.html"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "staying alive in a home with no heat during a winter storm, and recognizing and treating hypothermia and frostbite"
 severity_range: "cold house → shivering and numb skin → hypothermia and frostbite (life-threatening)"
 hazard_severity: lethal

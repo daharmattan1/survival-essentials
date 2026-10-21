@@ -55,11 +55,11 @@ demands the full processing chain and the strictest disease discipline. Load ord
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| white-tailed-deer | entries/white-tailed-deer.md | GAME-ANIMAL | mid-atlantic-appalachian | fall to early winter (regulated; archery from late Sept or Oct) | edible-when-prepared | high | none | false | T1 | 21 | reviewed |
-| eastern-cottontail-rabbit | entries/eastern-cottontail-rabbit.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter, Oct–Feb (regulated) | edible-when-prepared | high | none | false | T1 | 16 | reviewed |
-| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter, Sep–Feb (regulated) | edible-when-prepared | moderate | low | false | T1 | 18 | reviewed |
-| wild-turkey | entries/wild-turkey.md | GAME-ANIMAL | mid-atlantic-appalachian | spring (about mid-Apr to late May, bearded birds) and fall by county or unit (regulated) | edible-when-prepared | moderate | none | false | T1 | 16 | reviewed |
-| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter furbearer seasons, about mid-Oct or Nov to late Feb or early Mar (Virginia hunting Oct 15–Mar 10; trapping Nov 15–Feb 28) (regulated) | edible-when-prepared | high | none | false | T1 | 24 | reviewed |
+| white-tailed-deer | entries/white-tailed-deer.md | GAME-ANIMAL | mid-atlantic-appalachian | fall to early winter (regulated; archery from late Sept or Oct) | edible-when-prepared | high | none | false | T1 | 21 | agent-verified |
+| eastern-cottontail-rabbit | entries/eastern-cottontail-rabbit.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter, Oct–Feb (regulated) | edible-when-prepared | high | none | false | T1 | 16 | agent-verified |
+| gray-squirrel | entries/gray-squirrel.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter, Sep–Feb (regulated) | edible-when-prepared | moderate | low | false | T1 | 18 | agent-verified |
+| wild-turkey | entries/wild-turkey.md | GAME-ANIMAL | mid-atlantic-appalachian | spring (about mid-Apr to late May, bearded birds) and fall by county or unit (regulated) | edible-when-prepared | moderate | none | false | T1 | 16 | agent-verified |
+| raccoon-or-opossum | entries/raccoon-or-opossum.md | GAME-ANIMAL | mid-atlantic-appalachian | fall–winter furbearer seasons, about mid-Oct or Nov to late Feb or early Mar (Virginia hunting Oct 15–Mar 10; trapping Nov 15–Feb 28) (regulated) | edible-when-prepared | high | none | false | T1 | 24 | agent-verified |
 
 `legal_status: regulated` is set in-entry for all (no opened source supports a survival exemption; entries say so). Deer + rabbit + raccoon are
 `hazard_severity: high` (CWD prion / tularemia / raccoon roundworm and trichinella). Deer is the mandatory full-flow

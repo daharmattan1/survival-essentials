@@ -20,8 +20,9 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/sepsis/about/index.html"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "wound infection, from minor contamination to sepsis"
 severity_range: "minor surface infection → spreading infection → sepsis (life-threatening)"
 ---

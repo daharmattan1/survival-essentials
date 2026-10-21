@@ -69,8 +69,9 @@ sources:
     publisher:         "CDC"
     url:               "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
     tier:              T1
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

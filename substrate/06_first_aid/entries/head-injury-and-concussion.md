@@ -37,7 +37,8 @@ sources:
     url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/fractures"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "blow, bump or jolt to the head: concussion, serious head injury, and possible neck or spine injury"
 severity_range: "mild concussion → watch-and-evaluate → serious brain injury or skull fracture → life-threatening, with possible spine injury"
 ---

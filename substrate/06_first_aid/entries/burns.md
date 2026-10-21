@@ -49,7 +49,8 @@ sources:
     url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/shock"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "thermal burns (heat, scald, contact, flame), with short pointers for chemical and electrical burns"
 severity_range: "small surface burn → burn that needs a clinician → large, deep, face/hand/airway burn with shock → life-threatening"
 ---

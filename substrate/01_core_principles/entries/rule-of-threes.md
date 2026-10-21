@@ -44,8 +44,9 @@ sources:
     publisher: National Park Service
     url: "https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 principle_for: priority-order-under-scarcity
 ---
 

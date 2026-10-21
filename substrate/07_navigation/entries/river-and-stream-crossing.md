@@ -55,7 +55,8 @@ hazard_severity: lethal
 preparation_required: false
 expert_id_required: false
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

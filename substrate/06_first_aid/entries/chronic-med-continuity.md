@@ -64,8 +64,9 @@ sources:
     publisher: FDA
     url: "https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "interrupted or at-risk chronic medications (insulin and other prescriptions) during power outages and disasters: storage, planning, and when to get help"
 severity_range: "missed or spoiled medicine → worsening of the underlying condition → life-threatening high or low blood sugar, stroke, heart attack, or seizure"
 ---

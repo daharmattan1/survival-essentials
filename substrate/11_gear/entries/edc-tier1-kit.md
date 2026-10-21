@@ -40,8 +40,9 @@ sources:
     publisher: Ready.gov / FEMA
     url: https://www.ready.gov/disability
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 item_class: [cutting, fire, light, water, medical]
 weight_oz: 18-24
 multi_use: [cut/prepare kindling, start fire/signal, light/read, treat water, control life-threatening bleeding (tourniquet is single-purpose)]

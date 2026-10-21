@@ -61,7 +61,8 @@ sources:
     url: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Charcoal
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Keep a small outdoor fire going through a cold night with someone watching it, then put it out at dawn
 materials:
   - Split, dry fuel wood gathered before dark

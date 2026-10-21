@@ -24,8 +24,9 @@ sources:
     publisher: "Meshtastic project"
     url: "https://meshtastic.org/docs/overview/"
     tier: T3
-last_reviewed:        draft
-review_status:        draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for:           "keep a family or small group in touch by text when cell networks are jammed or down, and plan how the family reconnects"
 materials:
   - paper family communication plan (out-of-area contact, meeting places, phone numbers)

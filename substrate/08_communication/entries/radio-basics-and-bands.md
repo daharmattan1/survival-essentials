@@ -100,8 +100,9 @@ sources:
     publisher: "Federal Communications Commission (opened via Internet Archive snapshot, 2026-10-21)"
     url: "https://www.fcc.gov/general/family-radio-service-frs"
     tier: T1
-last_reviewed:        draft
-review_status:        draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for:           "receive emergency information and know what each radio service lets you transmit"
 materials:
   - battery-powered or hand-crank NOAA Weather Radio receiver (SAME and battery backup)

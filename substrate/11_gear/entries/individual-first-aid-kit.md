@@ -65,7 +65,8 @@ sources:
     url: "https://www.boxborough-ma.gov/DocumentCenter/View/559/Anatomy-of-a-First-Aid-Kit-PDF"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 item_class: [medical]
 weight_oz: n/a
 multi_use: [pressure dressing for bleeding, sling and splint tie, wound cover, warmth, barrier for the helper; the tourniquet has one job]

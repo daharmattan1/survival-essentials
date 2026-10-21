@@ -49,8 +49,9 @@ preparation_required: true
 expert_id_required: false
 field_id_not_appropriate: false
 legal_status: n/a
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Zone Fit & Why It Earns Space

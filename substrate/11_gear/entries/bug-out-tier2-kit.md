@@ -72,8 +72,9 @@ sources:
     publisher: CDC
     url: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 item_class: [water, shelter, fire, food, medical, navigation, signaling]
 weight_oz: varies (water alone is about 8 lb per gallon)
 multi_use: [water storage and treatment, shelter tarp or emergency blanket, fire starting and signaling, light and navigation, tool repair, no-cook food, first aid, map navigation]

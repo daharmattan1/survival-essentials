@@ -61,7 +61,8 @@ sources:
     url: "https://www.osha.gov/sites/default/files/publications/grounding_port_generator.pdf"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "preventing carbon monoxide poisoning from portable generators, space heaters, fuel-burning heaters and improvised indoor heat or cooking during an outage"
 severity_range: "alarm chirp or no symptoms (prevention) → headache and dizziness → unconsciousness and death"
 hazard_severity: lethal

@@ -16,8 +16,9 @@ sources:
     publisher: U.S. Army (reprint hosted by San Jose State University)
     url: https://www.sjsu.edu/people/michelle.hager/docs/fm_21-76_us_army_survival_manual_2006.pdf
     tier: T2
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Stage fire fuel progression so ignition transfers reliably from tinder to kindling to fuel wood
 materials:
   - Tinder (charred cloth, bark, dry grass, seed down, feather sticks)

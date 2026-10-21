@@ -75,14 +75,14 @@ matches its numbered `## Sources`.
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | field_id_not_appropriate | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|--------------------------|-------------|--------------|---------------|
-| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring leaves; flowers late spring-summer | conditionally-edible | lethal | deadly-lookalike-exists | true | true | T1 | 28 | reviewed |
-| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep-Nov | edible-when-prepared | high | deadly-lookalike-exists | false | true | T1 | 18 | reviewed |
-| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring (shoots); May-Jul (pollen) | edible-when-prepared | low | moderate | false | false | T1 | 11 | reviewed |
-| black-walnut-juglans | entries/black-walnut-juglans.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Oct | edible-when-prepared | moderate | moderate | false | false | T1 | 16 | draft |
-| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | late winter-spring | edible-raw | low | moderate | false | false | T1 | 12 | reviewed |
-| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring | edible-raw | low | high | false | true | T1 | 11 | reviewed |
-| pawpaw-asimina | entries/pawpaw-asimina.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Aug-Oct | conditionally-edible | low | low | false | false | T1 | 12 | draft |
-| wild-blackberry-raspberry-rubus | entries/wild-blackberry-raspberry-rubus.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Jun-Aug | edible-raw | low | low | false | false | T1 | 13 | draft |
+| wild-onion-garlic-allium | entries/wild-onion-garlic-allium.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring leaves; flowers late spring-summer | conditionally-edible | lethal | deadly-lookalike-exists | true | true | T1 | 28 | agent-verified |
+| acorn-oak | entries/acorn-oak.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Sep-Nov | edible-when-prepared | high | deadly-lookalike-exists | false | true | T1 | 18 | agent-verified |
+| cattail | entries/cattail.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring (shoots); May-Jul (pollen) | edible-when-prepared | low | moderate | false | false | T1 | 11 | agent-verified |
+| black-walnut-juglans | entries/black-walnut-juglans.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Oct | edible-when-prepared | moderate | moderate | false | false | T1 | 16 | agent-verified |
+| violet-or-chickweed | entries/violet-or-chickweed.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | late winter-spring | edible-raw | low | moderate | false | false | T1 | 12 | agent-verified |
+| dandelion | entries/dandelion.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | spring | edible-raw | low | high | false | true | T1 | 11 | agent-verified |
+| pawpaw-asimina | entries/pawpaw-asimina.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Aug-Oct | conditionally-edible | low | low | false | false | T1 | 12 | agent-verified |
+| wild-blackberry-raspberry-rubus | entries/wild-blackberry-raspberry-rubus.md | WILD-EDIBLE-PLANT | mid-atlantic-appalachian | Jun-Aug | edible-raw | low | low | false | false | T1 | 13 | agent-verified |
 
 `review_status: reviewed` on the five pass-1 rows is the original label from 2026-06-27 and rests on an AI-only
 read. It does not mean a human safety read; the Pass 2 audit found errors in these entries. The three `draft`

@@ -55,12 +55,12 @@ covered skin; never eat an unconfirmed umbel or white-gilled mushroom; keep your
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| venomous-snakes-copperhead-rattlesnake | entries/venomous-snakes-copperhead-rattlesnake.md | HAZARD | mid-atlantic-appalachian | warm weather, dawn/dusk | n/a | high | moderate | false | T1 | 8 | reviewed |
-| ticks-and-lyme | entries/ticks-and-lyme.md | HAZARD | mid-atlantic-appalachian | any warm day; nymphs late spring–early summer | n/a | high | low | false | T1 | 8 | reviewed |
-| amatoxin-mushrooms-amanita-galerina | entries/amatoxin-mushrooms-amanita-galerina.md | HAZARD | mid-atlantic-appalachian | summer–fall (*Galerina*: year-round, especially September–November) | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 19 | draft |
-| water-hemlock-cicuta | entries/water-hemlock-cicuta.md | HAZARD | mid-atlantic-appalachian | growing season (June–August bloom) | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 10 | draft |
-| rabies-and-wildlife-bites | entries/rabies-and-wildlife-bites.md | HAZARD | mid-atlantic-appalachian | year-round | n/a | lethal | none | false | T1 | 11 | draft |
-| toxic-plants-hemlock-poison-ivy | entries/toxic-plants-hemlock-poison-ivy.md | HAZARD | mid-atlantic-appalachian | growing season | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 8 | reviewed |
+| venomous-snakes-copperhead-rattlesnake | entries/venomous-snakes-copperhead-rattlesnake.md | HAZARD | mid-atlantic-appalachian | warm weather, dawn/dusk | n/a | high | moderate | false | T1 | 8 | agent-verified |
+| ticks-and-lyme | entries/ticks-and-lyme.md | HAZARD | mid-atlantic-appalachian | any warm day; nymphs late spring–early summer | n/a | high | low | false | T1 | 8 | agent-verified |
+| amatoxin-mushrooms-amanita-galerina | entries/amatoxin-mushrooms-amanita-galerina.md | HAZARD | mid-atlantic-appalachian | summer–fall (*Galerina*: year-round, especially September–November) | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 19 | agent-verified |
+| water-hemlock-cicuta | entries/water-hemlock-cicuta.md | HAZARD | mid-atlantic-appalachian | growing season (June–August bloom) | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 10 | agent-verified |
+| rabies-and-wildlife-bites | entries/rabies-and-wildlife-bites.md | HAZARD | mid-atlantic-appalachian | year-round | n/a | lethal | none | false | T1 | 11 | agent-verified |
+| toxic-plants-hemlock-poison-ivy | entries/toxic-plants-hemlock-poison-ivy.md | HAZARD | mid-atlantic-appalachian | growing season | deadly-toxic | lethal | deadly-lookalike-exists | true | T1 | 8 | agent-verified |
 
 The three `draft` rows are Phase 17 additions. The three food-confusable hazards (amatoxin mushrooms,
 water hemlock, toxic plants) carry `field_id_not_appropriate: true` in-entry. `toxic-plants-hemlock-poison-ivy` carries `edibility_status: deadly-toxic` / `hazard_severity:

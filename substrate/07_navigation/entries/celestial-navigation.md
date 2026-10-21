@@ -24,8 +24,9 @@ method_for: Find approximate direction (north or south) using the sun, a watch, 
 materials: [stick or straight object, small stones for marking, clear view of the sun or sky, analog watch optional]
 difficulty: easy
 hazard_severity: low
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

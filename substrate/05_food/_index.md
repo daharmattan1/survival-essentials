@@ -64,12 +64,12 @@ meat-eaters or omnivores 165 F. Color is not a test.
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| passive-fishing-trotline-and-traps | entries/passive-fishing-trotline-and-traps.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 6 | reviewed |
-| small-game-trapping-snares | entries/small-game-trapping-snares.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | reviewed |
-| fish-and-game-processing-basics | entries/fish-and-game-processing-basics.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T1 | 20 | reviewed |
-| calorie-planning-and-rationing | entries/calorie-planning-and-rationing.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | draft |
-| preservation-drying-smoking-salting | entries/preservation-drying-smoking-salting.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 16 | draft |
-| cooking-without-power | entries/cooking-without-power.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 23 | draft |
+| passive-fishing-trotline-and-traps | entries/passive-fishing-trotline-and-traps.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 6 | agent-verified |
+| small-game-trapping-snares | entries/small-game-trapping-snares.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | agent-verified |
+| fish-and-game-processing-basics | entries/fish-and-game-processing-basics.md | METHOD | universal | n/a | n/a | moderate | n/a | n/a | T1 | 20 | agent-verified |
+| calorie-planning-and-rationing | entries/calorie-planning-and-rationing.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | agent-verified |
+| preservation-drying-smoking-salting | entries/preservation-drying-smoking-salting.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 16 | agent-verified |
+| cooking-without-power | entries/cooking-without-power.md | METHOD | universal | n/a | n/a | high | n/a | false | T1 | 23 | agent-verified |
 
 `region: universal` for all — technique is biome-independent. `fish-and-game-processing-basics`
 carries `hazard_severity: moderate` because the cook-to-temperature and never-eat rules (deer and elk

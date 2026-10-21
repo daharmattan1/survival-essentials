@@ -37,7 +37,8 @@ sources:
     url: "https://shop.redcross.org/take-a-class/resources/learn-first-aid/shock"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: "suspected broken bone, dislocation or sprain, and immobilizing (splinting) an injured limb"
 severity_range: "sprain or bruise → suspected simple fracture → open fracture, blocked circulation, or a break in the head, neck, back, hip or thigh (life-threatening)"
 ---

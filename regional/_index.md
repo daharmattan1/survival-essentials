@@ -40,6 +40,9 @@ consumption/ID query resolves:
 | Biome | Status | Zone | Reference point | Pack |
 |-------|--------|------|-----------------|------|
 | **Mid-Atlantic / Appalachian** | **active** | USDA 7a reference (region about 5b to 8a) | Baltimore, MD | [`mid-atlantic-appalachian/_index.md`](mid-atlantic-appalachian/_index.md) |
+| **Northeast / New England** | **active** | USDA 5b at the reference point (region about 4b to 6b) | Concord, NH | [`northeast-new-england/_index.md`](northeast-new-england/_index.md) |
+
+Coverage: **Mid-Atlantic / Appalachian** is about Virginia, Maryland, West Virginia, Pennsylvania, Delaware, New Jersey and the southern Appalachians; **Northeast / New England** is New Hampshire, Vermont, Maine, Massachusetts, Connecticut, Rhode Island and upstate and eastern New York. Elsewhere, no pack applies yet: use the universal survey and substrate, and never assume a pack's seasons or look-alikes hold outside its range.
 
 **Mid-Atlantic / Appalachian is Victor's biome and the first pack built.** It is a temperate
 deciduous forest in USDA zone 7a. Enter it through its biome profile
@@ -47,9 +50,17 @@ deciduous forest in USDA zone 7a. Enter it through its biome profile
 straight through its decision hub
 ([`mid-atlantic-appalachian/food_hub.md`](mid-atlantic-appalachian/food_hub.md)).
 
+The **Northeast / New England** pack is the second one built: New Hampshire, Vermont, Maine, Massachusetts,
+Connecticut, Rhode Island and upstate and eastern New York, referenced to Concord, NH (zone 5b on the USDA
+2023 map). It has the same layout and a smaller set of entries, all `draft`. Enter it through its biome profile
+([`northeast-new-england/_index.md`](northeast-new-england/_index.md)) or, for a food query, straight through
+its decision hub ([`northeast-new-england/food_hub.md`](northeast-new-england/food_hub.md)). Amatoxin, rabies
+and snake entries are not yet written for it; its hub points to the Mid-Atlantic entries for general facts.
+
 **Entry counts.** Mid-Atlantic / Appalachian: **34 entries** (edible plants 8, mushrooms 8, game animals 5,
-crops 7, hazards 6). Universal core in [`../substrate/`](../substrate/_index.md): **67 entries**.
-Grand total: **101 entries**.
+crops 7, hazards 6). Northeast / New England: **15 entries** (edible plants 3, mushrooms 3, hazards 3, game
+animals 3, crops 3). Regional total: **49 entries**. Universal core in [`../substrate/`](../substrate/_index.md):
+**67 entries**. Grand total: **116 entries**.
 
 ## Future biomes (later passes)
 

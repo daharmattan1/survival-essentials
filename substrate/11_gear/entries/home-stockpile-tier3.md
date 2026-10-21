@@ -72,8 +72,9 @@ sources:
     publisher: American College of Surgeons
     url: https://www.stopthebleed.org/training/
     tier: T2
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 item_class: [water, food, power, heat, light, sanitation, medical, tools]
 weight_oz: varies
 multi_use: [water storage for drinking and sanitation, food staples, backup power, warmth from layers and bedding, flashlights and battery lanterns, sanitation and hygiene, first-aid stockpile, tool redundancy]

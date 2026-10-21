@@ -37,8 +37,9 @@ sources:
     publisher:         "Wilderness Medical Society / Wilderness & Environmental Medicine (CDC Stacks copy)"
     url:               "https://stacks.cdc.gov/view/cdc/153527/cdc_153527_DS1.pdf"
     tier:              T2
-last_reviewed:         draft
-review_status:         draft
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 ---
 
 ## Goal & When To Use

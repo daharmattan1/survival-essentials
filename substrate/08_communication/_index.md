@@ -43,11 +43,11 @@ Pre-arrange before the emergency: signal kit staged, radio charged, contact plan
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | draft |
-| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 23 | draft |
-| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | draft |
-| family-communication-plan | entries/family-communication-plan.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | draft |
-| emergency-alerts-and-noaa-weather-radio | entries/emergency-alerts-and-noaa-weather-radio.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 24 | draft |
+| signaling-visual-and-audible | entries/signaling-visual-and-audible.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 5 | agent-verified |
+| radio-basics-and-bands | entries/radio-basics-and-bands.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 23 | agent-verified |
+| mesh-and-emergency-comms | entries/mesh-and-emergency-comms.md | METHOD | universal | n/a | n/a | low | n/a | n/a | T1 | 4 | agent-verified |
+| family-communication-plan | entries/family-communication-plan.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 10 | agent-verified |
+| emergency-alerts-and-noaa-weather-radio | entries/emergency-alerts-and-noaa-weather-radio.md | METHOD | universal | n/a | n/a | low | n/a | false | T1 | 24 | agent-verified |
 
 `radio-basics-and-bands` cites FCC/NOAA (T1) for band/licensing facts. `signaling-visual-and-audible`
 cites NPS and FAA pages (T1) with FM 21-76 for fire and smoke.

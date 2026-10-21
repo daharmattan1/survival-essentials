@@ -48,8 +48,9 @@ sources:
     publisher: National Park Service
     url: "https://www.nps.gov/mora/planyourvisit/winter-safety.htm"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Choose a shelter site that avoids environmental hazards"
 materials:
   - "Eyes / observation skills"

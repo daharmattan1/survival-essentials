@@ -45,16 +45,16 @@ Always state: this is field response, not medical advice; get professional care 
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| wound-infection-management | entries/wound-infection-management.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 3 | reviewed |
-| thermal-injury-hypo-hyperthermia | entries/thermal-injury-hypo-hyperthermia.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 12 | reviewed |
-| dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | reviewed |
-| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 14 | reviewed |
-| bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 8 | reviewed |
-| burns | entries/burns.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 10 | draft |
-| fractures-sprains-and-splinting | entries/fractures-sprains-and-splinting.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 7 | draft |
-| anaphylaxis-and-allergic-reaction | entries/anaphylaxis-and-allergic-reaction.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 9 | draft |
-| carbon-monoxide-poisoning | entries/carbon-monoxide-poisoning.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 9 | draft |
-| head-injury-and-concussion | entries/head-injury-and-concussion.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 7 | draft |
+| wound-infection-management | entries/wound-infection-management.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 3 | agent-verified |
+| thermal-injury-hypo-hyperthermia | entries/thermal-injury-hypo-hyperthermia.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 12 | agent-verified |
+| dehydration-and-diarrhea | entries/dehydration-and-diarrhea.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 5 | agent-verified |
+| chronic-med-continuity | entries/chronic-med-continuity.md | PROTOCOL | universal | n/a | n/a | high | n/a | n/a | T1 | 14 | agent-verified |
+| bleeding-control-and-shock | entries/bleeding-control-and-shock.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | n/a | T1 | 8 | agent-verified |
+| burns | entries/burns.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 10 | agent-verified |
+| fractures-sprains-and-splinting | entries/fractures-sprains-and-splinting.md | PROTOCOL | universal | n/a | n/a | high | n/a | false | T1 | 7 | agent-verified |
+| anaphylaxis-and-allergic-reaction | entries/anaphylaxis-and-allergic-reaction.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 9 | agent-verified |
+| carbon-monoxide-poisoning | entries/carbon-monoxide-poisoning.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 9 | agent-verified |
+| head-injury-and-concussion | entries/head-injury-and-concussion.md | PROTOCOL | universal | n/a | n/a | lethal | n/a | false | T1 | 7 | agent-verified |
 
 `region`, `edibility_status`, `confusability_level`, `expert_id_required` are `n/a` for protocols
 (non-biology). All ten rows carry `hazard_severity: high|lethal`; the entries cite T1 sources (CDC,

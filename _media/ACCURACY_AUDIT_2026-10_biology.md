@@ -131,3 +131,67 @@ fixed there.
   that changed. Treat those labels as void.
 - Several pages block automated reading (some NIA, FCC, Maryland Biodiversity and Flora of North America
   pages). Where an entry relies on one, the claim was confirmed elsewhere or is labelled.
+
+## Regions: Northeast / New England pack (15 entries)
+
+Pass 2 also added a second region: 15 entries in `regional/northeast-new-england/` for New England and eastern
+New York (three each for mushrooms, edible plants, hazards, game animals and crops). The pack was built and
+checked the same way, and the same warning holds: every check was done by AI agents. **No human has reviewed any
+of these entries.** All 15 say `draft`. Each still needs the human safety read in
+[`review/13_northeast_new_england.md`](../review/13_northeast_new_england.md) before it can be marked reviewed.
+
+**Method.** The same spec as the Mid-Atlantic block, re-targeted to New England and New York sources: UNH, UVM,
+UMaine, UMass, UConn and Cornell extension; NH Fish and Game, Vermont Fish and Wildlife, Maine IF&W,
+MassWildlife, CT DEEP and NY DEC; NOAA, CDC, NAMA and America's Poison Centers. Where no New England page
+existed, an out-of-region page (Missouri Department of Conservation, NC State) was used for identification only
+and is labelled that way in the entry.
+
+1. **Write.** Five agents wrote the 15 entries, each with the positive-ID safety gate first and every deadly
+   look-alike checked against two sources.
+2. **Round 1.** Two independent fact-checkers (neither wrote an entry): one for the mushrooms and edible plants,
+   one for the game, crops and hazards. Every cited link was opened.
+3. **Fixes.** Every round-1 finding was fixed in the entries and the three domain indexes.
+4. **Round 2.** A fresh verifier re-checked every fix and the new citations.
+5. **Round 3.** One more verifier re-checked every change made after round 2.
+
+**Results**
+
+| Check | Scope | Critical / major / minor |
+|-------|-------|--------------------------|
+| Round 1 | Mushrooms and edible plants (6 entries, 2 indexes) | 0 / 8 / 36 |
+| Round 1 | Game, crops and hazards (9 entries, 3 indexes) | 0 / 3 / 38 |
+| Round 2 | All 15 entries and the indexes, after fixes | 0 / 1 / 16; all fixed |
+| Round 3 | Changes made after round 2 | 0 / 0 / 5 (optional polish) |
+
+**Selected catches (all fixed)**
+- Honey mushroom: the entry listed whitish gills and a ring as positive traits while doctrine point 3 says no
+  white-gilled mushroom with a ring or volva. The two were never reconciled, so a reader following point 3 alone
+  would reject the species and a reader following the entry alone could miss the *Amanita* pattern. The entry now
+  names the conflict and requires an expert with the dug-up specimen.
+- Ramps: the gate said each leaf has "its own stalk". Go Botany says var. *burdickii* leaves are "not or
+  scarcely petiolate", and that variety grows in Maine, New Hampshire and Vermont, so the trait fails there. The
+  entry now says a leaf stalk proves nothing either way.
+- False hellebore (toxic plants): the leaves were described as arranged in whorls, copied from one plant record.
+  Go Botany and NC State describe them as alternate up the stem with clasping bases.
+- Ruffed grouse: New Hampshire's protection of the spruce grouse (no open season, RSA 209:4) was missing, and the
+  spruce grouse is the grouse a hunter can mistake for a ruffed grouse.
+- Scaly vase (*Turbinellus floccosus*): missing from both the New England and the Mid-Atlantic chanterelle
+  entries. It passes the false-gill, white-flesh and on-the-ground checks. Round 2 then misread the NAMA registry
+  row for it (a text-extraction misalignment); round 3 re-read the PDF and confirmed 3 adults, onset 3.5 to 9
+  hours.
+- King bolete: first set to `field_id_not_appropriate: false`, on the argument that no New England source names a
+  deadly look-alike. It is now `true`, because *Boletus huronensis* bruises blue only "sometimes" and the group
+  cannot be settled in the field.
+- Cold water: the entry relied on the 1-10-1 rule alone. The National Center for Cold Water Safety calls it
+  misleading and gives shorter times. The entry now reports both and says to wear a life jacket either way.
+
+**Remaining items**
+- Season tables are partly out of date. New York grouse and hare dates are the 2025-26 season and New Hampshire
+  bag limits come from the agency's 2024-25 table. Each entry says so and tells the reader to check the agency.
+- Rhode Island is not covered. The game entries say so and send the reader to Rhode Island DEM, and the tick
+  entry did not open a New Hampshire, Massachusetts or Rhode Island health page.
+- Some agency pages blocked automated reading and were read through archived copies (the Massachusetts deer
+  pages, several New Hampshire and New York pages, and the CDC 1994 fiddlehead report). New York DEC small-game
+  dates for 2026-27 and the southern-zone deer dates could not be opened and are not given.
+- No New England source names a deadly look-alike for the king bolete or the wild blueberry; both entries say
+  that is missing data.

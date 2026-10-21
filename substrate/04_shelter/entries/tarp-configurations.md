@@ -9,7 +9,7 @@ confidence: medium
 source_tier: T1
 sources:
   - title: "FM 21-76 Survival (1992), Chapter 5 Shelters (poncho lean-to, poncho tent, natural shelters) and Chapter 15 (cold weather)"
-    publisher: US Army (mirror: bits.de)
+    publisher: "US Army (mirror: bits.de)"
     url: "https://www.bits.de/NRANEU/others/amd-us-archive/FM21-76(92).pdf"
     tier: T2
   - title: "Emergency Tarp Shelters (Backcountry Incident Management School handout)"
@@ -57,7 +57,8 @@ sources:
     url: "https://irp.fas.org/doddir/army/atp3-50-21.pdf"
     tier: T2
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: "Pitch a tarp or poncho as a rain and wind shelter"
 materials:
   - "Tarp, poncho or plastic sheet (bright color if you can choose)"

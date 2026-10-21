@@ -53,7 +53,8 @@ sources:
     url: https://www.nps.gov/voya/learn/news/voyageurs-national-park-issues-campfire-restrictions-july-2026.htm
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Start and keep a fire going when the air, ground and wood are wet
 materials:
   - Dry tinder and kindling from standing dead wood and the cores of split wood

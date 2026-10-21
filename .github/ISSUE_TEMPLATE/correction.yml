@@ -1,0 +1,65 @@
+name: Correction
+description: Report a factual error, a missing warning, or unclear wording in an entry.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Corrections must be backed by a Tier-1 or Tier-2 source (see CONVENTIONS.md section 7).
+        If you think someone could be hurt by what is written now, choose "Could cause harm" below.
+        Do not paste copyrighted text. Link to it instead.
+  - type: input
+    id: file_path
+    attributes:
+      label: File path
+      description: The file that has the problem.
+      placeholder: regional/mid-atlantic-appalachian/mushrooms/entries/morel-morchella.md
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: The exact claim
+      description: Quote the sentence or line as it is written now.
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: Say why the claim is wrong, missing a warning, or misleading.
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: The correct fact
+      description: Say what it should say, in your own words.
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: A Tier-1 (government or official health body) or Tier-2 (recognized authority) source.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Could cause harm
+        - Wrong but not dangerous
+        - Wording
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Before you submit
+      options:
+        - label: I understand my contribution is dedicated to the public domain under CC0 1.0.
+          required: true

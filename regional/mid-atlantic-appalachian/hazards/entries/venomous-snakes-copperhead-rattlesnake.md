@@ -40,8 +40,9 @@ sources:
     publisher: Pennsylvania Fish and Boat Commission
     url: https://pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/conservation/threatened-and-endangered-species/species-plan-eastern-massasauga.pdf
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 edibility_status: n/a
 hazard_severity: high
 confusability_level: moderate

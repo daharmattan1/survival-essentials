@@ -45,11 +45,11 @@ Any fire/water/game item → inherit that domain's warning blocks (CO, CONTAMINA
 
 | entry_id | path | type | region | season | edibility_status | hazard_severity | confusability_level | expert_id_required | source_tier | source_count | review_status |
 |----------|------|------|--------|--------|------------------|-----------------|---------------------|--------------------|-------------|--------------|---------------|
-| edc-tier1-kit | entries/edc-tier1-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 8 | reviewed |
-| bug-out-tier2-kit | entries/bug-out-tier2-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 16 | reviewed |
-| home-stockpile-tier3 | entries/home-stockpile-tier3.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | n/a | T1 | 16 | reviewed |
-| vehicle-kit | entries/vehicle-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 18 | draft |
-| individual-first-aid-kit | entries/individual-first-aid-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 14 | draft |
+| edc-tier1-kit | entries/edc-tier1-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 8 | agent-verified |
+| bug-out-tier2-kit | entries/bug-out-tier2-kit.md | KIT-GEAR | universal | n/a | n/a | low | n/a | n/a | T1 | 16 | agent-verified |
+| home-stockpile-tier3 | entries/home-stockpile-tier3.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | n/a | T1 | 16 | agent-verified |
+| vehicle-kit | entries/vehicle-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 18 | agent-verified |
+| individual-first-aid-kit | entries/individual-first-aid-kit.md | KIT-GEAR | universal | n/a | n/a | moderate | n/a | false | T1 | 14 | agent-verified |
 
 Gear rows carry `hazard_severity` low or moderate (moderate where generators, fuel or bleach are
 involved); biology facets are `n/a`. T3 (practitioner consensus) is acceptable for gear opinion per

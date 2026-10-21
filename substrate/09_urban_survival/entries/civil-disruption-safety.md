@@ -40,8 +40,9 @@ sources:
     publisher: CDC
     url: "https://www.cdc.gov/disability-emergency-preparedness/people-with-disabilities/build-a-kit.html"
     tier: T1
-last_reviewed: 2026-06-27
-review_status: reviewed
+last_reviewed: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 protocol_for: Staying safe during civil disruption (protests, unrest) by following official instructions, planning exits and communication in advance, and sheltering in place or evacuating as officials direct
 severity_range: nearby disturbance with no order in effect → official shelter-in-place or evacuation order
 ---

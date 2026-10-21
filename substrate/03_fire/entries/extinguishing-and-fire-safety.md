@@ -93,7 +93,8 @@ sources:
     url: https://www.usfa.fema.gov/gallery/pictographs/pictograph50.html
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 method_for: Choose a fire site, check the rules, put a fire fully out, and respond if a fire or your clothing ignites
 materials:
   - Water (a bucket or large container)

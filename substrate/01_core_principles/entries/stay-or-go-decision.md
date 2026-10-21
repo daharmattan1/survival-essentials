@@ -63,7 +63,8 @@ sources:
     url: "https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf"
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 principle_for: stay-or-move-when-lost-or-in-a-disaster
 ---
 

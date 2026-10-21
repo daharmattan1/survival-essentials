@@ -85,7 +85,8 @@ sources:
     url: https://medlineplus.gov/ency/article/002874.htm
     tier: T1
 last_reviewed: draft
-review_status: draft
+sources_checked: 2026-10-21
+review_status: agent-verified
 edibility_status: deadly-toxic
 hazard_severity: lethal
 confusability_level: deadly-lookalike-exists

@@ -209,8 +209,10 @@ This policy lives here and in `AGENTS.md`; it governs how a reasoning AI uses th
 
 ## 10. Per-domain safety-read checklists (Phase 11, human gate)
 
-Victor runs these against the written entries before any PR. Pass ⇒ write `SAFETY-READ-PASSED` +
-sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
+A human reviewer runs these against the written entries, using the packet in [`review/`](review/SAFETY_READ_PACKET.md).
+Pass ⇒ write `SAFETY-READ-PASSED` + sign-off into `CHANGELOG.md` and run `scripts/mark_reviewed.py`, which
+sets `review_status: reviewed` for that domain. **Only a human sets `reviewed`.** An AI agent's fact-check,
+however thorough, earns `agent-verified` at most (see §11).
 
 ### Mushrooms & edible-plants
 - [ ] Every entry opens with the POSITIVE-ID SAFETY GATE (checklist + disqualifying traits), not a
@@ -255,8 +257,12 @@ sign-off into `CHANGELOG.md` and set entry `review_status: reviewed`.
   `regional/_index.md` **registry**; the AI resolves food/consumption queries by pivoting through
   the active region's `food_hub.md`.
 - **Windows/OS:** use `cp` + `rm` for renames, never `git mv`.
-- **`last_reviewed` / `review_status`:** `draft` until the Phase-11 human safety read flips it to
-  `reviewed`. The survey↔substrate sync checklist lives in `CHANGELOG.md`.
+- **`review_status`:** `draft` (written, not yet independently checked) → `agent-verified` (AI agents that
+  did not write it checked every claim against opened sources in at least two rounds; `sources_checked`
+  gives the date) → `reviewed` (a human completed the §10 safety read; `last_reviewed` gives the date).
+  Pass 1 (June 2026) labelled AI-only checks `reviewed`; pass 2 found serious errors in many of those entries,
+  so every pass-1 `reviewed` label was replaced. Treat `agent-verified` as a first pass, not a review.
+  The survey↔substrate sync checklist lives in `CHANGELOG.md`.
 - This is a **standalone repo** (not part of any parent knowledge base) — entries do not carry the
   parent repo's frontmatter taxonomy; they carry the facets defined in `SCHEMAS.md`.
 
